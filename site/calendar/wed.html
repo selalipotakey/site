@@ -1,0 +1,661 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Wednesday Series</title>
+
+    <link rel="stylesheet" media="print" href="/fonts/fonts.css?fda5-15b0-1e31" onload="this.media='all'" />
+    <link rel="stylesheet" href="https://use.typekit.net/gul0drw.css" />
+    <style>
+      @charset "UTF-8";
+      *,
+      ::after,
+      ::before {
+        box-sizing: border-box;
+      }
+      ol[class],
+      ul[class] {
+        padding: 0;
+      }
+      blockquote,
+      body,
+      dd,
+      dl,
+      figure,
+      h1,
+      h2,
+      h3,
+      h4,
+      ol[class],
+      p,
+      ul[class] {
+        margin: 0;
+      }
+      html {
+        scroll-behavior: smooth;
+      }
+      body {
+        min-height: 100vh;
+        text-rendering: optimizeSpeed;
+        line-height: 1.5;
+      }
+      ol[class],
+      ul[class] {
+        list-style: none;
+      }
+      a:not([class]) {
+        text-decoration: underline;
+        color: currentColor;
+      }
+      img {
+        max-width: 100%;
+        display: block;
+      }
+      button,
+      input,
+      select,
+      textarea {
+        font: inherit;
+      }
+      @media (prefers-reduced-motion: reduce) {
+        * {
+          animation-duration: 10ms !important;
+          animation-iteration-count: 1 !important;
+          transition-duration: 10ms !important;
+          scroll-behavior: auto !important;
+        }
+      }
+      h1,
+      h2,
+      h3,
+      h4,
+      summary {
+        font-family: niveau-grotesk, sans-serif;
+      }
+      h1,
+      h2,
+      h3,
+      i,
+      li,
+      p,
+      span {
+        font-size: clamp(
+          var(--fluid-type-min, 1rem),
+          1rem + var(--fluid-type-target, 3vw),
+          var(--fluid-type-max, 1.3rem)
+        );
+      }
+      h1 {
+        --fluid-type-min: 2rem;
+        --fluid-type-max: 4.5rem;
+        --fluid-type-target: 5.4vw;
+        font-weight: 400;
+        max-width: 15ch;
+      }
+      h2 {
+        --fluid-type-min: 1rem;
+        --fluid-type-max: 2rem;
+        --fluid-type-target: 1rem;
+      }
+      h3 {
+        --fluid-type-min: 1.5rem;
+        --fluid-type-max: 2.5rem;
+      }
+      h2,
+      h3 {
+        max-width: 50ch;
+      }
+      li,
+      p {
+        max-width: 70ch;
+        line-height: 1.8;
+        font-weight: 300;
+        --fluid-type-target: 1rem;
+        --fluid-type-min: 0.8rem;
+        --fluid-type-max: 1.1rem;
+      }
+      summary {
+        --fluid-type-min: 1rem;
+        --fluid-type-max: 1.5rem;
+      }
+      strong {
+        font-weight: 700;
+      }
+      .skip-link {
+        display: inline-block;
+        padding: 0.7rem 1rem 0.5rem 1rem;
+        text-decoration: none;
+        font-weight: 700;
+        text-transform: uppercase;
+        position: absolute;
+        top: 1rem;
+        left: 1rem;
+      }
+      .skip-link:not(:focus) {
+        border: 0;
+        clip: rect(0 0 0 0);
+        height: auto;
+        margin: 0;
+        overflow: hidden;
+        padding: 0;
+        position: absolute;
+        width: 1px;
+        white-space: nowrap;
+      }
+      .wrapper {
+        margin-top: --var(--mt, 4rem);
+        position: relative;
+        width: 90vw;
+        width: 90%;
+        margin-left: auto;
+        margin-right: auto;
+      }
+      .flow > * + * {
+        margin-top: var(--flow-space, 1rem);
+      }
+      .hr {
+        margin-top: 1.5rem;
+      }
+      @media (max-width: 975px) {
+        .hide {
+          display: none;
+        }
+      }
+      .big-title {
+        max-width: 100%;
+        line-height: 1.2;
+      }
+      .medium-title {
+        font-family: soleil, sans-serif;
+        font-weight: 400;
+        --fluid-type-min: 1rem;
+        --fluid-type-max: 1.3rem;
+      }
+      .full-bleed {
+        width: 100vw;
+        margin-left: calc(50% - 50vw);
+        background-color: var(--fbc, #000);
+        color: var(--text-color, #fff);
+      }
+      .make-yellow {
+        color: #ed028c;
+      }
+      .logo {
+        font-family: Poppins, sans-serif;
+        font-weight: 700;
+      }
+      .border {
+        border: 0 solid green;
+      }
+      .tl {
+        text-align: center;
+      }
+      .sidebar-parent {
+        position: relative;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 3rem;
+      }
+      .sidebar-parent > :first-child {
+        flex-basis: 30rem;
+        flex-grow: 1;
+      }
+      .sidebar-parent > :last-child {
+        flex-basis: 0;
+        flex-grow: 999;
+        min-inline-size: 50%;
+      }
+      .ticketinfo {
+        margin-top: 2.5rem;
+        margin-bottom: 1.5rem;
+        display: flex;
+        gap: 3rem;
+      }
+      .ticketinfo-pass > span,
+      .ticketinfo-single > span {
+        color: #000;
+        background-color: var(--tc, #e5e5e5);
+        width: 3rem;
+        height: 3rem;
+        border-radius: 50%;
+        padding: 4rem;
+        --fluid-type-max: 2.5rem;
+        --fluid-type-min: 1.5rem;
+      }
+      @media (max-width: 600px) {
+        .ticketinfo-pass > span,
+        .ticketinfo-single > span {
+          padding: 2.5rem;
+        }
+      }
+      .center,
+      .ticketinfo-pass,
+      .ticketinfo-single {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+      }
+      body {
+        background: #fff;
+        color: #000;
+        line-height: 1.5;
+        font-family: soleil, sans-serif;
+        overflow-x: hidden;
+      }
+      .film-grid {
+        display: grid;
+        gap: 4rem;
+      }
+      @supports (width: min(250px, 100%)) {
+        .film-grid {
+          grid-template-columns: repeat(auto-fit, minmax(min(500px, 100%), 1fr));
+        }
+      }
+      .film-grid__card {
+        position: relative;
+      }
+      .img {
+        border-top-left-radius: 1rem;
+        border-top-right-radius: 1rem;
+        width: 100%;
+        height: 350px;
+        opacity: 0.9;
+      }
+      .card-text {
+        background-color: #fff;
+        padding: 1.3rem;
+        z-index: -1;
+        border-bottom-left-radius: 1rem;
+        border-bottom-right-radius: 1rem;
+        border: 1px solid silver;
+        translate: 0 -1rem;
+      }
+      .desc {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+      }
+      .date {
+        font-size: 1.5rem;
+        font-weight: 500;
+      }
+      .series-text {
+
+      }
+      header {
+        position: sticky;
+        top: 0;
+        z-index: 9000;
+      }
+      footer {
+        background-color: #000;
+        color: #f5f5f5;
+        padding-top: 3rem;
+        padding-bottom: 2rem;
+        padding-right: 2rem;
+        padding-left: 2rem;
+        text-align: center;
+        bottom: 0;
+        z-index: 9000;
+      }
+      .footer-line2 {
+        color: #f5f5f5;
+      }
+      .footer-color {
+        color: #ed028c;
+      }
+      .footer-line2 a {
+        text-decoration: none;
+        color: #ed028c;
+      }
+      .navigation {
+        display: block;
+        z-index: 9000;
+      }
+      .navigation ul {
+        display: flex;
+        padding: 0.3rem;
+        margin: 0;
+        justify-content: flex-end;
+        list-style: none;
+      }
+      @media (max-width: 425px) {
+        .navigation ul {
+          justify-content: flex-start;
+          overflow: scroll;
+          padding: 0.5rem 0.8rem 0.6rem 0.8rem;
+        }
+      }
+      ul li {
+        margin-right: 2rem;
+      }
+      .navigation > ul:nth-child(1) {
+        background: #000;
+        color: #f5f5f5;
+      }
+      .navigation > ul:nth-child(2) {
+        background: #f5f5f5;
+        color: #000;
+      }
+      .navigation a {
+        font-size: clamp(
+          var(--fluid-type-min, 2rem),
+          1rem + var(--fluid-type-target, 2rem),
+          var(--fluid-type-max, 3rem)
+        );
+        font-weight: 500;
+        text-decoration: none;
+      }
+      .home-container {
+        height: 100%;
+        background-color: #000;
+        color: #fff;
+      }
+      .home-playing {
+        background-color: #e5e5e5;
+        color: #000;
+        padding-bottom: 2rem;
+      }
+      .about {
+        background: #e5e5e5;
+        color: #000;
+      }
+      .visiting-grid {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 2rem;
+        justify-content: center;
+      }
+      .visiting-grid > * {
+        flex-basis: 25rem;
+        border: 1px silver solid;
+        padding: 2rem;
+        background-color: #f5f5f5;
+      }
+      .visiting-landing {
+        margin-top: 3rem;
+        margin-bottom: 4rem;
+      }
+      .sidenav {
+        position: sticky;
+        top: 15%;
+        border: 1px solid silver;
+        padding: 1.5rem;
+        background-color: #f5f5f5;
+      }
+
+    </style>
+  </head>
+  <body>
+    <header>
+      <a href="#main-content" class="skip-link">Skip to content</a>
+      <nav class="navigation">
+        <ul>
+          <li><a href="/">home</a></li>
+          <li><a href="/calendar">calendar</a></li>
+          <li><a href="/visiting">visit</a></li>
+          <li><a href="/volunteer">volunteer</a></li>
+          <li><a href="/contact">contact</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main tabindex="-1">
+      <div class="sidebar-parent | wrapper">
+        <div>
+          <aside class="sidenav" style="margin-bottom: 2rem">
+            <h3>Spring 2022 Series</h3>
+            <ul>
+              <li><a href="/calendar/index">Full Calendar</a></li>
+              <li><a href="/calendar/mon">Monday: An Open Window: Black Women Directors across the Diaspora</a></li>
+              <li><a href="/calendar/tue">Tuesday: Neo-Noir '92</a></li>
+              <li><a href="/calendar/wed">Wednesday: They Thought I Was a Nice Girl: The Films of Elaine May</a></li>
+              <li><a href="/calendar/thu1">Thursday I: Projecting Paranoia</a></li>
+              <li><a href="/calendar/thu2">Thursday II: Punks Behind the Camera</a></li>
+              <li><a href="/calendar/fri">Friday: In the Mood for Wong Kar-Wai</a></li>
+              <li><a href="/calendar/sat">Saturday: New Releases</a></li>
+              <li><a href="/calendar/sun">Sunday: Food, the Common Tongue: Loves, Rages, and Delights of Gastro-Cinema</a></li>
+              <li><a href="/calendar/special">Special Events</a></li>
+
+              
+            
+            </ul>
+          </aside>
+        </div>
+
+        <div id="cal" class="flow">
+          <section class="calendar" style="--fbc: e5e5e5; padding-top: 2.5rem; margin-bottom: 2rem; margin-right: 3rem;">
+            <h3
+              class="big-title"
+              style="padding-top: 1rem; padding-bottom: 2rem;text-decoration: underline #ed028c"
+            >
+              Wednesday: They Thought I Was a Nice Girl: The Films of Elaine May
+            </h3>
+
+            <i>Programmed by Liam Flanigan</i>
+<br>
+<br>
+<p>First rising to prominence as half of iconic comedy duo Nichols and May, Elaine May has worked steadily as a performer, writer, and director over the past sixty years. This series seeks to celebrate May’s work, including the two screenplays for which she earned Oscar nominations as well as early film performances from the 1960s. In addition, special attention is paid to the four feature films she has directed in her career. Although all are wildly different in concept and creation, each is the work of an assured and precise filmmaker whose career has been unfortunately complicated by sexism and studio interference.</p>
+<br>
+<p>May’s films are the work of a meticulous observer of human shortcomings. Each is full of selfish, greedy characters—particularly men—who betray the trust of others with almost no hesitation. These characters are sometimes deployed in uproarious comedies, including 1971’s <i>A New Leaf</i> or 1972’s <i>The Heartbreak Kid</i>, but May is just as masterful in the realm of drama, as demonstrated in the merciless gangster picture <i>Mikey and Nicky</i> (1976). Of particular note is <i>Ishtar</i> (1987), a dead-on-arrival comedy that is ripe for rediscovery as an ahead-of-its-time masterwork. On the strength of these four movies—each full of vibrant performances complemented by exacting filmmaking—May and her oeuvre more than deserve a place in the canon of New Hollywood.</p>
+
+
+            <div class="film-grid" style="margin-top: 2rem;">
+              <div class="film-grid__card">
+                <div
+                  class="img"
+                  style="
+                    background: #fefefe url(../../images/week1/2022-3-30-enter-laughing.jpeg) no-repeat center
+                      center/cover;
+                  "
+                ></div>
+                <div class="flow | card-text">
+                  <div class="card-desc">
+                    <h3><b style="color:red">CANCELLED</b> Enter Laughing (1967)</h3>
+
+                    <p class="date">3/30/22 @ 7:00 PM</p>
+
+                    <p>Carl Reiner | 35mm | 111m</p>
+
+                    <p>
+                      <i>Enter Laughing</i>, May's first major film performance, was also Carl Reiner's directorial debut. Based on Reiner's own life, the film tells the story of an aspiring actor in Depression-era New York desperate to make it out. May appears as a questionable theater producer's daughter, while the rest of the class includes Shelley Winters, Rob Reiner, and Don Rickles. With an original Quincy Jones score, this film is a warmhearted ode to doing what you love.
+                    </p>
+                  </div>
+                </div>
+              </div>
+
+              <div class="film-grid__card">
+                <div
+                  class="img"
+                  style="
+                    background: #fefefe url(../../images/week2/2022-4-6-luv.jpg) no-repeat center center/cover;
+                  "
+                ></div>
+                <div class="flow | card-text">
+                  <div class="card-desc">
+                    <h3>Luv (1967)</h3>
+
+                    <p class="date">4/6/22 @ 7:00 PM</p>
+
+                    <p>Clive Donner | 35mm | 96m</p>
+
+                    <p>
+                      Based on an acclaimed Broadway play, <i>Luv</i> stars an A-list team of actors in a sometimes-biting, sometimes-broad comedy. Harry (Jack Lemmon) is unhappy and cheating on his wife, Ellen (Elaine May). Just as Harry's about to end it all he runs into old friend Milt (Peter Falk) and begins a scheme to set Milt up with Ellen so he can be with his mistress Linda (Nina Wayne). All at once <i>Luv</i> is a dark comedy, a suburban satire, a battle of the sexes, and more.
+                    </p>
+                  </div>
+                </div>
+              </div>
+
+              <div class="film-grid__card">
+                <div
+                  class="img"
+                  style="
+                    background: #fefefe url(../../images/week3/2022-4-13-heaven-can-wait.jpeg) no-repeat center
+                      center/cover;
+                  "
+                ></div>
+                <div class="flow | card-text">
+                  <div class="card-desc">
+                    <h3>Heaven Can Wait (1978)</h3>
+
+                    <p class="date">4/13/22 @ 7:00 PM</p>
+
+                    <p>Warren Beatty and Buck Henry | DCP | 101m</p>
+
+                    <p>
+                      A critical and commercial success upon release, this film brought May her first Oscar nomination. Her script, adapted with star and director Warren Beatty, tells the story of Joe Pendleton, an NFL quarterback who is prematurely summoned to heaven by an overeager angel. Joe's efforts to return in a new body are complicated by an elderly industrialist, a beautiful environmental activist, and his own team's run to the Super Bowl in this romantic fantasy.
+                    </p>
+                  </div>
+                </div>
+              </div>
+
+              <div class="film-grid__card">
+                <div
+                  class="img"
+                  style="
+                    background: #fefefe url(../../images/week4/2022-4-20-wolf.jpeg) no-repeat center center/cover;
+                  "
+                ></div>
+                <div class="flow | card-text">
+                  <div class="card-desc">
+                    <h3>Wolf (1994)</h3>
+
+                    <p class="date">4/20/22 @ 7:00 PM</p>
+
+                    <p>Mike Nichols | 35mm | 125m</p>
+
+                    <p>Although her contributions to the screenplay are uncredited, <i>Wolf</i> marked the rekindling of May's working relationship with director Mike Nichols. The resultant film, a strange blend of romance, horror, and workplace drama, features Jack Nicholson as Will Randall, a New York publishing executive turned werewolf. Michelle Pfeiffer co-stars, Ennio Morricone scores, and the end product offers invigoration and bewilderment in equal measure.
+                    </p>
+                  </div>
+                </div>
+              </div>
+
+              <div class="film-grid__card">
+                <div
+                  class="img"
+                  style="
+                    background: #fefefe url(../../images/week5/2022-4-27-primary-colors.jpg) no-repeat
+                      center center/cover;
+                  "
+                ></div>
+                <div class="flow | card-text">
+                  <div class="card-desc">
+                    <h3>Primary Colors (1998)</h3>
+
+                    <p class="date">4/27/22 @ 7:00 PM</p>
+
+                    <p>Mike Nichols | 35mm | 143m</p>
+
+                    <p>Working from May's Oscar-nominated screenplay, Mike Nichols directs this political dramedy about a Southern governor's presidential campaign and multiple sexual scandals. John Travolta and Emma Thompson are the thinly-veiled Bill and Hillary with an all-star supporting cast including Kathy Bates, Allison Janney, and Billy Bob Thornton. Based on reporter Joe Klein's roman à clef, <i>Primary Colors</i> is a swirl of cynicism and hope—just like real politics.
+                    </p>
+                  </div>
+                </div>
+              </div>
+
+              <div class="film-grid__card">
+                <div
+                  class="img"
+                  style="
+                    background: #fefefe url(../../images/week6/2022-5-4-a-new-leaf.jpg) no-repeat center
+                      center/cover;
+                  "
+                ></div>
+                <div class="flow | card-text">
+                  <div class="card-desc">
+                    <h3>A New Leaf (1971)</h3>
+
+                    <p class="date">5/4/22 @ 7:00 PM</p>
+
+                    <p>Elaine May | 35mm | 102m</p>
+
+                    <p>
+                     In May's directorial debut, Walter Matthau stars as a playboy with a depleted trust fund in desperate need of a rich woman to marry and murder. May also adapted the script and co-stars as Henrietta Lowell, the bumbling botanist whom Matthau targets. The result of several edits and eventual court proceedings between May and Columbia Pictures, <i>A New Leaf</i> features hilarious bitterness, genuine tenderness, and the funniest wedding ever set to celluloid.
+                    </p>
+                  </div>
+                </div>
+              </div>
+
+              <div class="film-grid__card">
+                <div
+                  class="img"
+                  style="
+                    background: #fefefe url(../../images/week7/2022-5-11-the-heartbreak-kid.jpg) no-repeat center center/cover;
+                  "
+                ></div>
+                <div class="flow | card-text">
+                  <div class="card-desc">
+                    <h3>The Heartbreak Kid (1972)</h3>
+
+                    <p class="date">5/11/22 @ 7:00 PM</p>
+
+                    <p>Elaine May | 35mm | 119m</p>
+
+                    <p>
+                      The authority of May's cinematic voice is perhaps never clearer than in <i>The Heartbreak Kid</i>. Working from a Neil Simon screenplay, May crafts a biting comedy about Lenny (Charles Grodin), a newlywed who falls in love with a different woman on his honeymoon. Jeannie Berlin (May's daughter) was nominated for an Oscar for her portrayal of the scorned bride in this restless comedy about disillusionment, sunburns, and the honesty of Midwestern vegetables.
+                    </p>
+                  </div>
+                </div>
+              </div>
+
+              <div class="film-grid__card">
+                <div
+                  class="img"
+                  style="
+                    background: #fefefe url(../../images/week8/2022-5-18-mikey-and-nicky.jpeg) no-repeat
+                      center center/cover;
+                  "
+                ></div>
+                <div class="flow | card-text">
+                  <div class="card-desc">
+                    <h3>Mikey and Nicky (1976)</h3>
+
+                    <p class="date">5/18/22 @ 7:00 PM</p>
+
+                    <p>Elaine May | DCP | 119m</p>
+
+                    <p>
+                      A chokingly claustrophobic gangster picture, <i>Mikey and Nicky</i> is May's first wholly original film. When a hit is put out on low-level gangster Nicky (John Cassavetes), he calls on his old friend and fellow criminal Mikey (Peter Falk). May creates a stirring portrait of love and enmity set over the course of one endless night. Falk and Cassavetes offer powerhouse performances and the final sequence stays with the viewer long after leaving the theater.
+                    </p>
+                  </div>
+                </div>
+              </div>
+                <div class="film-grid__card">
+                <div
+                  class="img"
+                  style="
+                    background: #fefefe url(../../images/week9/2022-5-25-ishtar.jpg) no-repeat
+                      center center/cover;
+                  "
+                ></div>
+                <div class="flow | card-text">
+                  <div class="card-desc">
+                    <h3>Ishtar (1987)</h3>
+
+                    <p class="date">5/25/22 @ 7:00 PM</p>
+
+                    <p>Elaine May | 35mm | 107m</p>
+
+                    <p>
+                      35 years after its legendary initial failure, May's final feature to date has re-emerged as another comedic masterwork and a biting political satire. Dustin Hoffman and Warren Beatty star as two monumentally untalented songwriters trying to be the next Simon and Garfunkel but end up pulled into civil unrest in the fictitious nation of Ishtar. A musical, a buddy comedy, a political thriller, and more, <i>Ishtar</i> has to be seen to be believed.
+                    </p>
+                  </div>
+                </div>
+                
+              </div>
+            </div>
+          </section>
+        </div>
+      </div>
+      <footer>
+        
+          <i>anyone can volunteer. anyone can program. everyone is invited.</i>
+          <br><br>doc films • max palevsky cinema • 1212 east 59th street • 773-702-8574 • doc@docfilms.org
+
+          <div class="footer-line2"><a href="https://www.facebook.com/DocFilmsChicago" target="_blank">facebook</a> • <a href="https://www.instagram.com/docfilmschicago/?hl=en" target="_blank">instagram</a> • <a href="https://twitter.com/docfilmschicago?lang=en" target="_blank">twitter</a> • <a href="/" target="_blank">newsletter</a></div>
+        
+      </footer>
+    </main>
+  </body>
+</html>

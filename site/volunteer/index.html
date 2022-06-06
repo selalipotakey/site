@@ -1,0 +1,457 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Volunteer</title>
+
+    <link rel="stylesheet" media="print" href="/fonts/fonts.css?a5f8-d2b7-48d2" onload="this.media='all'" />
+    <link rel="stylesheet" href="https://use.typekit.net/gul0drw.css" />
+    <style>
+      @charset "UTF-8";
+      *,
+      ::after,
+      ::before {
+        box-sizing: border-box;
+      }
+      ol[class],
+      ul[class] {
+        padding: 0;
+      }
+      blockquote,
+      body,
+      dd,
+      dl,
+      figure,
+      h1,
+      h2,
+      h3,
+      h4,
+      ol[class],
+      p,
+      ul[class] {
+        margin: 0;
+      }
+      html {
+        scroll-behavior: smooth;
+      }
+      body {
+        min-height: 100vh;
+        text-rendering: optimizeSpeed;
+        line-height: 1.5;
+      }
+      ol[class],
+      ul[class] {
+        list-style: none;
+      }
+      a:not([class]) {
+        text-decoration: underline;
+        color: currentColor;
+      }
+      img {
+        max-width: 100%;
+        display: block;
+      }
+      button,
+      input,
+      select,
+      textarea {
+        font: inherit;
+      }
+      @media (prefers-reduced-motion: reduce) {
+        * {
+          animation-duration: 10ms !important;
+          animation-iteration-count: 1 !important;
+          transition-duration: 10ms !important;
+          scroll-behavior: auto !important;
+        }
+      }
+      h1,
+      h2,
+      h3,
+      h4,
+      summary {
+        font-family: niveau-grotesk, sans-serif;
+      }
+      h1,
+      h2,
+      h3,
+      i,
+      li,
+      p,
+      span {
+        font-size: clamp(
+          var(--fluid-type-min, 1rem),
+          1rem + var(--fluid-type-target, 3vw),
+          var(--fluid-type-max, 1.3rem)
+        );
+      }
+      h1 {
+        --fluid-type-min: 2rem;
+        --fluid-type-max: 4.5rem;
+        --fluid-type-target: 5.4vw;
+        font-weight: 400;
+        max-width: 15ch;
+      }
+      h2 {
+        --fluid-type-min: 1rem;
+        --fluid-type-max: 2rem;
+        --fluid-type-target: 1rem;
+      }
+      h3 {
+        --fluid-type-min: 1.5rem;
+        --fluid-type-max: 2.5rem;
+      }
+      h2,
+      h3 {
+        max-width: 50ch;
+      }
+      li,
+      p {
+        max-width: 70ch;
+        line-height: 1.8;
+        font-weight: 300;
+        --fluid-type-target: 1rem;
+        --fluid-type-min: 0.8rem;
+        --fluid-type-max: 1.1rem;
+        margin-bottom: 0.5rem;
+      }
+      summary {
+        --fluid-type-min: 1rem;
+        --fluid-type-max: 1.5rem;
+      }
+      strong {
+        font-weight: 700;
+      }
+      .skip-link {
+        display: inline-block;
+        padding: 0.7rem 1rem 0.5rem 1rem;
+        text-decoration: none;
+        font-weight: 700;
+        text-transform: uppercase;
+        position: absolute;
+        top: 1rem;
+        left: 1rem;
+      }
+      .skip-link:not(:focus) {
+        border: 0;
+        clip: rect(0 0 0 0);
+        height: auto;
+        margin: 0;
+        overflow: hidden;
+        padding: 0;
+        position: absolute;
+        width: 1px;
+        white-space: nowrap;
+      }
+      .wrapper {
+        margin-top: --var(--mt, 4rem);
+        position: relative;
+        width: 90vw;
+        width: 90%;
+        margin-left: auto;
+        margin-right: auto;
+      }
+      .flow > * + * {
+        margin-top: var(--flow-space, 1rem);
+      }
+      .hr {
+        margin-top: 1.5rem;
+      }
+      @media (max-width: 975px) {
+        .hide {
+          display: none;
+        }
+      }
+      .big-title {
+        max-width: 100%;
+        line-height: 1.2;
+      }
+      .medium-title {
+        font-family: soleil, sans-serif;
+        font-weight: 400;
+        --fluid-type-min: 1rem;
+        --fluid-type-max: 1.3rem;
+      }
+      .full-bleed {
+        width: 100vw;
+        margin-left: calc(50% - 50vw);
+        background-color: var(--fbc, #000);
+        color: var(--text-color, #fff);
+      }
+      .make-yellow {
+        color: #ed028c;
+      }
+      .logo {
+        font-family: Poppins, sans-serif;
+        font-weight: 700;
+      }
+      .border {
+        border: 0 solid green;
+      }
+      .tl {
+        text-align: center;
+      }
+      .sidebar-parent {
+        position: relative;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 3rem;
+      }
+      .sidebar-parent > :first-child {
+        flex-basis: 30rem;
+        flex-grow: 1;
+      }
+      .sidebar-parent > :last-child {
+        flex-basis: 0;
+        flex-grow: 999;
+        min-inline-size: 50%;
+      }
+      .ticketinfo {
+        margin-top: 2.5rem;
+        margin-bottom: 1.5rem;
+        display: flex;
+        gap: 3rem;
+      }
+      .ticketinfo-pass > span,
+      .ticketinfo-single > span {
+        color: #000;
+        background-color: var(--tc, #e5e5e5);
+        width: 3rem;
+        height: 3rem;
+        border-radius: 50%;
+        padding: 4rem;
+        --fluid-type-max: 2.5rem;
+        --fluid-type-min: 1.5rem;
+      }
+      @media (max-width: 600px) {
+        .ticketinfo-pass > span,
+        .ticketinfo-single > span {
+          padding: 2.5rem;
+        }
+      }
+      .center,
+      .ticketinfo-pass,
+      .ticketinfo-single {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+      }
+      body {
+        background: #fff;
+        color: #000;
+        line-height: 1.5;
+        font-family: soleil, sans-serif;
+        overflow-x: hidden;
+      }
+      .film-grid {
+        display: grid;
+        gap: 4rem;
+      }
+      @supports (width: min(250px, 100%)) {
+        .film-grid {
+          grid-template-columns: repeat(auto-fit, minmax(min(500px, 100%), 1fr));
+        }
+      }
+      .film-grid__card {
+        position: relative;
+      }
+      .img {
+        border-top-left-radius: 1rem;
+        border-top-right-radius: 1rem;
+        width: 100%;
+        height: 350px;
+        opacity: 0.9;
+      }
+      .card-text {
+        background-color: #fff;
+        padding: 1.3rem;
+        z-index: -1;
+        border-bottom-left-radius: 1rem;
+        border-bottom-right-radius: 1rem;
+        border: 1px solid silver;
+        translate: 0 -1rem;
+      }
+      .desc {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+      }
+      .date {
+        font-size: 1.5rem;
+        font-weight: 500;
+      }
+      .series-text {
+
+      }
+      header {
+        position: sticky;
+        top: 0;
+        z-index: 9000;
+      }
+      footer {
+        background-color: #000;
+        color: #f5f5f5;
+        margin-top: 3rem;
+        padding-top: 3rem;
+        padding-bottom: 2rem;
+        padding-right: 2rem;
+        padding-left: 2rem;
+        text-align: center;
+        bottom: 0;
+        z-index: 9000;
+      }
+      .footer-line2 {
+        color: #f5f5f5;
+      }
+      .footer-color {
+        color: #ed028c;
+      }
+      .footer-line2 a {
+        text-decoration: none;
+        color: #ed028c;
+      }
+      .navigation {
+        display: block;
+        z-index: 9000;
+      }
+      .navigation ul {
+        display: flex;
+        padding: 0.3rem;
+        margin: 0;
+        justify-content: flex-end;
+        list-style: none;
+      }
+      @media (max-width: 425px) {
+        .navigation ul {
+          justify-content: flex-start;
+          overflow: scroll;
+          padding: 0.5rem 0.8rem 0.6rem 0.8rem;
+        }
+      }
+      ul li {
+        margin-right: 2rem;
+      }
+      .navigation > ul:nth-child(1) {
+        background: #000;
+        color: #f5f5f5;
+      }
+      .navigation > ul:nth-child(2) {
+        background: #f5f5f5;
+        color: #000;
+      }
+      .navigation a {
+        font-size: clamp(
+          var(--fluid-type-min, 2rem),
+          1rem + var(--fluid-type-target, 2rem),
+          var(--fluid-type-max, 3rem)
+        );
+        font-weight: 500;
+        text-decoration: none;
+      }
+      .home-container {
+        height: 100%;
+        background-color: #000;
+        color: #fff;
+      }
+      .home-playing {
+        background-color: #e5e5e5;
+        color: #000;
+        padding-bottom: 2rem;
+      }
+      .about {
+        background: #e5e5e5;
+        color: #000;
+      }
+      .visiting-grid {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 2rem;
+        justify-content: center;
+      }
+      .visiting-grid > * {
+        flex-basis: 25rem;
+        border: 1px silver solid;
+        padding: 2rem;
+        background-color: #f5f5f5;
+      }
+      .visiting-landing {
+        margin-top: 3rem;
+        margin-bottom: 4rem;
+      }
+      .sidenav {
+        position: sticky;
+        top: 15%;
+        border: 1px solid silver;
+        padding: 1.5rem;
+        background-color: #f5f5f5;
+      }
+
+    </style>
+  </head>
+  <body>
+    <header>
+      <a href="#main-content" class="skip-link">Skip to content</a>
+      <nav class="navigation">
+        <ul>
+          <li><a href="/">home</a></li>
+          <li><a href="/calendar">calendar</a></li>
+          <li><a href="/visiting">visit</a></li>
+          <li><a href="/volunteer">volunteer</a></li>
+          <li><a href="/contact">contact</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <main tabindex="-1">
+      <section class="visiting-landing | wrapper | center" style="--fbc: e5e5e5;">
+        <h1 class="big-title | tl" style="margin-bottom: 1rem">Volunteering at <span class="logo">doc</span></h1>
+        <p class="tl">
+          <i>Doc is exclusively run by volunteers who manage every aspect from programming to projecting. Get involved with Doc by programming a film series or by becoming a volunteer in one of the capacities outlined below.</i> <br><br>
+
+<h2>How to program a film series</h2>
+<p>Doc Films does not impose many restrictions on its programming. Anyone can propose a film series. Series may highlight the work of a particular director, star, screenwriter, cinematographer, or any other craftsperson worthy of a retrospective. Series may also be organized around genres, periods, national cinemas, political ideologies, or more abstract themes.</p>
+<p>As a general rule, films can only be shown once as part of a weekday series within a four year period. Every film series proposal must consist of nine titles in addition to three alternates should any of the other titles prove unavailable. Any film series proposal must include film distribution as well as an accurate cost estimate for renting and shipping.</p>
+
+<p>If you are interested in the programming at Doc, please subscribe to our <a href="https://lists.uchicago.edu/web/info/docprog">programming mailing list</a>. Contact us at programming@docfilms.org if you have any questions.</p>
+
+<p>At our weekly programming meetings we discuss potential series for the next calendar. One need not be a Doc volunteer or affiliated with the University to take part in this dialogue, or to propose a series. Meetings generally take place Thursdays at 5PM in Ida Noyes.</p><br>
+
+<h2>How to become a volunteer</h2>
+
+<p>Anyone can volunteer at Doc Films, though priority will be given to University of Chicago students. Volunteers are asked to commit to working one screening per week for the duration of the quarter in one of the capacities listed below. In exchange, each volunteer receives a pass that admits them and a guest to every Doc Films screening that quarter. We do not ask that volunteers spend much time at Doc, but it is very important that they respect whatever commitment they do make.</p>
+
+<p>Volunteer applications are sent out a few weeks before the beginning of every quarter. Contact volunteer@docfilms.org for more information, or subscribe to our <a href="https://lists.uchicago.edu/web/info/docvol">volunteering mailing list.</a></p>
+
+<p>At our weekly volunteer meetings, board members report on and discuss their work managing Doc. All volunteers who want to get more involved or just want to learn more about how Doc is run are welcome and encouraged to attend. Volunteer meetings generally take place every Sunday at 4:30 pm in the cinema lobby.</p>
+
+<p><strong>Ticket sellers</strong> are in charge of selling tickets before the movie. This is probably the easiest volunteer position and requires the smallest time commitment, about 45 minutes a week. Ticket sellers should be at Doc and ready to sell tickets at least thirty minutes before the beginning of the show, and are needed until 15 minutes after the show has begun.</p>
+
+<p><strong>Fireguards</strong> are in charge of directing the audience to an emergency exit in the event of a fire. Also, fireguards are in charge of taking tickets, cleaning the cinema after a movie, and preventing serious fire hazards, e.g. empty fire extinguishers and people sitting in the aisles. They help to ensure first-rate show quality by acting as the projectionist's "eyes and ears" in the auditorium and alerting the booth about eventual problems. They should arrive 45 minutes before their assigned show and are needed until a few minutes after the show has ended.</p>
+
+<p><strong>Apprentice projectionists</strong> help the projectionists with their job while learning to do it themselves. A volunteer must have two quarters of other Doc experience before being eligible for an apprentice projectionist position. We require that all of our projectionists have at least three quarters of experience as an apprentice with both 16mm and 35mm film and to pass both a written and demonstrative exam before becoming a full projectionist. 
+
+<p><strong>Projectionists</strong> are responsible for the projection of the movie. Projectionists must be highly competent in the use of 35mm and 16mm projectors as well as digital cinema formats. They must be able to deal with emergencies - broken equipment or damaged film - quickly and confidently. Projection is one of the most important jobs at Doc, and should not be taken lightly. 
+
+<p><strong>Show captains</strong> are responsible for leading the showtime team and making sure shows run smoothly. They coordinate with the projectionists, the ticket sellers, and the fireguards, make an introductory speech for the show, and record show statistics for later use. The show captain must arrive at Doc 45 minutes before the show to open the theater, and can't leave until after they have deposited the money, usually twenty minutes after the screening has begun.
+
+<p><strong>Pösternauts</strong> are guerrilla advertisers, responsible for the weekly distribution of flyers around campus. The 'nauts must follow their specialized routes with tape, publicity, and enthusiasm, ensuring that Doc is effectively advertised in popular and/or visible locations. Furthermore, the Pösternauts are expected to remove outdated flyers at every chance, show courtesy to other enterprising organizations, and economize their given materials throughout each quarter.
+
+      </section>
+
+      
+
+      <footer>
+        
+          <i>anyone can volunteer. anyone can program. everyone is invited.</i>
+          <br><br>doc films • max palevsky cinema • 1212 east 59th street • 773-702-8574 • doc@docfilms.org
+
+          <div class="footer-line2"><a href="https://www.facebook.com/DocFilmsChicago" target="_blank">facebook</a> • <a href="https://www.instagram.com/docfilmschicago/?hl=en" target="_blank">instagram</a> • <a href="https://twitter.com/docfilmschicago?lang=en" target="_blank">twitter</a> • <a href="/" target="_blank">newsletter</a></div>
+        
+      </footer>
+
+    </main>
+  </body>
+</html>

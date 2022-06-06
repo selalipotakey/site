@@ -1,0 +1,656 @@
+
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Home</title>
+
+    <link rel="stylesheet" media="print" href="/fonts/fonts.css?fda5-15b0-1e31" onload="this.media='all'" />
+    <link rel="stylesheet" href="https://use.typekit.net/gul0drw.css" />
+    <style>
+      @charset "UTF-8";
+      *,
+      ::after,
+      ::before {
+        box-sizing: border-box;
+      }
+      ol[class],
+      ul[class] {
+        padding: 0;
+      }
+      blockquote,
+      body,
+      dd,
+      dl,
+      figure,
+      h1,
+      h2,
+      h3,
+      h4,
+      ol[class],
+      p,
+      ul[class] {
+        margin: 0;
+      }
+      html {
+        scroll-behavior: smooth;
+      }
+      body {
+        min-height: 100vh;
+        text-rendering: optimizeSpeed;
+        line-height: 1.5;
+      }
+      ol[class],
+      ul[class] {
+        list-style: none;
+      }
+      a:not([class]) {
+        text-decoration: underline;
+        color: currentColor;
+      }
+      img {
+        max-width: 100%;
+        display: block;
+      }
+      button,
+      input,
+      select,
+      textarea {
+        font: inherit;
+      }
+      @media (prefers-reduced-motion: reduce) {
+        * {
+          animation-duration: 10ms !important;
+          animation-iteration-count: 1 !important;
+          transition-duration: 10ms !important;
+          scroll-behavior: auto !important;
+        }
+      }
+      h1,
+      h2,
+      h3,
+      h4,
+      summary {
+        font-family: niveau-grotesk, sans-serif;
+      }
+      h1,
+      h2,
+      h3,
+      i,
+      li,
+      p,
+      span {
+        font-size: clamp(
+          var(--fluid-type-min, 1rem),
+          1rem + var(--fluid-type-target, 3vw),
+          var(--fluid-type-max, 1.3rem)
+        );
+      }
+      h1 {
+        --fluid-type-min: 2rem;
+        --fluid-type-max: 4.5rem;
+        --fluid-type-target: 5.4vw;
+        font-weight: 400;
+        max-width: 15ch;
+      }
+      h2 {
+        --fluid-type-min: 1rem;
+        --fluid-type-max: 2rem;
+        --fluid-type-target: 1rem;
+      }
+      h3 {
+        --fluid-type-min: 1.5rem;
+        --fluid-type-max: 2.5rem;
+      }
+      h2,
+      h3 {
+        max-width: 50ch;
+      }
+      li,
+      p {
+        max-width: 60ch;
+        line-height: 1.8;
+        font-weight: 300;
+        --fluid-type-target: 1rem;
+        --fluid-type-min: 0.8rem;
+        --fluid-type-max: 1.1rem;
+      }
+      summary {
+        --fluid-type-min: 1rem;
+        --fluid-type-max: 1.5rem;
+      }
+      strong {
+        font-weight: 700;
+      }
+      .skip-link {
+        display: inline-block;
+        padding: 0.7rem 1rem 0.5rem 1rem;
+        text-decoration: none;
+        font-weight: 700;
+        text-transform: uppercase;
+        position: absolute;
+        top: 1rem;
+        left: 1rem;
+      }
+      .skip-link:not(:focus) {
+        border: 0;
+        clip: rect(0 0 0 0);
+        height: auto;
+        margin: 0;
+        overflow: hidden;
+        padding: 0;
+        position: absolute;
+        width: 1px;
+        white-space: nowrap;
+      }
+      .wrapper {
+        margin-top: --var(--mt, 4rem);
+        position: relative;
+        width: 90vw;
+        width: 90%;
+        margin-left: auto;
+        margin-right: auto;
+      }
+      .flow > * + * {
+        margin-top: var(--flow-space, 1rem);
+      }
+      .hr {
+        margin-top: 1.5rem;
+      }
+      @media (max-width: 975px) {
+        .hide {
+          display: none;
+        }
+      }
+      .big-title {
+        max-width: 100%;
+        line-height: 1.2;
+      }
+      .medium-title {
+        font-family: soleil, sans-serif;
+        font-weight: 400;
+        --fluid-type-min: 1rem;
+        --fluid-type-max: 1.3rem;
+      }
+      .full-bleed {
+        width: 100vw;
+        margin-left: calc(50% - 50vw);
+        background-color: var(--fbc, #000);
+        color: var(--text-color, #fff);
+      }
+      .make-yellow {
+        color: #ed028c;
+      }
+      .logo {
+        font-family: Poppins, sans-serif;
+        font-weight: 700;
+      }
+      .border {
+        border: 0 solid green;
+      }
+      .tl {
+        text-align: center;
+      }
+      .sidebar-parent {
+        position: relative;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 3rem;
+      }
+      .sidebar-parent > :first-child {
+        flex-basis: 30rem;
+        flex-grow: 1;
+      }
+      .sidebar-parent > :last-child {
+        flex-basis: 0;
+        flex-grow: 999;
+        min-inline-size: 50%;
+      }
+      .ticketinfo {
+        margin-top: 2.5rem;
+        margin-bottom: 1.5rem;
+        display: flex;
+        gap: 3rem;
+      }
+      .ticketinfo-pass > span,
+      .ticketinfo-single > span {
+        color: #000;
+        background-color: var(--tc, #e5e5e5);
+        width: 3rem;
+        height: 3rem;
+        border-radius: 50%;
+        padding: 4rem;
+        --fluid-type-max: 2.5rem;
+        --fluid-type-min: 1.5rem;
+      }
+      @media (max-width: 600px) {
+        .ticketinfo-pass > span,
+        .ticketinfo-single > span {
+          padding: 2.5rem;
+        }
+      }
+      .center,
+      .ticketinfo-pass,
+      .ticketinfo-single {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+      }
+      body {
+        background: #fff;
+        color: #000;
+        line-height: 1.5;
+        font-family: soleil, sans-serif;
+        overflow-x: hidden;
+      }
+      .film-grid {
+        display: grid;
+        gap: 4rem;
+      }
+      @supports (width: min(250px, 100%)) {
+        .film-grid {
+          grid-template-columns: repeat(auto-fit, minmax(min(500px, 100%), 1fr));
+        }
+      }
+      .film-grid__card {
+        position: relative;
+      }
+      .img {
+        border-top-left-radius: 1rem;
+        border-top-right-radius: 1rem;
+        width: 100%;
+        height: 350px;
+        opacity: 0.9;
+      }
+      .card-text {
+        background-color: #fff;
+        padding: 1.3rem;
+        z-index: -1;
+        border-bottom-left-radius: 1rem;
+        border-bottom-right-radius: 1rem;
+        border: 1px solid silver;
+        translate: 0 -1rem;
+      }
+      .desc {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+      }
+      .date {
+        font-size: 1.5rem;
+        font-weight: 500;
+      }
+      header {
+        position: sticky;
+        top: 0;
+        z-index: 9000;
+      }
+      footer {
+        background-color: #000;
+        color: #f5f5f5;
+        padding-top: 3rem;
+        padding-bottom: 2rem;
+        padding-right: 2rem;
+        padding-left: 2rem;
+        text-align: center;
+        bottom: 0;
+        z-index: 9000;
+      }
+      .footer-line2 {
+        color: #f5f5f5;
+      }
+      .footer-color {
+        color: #ed028c;
+      }
+      .footer-line2 a {
+        text-decoration: none;
+        color: #ed028c;
+      }
+      .navigation {
+        display: block;
+        z-index: 9000;
+      }
+      .navigation ul {
+        display: flex;
+        padding: 0.3rem;
+        margin: 0;
+        justify-content: flex-end;
+        list-style: none;
+      }
+      @media (max-width: 425px) {
+        .navigation ul {
+          justify-content: flex-start;
+          overflow: scroll;
+          padding: 0.5rem 0.8rem 0.6rem 0.8rem;
+        }
+      }
+      ul li {
+        margin-right: 2rem;
+      }
+      .navigation > ul:nth-child(1) {
+        background: #ed028c;
+        color: #000;
+      }
+      .navigation > ul:nth-child(2) {
+        background: #f5f5f5;
+        color: #000;
+      }
+      .navigation a {
+        font-size: clamp(
+          var(--fluid-type-min, 2rem),
+          1rem + var(--fluid-type-target, 2rem),
+          var(--fluid-type-max, 3rem)
+        );
+        font-weight: 500;
+        text-decoration: none;
+      }
+      .home-container {
+        height: 100%;
+        background-color: #000;
+        color: #fff;
+      }
+      .home-playing {
+        background-color: #e5e5e5;
+        color: #000;
+        padding-bottom: 2rem;
+      }
+      .about {
+        background: #e5e5e5;
+        color: #000;
+      }
+      .visiting-grid {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 2rem;
+        justify-content: center;
+      }
+      .visiting-grid > * {
+        flex-basis: 25rem;
+        border: 1px silver solid;
+        padding: 2rem;
+        background-color: #f5f5f5;
+      }
+      .visiting-landing {
+        margin-top: 3rem;
+        margin-bottom: 4rem;
+      }
+      .sidenav {
+        position: sticky;
+        top: 15%;
+        border: 1px solid silver;
+        padding: 1.5rem;
+        background-color: #f5f5f5;
+      }
+
+    </style>
+  </head>
+  <body>
+    <header>
+      <a href="#main-content" class="skip-link">Skip to content</a>
+      <nav class="navigation">
+        <ul>
+          <li><a href="/">home</a></li>
+          <li><a href="/calendar">calendar</a></li>
+          <li><a href="/visiting">visit</a></li>
+          <li><a href="/volunteer">volunteer</a></li>
+          <li><a href="/contact">contact</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <main tabindex="-1">
+      <div class="full-bleed">
+        <section class="home-landing | wrapper" style="--mt: 0">
+          <h1 class="big-title | border" style="padding-top: 3rem">
+            <span class="logo">docfilms</span> is a student-run film society at UChicago reaching back to 1932<span
+              class="make-yellow"
+              >.</span
+            >
+          </h1>
+          <div class="sidebar-parent | flow" style="padding-bottom: 3rem">
+            <div>
+              <div class="ticketinfo">
+                <div class="ticketinfo-single | flow | border">
+                  <span class="center" style="--tc: #ed028c">$7</span>
+                  <h2 class="medium-title">single ticket</h2>
+                </div>
+
+                <div class="ticketinfo-pass | flow | border" style="--tc: #e5e5e5">
+                  <span class="center">$40</span>
+                  <h2 class="medium-title">quarter pass</h2>
+                </div>
+              </div>
+
+              <i>Tickets and passes may only be purchased @ the theater with cash.</i>
+            </div>
+          </div>
+        </section>
+
+        <div class="full-bleed" style="--fbc: #e5e5e5">
+          <section class="home-playing | wrapper" style="--mt: 0">
+            <h1
+              class="big-title"
+              style="padding-top: 2.5rem; padding-bottom: 2.5rem; text-decoration: underline #ed028c"
+            >
+              Playing This Week
+            </h1>
+            <div class="film-grid">
+              <div class="film-grid__card">
+                <div
+                  class="img"
+                  style="
+                    background: #fefefe url(../../images/week9/2022-5-23-namibia-independence-now.jpg) no-repeat center center/cover;
+                  "
+                ></div>
+                <div class="flow | card-text">
+                  <div class="card-desc">
+                    <h3>I Am Somebody/Namibia: Independence Now! (1970/1985)</h3>
+
+                    <p class="date">5/23/22 @ 7:00 PM</p>
+
+                    <p>Madeline Anderson/Pearl Bowser | DCP/Digital | 83m</p>
+
+                    <p>
+                      In <i>I am Somebody</i>, Madeline Anderson, the first Black woman to make a televised documentary, chronicles a 100-day strike by Black women hospital workers in Charleston, SC. <i>Namibia: Independence Now!</i>, made by the storied Third World Newsreel collective, highlights women's centrality to the Namibian liberation movement against South African exploitation through scenes of life in exile and the testimonies of South West Africa People’s Organization members.
+                    </p>
+                  </div>
+                </div>
+              </div>
+
+              <div class="film-grid__card">
+                <div
+                  class="img"
+                  style="
+                    background: #fefefe url(../../images/week9/2022-5-24-light-sleeper.jpeg) no-repeat center
+                      center/cover;
+                  "
+                ></div>
+                <div class="flow | card-text">
+                  <div class="card-desc">
+                    <h3>Light Sleeper (1992)</h3>
+
+                    <p class="date">5/24/22 @ 7:00 PM</p>
+
+                    <p>Paul Schrader | 35mm | 103m</p>
+
+                    <p>
+                      John Letour (Willem Dafoe) is a recovering addict who still works as a deliveryman for high-class drug dealer Ann (Susan Sarandon). Letour’s life begins to unravel as he faces threats of retirement from his boss and unwanted attention from a murder investigation. Writer/Director Paul Schrader has called this film the 1990s installment of his “man in the room” series such as <i>Taxi Driver</i> (1976) and the more recent film <i>The Card Counter</i> (2021).
+                    </p>
+                  </div>
+                </div>
+              </div>
+
+              <div class="film-grid__card">
+                <div
+                  class="img"
+                  style="
+                    background: #fefefe url(../../images/week9/2022-5-25-ishtar.jpg) no-repeat center center/cover;
+                  "
+                ></div>
+                <div class="flow | card-text">
+                  <div class="card-desc">
+                    <h3>Ishtar (1987)</h3>
+
+                    <p class="date">5/25/22 @ 7:00 PM</p>
+
+                    <p>Elaine May | 35mm | 107m</p>
+
+                    <p>
+                      35 years after its legendary initial failure, May's final feature to date has re-emerged as another comedic masterwork and a biting political satire. Dustin Hoffman and Warren Beatty star as two monumentally untalented songwriters trying to be the next Simon and Garfunkel but end up pulled into civil unrest in the fictitious nation of Ishtar. A musical, a buddy comedy, a political thriller, and more, <i>Ishtar</i> has to be seen to be believed.
+                    </p>
+                  </div>
+                </div>
+              </div>
+
+              <div class="film-grid__card">
+                <div
+                  class="img"
+                  style="
+                    background: #fefefe url(../../images/week9/2022-05-26-burn-after-reading.jpg) no-repeat
+                      center center/cover;
+                  "
+                ></div>
+                <div class="flow | card-text">
+                  <div class="card-desc">
+                    <h3>Burn After Reading (2008)</h3>
+
+                    <p class="date">5/26/22 @ 7:00 PM</p>
+
+                    <p>Coen Brothers | 35mm | 96m</p>
+
+                    <p>
+                      Even the best-laid schemes go astray, in this 2008 black comedy follow-up to the Coen Brothers' double Oscar winner <i>No Country for Old Men</i>. After CIA analyst Osborne Cox’s (John Malkovitch) memoirs make it into the hands of two dim witted fitness trainers (Francis McDormand and Brad Pitt) they attempt to turn a profit by getting into the espionage game. <i>Burn After Reading</i> is a fantastic spy/thriller only without all the explosions.
+                    </p>
+                  </div>
+                </div>
+              </div>
+
+              <div class="film-grid__card">
+                <div
+                  class="img"
+                  style="
+                    background: #fefefe url(../../images/week9/363032.jpeg) no-repeat center
+                      center/cover;
+                  "
+                ></div>
+                <div class="flow | card-text">
+                  <div class="card-desc">
+                    <h3>Multiple Maniacs (1970)</h3>
+
+                    <p class="date">5/26/22 @ 9:30 PM</p>
+
+                    <p>John Waters | DCP | 90m</p>
+
+                    <p>
+                      
+                    </p>
+                  </div>
+                </div>
+              </div>
+
+              <div class="film-grid__card">
+                <div
+                  class="img"
+                  style="
+                    background: #fefefe url(../../images/week9/2022-05-27-fallen-angels.jpeg) no-repeat center center/cover;
+                  "
+                ></div>
+                <div class="flow | card-text">
+                  <div class="card-desc">
+                    <h3>Fallen Angels (1995)</h3>
+
+                    <p class="date">5/27/22 @ 7:00 PM</p>
+
+                    <p>Wong Kar-wai | DCP | 99m</p>
+
+                    <p>
+                      A story centering around a hitman trying to escape his partner and a mute delinquent building a life after escaping prison, <i>Fallen Angels</i> is a neon-noir crime thriller that follows two loosely-interlocked narratives in an exhilarating, disorienting homage to Hong Kong at night. The plot was initially set as the third narrative in <i>Chungking Express</i>, but was expanded into its own movie to showcase the real character of these two films: Hong Kong itself.
+                    </p>
+                  </div>
+                </div>
+              </div>
+
+              <div class="film-grid__card">
+                <div
+                  class="img"
+                  style="
+                    background: #fefefe url(../../images/special/2022-05-28-anthropoid.jpeg) no-repeat center center/cover;
+                  "
+                ></div>
+                <div class="flow | card-text">
+                  <div class="card-desc">
+                    <h3>Anthropoid</h3>
+
+                    <p class="date">5/28/22 @ 2:30 PM</p>
+
+                    <p>Sean Ellis | DCP | 120m</p>
+
+                    <p>
+                      <i>Starring Cillian Murphy and Jamie Dornan as Slovak and Czech soldiers Jozef Gabčík and Jan Kubiš, this film follows the events of Operation Anthropoid, the Allied plan to assassinate SS mastermind Reinhard Heydrich in Nazi-occupied Czechoslovakia. With limited outside help, Jozef and Jan carry out the attack, but a terrible reprisal is still to follow. Anthropoid was praised for its realism and close retelling of events, as historical reports were used to recreate the assassination scene.</i>
+                    </p>
+                  </div>
+                </div>
+              </div>
+
+
+              <div class="film-grid__card">
+                <div
+                  class="img"
+                  style="
+                    background: #fefefe url(../../images/week9/2022-5-28-everything-everywhere-all-at-once.jpg) no-repeat center center/cover;
+                  "
+                ></div>
+                <div class="flow | card-text">
+                  <div class="card-desc">
+                    <h3>Everything Everywhere All At Once (2022)</h3>
+
+                    <p class="date">5/28/22 @ 7:00 PM</p>
+
+                    <p>Daniel Kwan, Daniel Scheinert | DCP | 146m</p>
+
+                    <p>
+                      At once a heartfelt family drama and an irreverent, multiverse-hopping sci-fi comedy, <i>Everything Everywhere All at Once</i> centers around a frazzled Chinese-American mother (Michelle Yeoh) tossed into the center of an interdimensional whirlwind of chaos. Rife with thoughtful details of Asian-American life, stuck-on googly eyes, and starring Jamie Lee Curtis as a diabolical IRS inspector, this film has a little something for everyone.
+                    </p>
+                  </div>
+                </div>
+              </div>
+
+              <div class="film-grid__card">
+                <div
+                  class="img"
+                  style="
+                    background: #fefefe url(../../images/week9/2022-5-29-waitress.jpg) no-repeat
+                      center center/cover;
+                  "
+                ></div>
+                <div class="flow | card-text">
+                  <div class="card-desc">
+                    <h3>Waitress (2007)</h3>
+
+                    <p class="date">5/29/22 @ 7:00 PM</p>
+
+                    <p>Adrienne Shelly | Digital | 104m</p>
+
+                    <p>
+                      This dark comedy stars Keri Russell as a small-town waitress, unhappily pregnant by her abusive husband (Jeremy Sisto) but in love with her obstetrician (Nathan Fillion). An ingenious baker, she channels her emotions into pies, like the I Hate My Husband Pie, Pregnant Miserable Self-Pitying Loser Pie, and Lonely Chicago Pie. <i>Waitress</i> was the only feature film by the late Adrienne Shelly, who also wrote, acted in, and co-designed sets and costumes for it.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </section>
+        </div>
+      </div>
+      <footer>
+        
+          <i>anyone can volunteer. anyone can program. everyone is invited.</i>
+          <br><br>doc films • max palevsky cinema • 1212 east 59th street • 773-702-8574 • doc@docfilms.org
+
+          <div class="footer-line2"><a href="https://www.facebook.com/DocFilmsChicago" target="_blank">facebook</a> • <a href="https://www.instagram.com/docfilmschicago/?hl=en" target="_blank">instagram</a> • <a href="https://twitter.com/docfilmschicago?lang=en" target="_blank">twitter</a> • <a href="/" target="_blank">newsletter</a></div>
+        
+      </footer>
+    </main>
+  </body>
+</html>

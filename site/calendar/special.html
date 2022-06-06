@@ -1,0 +1,610 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Special Events</title>
+
+    <link rel="stylesheet" media="print" href="/fonts/fonts.css?fda5-15b0-1e31" onload="this.media='all'" />
+    <link rel="stylesheet" href="https://use.typekit.net/gul0drw.css" />
+    <style>
+      @charset "UTF-8";
+      *,
+      ::after,
+      ::before {
+        box-sizing: border-box;
+      }
+      ol[class],
+      ul[class] {
+        padding: 0;
+      }
+      blockquote,
+      body,
+      dd,
+      dl,
+      figure,
+      h1,
+      h2,
+      h3,
+      h4,
+      ol[class],
+      p,
+      ul[class] {
+        margin: 0;
+      }
+      html {
+        scroll-behavior: smooth;
+      }
+      body {
+        min-height: 100vh;
+        text-rendering: optimizeSpeed;
+        line-height: 1.5;
+      }
+      ol[class],
+      ul[class] {
+        list-style: none;
+      }
+      a:not([class]) {
+        text-decoration: underline;
+        color: currentColor;
+      }
+      img {
+        max-width: 100%;
+        display: block;
+      }
+      button,
+      input,
+      select,
+      textarea {
+        font: inherit;
+      }
+      @media (prefers-reduced-motion: reduce) {
+        * {
+          animation-duration: 10ms !important;
+          animation-iteration-count: 1 !important;
+          transition-duration: 10ms !important;
+          scroll-behavior: auto !important;
+        }
+      }
+      h1,
+      h2,
+      h3,
+      h4,
+      summary {
+        font-family: niveau-grotesk, sans-serif;
+      }
+      h1,
+      h2,
+      h3,
+      i,
+      li,
+      p,
+      span {
+        font-size: clamp(
+          var(--fluid-type-min, 1rem),
+          1rem + var(--fluid-type-target, 3vw),
+          var(--fluid-type-max, 1.3rem)
+        );
+      }
+      h1 {
+        --fluid-type-min: 2rem;
+        --fluid-type-max: 4.5rem;
+        --fluid-type-target: 5.4vw;
+        font-weight: 400;
+        max-width: 15ch;
+      }
+      h2 {
+        --fluid-type-min: 1rem;
+        --fluid-type-max: 2rem;
+        --fluid-type-target: 1rem;
+      }
+      h3 {
+        --fluid-type-min: 1.5rem;
+        --fluid-type-max: 2.5rem;
+      }
+      h2,
+      h3 {
+        max-width: 50ch;
+      }
+      li,
+      p {
+        max-width: 70ch;
+        line-height: 1.8;
+        font-weight: 300;
+        --fluid-type-target: 1rem;
+        --fluid-type-min: 0.8rem;
+        --fluid-type-max: 1.1rem;
+      }
+      summary {
+        --fluid-type-min: 1rem;
+        --fluid-type-max: 1.5rem;
+      }
+      strong {
+        font-weight: 700;
+      }
+      .skip-link {
+        display: inline-block;
+        padding: 0.7rem 1rem 0.5rem 1rem;
+        text-decoration: none;
+        font-weight: 700;
+        text-transform: uppercase;
+        position: absolute;
+        top: 1rem;
+        left: 1rem;
+      }
+      .skip-link:not(:focus) {
+        border: 0;
+        clip: rect(0 0 0 0);
+        height: auto;
+        margin: 0;
+        overflow: hidden;
+        padding: 0;
+        position: absolute;
+        width: 1px;
+        white-space: nowrap;
+      }
+      .wrapper {
+        margin-top: --var(--mt, 4rem);
+        position: relative;
+        width: 90vw;
+        width: 90%;
+        margin-left: auto;
+        margin-right: auto;
+      }
+      .flow > * + * {
+        margin-top: var(--flow-space, 1rem);
+      }
+      .hr {
+        margin-top: 1.5rem;
+      }
+      @media (max-width: 975px) {
+        .hide {
+          display: none;
+        }
+      }
+      .big-title {
+        max-width: 100%;
+        line-height: 1.2;
+      }
+      .medium-title {
+        font-family: soleil, sans-serif;
+        font-weight: 400;
+        --fluid-type-min: 1rem;
+        --fluid-type-max: 1.3rem;
+      }
+      .full-bleed {
+        width: 100vw;
+        margin-left: calc(50% - 50vw);
+        background-color: var(--fbc, #000);
+        color: var(--text-color, #fff);
+      }
+      .make-yellow {
+        color: #ed028c;
+      }
+      .logo {
+        font-family: Poppins, sans-serif;
+        font-weight: 700;
+      }
+      .border {
+        border: 0 solid green;
+      }
+      .tl {
+        text-align: center;
+      }
+      .sidebar-parent {
+        position: relative;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 3rem;
+      }
+      .sidebar-parent > :first-child {
+        flex-basis: 30rem;
+        flex-grow: 1;
+      }
+      .sidebar-parent > :last-child {
+        flex-basis: 0;
+        flex-grow: 999;
+        min-inline-size: 50%;
+      }
+      .ticketinfo {
+        margin-top: 2.5rem;
+        margin-bottom: 1.5rem;
+        display: flex;
+        gap: 3rem;
+      }
+      .ticketinfo-pass > span,
+      .ticketinfo-single > span {
+        color: #000;
+        background-color: var(--tc, #e5e5e5);
+        width: 3rem;
+        height: 3rem;
+        border-radius: 50%;
+        padding: 4rem;
+        --fluid-type-max: 2.5rem;
+        --fluid-type-min: 1.5rem;
+      }
+      @media (max-width: 600px) {
+        .ticketinfo-pass > span,
+        .ticketinfo-single > span {
+          padding: 2.5rem;
+        }
+      }
+      .center,
+      .ticketinfo-pass,
+      .ticketinfo-single {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+      }
+      body {
+        background: #fff;
+        color: #000;
+        line-height: 1.5;
+        font-family: soleil, sans-serif;
+        overflow-x: hidden;
+      }
+      .film-grid {
+        display: grid;
+        gap: 4rem;
+      }
+      @supports (width: min(250px, 100%)) {
+        .film-grid {
+          grid-template-columns: repeat(auto-fit, minmax(min(500px, 100%), 1fr));
+        }
+      }
+      .film-grid__card {
+        position: relative;
+      }
+      .img {
+        border-top-left-radius: 1rem;
+        border-top-right-radius: 1rem;
+        width: 100%;
+        height: 350px;
+        opacity: 0.9;
+      }
+      .img-square {
+        width: 100%;
+        height: 350px;
+        opacity: 0.9;
+      }
+      .card-title {
+        background-color: #fff;
+        padding: 1.3rem;
+        z-index: -1;
+        border-top-left-radius: 1rem;
+        border-top-right-radius: 1rem;
+        border-bottom-left-radius: 1rem;
+        border-bottom-right-radius: 1rem;
+        border: 1px solid silver;
+        translate: 0 -1rem;
+      }
+      .card-text {
+        background-color: #fff;
+        padding: 1.3rem;
+        z-index: -1;
+        border-bottom-left-radius: 1rem;
+        border-bottom-right-radius: 1rem;
+        border: 1px solid silver;
+        translate: 0 -1rem;
+      }
+      .card-text-square {
+        background-color: #fff;
+        padding: 1.3rem;
+        z-index: -1;
+        border: 1px solid silver;
+        translate: 0 -1rem;
+      }
+      .desc {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+      }
+      .date {
+        font-size: 1.5rem;
+        font-weight: 500;
+      }
+      .series-text {
+
+      }
+      header {
+        position: sticky;
+        top: 0;
+        z-index: 9000;
+      }
+      footer {
+        background-color: #000;
+        color: #f5f5f5;
+        padding-top: 3rem;
+        padding-bottom: 2rem;
+        padding-right: 2rem;
+        padding-left: 2rem;
+        text-align: center;
+        bottom: 0;
+        z-index: 9000;
+      }
+      .footer-line2 {
+        color: #f5f5f5;
+      }
+      .footer-color {
+        color: #ed028c;
+      }
+      .footer-line2 a {
+        text-decoration: none;
+        color: #ed028c;
+      }
+      .navigation {
+        display: block;
+        z-index: 9000;
+      }
+      .navigation ul {
+        display: flex;
+        padding: 0.3rem;
+        margin: 0;
+        justify-content: flex-end;
+        list-style: none;
+      }
+      @media (max-width: 425px) {
+        .navigation ul {
+          justify-content: flex-start;
+          overflow: scroll;
+          padding: 0.5rem 0.8rem 0.6rem 0.8rem;
+        }
+      }
+      ul li {
+        margin-right: 2rem;
+      }
+      .navigation > ul:nth-child(1) {
+        background: #000;
+        color: #f5f5f5;
+      }
+      .navigation > ul:nth-child(2) {
+        background: #f5f5f5;
+        color: #000;
+      }
+      .navigation a {
+        font-size: clamp(
+          var(--fluid-type-min, 2rem),
+          1rem + var(--fluid-type-target, 2rem),
+          var(--fluid-type-max, 3rem)
+        );
+        font-weight: 500;
+        text-decoration: none;
+      }
+      .home-container {
+        height: 100%;
+        background-color: #000;
+        color: #fff;
+      }
+      .home-playing {
+        background-color: #e5e5e5;
+        color: #000;
+        padding-bottom: 2rem;
+      }
+      .about {
+        background: #e5e5e5;
+        color: #000;
+      }
+      .visiting-grid {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 2rem;
+        justify-content: center;
+      }
+      .visiting-grid > * {
+        flex-basis: 25rem;
+        border: 1px silver solid;
+        padding: 2rem;
+        background-color: #f5f5f5;
+      }
+      .visiting-landing {
+        margin-top: 3rem;
+        margin-bottom: 4rem;
+      }
+      .sidenav {
+        position: sticky;
+        top: 15%;
+        border: 1px solid silver;
+        padding: 1.5rem;
+        background-color: #f5f5f5;
+      }
+
+      /* Dropdown Button */
+      .dropbtn {
+        background: #000;
+        color: #f5f5f5;
+        height: 100%;
+        border: 0px;
+        outline: 0px;
+        padding: 0rem;
+      }
+
+      /* The container <div> - needed to position the dropdown content */
+      .dropdown {
+        position: relative;
+        display: inline-block;
+      }
+
+      /* Dropdown Content (Hidden by Default) */
+      .dropdown-content {
+        display: none;
+        position: absolute;
+        background-color: #f1f1f1;
+        min-width: 160px;
+        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+        z-index: 1;
+      }
+
+      /* Links inside the dropdown */
+      .dropdown-content a {
+        color: black;
+        padding: .3rem 1rem;
+        text-decoration: none;
+        display: block;
+      }
+
+      /* Change color of dropdown links on hover */
+      .dropdown-content a:hover {background-color: #ddd;}
+
+      /* Show the dropdown menu on hover */
+      .dropdown:hover .dropdown-content {display: block;}
+
+      /* Change the background color of the dropdown button when the dropdown content is shown */
+      .dropdown:hover .dropbtn {background-color: #5e5e5e;}
+
+    </style>
+  </head>
+  <body>
+    <header>
+      <a href="#main-content" class="skip-link">Skip to content</a>
+      <nav class="navigation">
+        <ul>
+          <li><a href="/">home</a></li>
+          <li><a href="/calendar">calendar</a></li>
+          <li><a href="/visiting">visit</a></li>
+          <li><a href="/volunteer">volunteer</a></li>
+          <li><a href="/contact">contact</a></li>
+          <!--NEED TO TEST DROPDOWN FURTHER-->
+          <!--<li><div class="dropdown">
+            <button class="dropbtn">about
+            </button>
+            <div class="dropdown-content">
+              <a href="#">test 1</a>
+              <a href="#">test 2</a>
+            </div>
+          </div></li>-->
+        </ul>
+      </nav>
+    </header>
+    <main tabindex="-1">
+      <div class="sidebar-parent | wrapper">
+        <div>
+          <aside class="sidenav" style="margin-bottom: 2rem">
+            <h3>Spring 2022 Series</h3>
+            <ul>
+              <li><a href="/calendar/index">Full Calendar</a></li>
+              <li><a href="/calendar/mon">Monday: An Open Window: Black Women Directors across the Diaspora</a></li>
+              <li><a href="/calendar/tue">Tuesday: Neo-Noir '92</a></li>
+              <li><a href="/calendar/wed">Wednesday: They Thought I Was a Nice Girl: The Films of Elaine May</a></li>
+              <li><a href="/calendar/thu1">Thursday I: Projecting Paranoia</a></li>
+              <li><a href="/calendar/thu2">Thursday II: Punks Behind the Camera</a></li>
+              <li><a href="/calendar/fri">Friday: In the Mood for Wong Kar-Wai</a></li>
+              <li><a href="/calendar/sat">Saturday: New Releases</a></li>
+              <li><a href="/calendar/sun">Sunday: Food, the Common Tongue: Loves, Rages, and Delights of Gastro-Cinema</a></li>
+              <li><a href="/calendar/special">Special Events</a></li>
+
+              
+            
+            </ul>
+          </aside>
+        </div>
+
+        <div id="cal" class="flow">
+          <section class="calendar" style="--fbc: e5e5e5; padding-top: 2.5rem; margin-bottom: 2rem; margin-right: 3rem;">
+            <h3
+              class="big-title"
+              style="padding-top: 1rem; padding-bottom: 2rem;text-decoration: underline #ed028c"
+            >
+              Special Events
+            </h3>
+
+            <div class="film-grid" style="margin-top: 2rem;">
+              <div class="film-grid__card">
+                <div
+                  class="img"
+                  style="
+                    background: #fefefe url(../../images/special/2022-05-20-house.jpg) no-repeat center
+                      center/cover;
+                  "
+                ></div>
+                <div class="flow | card-text">
+                  <div class="card-desc">
+                    <h3><b style="color:red"></b>MIDNIGHT SCREENING: House (1977)</h3>
+
+                    <p class="date">5/20/22 @ 11:59 PM</p>
+
+                    <p>Nobuhiko Obayashi | Digital | 88m</p>
+
+                    <p>
+                      <i>House</i> is definitively the most bizarre and beautiful horror film ever put to the screen. Following a group of seven girls visiting the country home of one of their aunts, director Obayashi crafts a delirious re-treatment of a classic horror narrative: everything in the house isn't quite what it seems. With expert cinematography, wholly unique editing, and a soundtrack made by a haunting earworm melody, <i>House</i> is a must-see for moviegoers everywhere.
+                    </p>
+                    <p>
+                      Buy tickets online <a href="https://tickets.uchicago.edu/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=8E1B7DAB-DE57-4994-8B0D-07C8098E4230" target="_blank" style="color:red">here</a>!
+                    </p>
+                  </div>
+                </div>
+              </div>
+
+              <div class="film-grid__card">
+                <div class="card-title">
+                  <div class="card-desc">
+                    <h3>Assassinating the Butcher of Prague: 80 Years since Operation Anthropoid</h3>
+
+                    <p>
+                      Of all the leading Nazis, only one actually looked the part: blond-haired, blue-eyed, statuesque Reinhard Heydrich.  Behind that ideal Aryan façade lay a mastermind of the Holocaust and of much of the terror that Germany inflicted on Europe.  The SS-Reichsführer and Gestapo chief is best remembered today as the convener of the infamous Wannsee Conference, but few in the US recall that Heydrich travelled to Berlin in January 1942 from Prague, where since the previous September he had ruled the Protectorate of Bohemia and Moravia with an iron hand.  Within four months, however, his reign came to an end at the hands of Czechoslovak resistance fighters, who, in their daring daylight assassination of Heydrich, eliminated the highest-ranking Nazi to be killed by any European underground during the war.
+                    </p>
+                    <br>
+                    <p>
+                      Please join Doc, the CEERES department, and the Fundamentals department in a film retrospective on the events of 1942.
+                    </p>
+                </div>
+                <div class="flow | img"
+                  style="
+                    background: #fefefe url(../../images/special/2022-05-14-hangmen-also-die.jpeg) no-repeat center
+                      center/cover;
+                  "
+                ></div>
+                <div class="flow | card-text-square">
+                  <div class="card-desc">
+                    <h3>Hangmen Also Die!</h3>
+
+                    <p class="date">5/14/22 @ 2:30 PM</p>
+
+                    <p>Fritz Lang | DCP | 134m</p>
+
+                    <p>
+                      Directed by Fritz Lang, this film is a loose noir retelling of the 1942 assassination of Reinhard Heydrich, the second-highest ranking officer in the SS who was known as "The Hangman of Prague." Heydrich's assasssin, a Czech patriot (Brian Donlevy), dodges the Gestapo as they take hostages for retributory execution with the help of a wealthy Czech fifth-columnist. With introduction and Q&A by Ben Frommer.
+                    </p>
+                    <br>
+                    <p>
+                      Benjamin Frommer (Ph.D., Harvard, 1999), Associate Professor of History, is the author of <i>National Cleansing: Retribution against Nazi Collaborators in Postwar Czechoslovakia</i> and co-editor of <i>Intermarriage from Central Europe to Central Asia: Mixed Families in the Age of Extremes</i>.  His current book project, <i>The Ghetto without Walls: The Identification, Isolation, and Elimination of Bohemian and Moravian Jewry, 1938-1945</i>, examines the wartime destruction of one of the world's most integrated and intermarried Jewish communities.
+                    </p>
+                  </div>
+                </div>
+                <div class="flow | img"
+                  style="
+                    background: #fefefe url(../../images/special/2022-05-28-anthropoid.jpeg) no-repeat center
+                      center/cover;
+                  "
+                ></div>
+                <div class="flow | card-text">
+                  <div class="card-desc">
+                    <h3>Anthropoid</h3>
+
+                    <p class="date">5/28/22 @ 2:30 PM</p>
+
+                    <p>Sean Ellis | DCP | 120m</p>
+
+                    <p>
+                      <i>Starring Cillian Murphy and Jamie Dornan as Slovak and Czech soldiers Jozef Gabčík and Jan Kubiš, this film follows the events of Operation Anthropoid, the Allied plan to assassinate SS mastermind Reinhard Heydrich in Nazi-occupied Czechoslovakia. With limited outside help, Jozef and Jan carry out the attack, but a terrible reprisal is still to follow. <i>Anthropoid</i> was praised for its realism and close retelling of events, as historical reports were used to recreate the assassination scene.</i>
+                    </p>
+                  </div>
+                </div>
+              </div>
+              </div>
+            </div>
+          </section>
+        </div>
+      </div>
+      <footer>
+        
+          <i>anyone can volunteer. anyone can program. everyone is invited.</i>
+          <br><br>doc films • max palevsky cinema • 1212 east 59th street • 773-702-8574 • doc@docfilms.org
+
+          <div class="footer-line2"><a href="https://www.facebook.com/DocFilmsChicago" target="_blank">facebook</a> • <a href="https://www.instagram.com/docfilmschicago/?hl=en" target="_blank">instagram</a> • <a href="https://twitter.com/docfilmschicago?lang=en" target="_blank">twitter</a> • <a href="/" target="_blank">newsletter</a></div>
+        
+      </footer>
+    </main>
+  </body>
+</html>

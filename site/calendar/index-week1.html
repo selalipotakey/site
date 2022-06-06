@@ -1,0 +1,804 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Calendar</title>
+
+    <link rel="stylesheet" media="print" href="/fonts/fonts.css?a20b-58dc-aa47" onload="this.media='all'" />
+    <link rel="stylesheet" href="https://use.typekit.net/gul0drw.css" />
+    <style>
+      @charset "UTF-8";*,::after,::before{box-sizing:border-box}ol[class],ul[class]{padding:0}blockquote,body,dd,dl,figure,h1,h2,h3,h4,ol[class],p,ul[class]{margin:0}html{scroll-behavior:smooth}body{min-height:100vh;text-rendering:optimizeSpeed;line-height:1.5}ol[class],ul[class]{list-style:none}a:not([class]){text-decoration:underline;color:currentColor}img{max-width:100%;display:block}button,input,select,textarea{font:inherit}@media (prefers-reduced-motion:reduce){*{animation-duration:10ms!important;animation-iteration-count:1!important;transition-duration:10ms!important;scroll-behavior:auto!important}}h1,h2,h3,h4,summary{font-family:niveau-grotesk,sans-serif}h1,h2,h3,i,li,p,span{font-size:clamp(var(--fluid-type-min,1rem),1rem + var(--fluid-type-target,3vw),var(--fluid-type-max,1.3rem))}h1{--fluid-type-min:2rem;--fluid-type-max:4.5rem;--fluid-type-target:5.4vw;font-weight:400;max-width:15ch}h2{--fluid-type-min:1rem;--fluid-type-max:2rem;--fluid-type-target:1rem}h3{--fluid-type-min:1.5rem;--fluid-type-max:2.5rem}h2,h3{max-width:50ch}li,p{max-width:60ch;line-height:1.8;font-weight:300;--fluid-type-target:1rem;--fluid-type-min:0.8rem;--fluid-type-max:1.1rem}summary{--fluid-type-min:1rem;--fluid-type-max:1.5rem}strong{font-weight:700}.skip-link{display:inline-block;padding:.7rem 1rem .5rem 1rem;text-decoration:none;font-weight:700;text-transform:uppercase;position:absolute;top:1rem;left:1rem}.skip-link:not(:focus){border:0;clip:rect(0 0 0 0);height:auto;margin:0;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap}.wrapper{margin-top:--var(--mt,4rem);position:relative;width:90vw;width:90%;margin-left:auto;margin-right:auto}.flow>*+*{margin-top:var(--flow-space,1rem)}.hr{margin-top:1.5rem}@media (max-width:975px){.hide{display:none}}.big-title{max-width:100%;line-height:1.2}.medium-title{font-family:soleil,sans-serif;font-weight:400;--fluid-type-min:1rem;--fluid-type-max:1.3rem}.full-bleed{width:100vw;margin-left:calc(50% - 50vw);background-color:var(--fbc,#000);color:var(--text-color,#fff)}.make-yellow{color:#ffe127}.logo{font-family:Poppins,sans-serif;font-weight:700}.border{border:0 solid green}.tl{text-align:center}.sidebar-parent{position:relative;display:flex;flex-wrap:wrap;gap:3rem}.sidebar-parent>:first-child{flex-basis:30rem;flex-grow:1}.sidebar-parent>:last-child{flex-basis:0;flex-grow:999;min-inline-size:50%}.ticketinfo{margin-top:2.5rem;margin-bottom:1.5rem;display:flex;gap:3rem}.ticketinfo-pass>span,.ticketinfo-single>span{color:#000;background-color:var(--tc,#e5e5e5);width:3rem;height:3rem;border-radius:50%;padding:4rem;--fluid-type-max:2.5rem;--fluid-type-min:1.5rem}@media (max-width:600px){.ticketinfo-pass>span,.ticketinfo-single>span{padding:2.5rem}}.center,.ticketinfo-pass,.ticketinfo-single{display:flex;flex-direction:column;justify-content:center;align-items:center}body{background:#fff;color:#000;line-height:1.5;font-family:soleil,sans-serif;overflow-x:hidden}.film-grid{display:grid;gap:4rem}@supports (width:min(250px,100%)){.film-grid{grid-template-columns:repeat(auto-fit,minmax(min(500px,100%),1fr))}}.film-grid__card{position:relative}.img{border-top-left-radius:1rem;border-top-right-radius:1rem;width:100%;height:350px;opacity:.9}.card-text{background-color:#fff;padding:1.3rem;z-index:-1;border-radius:1rem;border:1px solid silver;translate:0 -1rem}.desc{display:flex;flex-direction:column;justify-content:space-between}.date{font-size:1.5rem;font-weight:500}header{position:sticky;top:0;z-index:9000}.navigation{display:block;z-index:9000}.navigation ul{display:flex;padding:.3rem;margin:0;justify-content:flex-end;list-style:none}@media (max-width:425px){.navigation ul{justify-content:flex-start;overflow:scroll;padding:.5rem .8rem .6rem .8rem}}ul li{margin-right:2rem}.navigation>ul:nth-child(1){background:#000;color:#f5f5f5}.navigation>ul:nth-child(2){background:#f5f5f5;color:#000}.navigation a{font-size:clamp(var(--fluid-type-min,2rem),1rem + var(--fluid-type-target,2rem),var(--fluid-type-max,3rem));font-weight:500;text-decoration:none}.home-container{height:100%;background-color:#000;color:#fff}.home-playing{background-color:#e5e5e5;color:#000}.about{background:#e5e5e5;color:#000}.visiting-grid{display:flex;flex-wrap:wrap;gap:2rem;justify-content:center}.visiting-grid>*{flex-basis:25rem;border:1px silver solid;padding:2rem;background-color:#f5f5f5}.visiting-landing{margin-top:3rem;margin-bottom:4rem}.sidenav{position:sticky;top:15%;border:1px solid silver;padding:1.5rem;background-color:#f5f5f5}
+    </style>
+      
+  </head>
+  <body>
+    <header>
+  <a href="#main-content" class="skip-link">Skip to content</a>
+  <nav class="navigation">
+    <ul>
+      <li><a href="/">home</a></li>
+      <li><a href="/archive">archive</a></li>
+    </ul>
+    <ul>
+      <li><a href="/about">about</a></li>
+      <li><a href="/calendar">calendar</a></li>
+      <li><a href="/visiting">visiting</a></li>
+      <li><a href="/contact">contact</a></li>
+    </ul>
+  </nav>
+
+</header>
+
+    <main tabindex="-1">
+
+<div class="sidebar-parent | wrapper" style="padding-top: 2.5rem;">
+	<div>
+		<aside class="sidenav">
+			<h3>Winter 2022 Series</h3>
+			<ul>
+				<li><a href="#cal">Full Calendar</a></li>
+				<li><a href="#mon">Monday : Which Side Are You On? Labor and Collection Action On Film </a></li>
+				<li><a href="#tue">Tuesday : Nights of the Swingers! Jazz in Film</a></li>
+				<li><a href="#wed">Wednesday : A Guy Maddin Retrospective... </a></li>
+				<li><a href="#thu1">Thursday I : Keanu and Nic’s Excellent Adventure</a></li>
+				<li><a href="#thu2">Thursday II : No Love in Your Violence: A Takashi Miike Retrospective</a></li>
+				<li><a href="#fri">Friday : Classics of South Korean Cinema</a></li>
+				<li><a href="#sat">Saturday : The French Docspatch: New Releases</a></li>
+				<li><a href="#sun">Sunday : Destroy, She Said: A Marguerite Duras Retrospective </a></li>
+				<li><a href="#cal">Special Events</a></li>
+
+				
+			
+			</ul>
+		</aside>
+	</div>
+
+	<div id="cal" class="flow">
+		<section class="calendar" style="--fbc: e5e5e5; padding-top: 2.5rem;">
+			<h1 class="big-title" style="margin-bottom: 2rem">Calendar: Winter 2022</h1>
+			<iframe
+				src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FChicago&src=Y19zcHRocDBvaXU1aXBvdDY2cjA3OWltM2FpMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23B39DDB"
+				style="border: solid 1px silver"
+				width="800"
+				height="600"
+				frameborder="0"
+				scrolling="no"
+			></iframe>
+		</section>
+		
+
+		<section id="mon">
+			<h1 class="big-title" style="margin-bottom: 2rem">Monday: Which Side Are You On? Labor and Collection Action On Film</h1>
+			
+			
+			<div class="film-grid">
+				
+				<div class="film-grid__card">
+					<!-- <div class="img" style="background:url() no-repeat center center/cover"></div> -->
+					<div class="flow | card-text">
+						<div class="card-desc">
+							<h3>Salt of the Earth</h3>
+							<p>Herbert Biberman | 16mm | 94m</p>
+							<p>Made at the height of the red scare by a crew of blacklisted filmmakers, this film is one of the most audacious projects of political cinema in film history as a dramatization of a strike of Mexican-American zinc miners seeking a living wage and safe working conditions. Narrated from the perspective of a miners wife, the film sounds a powerful call for labour rights and racial equality and raises questions of gender and womens liberation.  </p>
+						</div>
+					</div>
+				</div>
+				
+				<div class="film-grid__card">
+					<!-- <div class="img" style="background:url() no-repeat center center/cover"></div> -->
+					<div class="flow | card-text">
+						<div class="card-desc">
+							<h3>Battleship Potemkin</h3>
+							<p>Sergei Eisenstein | Digital | 66m</p>
+							<p>This double feature brings together two films that depict the coming together of a collective to confront exploitation. A monument of early Soviet cinema, Sergei Eisensteins  Battleship Potemkin  presents a dramatization of the naval mutiny that sparked the First Russian Revolution in 1905. Characterized by striking graphic compositions and inventive montage, the film would inspire leftist filmmakers across the globe, including the American photographer Paul Strand, who acted as the cinematographer for Fred Zinnemann and Emilio Gmez Muriels  Redes , which explores the political awakening of a group of fishermen. Filled with stunning images of waves, clouds, and laboring bodies, this recently restored film offers a lyrical but hard-hitting portrayal of work and resistance on the Gulf of Mexico.</p>
+						</div>
+					</div>
+				</div>
+				
+				<div class="film-grid__card">
+					<!-- <div class="img" style="background:url() no-repeat center center/cover"></div> -->
+					<div class="flow | card-text">
+						<div class="card-desc">
+							<h3>Redes</h3>
+							<p>Emilio Gómez Muriel and Fred Zinnemann | Digital | 65m</p>
+							<p>-</p>
+						</div>
+					</div>
+				</div>
+				
+				<div class="film-grid__card">
+					<!-- <div class="img" style="background:url() no-repeat center center/cover"></div> -->
+					<div class="flow | card-text">
+						<div class="card-desc">
+							<h3>The Gleaners and I</h3>
+							<p>Agnès Varda | DCP | 82m</p>
+							<p>In this documentary, Agns Varda takes the practice of gleaningthe act of gathering leftover food and discarded objectsas the occasion for a playful and self-reflexive inquiry into practices of scavenging, reuse, and art-making at the margins of modern-day consumerism. The film presents a fascinating portrayal of labor and collectivity outside the market while at the same time offering a vision of abundance and beauty in the least expected places.</p>
+						</div>
+					</div>
+				</div>
+				
+				<div class="film-grid__card">
+					<!-- <div class="img" style="background:url() no-repeat center center/cover"></div> -->
+					<div class="flow | card-text">
+						<div class="card-desc">
+							<h3>Coup pour coup</h3>
+							<p>Marin Karmitz | Digital | 89m</p>
+							<p>The problem is not to make political films, but to make films politically.  Jean-Luc Godard. Marin Karmitzs forceful depiction of a wildcat strike carried out by textile factory workers in Rouen was also an experiment in collective filmmaking, with all members of the cast and crew receiving an equal salary. The cast, consisting largely of unemployed factory workers, helped shape the script by sharing their own experiences of labor struggle.</p>
+						</div>
+					</div>
+				</div>
+				
+				<div class="film-grid__card">
+					<!-- <div class="img" style="background:url() no-repeat center center/cover"></div> -->
+					<div class="flow | card-text">
+						<div class="card-desc"> 
+							<h3>Two Days, One Night</h3>
+							<p>Luc Dardenne, Jean-Pierre Dardenne | DCP | 95m</p>
+							<p>After a medical leave of absence, Sandra (Marion Cotillard) learns that her coworkers have been asked to choose between her returning to work and a 1,000 bonus each. With only two days before the vote, she must visit each of them to plead her case. A moving dramatization of the possibility of solidarityand the forces that aim to thwart itthe film is the most optimistic entry in the Dardenne brothers chronicle of the lives of the Belgian working class.</p>
+						</div>
+					</div>
+				</div>
+				
+				<div class="film-grid__card">
+					<!-- <div class="img" style="background:url() no-repeat center center/cover"></div> -->
+					<div class="flow | card-text">
+						<div class="card-desc">
+							<h3>Harlan County, USA</h3>
+							<p>Barbara Kopple | Digital | 103m</p>
+							<p>Barbara Kopple&#39;s Academy Award winning documentary of the Brookside Strike depicts mineworkers struggling for solidarity amongst injunctions, scabs, and armed thugs perpetrated by the Duke Power Company. Shot in 1973, the film still has contemporary relevance as miners in Alabama have been on strike for several months against Warrior Met Coal, and both the company and the union are deploying many of the same tactics depicted in this film.</p>
+						</div>
+					</div>
+				</div>
+				
+				<div class="film-grid__card">
+					<!-- <div class="img" style="background:url() no-repeat center center/cover"></div> -->
+					<div class="flow | card-text">
+						<div class="card-desc">
+							<h3>Finally Got the News</h3>
+							<p>Rene Lichtman, Peter Gessner, Stewart BirdG | Digital | 55m</p>
+							<p>Filmed from 1969-70, this documentary offers a look at the League of Revolutionary Black Workers as they organized in Detroit against both the big car companies and their racist and anti-democratic union leadership. The League and their view that both the oppression and the potential power of Black Americans is located in the workplace stands in contrast with many New Left groups of their era, including the white activist documentarians. </p>
+						</div>
+					</div>
+				</div>
+				
+		</section>
+		
+		<section id="tue">
+			<h1 class="big-title" style="margin-bottom: 2rem">Tuesday: Nights of the Swingers! Jazz in Film</h1>
+			<div class="film-grid">
+				
+				<div class="film-grid__card">
+					<!-- <div class="img" style="background:url() no-repeat center center/cover"></div> -->
+					<div class="flow | card-text">
+						<div class="card-desc">
+							<h3>St. Louis Blues</h3>
+							<p>Dudley Murphy | DCP | 16m</p>
+							<p>Made from the only known surviving print, this digitized short stars classic blues artist Bessie Smith in her only film, plus pianist James P. Johnson and Fletcher Hendersons orchestra, performing the W. C. Handy standard, St. Louis Blues.  </p>
+						</div>
+					</div>
+				</div>
+				
+				<div class="film-grid__card">
+					<!-- <div class="img" style="background:url() no-repeat center center/cover"></div> -->
+					<div class="flow | card-text">
+						<div class="card-desc">
+							<h3>Stormy Weather</h3>
+							<p>Andrew L. Stone | DCP | 78m</p>
+							<p>One of only a few major feature films to star an all-black cast in the 1940s, and an all-star one at that: Lena Horne, Bill Robinson, Cab Calloway, Fats Waller, and the phenomenal Nicholas brothers are just a few of the stars to grace the screen in this semi-biographical musical adaptation of Bill Robinson&#39;s life.</p>
+						</div>
+					</div>
+				</div>
+				
+				<div class="film-grid__card">
+					<!-- <div class="img" style="background:url() no-repeat center center/cover"></div> -->
+					<div class="flow | card-text">
+						<div class="card-desc">
+							<h3>Cabin in the Sky</h3>
+							<p>Vincente Minelli and Busby Berkeley | 35mm | 98m</p>
+							<p>When compulsive gambler Little Joe (Eddie Anderson, AKA  Jack Benny s Rochester) dies in a fight, heaven and hell compete for his soul. Will he stay with his loyal wife (singing star Ethel Waters) or go with a sultry songstress (Lena Horne)? Hit songs like Taking a Chance on Love and Happiness Is a Thing Called Joe alongside performances by the Hall Johnson Choir and the Duke Ellington band add to the delight of this all-black musical.</p>
+						</div>
+					</div>
+				</div>
+				
+				<div class="film-grid__card">
+					<!-- <div class="img" style="background:url() no-repeat center center/cover"></div> -->
+					<div class="flow | card-text">
+						<div class="card-desc">
+							<h3>Young Man With A Horn</h3>
+							<p>Michael Curtiz | 35mm | 112m</p>
+							<p>Jazz-obsessed Rick (Kirk Douglas) pretends to play his trumpet while an unseen Harry James plays the actual notes in a tale based on the legend of 1920s star cornetist Bix Beiderbecke. Rick has to perform in corny dance bands while he yearns to play the jazz he loves. Moreover, hes torn between the seductions of Ms. Right (Doris Day), Ms. Wrong (Lauren Bacall), and Demon Rumyoull never guess which wins. Watch for a glimpse of young Dexter Gordon.</p>
+						</div>
+					</div>
+				</div>
+				
+				<div class="film-grid__card">
+					<!-- <div class="img" style="background:url() no-repeat center center/cover"></div> -->
+					<div class="flow | card-text">
+						<div class="card-desc">
+							<h3>Symphony in Black: A Rhapsody of Negro Life</h3>
+							<p>Fred Waller | DCP | 9m</p>
+							<p>A rare film of a suite composed by Duke Ellington, with his band and Billie Holiday in her film debut.</p>
+						</div>
+					</div>
+				</div>
+				
+				<div class="film-grid__card">
+					<!-- <div class="img" style="background:url() no-repeat center center/cover"></div> -->
+					<div class="flow | card-text">
+						<div class="card-desc">
+							<h3>Shadows</h3>
+							<p>John Cassavetes | DCP | 87m</p>
+							<p>Jazz, youthful ambition, interracial love, and making the scene are among the themes of Cassavetes first feature film as a director. Two African-American brothers, an immature trumpeter and an unstylish singer, and their sister, a writer, struggle amidst New Yorks Beat Generation, to the music of solo saxophonist Shafi Hadi and Charles Minguss band.</p>
+						</div>
+					</div>
+				</div>
+				
+				<div class="film-grid__card">
+					<!-- <div class="img" style="background:url() no-repeat center center/cover"></div> -->
+					<div class="flow | card-text">
+						<div class="card-desc">
+							<h3>The Connection</h3>
+							<p>Shirley Clarke | DCP | 110m</p>
+							<p>Men Held Captive by the Power of Drugs blares the ad for Clarkes innovative first feature. A painfully realistic adaptation of an off-Broadway play,  The Connection  shows desperate junkies awaiting their next fix. At times characters speak directly to the camera despite a naive film director&#39;s cues to act natural. This raw film stars Warren Finnerty and co-stars composer-pianist Freddie Redds quartet, including the alto sax legend Jackie McLean.</p>
+						</div>
+					</div>
+				</div>
+				
+				<div class="film-grid__card">
+					<!-- <div class="img" style="background:url() no-repeat center center/cover"></div> -->
+					<div class="flow | card-text">
+						<div class="card-desc">
+							<h3>Round Midnight</h3>
+							<p>Bertrand Tavernier | 35mm | 133m</p>
+							<p>Beloved tenor sax Long Tall Dexter Gordon, a real-life African-American expatriate in Europe, stars as a declining African-American expatriate tenor sax in Paris. Tragedy and black humor mark his slow slide into permanent oblivion, interrupted by the ministrations of an adoring fan. Its a fictional version of pianist Bud Powells story, and jazz favorites like Herbie Hancock, Freddie Hubbard, Billy Higgins, and Bobby Hutcherson comprise most of the cast.</p>
+						</div>
+					</div>
+				</div>
+				
+				<div class="film-grid__card">
+					<!-- <div class="img" style="background:url() no-repeat center center/cover"></div> -->
+					<div class="flow | card-text">
+						<div class="card-desc">
+							<h3>Mo&#39; Better Blues</h3>
+							<p>Spike Lee | 35mm | 129m</p>
+							<p>Trumpeter Bleek Gilliam, portrayed by Denzel Washington, leads a dream of a life, fronting his own hard-bop band in a long-running nightclub gig and successfully romancing two lovers who dont know each other. How can his sidemen (among them Wesley Snipes), his weaselly manager (Spike Lee), and the two ladies possibly bring him sorrow? Trumpeter Terence Blanchard, a Lee-film favorite, and the Branford Marsalis Quintet make the music that makes the story.</p>
+						</div>
+					</div>
+				</div>
+				
+		</section>
+		
+		<section id="wed">
+			<h1 class="big-title" style="margin-bottom: 2rem">Wednesday: A Guy Maddin Retrospective... </h1>
+			<div class="film-grid">
+				
+				<div class="film-grid__card">
+					<!-- <div class="img" style="background:url() no-repeat center center/cover"></div> -->
+					<div class="flow | card-text">
+						<div class="card-desc">
+							<h3>Archangel</h3>
+							<p>Guy Maddin | 35mm | 90m</p>
+							<p>In the Arkhangelsk region of Russia in 1919, a one-legged Canadian solider and victim of amnesia (by way of mustard gas) mistakes a nurse for his dead wife. Meanwhile, her own husband, suffering the same affliction, forgets that he is married. Filmed in a style reminiscent of the late silent to early talkie era of cinema,  Archangel  is perhaps the only film fictionalizing the Bolshevik Revolution that features an invasion of bunny rabbits. </p>
+						</div>
+					</div>
+				</div>
+				
+				<div class="film-grid__card">
+					<!-- <div class="img" style="background:url() no-repeat center center/cover"></div> -->
+					<div class="flow | card-text">
+						<div class="card-desc">
+							<h3>Careful</h3>
+							<p>Guy Maddin | 35mm | 100m</p>
+							<p>Guy Maddin&#39;s third film is set in Tolzbad, a fictional 19th century Alpine village where citizens must whisper for fear of their voices setting off an avalanche. A parable about sexual repression that eventually twists itself into incestuous love triangles and familial intrigue, Maddin&#39;s first color film mixes German expressionism and the color tinting of old silent films with a vivid surrealness that is reminiscent of  The Wizard of Oz . </p>
+						</div>
+					</div>
+				</div>
+				
+				<div class="film-grid__card">
+					<!-- <div class="img" style="background:url() no-repeat center center/cover"></div> -->
+					<div class="flow | card-text">
+						<div class="card-desc">
+							<h3>Dracula, Pages from a Virgin&#39;s Diary</h3>
+							<p>Guy Maddin | 35mm | 75m</p>
+							<p>Maddin underlines the erotic horror lurking in Bram Stoker&#39;s story as well as infusing it with his signature humor with title cards like, She&#39;s filled with polluted blood! Dracula is interpreted by the Royal Winnipeg Ballet, set to Mahler and shot like a silent film on low-res formats including 16mm and Super 8. Admittedly not a fan of ballet or Dracula when first commissioned, Maddin transcends preconceptions about either into a work all his own.</p>
+						</div>
+					</div>
+				</div>
+				
+				<div class="film-grid__card">
+					<!-- <div class="img" style="background:url() no-repeat center center/cover"></div> -->
+					<div class="flow | card-text">
+						<div class="card-desc">
+							<h3>Sissy Boy Slap Party</h3>
+							<p>Guy Maddin | Digital | 6m</p>
+							<p>no capsule needed; simply add, Preceded by  Sissy Boy Slap Party  to the capsule for COWARDS.</p>
+						</div>
+					</div>
+				</div>
+				
+				<div class="film-grid__card">
+					<!-- <div class="img" style="background:url() no-repeat center center/cover"></div> -->
+					<div class="flow | card-text">
+						<div class="card-desc">
+							<h3>Cowards Bend the Knee</h3>
+							<p>Guy Maddin | Digital | 64m</p>
+							<p>Originally intended to be 10 short films seen through a series of peepholes, this is the first in Maddin&#39;s autobiographical trilogy which includes  Brand Upon the Brain!  and  My Winnipeg . Shot on Super 8 in the style of a frenetic silent film, we visit themes of betrayal, revenge and regret. Maddin blends melodrama and pathos with humorfeaturing a ghost, a beauty salon-bordello combo, and his signature hockey players. Preceded by  Sissy Boy Slap Party .</p>
+						</div>
+					</div>
+				</div>
+				
+				<div class="film-grid__card">
+					<!-- <div class="img" style="background:url() no-repeat center center/cover"></div> -->
+					<div class="flow | card-text">
+						<div class="card-desc">
+							<h3>The Heart of the World</h3>
+							<p>Guy Maddin | DCP | 6m</p>
+							<p>-</p>
+						</div>
+					</div>
+				</div>
+				
+				<div class="film-grid__card">
+					<!-- <div class="img" style="background:url() no-repeat center center/cover"></div> -->
+					<div class="flow | card-text">
+						<div class="card-desc">
+							<h3>The Saddest Music in the World</h3>
+							<p>Guy Maddin | 35mm | 100m</p>
+							<p>If you are sad and like beer, I&#39;m your lady. Taking place at the end of Prohibition and filmed in a style reminiscent of that era, Lady Port-Huntley (Isabella Rossellini), a beer baroness amputee with glass beer bottles for legs, holds an Olympic-style competition to find the saddest music in the world. Meanwhile, an old timey villainplayed by The Kids in the Halls Mark McKinneyplots to win it. Preceded by  The Heart of the World .</p>
+						</div>
+					</div>
+				</div>
+				
+				<div class="film-grid__card">
+					<!-- <div class="img" style="background:url() no-repeat center center/cover"></div> -->
+					<div class="flow | card-text">
+						<div class="card-desc">
+							<h3>My Winnipeg</h3>
+							<p>Guy Maddin | 35mm | 80m</p>
+							<p>Originally titled Love Me, Love My Winnipeg, this surrealist pseudo-documentary/mockumentary mythologizes Winnipeg history and Maddin&#39;s own childhood through the blending of fact, fantasy and memory. Claiming Winnipeg has 10x more sleepwalkers than any other city, he reenacts childhood memories at his parents&#39; 65th anniversary celebration (despite his father having been dead for some years) in their old family home above a beauty parlor.</p>
+						</div>
+					</div>
+				</div>
+				
+				<div class="film-grid__card">
+					<!-- <div class="img" style="background:url() no-repeat center center/cover"></div> -->
+					<div class="flow | card-text">
+						<div class="card-desc">
+							<h3>The Forbidden Room</h3>
+							<p>Guy Maddin | Digital | 130m</p>
+							<p>In a submarine carrying a substance that will explode if the crew resurfaces, a woodsman mysteriously arrives and attempts to save them as they navigate through a labyrinth of passageways. Codirected by Evan Johnson and starring Udo Kier and Charlotte Rampling, characters narrate a series of surrealistic stories involving a mustache that seeks to comfort the widow of the man it once adorned and a girl whose boyfriends turn into blackened bananas. </p>
+						</div>
+					</div>
+				</div>
+				
+		</section>
+		
+		<section id="thu1">
+			<h1 class="big-title" style="margin-bottom: 2rem">Thursday I: Keanu and Nic’s Excellent Adventure </h1>
+			<div class="film-grid">
+				
+				<div class="film-grid__card">
+					<!-- <div class="img" style="background:url() no-repeat center center/cover"></div> -->
+					<div class="flow | card-text">
+						<div class="card-desc">
+							<h3>Moonstruck</h3>
+							<p>Norman Jewison | Digital | 102m</p>
+							<p>Loretta Castorini (Cher), a New York bookkeeper and widow, has just become engaged again when her fiance leaves to Sicily to be with his dying mother. Left to organize a traditional Italian wedding, Loretta seeks out Ronny (Cage), her fiance&#39;s estranged brother and victim of a tragic baking accident. That&#39;s Amore permeates this touching rom-com, which won Cher, supporting actress Olympia Dukakis, and screenwriter John Patrick Shanley Oscars in 1988.</p>
+						</div>
+					</div>
+				</div>
+				
+				<div class="film-grid__card">
+					<!-- <div class="img" style="background:url() no-repeat center center/cover"></div> -->
+					<div class="flow | card-text">
+						<div class="card-desc">
+							<h3>Chain Reaction</h3>
+							<p>Andrew Davis | Digital | 107m</p>
+							<p>Though this film may not be Keanu Reeves&#39; finest achievement, it&#39;s the only one where he partakes in the Life of the Mind. When mysterious assailants destroy a promising clean-energy experiment, it is up to University of Chicago researcher Eddie (Reeves) to uncover a vast consipiracy while avoiding being framed for the attack. Filmed on location in Chicago, viewers will recognize many familiar spots such as 53rd Street and the Michigan Avenue Bridge.</p>
+						</div>
+					</div>
+				</div>
+				
+				<div class="film-grid__card">
+					<!-- <div class="img" style="background:url() no-repeat center center/cover"></div> -->
+					<div class="flow | card-text">
+						<div class="card-desc">
+							<h3>Raising Arizona</h3>
+							<p>Joel Coen and Ethan Coen | 35mm | 94m</p>
+							<p>Do you like films with Crime? Kidnapping? Romance? Nick Cage doing a Southern accent? Well,  Raising Arizona  at Doc is just the flick for you. Co-starring Coen Brother favorites John Goodman and Frances McDormand, follow ex-convict Herbert I. Hi McDunnough (Cage) and his ex-prison guard wife Edwina Ed McDunnough (Holly Hunter) as they try to navigate the ups and downs of forming a family in the Coen Brothers second major motion picture.</p>
+						</div>
+					</div>
+				</div>
+				
+				<div class="film-grid__card">
+					<!-- <div class="img" style="background:url() no-repeat center center/cover"></div> -->
+					<div class="flow | card-text">
+						<div class="card-desc">
+							<h3>Speed</h3>
+							<p>Jan de Bont | DCP | 116m</p>
+							<p>The first film of Keanu&#39;s short hair era,  Speed  is an action classic that has been continuously satirized, referenced, and copied since its release. LA cop Jack Traven (Reeves) is fresh off of a successful hostage rescue when he finds himself aboard a bus rigged to explode if its speed drops below 50 mph. One of the greatest public transit action films ever,  Speed  also features a critically praised performance by the legendary Dennis Hopper.</p>
+						</div>
+					</div>
+				</div>
+				
+				<div class="film-grid__card">
+					<!-- <div class="img" style="background:url() no-repeat center center/cover"></div> -->
+					<div class="flow | card-text">
+						<div class="card-desc">
+							<h3>The Matrix</h3>
+							<p>Lana and Lilly Wachowski | 35mm | 136m</p>
+							<p>What is real? How do you define &#39;real&#39;? These are the questions asked by Morpheus (Laurence Fishburn) in this classic sci-fi action film from the Wachowski sisters. Keanu Reeves plays Neo, a computer programmer who has a feeling that something is wrong with the very reality he lives in. Though this role was initially offered to Nic Cage, Reeves embodies Neo charmingly in this classic and always-fun movie about questioning the structures we live within.</p>
+						</div>
+					</div>
+				</div>
+				
+				<div class="film-grid__card">
+					<!-- <div class="img" style="background:url() no-repeat center center/cover"></div> -->
+					<div class="flow | card-text">
+						<div class="card-desc">
+							<h3>Face/Off</h3>
+							<p>John Woo | 35mm | 138m</p>
+							<p> Face Off , directed by John Woo, stars John Travolta and Nicolas Cage as sworn enemies who must adopt each others physical appearances, namely their faces, in order to foil a terrorist plot. Both Travolta and Cage earned great acclaim for their performances of each other. Part of the Holy Trinity of Nicolas Cage films, including  Con Air  and  The Rock , this movie has inspired later films such as  Infernal Affairs  and its adaptation  The Departed .</p>
+						</div>
+					</div>
+				</div>
+				
+				<div class="film-grid__card">
+					<!-- <div class="img" style="background:url() no-repeat center center/cover"></div> -->spective' 
+					</div>
+				</div>
+				
+		</section>
+		
+		<section id="thu2">
+			<h1 class="big-title" style="margin-bottom: 2rem">Thursday II: No Love in Your Violence: A Takashi Miike Retrospective </h1>
+			<div class="film-grid">
+				
+				<div class="film-grid__card">
+					<!-- <div class="img" style="background:url() no-repeat center center/cover"></div> -->
+					<div class="flow | card-text">
+						<div class="card-desc">
+							<h3>Audition</h3>
+							<p>Takashi Miike | 35mm | 113m</p>
+							<p>Considered a true masterpiece by Quentin Tarantino and a personal favorite by Eli Roth,  Audition  is Miikes horrifying portrayal of what happens when two people fall in love for all the wrong reasons. When widower Aoyama decides hes ready to remarry, he sets up a fake casting call to meet prospective partners. When he realizes that the woman he meets is not the perfect wife he envisioned, the romance turns into an ultra-violent revenge thriller.</p>
+						</div>
+					</div>
+				</div>
+				
+				<div class="film-grid__card">
+					<!-- <div class="img" style="background:url() no-repeat center center/cover"></div> -->
+					<div class="flow | card-text">
+						<div class="card-desc">
+							<h3>Ichi the Killer</h3>
+							<p>Takashi Miike | Digital | 129m</p>
+							<p>Banned in multiple countries upon its release,  Ichi the Killer  is violence at its most maniacal. This manga adaptation tells of a sadomasochistic gangster who seeks to battle an infamous assassin known for his gruesomeness. Little does he know that the assassin, the titular Ichi, is actually a brainwashed crybaby who can only kill when forced into a panic attack. Equal parts comedy and horror, this film tests an audiences capacity for violence.</p>
+						</div>
+					</div>
+				</div>
+				
+				<div class="film-grid__card">
+					<!-- <div class="img" style="background:url() no-repeat center center/cover"></div> -->
+					<div class="flow | card-text">
+						<div class="card-desc">
+							<h3>The Bird People in China</h3>
+							<p>Takashi Miike | 35mm | 118m</p>
+							<p>Blending fantasy with poetic realism,  The Bird People in China  is a modern fable about two men who travel to a remote Chinese village in search of jade. Upon arrival, they meet a blue-eyed woman who tells of an ancient myth about her flying ancestors. Enraptured, the two men stay to try to discover the villages mysterious history. Shot on location in Yunnan, China, this is one of Miikes most beautiful films, and a prime example of his dramatic prowess.</p>
+						</div>
+					</div>
+				</div>
+				
+				<div class="film-grid__card">
+					<!-- <div class="img" style="background:url() no-repeat center center/cover"></div> -->
+					<div class="flow | card-text">
+						<div class="card-desc">
+							<h3>Ley Lines</h3>
+							<p>Takashi Miike | DCP | 105m</p>
+							<p>One of Takashi Miikes best character-driven films,  Ley Lines  is an exploration the underbelly of Japanese society via an outsiders perspective. The film follows three Japanese teenagers who are ostracized due to their Chinese heritage. They try to earn money selling drugs in hopes of running away to Brazil, but after making little progress, they must risk it all and steal big from a local crime boss if they hope to have any chance of leaving Japan.</p>
+						</div>
+					</div>
+				</div>
+				
+				<div class="film-grid__card">
+					<!-- <div class="img" style="background:url() no-repeat center center/cover"></div> -->
+					<div class="flow | card-text">
+						<div class="card-desc">
+							<h3>Dead or Alive</h3>
+							<p>Takashi Miike | DCP | 105m</p>
+							<p>Starting with a stripper falling to her death with a bag of cocaine in her hand, this film is a fever dream of drugs, sex and violent excess. A perfect encapsulation of Miikes chaotic directorial style, the scene sets the stage for the ensuing rivalry between corrupt cop Jojima and Yakuza boss Ryūichi. This film has endless bloodshed, a woman drowning in her own feces, and a climactic battle so big it can only end with the destruction of the entire world.</p>
+						</div>
+					</div>
+				</div>
+				
+				<div class="film-grid__card">
+					<!-- <div class="img" style="background:url() no-repeat center center/cover"></div> -->
+					<div class="flow | card-text">
+						<div class="card-desc">
+							<h3>Dead or Alive 2: Birds</h3>
+							<p>Takashi Miike | DCP | 97m</p>
+							<p>A spiritual sequel to  Dead or Alive , this film begins with two hitmen realizing that theyre not only after the same target, but they are also long-lost childhood friends. Returning to their home island, they reconnect and reminisce on simpler daysbut their respite ends when they learn they have unfinished Yakuza business. Mixing frenzied carnage with nostalgic tranquility, this film is an ode to the innocence of youth and the violence of adulthood.</p>
+						</div>
+					</div>
+				</div>
+				
+				<div class="film-grid__card">
+					<!-- <div class="img" style="background:url() no-repeat center center/cover"></div> -->
+					<div class="flow | card-text">
+						<div class="card-desc">
+							<h3>Mystery Screening</h3>
+							<p>Takashi Miike |  | </p>
+							<p></p>
+						</div>
+					</div>
+				</div>
+				
+		</section>
+		
+		<section id="fri">
+			<h1 class="big-title" style="margin-bottom: 2rem">Friday: Classics of South Korean Cinema</h1>
+			<div class="film-grid">
+				
+				<div class="film-grid__card">
+					<!-- <div class="img" style="background:url() no-repeat center center/cover"></div> -->
+					<div class="flow | card-text">
+						<div class="card-desc">
+							<h3>The Housemaid</h3>
+							<p>Kim Ki-young | DCP | 111m</p>
+							<p>In Kim Ki-young's intensely psychological domestic thriller, a composer hires a housemaid to assist his newly pregnant wife. The family begins to spin out of control as the two women vie for the composer&#39;s attention amidst his failures as a husband and a lover.  The Housemaid  is perhaps the best-known film of South Korean cinemas first Golden Age, and Bong Joon-ho has cited the film as a key influence on  Parasite  and one of his all-time favorites. </p>
+						</div>
+					</div>
+				</div>
+
+								<div class="film-grid__card">
+					<!-- <div class="img" style="background:url() no-repeat center center/cover"></div> -->
+					<div class="flow | card-text">
+						<div class="card-desc">
+							<h3>My Mother and Her Houseguest</h3>
+							<p>Shin Sang-ok | Digital | 102m</p>
+							<p>One of the great melodramas of the first Golden Age of South Korean cinema. A widowed mother, living with her young daughter, her mother-in-law, and her housekeeper, takes in a boarder and develops a romance with him. The film is told from the perspective of six-year-old Ok-hee, who witnesses the interactions of her mother with the boarder and acts as their messenger, without fully understanding their feelings or the social ramifications of their love.</p>
+						</div>
+					</div>
+				</div>
+
+								<div class="film-grid__card">
+					<!-- <div class="img" style="background:url() no-repeat center center/cover"></div> -->
+					<div class="flow | card-text">
+						<div class="card-desc">
+							<h3>Madame Freedom</h3>
+							<p>Han Hyeong-mo | Digital | 125m</p>
+							<p>Professor Jang and his wife Sunyoung outwardly appear to be a respectable upper-class Seoulite couple, but their marriage is tested as each entertains the possibility of an affair. As Sunyoung gives in to temptation, her indulgences lead to her downfall. The film's scandalousness made it both incredibly popular and controversial when it was released, cementing its position as a classic melodrama from the first Golden Age of South Korean Cinema. </p>
+						</div>
+					</div>
+				</div>
+
+								<div class="film-grid__card">
+					<!-- <div class="img" style="background:url() no-repeat center center/cover"></div> -->
+					<div class="flow | card-text">
+						<div class="card-desc">
+							<h3>Aimless Bullet</h3>
+							<p>Yu Hyeon-mok | DCP | 112m</p>
+							<p>In his neorealist magnum opus, director Yu Hyun-mok chronicles an impoverished family scarred by the Korean War. Set in a dictatorial 1960s Seoul, Cheolho is an accountant and veteran caring for his pregnant wife, his mother with PTSD, and his sister who has turned to prostitution to make ends meet. The film narrates Cheolho's struggle to find a job while being plagued by his past—both in his memories of the war and the violence of his daily life.</p>
+						</div>
+					</div>
+				</div>
+
+								<div class="film-grid__card">
+					<!-- <div class="img" style="background:url() no-repeat center center/cover"></div> -->
+					<div class="flow | card-text">
+						<div class="card-desc">
+							<h3>The Coachman</h3>
+							<p>Kang Dae-jin | DCP | 120m</p>
+							<p>The first Korean film to win an award at an international film festival. _The Coachman_ depicts the life of a single father who makes his living by operating a horse-drawn cart in Seoul as his way of life becomes obsolete. Like _Aimless Bullet_, this film presents a frank view of those left behind in modernizing South Korea, albeit with a greater sense of hope for the future. Ranked #5 on the Korean Film Archive’s 2014 list of Best Korean films.</p>
+						</div>
+					</div>
+				</div>
+
+								<div class="film-grid__card">
+					<!-- <div class="img" style="background:url() no-repeat center center/cover"></div> -->
+					<div class="flow | card-text">
+						<div class="card-desc">
+							<h3>The Daughters of Kim's Pharmacy (1963)</h3>
+							<p>Yu Hyeon-mok | Digital | 109m</p>
+							<p>In the beautiful city of Tongyeong along Korea’s southeastern coast, pharmacist Kim is convinced that an old curse on his family is the source of him and his four daughters' misfortune. Ostensibly a family drama, _The Daughters of Kim’s Pharmacy_ (dir. Yu Hyun-mok, also _Aimless Bullet_) features eerily atmospheric sets, shamanism, and axe-wielding opium addicts in a narrative that rises to an unpredictable frenzy as it progresses to its finale. </p>
+						</div>
+					</div>
+				</div>
+
+												<div class="film-grid__card">
+					<!-- <div class="img" style="background:url() no-repeat center center/cover"></div> -->
+					<div class="flow | card-text">
+						<div class="card-desc">
+							<h3>A Flower In Hell (1958)</h3>
+							<p>Shin Sang-ok | DCP | 86m</p>
+							<p>A picture of 1950s South Korea, A Flower in Hell depicts a society ravaged in the aftermath of the Korean War. Freshly out of the military, young Dong-shik comes to Seoul to convince his brother Young-shik, who steals American army base supplies with the help of local prostitutes, to come home and leave his thievery behind. Instead, Dong-shik finds himself seduced by his brother's girlfriend, the prostitute Sonia, who helps Young-shik in his operations.</p>
+						</div>
+					</div>
+				</div>
+		</section>
+		
+		<section id="sat">
+			<h1 class="big-title" style="margin-bottom: 2rem">Saturday: The French Docspatch: New Releases</h1>
+			<div class="film-grid">
+				
+				<div class="film-grid__card">
+					<!-- <div class="img" style="background:url() no-repeat center center/cover"></div> -->
+					<div class="flow | card-text">
+						<div class="card-desc">
+							<h3>Dune</h3>
+							<p>Denis Villeneuve | DCP | 155m</p>
+							<p>In this adaptation of Frank Herbert&#39;s 1965 novel, hero&#39;s journey and geopolitical allegory come together into one of 2021&#39;s most anticipated movies. Paul Atreides must travel to the most dangerous planet in the universe to secure the future of his family and his people. Malevolent forces explode into conflict over the planets exclusive supply of the most precious resource in existence: a commodity capable of unlocking humanity&#39;s greatest potential.</p>
+						</div>
+					</div>
+				</div>
+				
+				<div class="film-grid__card">
+					<!-- <div class="img" style="background:url() no-repeat center center/cover"></div> -->
+					<div class="flow | card-text">
+						<div class="card-desc">
+							<h3>Dune</h3>
+							<p>David Lynch | DCP | 137m</p>
+							<p>Lynch was approached to adapt this seemingly unadaptable sci-fi staple on the strength of his  Elephant Man  receiving eight Oscar nominations. He was given a huge-for-its-time budget and a stacked cast (including mega rockstar Sting), but not the final cut of the film. His truncated vision bombed, but eventually gained a cult following for its fever-dream imagery, kinky grotesquerie, and camp strangeness. Join us for a  Dune  double feature!</p>
+						</div>
+					</div>
+				</div>
+				
+				<div class="film-grid__card">
+					<!-- <div class="img" style="background:url() no-repeat center center/cover"></div> -->
+					<div class="flow | card-text">
+						<div class="card-desc">
+							<h3>Titane</h3>
+							<p>Julia Ducournau | DCP | 108m</p>
+							<p>A Palme d&#39;Or-winning work of body horror, Julia Ducournau delivers a film evading description. The French-Belgian co-production stars Agathe Rousselle in her feature film debut as Alexia, a woman who, after being injured in a car accident as a child, has a titanium plate fitted in her head.  This is a work about love, rage, and loneliness, expressed through outlandish physical metaphors, finding lineage in the works of David Cronenberg. </p>
+						</div>
+					</div>
+				</div>
+				
+				<div class="film-grid__card">
+					<!-- <div class="img" style="background:url() no-repeat center center/cover"></div> -->
+					<div class="flow | card-text">
+						<div class="card-desc">
+							<h3>Bergman Island</h3>
+							<p>Mia Hansen-Løve | DCP | 112m</p>
+							<p>Filmmaking couple Tony and Chris go on a writing retreat to Frthe island where Ingmar Bergman lived, died, and conceived of his sobering exploration of divorce,  Scenes from a Marriage . As tensions rise between Tony and Chrisin part due to the latter&#39;s inexperience in the filmmaking worldwe are transported inside a movie pitch, as the couple thinks through their relationship by exploring another story in a place [just] like this.</p>
+						</div>
+					</div>
+				</div>
+				
+				<div class="film-grid__card">
+					<!-- <div class="img" style="background:url() no-repeat center center/cover"></div> -->
+					<div class="flow | card-text">
+						<div class="card-desc">
+							<h3>The French Dispatch</h3>
+							<p>Wes Anderson | DCP | 108m</p>
+							<p>Inspired by the director&#39;s love of  The New Yorker , Wes Anderson&#39;s latest film centres the staff and stories of a magazine called  The French Dispatch . When the newspaper&#39;s editor, Arthur Howitzer Jr., dies suddenly of a heart attack, the newspaper staff decide to publish a memorial edition highlighting the three best stories from the last decade: an artist sentenced to life imprisonment, student riots, and a kidnapping resolved by a chef. </p>
+						</div>
+					</div>
+				</div>
+				
+				<div class="film-grid__card">
+					<!-- <div class="img" style="background:url() no-repeat center center/cover"></div> -->
+					<div class="flow | card-text">
+						<div class="card-desc">
+							<h3>Lamb</h3>
+							<p>Valdimar Jóhannsson | DCP | 106m</p>
+							<p>Icelandic director Vladimar Jhannsson&#39;s feature debut is an outrageous fantasy thriller, co-written by lyricist and Bjrk-collaborator Sjn. It centers Mara and Ingvar, an unhappy couple living on a mountainous farm in Iceland, who have lost their only child. When one of their pregnant sheep gives birth to a half-lamb/half-human hybrid, a sense of family is renewed among the couple. But will their newfound joy last, or will the loneliness creep back in?</p>
+						</div>
+					</div>
+				</div>
+				
+				<div class="film-grid__card">
+					<!-- <div class="img" style="background:url() no-repeat center center/cover"></div> -->
+					<div class="flow | card-text">
+						<div class="card-desc">
+							<h3>C&#39;mon C&#39;mon</h3>
+							<p>Mike Mills | DCP | 110m</p>
+							<p>In Mike Mills refreshingly sensitive tale of the relationships between adults and children, Joaquin Phoenix plays Johnny, an audio producer who interview kids about the future, but never stops to think about it himself. But when Johnnys sister asks him to take care of her inquisitive son Jesse (Woody Norman), Johnny is thrust into the world of quasi-parenthood, which opens him up to a newfound appreciation of the world and the love it has to offer.</p>
+						</div>
+					</div>
+				</div>
+				
+				<div class="film-grid__card">
+					<!-- <div class="img" style="background:url() no-repeat center center/cover"></div> -->
+					<div class="flow | card-text">
+						<div class="card-desc">
+							<h3>No Time to Die</h3>
+							<p>Cary Joji Fukunaga | DCP | 163m</p>
+							<p>Daniel Craig returns for the fifth and final time as James Bond, now retired from MI6, reluctantly drawn back into service in response to an international power grab over a terrifying new bioweapon. When it falls into the wrong hands, Bond must team up with his old agency (and his lost lover) to save the world, if he can manage.  La Seydoux returns as Madeleine Swann in a chilling performance that may not let you leave without tear-stained cheeks.</p>
+						</div>
+					</div>
+				</div>
+				
+		</section>
+		
+		<section id="sun">
+			<h1 class="big-title" style="margin-bottom: 2rem"> Sunday : Destroy, She Said: A Marguerite Duras Retrospective
+			</h1>
+			<div class="film-grid">
+				
+				<div class="film-grid__card">
+					<!-- <div class="img" style="background:url() no-repeat center center/cover"></div> -->
+					<div class="flow | card-text">
+						<div class="card-desc">
+							<h3>Hiroshima Mon Amour</h3>
+							<p>Alain Resnais | DCP | 92m</p>
+							<p>A love affair between a French actress (Emanuelle Riva) and a Japanese architect (Eiji Okada) is haunted by memories of World War II, rendered through startling jump cuts and a disembodied voiceover. A defining moment of the Nouvelle Vague, Eric Rohmer famously called it the most important film since the war, the first modern film of sound cinema. Hot off the success of  Moderato Contabile , Duras reportedly wrote the script in less than two months.</p>
+						</div>
+					</div>
+				</div>
+				
+				<div class="film-grid__card">
+					<!-- <div class="img" style="background:url() no-repeat center center/cover"></div> -->
+					<div class="flow | card-text">
+						<div class="card-desc">
+							<h3>Une aussi longue absence</h3>
+							<p>Henri Colpi | 35mm | 98m</p>
+							<p>Alida Valli stars in this Palme d&#39;Or winner as a caf owner plagued with grief, struggling to restore the memories of an amnesiac who might be her long-lost husband. Duras&#39; script inverts the structure of the central relationship of  Hiroshima Mon Amour  and prefigures the haunting memory games of Christian Petzold&#39;s  Phoenix . Henri Colpi, editor of Resnais&#39; first two features and Duras&#39;  Dtruire, dit-elle , gracefully handles the widescreen format. </p>
+						</div>
+					</div>
+				</div>
+				
+				<div class="film-grid__card">
+					<!-- <div class="img" style="background:url() no-repeat center center/cover"></div> -->
+					<div class="flow | card-text">
+						<div class="card-desc">
+							<h3>Détruire, dit-elle</h3>
+							<p>Marguerite Duras | 35mm | 100m</p>
+							<p>After weathering other directors&#39; lackluster attempts to film her stories, Duras first self-adaptation accentuates the aimlessness of her novel about two couples at a seaside resort. When asked about one of the searing long takes that populates the film, Duras said: You can imagine how hard I had to fight to keep this scene this long. Many people said to me: &#39;It&#39;s impossible; they exchange nothing but banalities.&#39; But that&#39;s exactly the point.</p>
+						</div>
+					</div>
+				</div>
+				
+				<div class="film-grid__card">
+					<!-- <div class="img" style="background:url() no-repeat center center/cover"></div> -->
+					<div class="flow | card-text">
+						<div class="card-desc">
+							<h3>India Song</h3>
+							<p>Marguerite Duras | 35mm | 120m</p>
+							<p>Anne-Marie (Delphine Seyrig), an ambassadors wife locked away in an embassy, has a series of affairs to stave off the emptiness of colonial life in 1930s Calcutta. Regarding the characters of the film, Duras stated, [Women] listen to their feelings. Men dont know how to.There are many things that women do that men could not do. Duras reportedly played Carlos d&#39;Allesio&#39;s dreamlike score on set to draw out the languorous performances of the actors.</p>
+						</div>
+					</div>
+				</div>
+				
+				<div class="film-grid__card">
+					<!-- <div class="img" style="background:url() no-repeat center center/cover"></div> -->
+					<div class="flow | card-text">
+						<div class="card-desc">
+							<h3>Le Camion</h3>
+							<p>Marguerite Duras | 35mm | 80m</p>
+							<p>Marguerite Duras herself appears alongside Gerard Depardieu in the writer-directors most self-assuredly minimalist film. As Duras reads through a script about a truck driver and a hitchhiker, images of a truck driving in the countryside intermittently appear onscreen. Designed to reveal the audience&#39;s desire to suspend disbelief,  Le Camion  found an unlikely champion in Pauline Kael, who called it perfectly made: an ornery, glimmering achievement.</p>
+						</div>
+					</div>
+				</div>
+				
+				<div class="film-grid__card">
+					<!-- <div class="img" style="background:url() no-repeat center center/cover"></div> -->
+					<div class="flow | card-text">
+						<div class="card-desc">
+							<h3>Le Navire Night</h3>
+							<p>Marguerite Duras | 16mm | 90m</p>
+							<p>Two doomed lovers communicate across a mysterious phone line installed during the German occupation of Parissorry, Ephron fans, but  Sleepless in Seattle  it aint. As the camera sinuously roams the empty city streets and occasionally visits the actors, Duras allows the viewer to contemplate the vulnerable, lyrical dialogue between the characters, voiced by herself and Benoit Jacquot, who served as the assistant director on  India Song .</p>
+						</div>
+					</div>
+				</div>
+				
+				<div class="film-grid__card">
+					<!-- <div class="img" style="background:url() no-repeat center center/cover"></div> -->
+					<div class="flow | card-text">
+						<div class="card-desc">
+							<h3>Agatha et les lectures illimitées</h3>
+							<p>Marguerite Duras | 35mm | 86m</p>
+							<p>Though never sharing the same frame, Yann Andrea and Bulle Ogier play siblings in an incestuous relationship that recalls Duras early semi-autobiographical novel  The Sea Wall .  Agatha  represents the zenith of her minimalism. Duras insisted, The reality reproduced by classical cinema has never been of any interest to me. Everything is said too much, shown too much-an excess of meaning in which, paradoxically, the context becomes impoverished.</p>
+						</div>
+					</div>
+				</div>
+				
+		</section>
+	</div>
+</div>
+
+</main>
+  </body>
+</html>

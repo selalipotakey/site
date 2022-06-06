@@ -1,0 +1,651 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Saturday Series</title>
+
+    <link rel="stylesheet" media="print" href="/fonts/fonts.css?fda5-15b0-1e31" onload="this.media='all'" />
+    <link rel="stylesheet" href="https://use.typekit.net/gul0drw.css" />
+    <style>
+      @charset "UTF-8";
+      *,
+      ::after,
+      ::before {
+        box-sizing: border-box;
+      }
+      ol[class],
+      ul[class] {
+        padding: 0;
+      }
+      blockquote,
+      body,
+      dd,
+      dl,
+      figure,
+      h1,
+      h2,
+      h3,
+      h4,
+      ol[class],
+      p,
+      ul[class] {
+        margin: 0;
+      }
+      html {
+        scroll-behavior: smooth;
+      }
+      body {
+        min-height: 100vh;
+        text-rendering: optimizeSpeed;
+        line-height: 1.5;
+      }
+      ol[class],
+      ul[class] {
+        list-style: none;
+      }
+      a:not([class]) {
+        text-decoration: underline;
+        color: currentColor;
+      }
+      img {
+        max-width: 100%;
+        display: block;
+      }
+      button,
+      input,
+      select,
+      textarea {
+        font: inherit;
+      }
+      @media (prefers-reduced-motion: reduce) {
+        * {
+          animation-duration: 10ms !important;
+          animation-iteration-count: 1 !important;
+          transition-duration: 10ms !important;
+          scroll-behavior: auto !important;
+        }
+      }
+      h1,
+      h2,
+      h3,
+      h4,
+      summary {
+        font-family: niveau-grotesk, sans-serif;
+      }
+      h1,
+      h2,
+      h3,
+      i,
+      li,
+      p,
+      span {
+        font-size: clamp(
+          var(--fluid-type-min, 1rem),
+          1rem + var(--fluid-type-target, 3vw),
+          var(--fluid-type-max, 1.3rem)
+        );
+      }
+      h1 {
+        --fluid-type-min: 2rem;
+        --fluid-type-max: 4.5rem;
+        --fluid-type-target: 5.4vw;
+        font-weight: 400;
+        max-width: 15ch;
+      }
+      h2 {
+        --fluid-type-min: 1rem;
+        --fluid-type-max: 2rem;
+        --fluid-type-target: 1rem;
+      }
+      h3 {
+        --fluid-type-min: 1.5rem;
+        --fluid-type-max: 2.5rem;
+      }
+      h2,
+      h3 {
+        max-width: 50ch;
+      }
+      li,
+      p {
+        max-width: 70ch;
+        line-height: 1.8;
+        font-weight: 300;
+        --fluid-type-target: 1rem;
+        --fluid-type-min: 0.8rem;
+        --fluid-type-max: 1.1rem;
+      }
+      summary {
+        --fluid-type-min: 1rem;
+        --fluid-type-max: 1.5rem;
+      }
+      strong {
+        font-weight: 700;
+      }
+      .skip-link {
+        display: inline-block;
+        padding: 0.7rem 1rem 0.5rem 1rem;
+        text-decoration: none;
+        font-weight: 700;
+        text-transform: uppercase;
+        position: absolute;
+        top: 1rem;
+        left: 1rem;
+      }
+      .skip-link:not(:focus) {
+        border: 0;
+        clip: rect(0 0 0 0);
+        height: auto;
+        margin: 0;
+        overflow: hidden;
+        padding: 0;
+        position: absolute;
+        width: 1px;
+        white-space: nowrap;
+      }
+      .wrapper {
+        margin-top: --var(--mt, 4rem);
+        position: relative;
+        width: 90vw;
+        width: 90%;
+        margin-left: auto;
+        margin-right: auto;
+      }
+      .flow > * + * {
+        margin-top: var(--flow-space, 1rem);
+      }
+      .hr {
+        margin-top: 1.5rem;
+      }
+      @media (max-width: 975px) {
+        .hide {
+          display: none;
+        }
+      }
+      .big-title {
+        max-width: 100%;
+        line-height: 1.2;
+      }
+      .medium-title {
+        font-family: soleil, sans-serif;
+        font-weight: 400;
+        --fluid-type-min: 1rem;
+        --fluid-type-max: 1.3rem;
+      }
+      .full-bleed {
+        width: 100vw;
+        margin-left: calc(50% - 50vw);
+        background-color: var(--fbc, #000);
+        color: var(--text-color, #fff);
+      }
+      .make-yellow {
+        color: #ed028c;
+      }
+      .logo {
+        font-family: Poppins, sans-serif;
+        font-weight: 700;
+      }
+      .border {
+        border: 0 solid green;
+      }
+      .tl {
+        text-align: center;
+      }
+      .sidebar-parent {
+        position: relative;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 3rem;
+      }
+      .sidebar-parent > :first-child {
+        flex-basis: 30rem;
+        flex-grow: 1;
+      }
+      .sidebar-parent > :last-child {
+        flex-basis: 0;
+        flex-grow: 999;
+        min-inline-size: 50%;
+      }
+      .ticketinfo {
+        margin-top: 2.5rem;
+        margin-bottom: 1.5rem;
+        display: flex;
+        gap: 3rem;
+      }
+      .ticketinfo-pass > span,
+      .ticketinfo-single > span {
+        color: #000;
+        background-color: var(--tc, #e5e5e5);
+        width: 3rem;
+        height: 3rem;
+        border-radius: 50%;
+        padding: 4rem;
+        --fluid-type-max: 2.5rem;
+        --fluid-type-min: 1.5rem;
+      }
+      @media (max-width: 600px) {
+        .ticketinfo-pass > span,
+        .ticketinfo-single > span {
+          padding: 2.5rem;
+        }
+      }
+      .center,
+      .ticketinfo-pass,
+      .ticketinfo-single {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+      }
+      body {
+        background: #fff;
+        color: #000;
+        line-height: 1.5;
+        font-family: soleil, sans-serif;
+        overflow-x: hidden;
+      }
+      .film-grid {
+        display: grid;
+        gap: 4rem;
+      }
+      @supports (width: min(250px, 100%)) {
+        .film-grid {
+          grid-template-columns: repeat(auto-fit, minmax(min(500px, 100%), 1fr));
+        }
+      }
+      .film-grid__card {
+        position: relative;
+      }
+      .img {
+        border-top-left-radius: 1rem;
+        border-top-right-radius: 1rem;
+        width: 100%;
+        height: 350px;
+        opacity: 0.9;
+      }
+      .card-text {
+        background-color: #fff;
+        padding: 1.3rem;
+        z-index: -1;
+        border-bottom-left-radius: 1rem;
+        border-bottom-right-radius: 1rem;
+        border: 1px solid silver;
+        translate: 0 -1rem;
+      }
+      .desc {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+      }
+      .date {
+        font-size: 1.5rem;
+        font-weight: 500;
+      }
+      .series-text {
+
+      }
+      header {
+        position: sticky;
+        top: 0;
+        z-index: 9000;
+      }
+      footer {
+        background-color: #000;
+        color: #f5f5f5;
+        padding-top: 3rem;
+        padding-bottom: 2rem;
+        padding-right: 2rem;
+        padding-left: 2rem;
+        text-align: center;
+        bottom: 0;
+        z-index: 9000;
+      }
+      .footer-line2 {
+        color: #f5f5f5;
+      }
+      .footer-color {
+        color: #ed028c;
+      }
+      .footer-line2 a {
+        text-decoration: none;
+        color: #ed028c;
+      }
+      .navigation {
+        display: block;
+        z-index: 9000;
+      }
+      .navigation ul {
+        display: flex;
+        padding: 0.3rem;
+        margin: 0;
+        justify-content: flex-end;
+        list-style: none;
+      }
+      @media (max-width: 425px) {
+        .navigation ul {
+          justify-content: flex-start;
+          overflow: scroll;
+          padding: 0.5rem 0.8rem 0.6rem 0.8rem;
+        }
+      }
+      ul li {
+        margin-right: 2rem;
+      }
+      .navigation > ul:nth-child(1) {
+        background: #000;
+        color: #f5f5f5;
+      }
+      .navigation > ul:nth-child(2) {
+        background: #f5f5f5;
+        color: #000;
+      }
+      .navigation a {
+        font-size: clamp(
+          var(--fluid-type-min, 2rem),
+          1rem + var(--fluid-type-target, 2rem),
+          var(--fluid-type-max, 3rem)
+        );
+        font-weight: 500;
+        text-decoration: none;
+      }
+      .home-container {
+        height: 100%;
+        background-color: #000;
+        color: #fff;
+      }
+      .home-playing {
+        background-color: #e5e5e5;
+        color: #000;
+        padding-bottom: 2rem;
+      }
+      .about {
+        background: #e5e5e5;
+        color: #000;
+      }
+      .visiting-grid {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 2rem;
+        justify-content: center;
+      }
+      .visiting-grid > * {
+        flex-basis: 25rem;
+        border: 1px silver solid;
+        padding: 2rem;
+        background-color: #f5f5f5;
+      }
+      .visiting-landing {
+        margin-top: 3rem;
+        margin-bottom: 4rem;
+      }
+      .sidenav {
+        position: sticky;
+        top: 15%;
+        border: 1px solid silver;
+        padding: 1.5rem;
+        background-color: #f5f5f5;
+      }
+
+    </style>
+  </head>
+  <body>
+    <header>
+      <a href="#main-content" class="skip-link">Skip to content</a>
+      <nav class="navigation">
+        <ul>
+          <li><a href="/">home</a></li>
+          <li><a href="/calendar">calendar</a></li>
+          <li><a href="/visiting">visit</a></li>
+          <li><a href="/volunteer">volunteer</a></li>
+          <li><a href="/contact">contact</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main tabindex="-1">
+      <div class="sidebar-parent | wrapper">
+        <div>
+          <aside class="sidenav" style="margin-bottom: 2rem">
+            <h3>Spring 2022 Series</h3>
+            <ul>
+              <li><a href="/calendar/index">Full Calendar</a></li>
+              <li><a href="/calendar/mon">Monday: An Open Window: Black Women Directors across the Diaspora</a></li>
+              <li><a href="/calendar/tue">Tuesday: Neo-Noir '92</a></li>
+              <li><a href="/calendar/wed">Wednesday: They Thought I Was a Nice Girl: The Films of Elaine May</a></li>
+              <li><a href="/calendar/thu1">Thursday I: Projecting Paranoia</a></li>
+              <li><a href="/calendar/thu2">Thursday II: Punks Behind the Camera</a></li>
+              <li><a href="/calendar/fri">Friday: In the Mood for Wong Kar-Wai</a></li>
+              <li><a href="/calendar/sat">Saturday: New Releases</a></li>
+              <li><a href="/calendar/sun">Sunday: Food, the Common Tongue: Loves, Rages, and Delights of Gastro-Cinema</a></li>
+              <li><a href="/calendar/special">Special Events</a></li>
+
+              
+            
+            </ul>
+          </aside>
+        </div>
+
+        <div id="cal" class="flow">
+          <section class="calendar" style="--fbc: e5e5e5; padding-top: 2.5rem; margin-bottom: 2rem; margin-right: 3rem;">
+            <h3
+              class="big-title"
+              style="padding-top: 1rem; padding-bottom: 2rem;text-decoration: underline #ed028c"
+            >
+              Saturday: New Releases
+            </h3>
+
+            <div class="film-grid" style="margin-top: 2rem;">
+              <div class="film-grid__card">
+                <div
+                  class="img"
+                  style="
+                    background: #fefefe url(../../images/week1/2022-4-2-house-of-gucci.png) no-repeat center
+                      center/cover;
+                  "
+                ></div>
+                <div class="flow | card-text">
+                  <div class="card-desc">
+                    <h3>House of Gucci (2021)</h3>
+
+                    <p class="date">4/2/22 @ 7:00 PM</p>
+
+                    <p>Ridley Scott | DCP | 158m</p>
+
+                    <p>
+                      <i>House of Gucci</i> follows the salacious tale of Patrizia Reggiani (Lady Gaga), a young woman from a humble background who marries into the Gucci family. What follows is madness, manipulation, and masterful performances by an award-winning cast. This movie asks: how glamorous can family secrets really be?
+                    </p>
+                  </div>
+                </div>
+              </div>
+
+              <div class="film-grid__card">
+                <div
+                  class="img"
+                  style="
+                    background: #fefefe url(../../images/week2/2022-4-9-nightmare-alley.jpeg) no-repeat center center/cover;
+                  "
+                ></div>
+                <div class="flow | card-text">
+                  <div class="card-desc">
+                    <h3>Nightmare Alley (2021)</h3>
+
+                    <p class="date">4/9/22 @ 7:00 PM</p>
+
+                    <p>Guullermo Del Toro | 35mm | 140m</p>
+
+                    <p>
+                      <i>Nightmare Alley</i> is the most recent film by director Guillermo del Toro, chronicling the rise and fall of Stan Carlisle (Bradley Cooper), a drifter-turned-psychic. As Stan rises to prominence among high society in Buffalo, New York, he begins soliciting help from psychologist Lilith Ritter (Cate Blanchett) to aid in his cold reads. While a commercial flop, the film was well-received by critics and is currently nominated for four Academy Awards.
+                    </p>
+                  </div>
+                </div>
+              </div>
+
+              <div class="film-grid__card">
+                <div
+                  class="img"
+                  style="
+                    background: #fefefe url(../../images/week3/2022-4-16-the-tragedy-of-macbeth.jpeg) no-repeat center
+                      center/cover;
+                  "
+                ></div>
+                <div class="flow | card-text">
+                  <div class="card-desc">
+                    <h3>The Tragedy of Macbeth (2021)</h3>
+
+                    <p class="date">4/16/22 @ 7:00 PM</p>
+
+                    <p>Joel Coen | DCP | 105m</p>
+
+                    <p>
+                      The first film directed by just one Coen brother, <i>The Tragedy of Macbeth</i> is anything but a tragedy for Joel Coen. Acclaimed by critics and nominated for three Academy Awards, this black-and-white retelling of Shakespeare's <i>Macbeth</i> is a surreal production that captures the feeling of the stage. The film is led by Denzel Washington and Frances McDormand as Lord and Lady Macbeth, with longtime Coen Brothers composer Carter Burwell producing the score.
+                    </p>
+                  </div>
+                </div>
+              </div>
+
+              <div class="film-grid__card">
+                <div
+                  class="img"
+                  style="
+                    background: #fefefe url(../../images/week4/2022-4-23-a-hero.jpeg) no-repeat center center/cover;
+                  "
+                ></div>
+                <div class="flow | card-text">
+                  <div class="card-desc">
+                    <h3>A Hero (2021)</h3>
+
+                    <p class="date">4/23/22 @ 7:00 PM</p>
+
+                    <p>Asghar Farhadi | DCP | 127m</p>
+
+                    <p>Imprisoned because of a debt that he could not repay, Rahim has two days of freedom to convince his creditor to withdraw the complaint and forgive his debt. Things quickly go wrong, and then even wronger. Selected to compete for the Palm d’Or, winner of the Grand Prix at Cannes Film Festival, and selected as the Iranian entry for best feature film at the 94th Academy Awards, Asghar Farhadi’s 13th feature is an impressive addition to his award-winning filmography
+                    </p>
+                  </div>
+                </div>
+              </div>
+
+              <div class="film-grid__card">
+                <div
+                  class="img"
+                  style="
+                    background: #fefefe url(../../images/week5/2022-4-30-last-night-in-soho.jpg) no-repeat
+                      center center/cover;
+                  "
+                ></div>
+                <div class="flow | card-text">
+                  <div class="card-desc">
+                    <h3>Last Night in Soho (2021)</h3>
+
+                    <p class="date">4/30/22 @ 7:00 PM</p>
+
+                    <p>Edgar Wright | DCP | 116m</p>
+
+                    <p>In this time-twisting, fashion-filled thriller, Anya Taylor-Joy plays Ellie, a country girl and aspiring fashion designer who has just moved to London, but can't seem to fit in. She's at first inspired by visions of a confident and mysterious blonde girl from the 1960s in her dreams, but when her world begins to bleed into Ellie's, a new nightmare begins—all set against a soundtrack of classic '60s songs, some of which inspired sequences in the film.
+                    </p>
+                  </div>
+                </div>
+              </div>
+
+              <div class="film-grid__card">
+                <div
+                  class="img"
+                  style="
+                    background: #fefefe url(../../images/week6/2022-5-7-belfast.jpeg) no-repeat center
+                      center/cover;
+                  "
+                ></div>
+                <div class="flow | card-text">
+                  <div class="card-desc">
+                    <h3>Belfast (2021)</h3>
+
+                    <p class="date">5/7/22 @ 7:00 PM</p>
+
+                    <p>Kenneth Branagh | DCP | 98m</p>
+
+                    <p>
+                     In Kenneth Branagh's most personal film yet, the Troubles are envisioned through the eyes of a nine-year-old named Buddy to the tune of a Van Morrison score. While Buddy develops a crush on a Catholic girl at his school, Protestant loyalists attack Catholic houses in Buddy's neighborhood. His parents, both Protestants but wanting nothing to do with the violence, must make the difficult decision of whether or not they should stay in Belfast.
+                    </p>
+                  </div>
+                </div>
+              </div>
+
+              <div class="film-grid__card">
+                <div
+                  class="img"
+                  style="
+                    background: #fefefe url(../../images/week7/2022-05-14-licorice-pizza.jpeg) no-repeat center center/cover;
+                  "
+                ></div>
+                <div class="flow | card-text">
+                  <div class="card-desc">
+                    <h3>Licorice Pizza (2021)</h3>
+
+                    <p class="date">5/14/22 @ 7:00 PM</p>
+
+                    <p>Licorice Pizza | DCP | 133m</p>
+
+                    <p>
+                      Starring Cooper Hoffman (son of the late Philip Seymour Hoffman), Alana Haim, and a star-filled supporting cast, Paul Thomas Anderson weaves a coming-of-age romance between high school student and young actor Gary Valentine and the decade-older photographer's assistant Alana Kane in the San Fernando Valley of 1973. An homage to young love, California, and everything '70s, the film is shot in quintessential Anderson style, reminiscent of <i>Boogie Nights</i>.
+                    </p>
+                  </div>
+                </div>
+              </div>
+
+              <div class="film-grid__card">
+                <div
+                  class="img"
+                  style="
+                    background: #fefefe url(../../images/week8/2022-05-21-no-screening.png) no-repeat
+                      center center/cover;
+                  "
+                ></div>
+                <div class="flow | card-text">
+                  <div class="card-desc">
+                    <h3>No Screening</h3>
+
+                    <p class="date">5/21/22</p>
+
+                    <p>
+                      Due to Alumni Weekend, there is no screening Saturday 5/21.
+                    </p>
+                  </div>
+                </div>
+              </div>
+                <div class="film-grid__card">
+                <div
+                  class="img"
+                  style="
+                    background: #fefefe url(../../images/week9/2022-5-28-everything-everywhere-all-at-once.jpg) no-repeat
+                      center center/cover;
+                  "
+                ></div>
+                <div class="flow | card-text">
+                  <div class="card-desc">
+                    <h3>Everything Everywhere All At Once (2022)</h3>
+
+                    <p class="date">5/28/22 @ 7:00 PM</p>
+
+                    <p>Daniel Kwan, Daniel Scheinert | DCP | 146m</p>
+
+                    <p>
+                      At once a heartfelt family drama and an irreverent, multiverse-hopping sci-fi comedy, <i>Everything Everywhere All at Once</i> centers around a frazzled Chinese-American mother (Michelle Yeoh) tossed into the center of an interdimensional whirlwind of chaos. Rife with thoughtful details of Asian-American life, stuck-on googly eyes, and starring Jamie Lee Curtis as a diabolical IRS inspector, this film has a little something for everyone. 
+                    </p>
+                  </div>
+                </div>
+                
+              </div>
+            </div>
+          </section>
+        </div>
+      </div>
+      <footer>
+        
+          <i>anyone can volunteer. anyone can program. everyone is invited.</i>
+          <br><br>doc films • max palevsky cinema • 1212 east 59th street • 773-702-8574 • doc@docfilms.org
+
+          <div class="footer-line2"><a href="https://www.facebook.com/DocFilmsChicago" target="_blank">facebook</a> • <a href="https://www.instagram.com/docfilmschicago/?hl=en" target="_blank">instagram</a> • <a href="https://twitter.com/docfilmschicago?lang=en" target="_blank">twitter</a> • <a href="/" target="_blank">newsletter</a></div>
+        
+      </footer>
+    </main>
+  </body>
+</html>
