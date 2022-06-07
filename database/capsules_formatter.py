@@ -21,6 +21,9 @@ containing_directory = 'capsules_spreadsheets'
 # input the number of example rows in the capsules spreadsheet. MAKE SURE TO CHANGE THIS IF IT CHANGES
 example_rows = 2
 
+# input the maximum number of repeat screenings of a single title per quarter
+max_repeats = 3
+
 # creates a pandas dataframe from the spreadsheet
 # os.path.join is used to create the path name for the spreadsheet
 capsules_dataframe = pd.read_excel(os.path.join(ROOT_DIR, containing_directory, spreadsheet_name))
@@ -41,7 +44,8 @@ for index, row in capsules_dataframe.iterrows():
         print('TypeError: cells in the \'series\' column of ' + spreadsheet_name + ' contain blanks/nulls')
         exit()
     series_title = str(series_title).strip()
-    if not series_title in series_dictionary:
-        series_dictionary[series_title] = []
+    if series_title in series_dictionary:
+        continue
+    series_dictionary[series_title] = [row['programmer'], row['slot'], []]
 
 print(series_dictionary)
