@@ -1,13 +1,13 @@
 # This module takes a properly formatted Doc Films capsule spreadsheet and
 # outputs properly formatted data for database insertion.
 
-# re comes with python
-import re                   #for regular expressions
+# re (regular expressions) comes with python
+import re
 
-# I had to install pandas by using miniconda then
-# installed pandas using `conda install pandas` in the command line
+# I had to install pandas by using miniconda, then
+# I installed pandas using `conda install pandas` in the command line
 # also had to install openpyxl with `conda instsall openpyxl` in the command line
-import pandas as pd         #for pandas
+import pandas as pd
 
 # allows for defining a path name for the directory containing these files, regardless of user's machine
 # ROOT_DIR is just database/ for our case
@@ -27,9 +27,21 @@ capsules_dataframe = pd.read_excel(os.path.join(ROOT_DIR, containing_directory, 
 
 series_dictionary = {}
 
-for row in capsules_dataframe:
-    series_title = str(row['c19'])
+
+count = 0
+# iterates over all rows in the dataframe (i.e. spreadsheet)
+for index, row in capsules_dataframe.iterrows():
+    # count allows us to skip over example rows
+    count+=1
+    if count <= example_rows:
+        continue
+    series_title = row['series']
+    # quits if series cell for given row is blank or an empty string
+    if pd.isna(series_title) or len(str(series_title).strip()) < 1:
+        print('TypeError: cells in the \'series\' column of ' + spreadsheet_name + ' contain blanks/nulls')
+        exit()
+    series_title = str(series_title).strip()
     if not series_title in series_dictionary:
-        series_dictionary{series_title:[]}
+        series_dictionary[series_title] = []
 
 print(series_dictionary)
