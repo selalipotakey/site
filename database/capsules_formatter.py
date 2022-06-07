@@ -44,8 +44,20 @@ for index, row in capsules_dataframe.iterrows():
         print('TypeError: cells in the \'series\' column of ' + spreadsheet_name + ' contain blanks/nulls')
         exit()
     series_title = str(series_title).strip()
-    if series_title in series_dictionary:
-        continue
-    series_dictionary[series_title] = [row['programmer'], row['slot'], []]
+    if not series_title in series_dictionary:
+        series_dictionary[series_title] = [row['programmer'], row['slot'], []]
+    title_list = series_dictionary[series_title][-1]
+    # checks and handles for NaNs
+    if pd.isna(row['title']) or pd.isna(row['director']) or pd.isna(row['year']):
+        print('TypeError: either \'title\', \'director\', or \'year\' are null/blank. Please check ' + spreadsheet_name + ' that all titles, directors, and years present')
+    if pd.isna(row['runtime']):
+        row['runtime'] = 'None found'
+    if pd.isna(row['format']):
+        row['format'] = 'None found'
+    if pd.isna(row['public notes']):
+        row['public notes'] = 'None'
+    title_list.append([row['title'], row['director'], row['year'], row['runtime'], row['format'], row['public notes'], []])
 
-print(series_dictionary)
+for series_item in series_dictionary:
+    for title_item in series_dictionary[series_item][-1]:
+        print(title_item)
