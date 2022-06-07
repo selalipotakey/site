@@ -39,15 +39,16 @@ for index, row in capsules_dataframe.iterrows():
     if count <= example_rows:
         continue
     series_title = row['series']
-    # quits if series cell for given row is blank or an empty string
+    # checks and handles for NaNs in series column
     if pd.isna(series_title) or len(str(series_title).strip()) < 1:
         print('TypeError: cells in the \'series\' column of ' + spreadsheet_name + ' contain blanks/nulls')
         exit()
     series_title = str(series_title).strip()
+    # inputs series information into a dictionary
     if not series_title in series_dictionary:
         series_dictionary[series_title] = [row['programmer'], row['slot'], []]
     title_list = series_dictionary[series_title][-1]
-    # checks and handles for NaNs
+    # checks and handles for title, director, and year column (essential columns)
     if pd.isna(row['title']) or pd.isna(row['director']) or pd.isna(row['year']):
         print('TypeError: either \'title\', \'director\', or \'year\' are null/blank. Please check ' + spreadsheet_name + ' that all titles, directors, and years present')
     if pd.isna(row['runtime']):
@@ -56,7 +57,17 @@ for index, row in capsules_dataframe.iterrows():
         row['format'] = 'None found'
     if pd.isna(row['public notes']):
         row['public notes'] = 'None'
-    title_list.append([row['title'], row['director'], row['year'], row['runtime'], row['format'], row['public notes'], []])
+    # inputs information on titles in a series
+    title_list.append([row['title'], row['director'], str(int(row['year'])), row['runtime'], row['format'], row['public notes'], []])
+    # inputs screening date and time into title list
+    for i in range(max_repeats):
+        num = i+1
+        showdate = 'showdate' + str(num)
+        showtime = 'showtime' + str(num)
+        if pd.isna(row[showdate]) and pd.isna(row[showtime]):
+            continue
+        title_list[-1][-1].append([row[showdate].strftime('%m%d'), row[showtime].strftime('%H:%M')])
+
 
 for series_item in series_dictionary:
     for title_item in series_dictionary[series_item][-1]:
