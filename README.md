@@ -14,6 +14,10 @@ Cameron Poe, Lindsey Qian, 2021-2022
 
 This is the directory that contains all relevant files needed to build the website docfilms.org. This repo is linked to Netlify, which automatically deploys any changes from `website/` found in `main`. Changes in other directories in `main` does not affect Netlify or docfilms.org.
 
+### database
+
+This directory contains all the relevant files for insertion of new entries into the database. It contains capsule spreadsheets, python code to render those capsule spreadsheets insertable, and code to insert into the database.
+
 ## Quick  `git` how-to
 `git` is a command line package that allows you to interface with the GitHub locally. I'm not going to go into all the detail of how to actually download all this stuff but the form is such:
 
