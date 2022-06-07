@@ -14,13 +14,14 @@ import pandas as pd
 import os
 from config.definitions import ROOT_DIR
 
+# YOU MUST INITIALIZE THE VARIABLES BELOW EACH TIME YOU RUN THIS PROGRAM
 # input the name of the .xlsx spreadsheet and its containing folder that you are seeking to format
 spreadsheet_name = 'database-example-summer-2022-capsules.xlsx'
 containing_directory = 'capsules_spreadsheets'
-
+quarter = 'Summer' # use 'Fall' and NOT 'Autumn'
+year = '2022'
 # input the number of example rows in the capsules spreadsheet. MAKE SURE TO CHANGE THIS IF IT CHANGES
 example_rows = 2
-
 # input the maximum number of repeat screenings of a single title per quarter
 max_repeats = 3
 
@@ -28,8 +29,8 @@ max_repeats = 3
 # os.path.join is used to create the path name for the spreadsheet
 capsules_dataframe = pd.read_excel(os.path.join(ROOT_DIR, containing_directory, spreadsheet_name))
 
+#initializes dictionary containing each series
 series_dictionary = {}
-
 
 count = 0
 # iterates over all rows in the dataframe (i.e. spreadsheet)
