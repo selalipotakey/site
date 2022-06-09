@@ -50,7 +50,7 @@ for index, row in capsules_dataframe.iterrows():
     series_title = str(series_title).strip()
     # inputs series information into a dictionary
     if not series_title in series_dictionary:
-        series_dictionary[series_title] = [row['programmer'], row['slot'], []]
+        series_dictionary[series_title] = [row['programmer'], row['slot'], quarter, year, []]
     title_list = series_dictionary[series_title][-1]
     # checks and handles for title, director, and year column (essential columns)
     if pd.isna(row['title']) or pd.isna(row['director']) or pd.isna(row['year']):
@@ -98,6 +98,26 @@ db_name = input("Input database name: ")
 db = pymysql.connect(host=db_server, user=db_user, password=db_pass, database=db_name)
 cursor = db.cursor()
 
+for series_item in series_dictionary:
+    series_programmer = series_dictionary[series_item][0]
+    series_slot = series_dictionary[series_item][1]
+    series_quarter = series_dictionary[series_item][2]
+    series_year = series_dictionary[series_item][3]
+
+    # prevents repeat rows in the series table, inserts series if no repeats
+    query_is_series_in_db = 'SELECT 1 FROM series WHERE series.name = "%s" AND series.programmer = "%s" AND series.slot = "%s" AND series.quarter = "%s" AND series.year = "%s";'%(series_item, series_programmer, series_slot, series_quarter, series_year)
+    if int(cursor.execute(query_is_series_in_db)) == 1:
+        print('Series titled: _' + series_item + '_ already exits! Will not modify. If you need to override this particular series data, access the database via phpMyAdmin and delete the series and all child records, then run this module again\n')
+        continue
+    elif int(cursor.execute(query_is_series_in_db)) == 0:
+        insert_series = 'INSERT INTO series (series.name, series.programmer, series.slot, series.quarter, series.year) VALUES ("%s", "%s", "%s", "%s", "%s");'%(series_item, series_programmer, series_slot, series_quarter, series_year)
+        print(insert_series)
+        cursor.execute(insert_series)
+        db.commit()
+
+
+    for title_item in series_dictionary[series_item][-1]:
+        continue
 
 
 # closes connection
