@@ -107,7 +107,7 @@ for series_item in series_dictionary:
     # prevents repeat rows in the series table, inserts series if no repeats
     query_is_series_in_db = 'SELECT 1 FROM series WHERE series.name = "%s" AND series.programmer = "%s" AND series.slot = "%s" AND series.quarter = "%s" AND series.year = "%s";'%(series_item, series_programmer, series_slot, series_quarter, series_year)
     if int(cursor.execute(query_is_series_in_db)) == 1:
-        print('Series titled: _' + series_item + '_ already exits! Will not modify. If you need to override this particular series data, access the database via phpMyAdmin and delete the series and all child records, then run this module again\n')
+        print('Series titled: _' + series_item + '_ already exits! Will not insert again. If you need to override/modify the screening data of this particular series, access the database via phpMyAdmin and delete the series and all child records, then run this module again\n')
         continue
     elif int(cursor.execute(query_is_series_in_db)) == 0:
         insert_series = 'INSERT INTO series (series.name, series.programmer, series.slot, series.quarter, series.year) VALUES ("%s", "%s", "%s", "%s", "%s");'%(series_item, series_programmer, series_slot, series_quarter, series_year)
