@@ -14,6 +14,9 @@ import pandas as pd
 import os
 from config.definitions import ROOT_DIR
 
+# allows for connection to the database using python 3
+import pymysql
+
 # YOU MUST INITIALIZE THE VARIABLES BELOW EACH TIME YOU RUN THIS PROGRAM
 # input the name of the .xlsx spreadsheet and its containing folder that you are seeking to format
 spreadsheet_name = 'database-example-summer-2022-capsules.xlsx'
@@ -73,3 +76,17 @@ for index, row in capsules_dataframe.iterrows():
 for series_item in series_dictionary:
     for title_item in series_dictionary[series_item][-1]:
         print(title_item)
+
+
+# asks for inputs for these four variables through command line pop-up
+db_server = input("Input database server: ")
+db_user = input("Input username: ")
+db_pass = input("Input password: ")
+db_name = input("Input database name: ")
+
+# initializes connection and cursor to interact with the database
+db = pymysql.connect(host=db_server, user=db_user, password=db_pass, database=db_name)
+cursor = db.cursor()
+
+# closes connect
+db.close()
