@@ -77,6 +77,16 @@ for series_item in series_dictionary:
     for title_item in series_dictionary[series_item][-1]:
         print(title_item)
 
+# sanity check on number of series you're inputting
+print("\nNumber of series ready to input: " + str(len(series_dictionary)))
+answer = input("\nReady to input these titles into the database? [y/n]: ")
+if answer.lower() == 'y' or answer.lower() == 'yes':
+    pass
+elif answer.lower() == 'n' or answer.lower() == 'no':
+    exit()
+else:
+    print('Cannot understand response. Exiting now')
+    exit()
 
 # asks for inputs for these four variables through command line pop-up
 db_server = input("Input database server: ")
@@ -88,5 +98,7 @@ db_name = input("Input database name: ")
 db = pymysql.connect(host=db_server, user=db_user, password=db_pass, database=db_name)
 cursor = db.cursor()
 
-# closes connect
+
+
+# closes connection
 db.close()
