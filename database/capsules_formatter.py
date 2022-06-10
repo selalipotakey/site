@@ -116,7 +116,8 @@ for series_item in series_dictionary:
         db.commit()
 
         query_series_id = 'SELECT id FROM series WHERE series.name = "%s" AND series.programmer = "%s" AND series.slot = "%s" AND series.quarter = "%s" AND series.year = "%s";'%(series_item, series_programmer, series_slot, series_quarter, series_year)
-        series_id = cursor.execute(query_series_id)
+        cursor.execute(query_series_id)
+        series_id = cursor.fetchone()[0]
 
     for title_item in series_dictionary[series_item][-1]:
         movie_title = title_item[0]
