@@ -10,8 +10,7 @@ db_name = input("Input database name: ")
 db = pymysql.connect(host=db_server, user=db_user, password=db_pass, database=db_name)
 cursor = db.cursor()
 
-create_database = '''
-CREATE TABLE IF NOT EXISTS `film_archive`.`series` (
+create_series = '''CREATE TABLE IF NOT EXISTS `film_archive`.`series` (
   `id` INT NOT NULL AUTO_INCREMENT,
   `name` VARCHAR(128) NOT NULL DEFAULT 'None found',
   `programmer` VARCHAR(128) NOT NULL DEFAULT 'None found',
@@ -19,9 +18,9 @@ CREATE TABLE IF NOT EXISTS `film_archive`.`series` (
   `quarter` VARCHAR(45) NOT NULL DEFAULT 'None found',
   `year` INT NOT NULL,
   PRIMARY KEY (`id`))
-ENGINE = InnoDB;
+ENGINE = InnoDB;'''
 
-CREATE TABLE IF NOT EXISTS `film_archive`.`films` (
+create_films = '''CREATE TABLE IF NOT EXISTS `film_archive`.`films` (
   `id` INT NOT NULL AUTO_INCREMENT,
   `series_id` INT NOT NULL,
   `title` VARCHAR(128) NOT NULL,
@@ -29,7 +28,7 @@ CREATE TABLE IF NOT EXISTS `film_archive`.`films` (
   `year` INT NULL,
   `runtime` INT NULL,
   `format` VARCHAR(45) NOT NULL DEFAULT 'None found',
-  `notes` MEDIUMTEXT NOT NULL DEFAULT 'None',
+  `notes` MEDIUMTEXT NULL,
   `date` INT NULL,
   `time` INT NULL,
   PRIMARY KEY (`id`),
@@ -42,7 +41,9 @@ CREATE TABLE IF NOT EXISTS `film_archive`.`films` (
 ENGINE = InnoDB;
 '''
 
-cursor.execute(create_database)
+cursor.execute(create_series)
+db.commit()
+cursor.execute(create_films)
 db.commit()
 
 db.close()
