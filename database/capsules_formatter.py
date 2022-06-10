@@ -62,15 +62,15 @@ for index, row in capsules_dataframe.iterrows():
     if pd.isna(row['public notes']):
         row['public notes'] = 'None'
     # inputs information on titles in a series
-    title_list.append([row['title'], row['director'], str(int(row['year'])), row['runtime'], row['format'], row['public notes'], []])
+    title_list.append([row['title'], row['director'], str(int(row['year'])), row['runtime'], row['format'], row['public notes'], int(row['showdate1'].strftime('%m%d')), int(row['showtime1'].strftime('%H%M'))])
     # inputs screening date and time into title list
-    for i in range(max_repeats):
-        num = i+1
+    for i in range(max_repeats-1):
+        num = i+2
         showdate = 'showdate' + str(num)
         showtime = 'showtime' + str(num)
         if pd.isna(row[showdate]) and pd.isna(row[showtime]):
             continue
-        title_list[-1][-1].append([row[showdate].strftime('%m%d'), row[showtime].strftime('%H:%M')])
+        title_list[-1][5] = title_list[-1][5] + "  -- repeated on " + row[showdate].strftime('%m/%d') + " at " + row[showtime].strftime('%H:%M')
 
 
 for series_item in series_dictionary:
@@ -126,7 +126,9 @@ for series_item in series_dictionary:
         movie_runtime = title_item[3]
         movie_format = title_item[4]
         movie_notes = title_item[5]
-        insert_films = 'INSERT INTO films (films.series_id, films.title, films.director, films.year, films.runtime, films.format, films.notes) VALUES (%s, "%s", "%s", "%s", "%s", "%s", "%s");'%(series_id, movie_title, movie_director, movie_year, movie_runtime, movie_format, movie_notes)
+        movie_date = title_item[6]
+        movie_time = title_item[7]
+        insert_films = 'INSERT INTO films (films.series_id, films.title, films.director, films.year, films.runtime, films.format, films.notes, films.date, films.time) VALUES (%s, "%s", "%s", "%s", "%s", "%s", "%s", %s, %s);'%(series_id, movie_title, movie_director, movie_year, movie_runtime, movie_format, movie_notes, movie_date, movie_time)
         cursor.execute(insert_films)
         db.commit()
 
