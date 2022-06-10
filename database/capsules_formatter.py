@@ -19,14 +19,14 @@ import pymysql
 
 # YOU MUST INITIALIZE THE VARIABLES BELOW EACH TIME YOU RUN THIS PROGRAM
 # input the name of the .xlsx spreadsheet and its containing folder that you are seeking to format
-spreadsheet_name = 'database-example-summer-2022-capsules.xlsx'
+spreadsheet_name = 'Spring-2022-Capsules.xlsx'
 containing_directory = 'capsules_spreadsheets'
-quarter = 'Summer' # use 'Fall' and NOT 'Autumn'
+quarter = 'Spring' # use 'Fall' and NOT 'Autumn'
 year = '2022'
 # input the number of example rows in the capsules spreadsheet. MAKE SURE TO CHANGE THIS IF IT CHANGES
 example_rows = 2
 # input the maximum number of repeat screenings of a single title per quarter
-max_repeats = 3
+max_repeats = 0
 
 # creates a pandas dataframe from the spreadsheet
 # os.path.join is used to create the path name for the spreadsheet
@@ -72,13 +72,14 @@ for index, row in capsules_dataframe.iterrows():
             continue
         title_list[-1][5] = title_list[-1][5] + "  -- repeated on " + row[showdate].strftime('%m/%d') + " at " + row[showtime].strftime('%H:%M')
 
-
+num_screenings = 0
 for series_item in series_dictionary:
-    for title_item in series_dictionary[series_item][-1]:
-        print(title_item)
+    num_screenings += len(series_dictionary[series_item][-1])
+
 
 # sanity check on number of series you're inputting
 print("\nNumber of series ready to input: " + str(len(series_dictionary)))
+print("\nNumber of screenings to input: " + str(num_screenings))
 answer = input("\nReady to input these titles into the database? [y/n]: ")
 if answer.lower() == 'y' or answer.lower() == 'yes':
     pass
