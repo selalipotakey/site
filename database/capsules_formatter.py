@@ -119,8 +119,15 @@ for series_item in series_dictionary:
         series_id = cursor.execute(query_series_id)
 
     for title_item in series_dictionary[series_item][-1]:
-        insert_films = 'INSERT INTO films (films.series_id, films.title, films.director, films.year, films.runtime, films.format, films.notes) VALUES ()  '
-
+        movie_title = title_item[0]
+        movie_director = title_item[1]
+        movie_year = title_item[2]
+        movie_runtime = title_item[3]
+        movie_format = title_item[4]
+        movie_notes = title_item[5]
+        insert_films = 'INSERT INTO films (films.series_id, films.title, films.director, films.year, films.runtime, films.format, films.notes) VALUES (%s, "%s", "%s", "%s", "%s", "%s", "%s");'%(series_id, movie_title, movie_director, movie_year, movie_runtime, movie_format, movie_notes)
+        cursor.execute(insert_films)
+        db.commit()
 
 # closes connection
 db.close()
