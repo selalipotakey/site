@@ -2,8 +2,6 @@
 
 Monorepo for Doc Films' website and archival database.
 
-
-test
 ## Maintained by Doc Films' web chairs:
 
 Colby Lundak, 2022-
