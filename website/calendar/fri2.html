@@ -1,0 +1,639 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Friday II, Saturday Series</title>
+
+    <link rel="stylesheet" media="print" href="/fonts/fonts.css?fda5-15b0-1e31" onload="this.media='all'" />
+    <link rel="stylesheet" href="https://use.typekit.net/gul0drw.css" />
+    <style>
+      @charset "UTF-8";
+      *,
+      ::after,
+      ::before {
+        box-sizing: border-box;
+      }
+      ol[class],
+      ul[class] {
+        padding: 0;
+      }
+      blockquote,
+      body,
+      dd,
+      dl,
+      figure,
+      h1,
+      h2,
+      h3,
+      h4,
+      ol[class],
+      p,
+      ul[class] {
+        margin: 0;
+      }
+      html {
+        scroll-behavior: smooth;
+      }
+      body {
+        min-height: 100vh;
+        text-rendering: optimizeSpeed;
+        line-height: 1.5;
+      }
+      ol[class],
+      ul[class] {
+        list-style: none;
+      }
+      a:not([class]) {
+        text-decoration: underline;
+        color: currentColor;
+      }
+      img {
+        max-width: 100%;
+        display: block;
+      }
+      button,
+      input,
+      select,
+      textarea {
+        font: inherit;
+      }
+      @media (prefers-reduced-motion: reduce) {
+        * {
+          animation-duration: 10ms !important;
+          animation-iteration-count: 1 !important;
+          transition-duration: 10ms !important;
+          scroll-behavior: auto !important;
+        }
+      }
+      h1,
+      h2,
+      h3,
+      h4,
+      summary {
+        font-family: niveau-grotesk, sans-serif;
+      }
+      h1,
+      h2,
+      h3,
+      i,
+      li,
+      p,
+      span {
+        font-size: clamp(
+          var(--fluid-type-min, 1rem),
+          1rem + var(--fluid-type-target, 3vw),
+          var(--fluid-type-max, 1.3rem)
+        );
+      }
+      h1 {
+        --fluid-type-min: 2rem;
+        --fluid-type-max: 4.5rem;
+        --fluid-type-target: 5.4vw;
+        font-weight: 400;
+        max-width: 15ch;
+      }
+      h2 {
+        --fluid-type-min: 1rem;
+        --fluid-type-max: 2rem;
+        --fluid-type-target: 1rem;
+      }
+      h3 {
+        --fluid-type-min: 1.5rem;
+        --fluid-type-max: 2.5rem;
+      }
+      h2,
+      h3 {
+        max-width: 50ch;
+      }
+      li,
+      p {
+        max-width: 70ch;
+        line-height: 1.8;
+        font-weight: 300;
+        --fluid-type-target: 1rem;
+        --fluid-type-min: 0.8rem;
+        --fluid-type-max: 1.1rem;
+      }
+      summary {
+        --fluid-type-min: 1rem;
+        --fluid-type-max: 1.5rem;
+      }
+      strong {
+        font-weight: 700;
+      }
+      .skip-link {
+        display: inline-block;
+        padding: 0.7rem 1rem 0.5rem 1rem;
+        text-decoration: none;
+        font-weight: 700;
+        text-transform: uppercase;
+        position: absolute;
+        top: 1rem;
+        left: 1rem;
+      }
+      .skip-link:not(:focus) {
+        border: 0;
+        clip: rect(0 0 0 0);
+        height: auto;
+        margin: 0;
+        overflow: hidden;
+        padding: 0;
+        position: absolute;
+        width: 1px;
+        white-space: nowrap;
+      }
+      .wrapper {
+        margin-top: --var(--mt, 4rem);
+        position: relative;
+        width: 90vw;
+        width: 90%;
+        margin-left: auto;
+        margin-right: auto;
+      }
+      .flow > * + * {
+        margin-top: var(--flow-space, 1rem);
+      }
+      .hr {
+        margin-top: 1.5rem;
+      }
+      @media (max-width: 975px) {
+        .hide {
+          display: none;
+        }
+      }
+      .big-title {
+        max-width: 100%;
+        line-height: 1.2;
+      }
+      .medium-title {
+        font-family: soleil, sans-serif;
+        font-weight: 400;
+        --fluid-type-min: 1rem;
+        --fluid-type-max: 1.3rem;
+      }
+      .full-bleed {
+        width: 100vw;
+        margin-left: calc(50% - 50vw);
+        background-color: var(--fbc, #000);
+        color: var(--text-color, #fff);
+      }
+      .make-yellow {
+        color: #ed028c;
+      }
+      .logo {
+        font-family: Poppins, sans-serif;
+        font-weight: 700;
+      }
+      .border {
+        border: 0 solid green;
+      }
+      .tl {
+        text-align: center;
+      }
+      .sidebar-parent {
+        position: relative;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 3rem;
+      }
+      .sidebar-parent > :first-child {
+        flex-basis: 30rem;
+        flex-grow: 1;
+      }
+      .sidebar-parent > :last-child {
+        flex-basis: 0;
+        flex-grow: 999;
+        min-inline-size: 50%;
+      }
+      .ticketinfo {
+        margin-top: 2.5rem;
+        margin-bottom: 1.5rem;
+        display: flex;
+        gap: 3rem;
+      }
+      .ticketinfo-pass > span,
+      .ticketinfo-single > span {
+        color: #000;
+        background-color: var(--tc, #e5e5e5);
+        width: 3rem;
+        height: 3rem;
+        border-radius: 50%;
+        padding: 4rem;
+        --fluid-type-max: 2.5rem;
+        --fluid-type-min: 1.5rem;
+      }
+      @media (max-width: 600px) {
+        .ticketinfo-pass > span,
+        .ticketinfo-single > span {
+          padding: 2.5rem;
+        }
+      }
+      .center,
+      .ticketinfo-pass,
+      .ticketinfo-single {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+      }
+      body {
+        background: #fff;
+        color: #000;
+        line-height: 1.5;
+        font-family: soleil, sans-serif;
+        overflow-x: hidden;
+      }
+      .film-grid {
+        display: grid;
+        gap: 4rem;
+      }
+      @supports (width: min(250px, 100%)) {
+        .film-grid {
+          grid-template-columns: repeat(auto-fit, minmax(min(500px, 100%), 1fr));
+        }
+      }
+      .film-grid__card {
+        position: relative;
+      }
+      .img {
+        border-top-left-radius: 1rem;
+        border-top-right-radius: 1rem;
+        width: 100%;
+        height: 350px;
+        opacity: 0.9;
+      }
+      .card-text {
+        background-color: #fff;
+        padding: 1.3rem;
+        z-index: -1;
+        border-bottom-left-radius: 1rem;
+        border-bottom-right-radius: 1rem;
+        border: 1px solid silver;
+        translate: 0 -1rem;
+      }
+      .desc {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+      }
+      .date {
+        font-size: 1.5rem;
+        font-weight: 500;
+      }
+      header {
+        position: sticky;
+        top: 0;
+        z-index: 9000;
+      }
+      footer {
+        background-color: #000;
+        color: #f5f5f5;
+        padding-top: 3rem;
+        padding-bottom: 2rem;
+        padding-right: 2rem;
+        padding-left: 2rem;
+        text-align: center;
+        bottom: 0;
+        z-index: 9000;
+      }
+      .footer-line2 {
+        color: #f5f5f5;
+      }
+      .footer-color {
+        color: #ed028c;
+      }
+      .footer-line2 a {
+        text-decoration: none;
+        color: #ed028c;
+      }
+      .navigation {
+        display: block;
+        z-index: 9000;
+      }
+      .navigation ul {
+        display: flex;
+        padding: 0.3rem;
+        margin: 0;
+        justify-content: flex-end;
+        list-style: none;
+      }
+      @media (max-width: 425px) {
+        .navigation ul {
+          justify-content: flex-start;
+          overflow: scroll;
+          padding: 0.5rem 0.8rem 0.6rem 0.8rem;
+        }
+      }
+      ul li {
+        margin-right: 2rem;
+      }
+      .navigation > ul:nth-child(1) {
+        background: #000;
+        color: #f5f5f5;
+      }
+      .navigation > ul:nth-child(2) {
+        background: #f5f5f5;
+        color: #000;
+      }
+      .navigation a {
+        font-size: clamp(
+          var(--fluid-type-min, 2rem),
+          1rem + var(--fluid-type-target, 2rem),
+          var(--fluid-type-max, 3rem)
+        );
+        font-weight: 500;
+        text-decoration: none;
+      }
+      .home-container {
+        height: 100%;
+        background-color: #000;
+        color: #fff;
+      }
+      .home-playing {
+        background-color: #e5e5e5;
+        color: #000;
+        padding-bottom: 2rem;
+      }
+      .about {
+        background: #e5e5e5;
+        color: #000;
+      }
+      .visiting-grid {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 2rem;
+        justify-content: center;
+      }
+      .visiting-grid > * {
+        flex-basis: 25rem;
+        border: 1px silver solid;
+        padding: 2rem;
+        background-color: #f5f5f5;
+      }
+      .visiting-landing {
+        margin-top: 3rem;
+        margin-bottom: 4rem;
+      }
+      .sidenav {
+        position: sticky;
+        top: 15%;
+        border: 1px solid silver;
+        padding: 1.5rem;
+        background-color: #f5f5f5;
+      }
+
+    </style>
+  </head>
+  <body>
+    <header>
+      <a href="#main-content" class="skip-link">Skip to content</a>
+      <nav class="navigation">
+        <ul>
+          <li><a href="/">home</a></li>
+          <li><a href="/calendar">calendar</a></li>
+          <li><a href="/visiting">visit</a></li>
+          <li><a href="/volunteer">volunteer</a></li>
+          <li><a href="/contact">contact</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main tabindex="-1">
+      <div class="sidebar-parent | wrapper">
+        <div>
+          <aside class="sidenav" style="margin-bottom: 2rem">
+            <h3>Spring 2022 Series</h3>
+            <ul>
+              <li><a href="/calendar/index">Full Calendar</a></li>
+              <li><a href="/calendar/thu">Thursday, Friday I: From the vault: Classics on Film</a></li>
+              <li><a href="/calendar/fri2">Friday II, Saturday: Programmer's Picks</a></li>
+            </ul>
+          </aside>
+        </div>
+
+        <div id="cal" class="flow">
+          <section class="calendar" style="--fbc: e5e5e5; padding-top: 2.5rem; margin-bottom: 2rem; margin-right: 3rem;">
+            <h3
+              class="big-title"
+              style="padding-top: 1rem; padding-bottom: 2rem;text-decoration: underline #ed028c"
+            >
+              Friday II, Saturday: Programmer's Picks
+            </h3>
+
+            <div class="film-grid" style="margin-top: 2rem;">
+              <div class="film-grid__card">
+                <div
+                  class="img"
+                  style="
+                    background: #fefefe url(../../images/week1/2022-04-01-in-the-mood-for-love.jpeg) no-repeat center
+                      center/cover;
+                  "
+                ></div>
+                <div class="flow | card-text">
+                  <div class="card-desc">
+                    <h3>In the Mood for Love (2000)</h3>
+
+                    <p class="date">4/1/22 @ 7:00 PM</p>
+
+                    <p>Wong Kar-wai | DCP | 98m</p>
+
+                    <p>
+                      In 1962, Mrs. Chan (Maggie Cheung) and Mr. Chow (Tony Leung) rent neighboring apartments on the same day. In the claustrophobic world of their building, the two married strangers come to bond over their mutual loneliness. What follows is one of the greatest romances ever put on screen, an achingly gorgeous study in yearning and doomed love. Acclaimed by critics, <i>In the Mood for Love</i> won two awards at Cannes and was nominated for a Palme d'Or.
+                    </p>
+                  </div>
+                </div>
+              </div>
+
+              <div class="film-grid__card">
+                <div
+                  class="img"
+                  style="
+                    background: #fefefe url(../../images/week2/2022-04-08-chungking-express.jpeg) no-repeat center center/cover;
+                  "
+                ></div>
+                <div class="flow | card-text">
+                  <div class="card-desc">
+                    <h3>Chungking Express (1994)</h3>
+
+                    <p class="date">4/8/22 @ 7:00 PM</p>
+
+                    <p>Wong Kar-wai | DCP | 97m</p>
+
+                    <p>
+                      In this energetic and unpredictable '90s romp, two lovesick cops pursue new love while drenched in dazzlingly fluorescent lights, canned pineapple, and the wistful strains of <i>California Dreamin</i>.' One officer (Takeshi Kaneshiro) falls for a mysterious blond-wigged woman (Brigitte Lin) in the popular Bottoms Up Club, while the other one (Tony Leung) gradually falls for a charming noodle vendor (Faye Wong) following his breakup with a flight attendant.
+                    </p>
+                  </div>
+                </div>
+              </div>
+
+              <div class="film-grid__card">
+                <div
+                  class="img"
+                  style="
+                    background: #fefefe url(../../images/week3/2022-04-15-happy-together.png) no-repeat center
+                      center/cover;
+                  "
+                ></div>
+                <div class="flow | card-text">
+                  <div class="card-desc">
+                    <h3>Happy Together (1997)</h3>
+
+                    <p class="date">4/15/22 @ 7:00 PM</p>
+
+                    <p>Wong Kar-wai | DCP | 96m</p>
+
+                    <p>
+                      In this film inspired by The Turtles' 1967 hit of the same name, the lovers in <i>Happy Together</i> are anything but. With hopes of rehabilitating their turbulent relationship yet again, Lai (Tony Leung) and his boyfriend Ho (Leslie Cheung) travel to Buenos Aires, but their romantic woes come right along with them. Released just before the 1997 Hong Kong handover from the UK to China, this searing, painful romance telegraphs anxiety over queer futures.
+                    </p>
+                  </div>
+                </div>
+              </div>
+
+              <div class="film-grid__card">
+                <div
+                  class="img"
+                  style="
+                    background: #fefefe url(../../images/week4/2022-04-22-the-grandmaster.jpeg) no-repeat center center/cover;
+                  "
+                ></div>
+                <div class="flow | card-text">
+                  <div class="card-desc">
+                    <h3>The Grandmaster (2013)</h3>
+
+                    <p class="date">4/22/22 @ 7:00 PM</p>
+
+                    <p>Wong Kar-wai | DCP | 130m</p>
+
+                    <p>Wong Kar-wai puts his spin on the life story of Bruce Lee’s mentor, the martial arts master Ip Man (Tony Leung). Zhang Ziyi wows as challenger Gong Er, the daughter of the previous grandmaster. A sprawling Kung Fu epic with a strongly poetic bent, <i>The Grandmaster</i> features visually stunning fight scenes and gorgeous camerawork in a story spanning decades of a tumultuous era in Chinese history. This film is Wong's only work to be nominated for an Oscar.
+                    </p>
+                  </div>
+                </div>
+              </div>
+
+              <div class="film-grid__card">
+                <div
+                  class="img"
+                  style="
+                    background: #fefefe url(../../images/week5/2022-04-29-eros.jpeg) no-repeat
+                      center center/cover;
+                  "
+                ></div>
+                <div class="flow | card-text">
+                  <div class="card-desc">
+                    <h3>Eros (2004)</h3>
+
+                    <p class="date">4/29/22 @ 7:00 PM</p>
+
+                    <p>Wong Kar-wai | 35mm | 104m</p>
+
+                    <p>This anthology brings together three short films with themes of love, sex, and desire. Set in the 60s, Wong Kar-wai’s contribution, <i>The Hand</i>, a glamorous sex worker (Gong Li) who begins an affair with her tailor (Chang Chen). Steven Soderbergh’s <i>Equilibrium</i> stars Robert Downey Jr. as an advertising exec tormented by recurring erotic dreams, and Michelangelo Antonioni’s <i>The Dangerous Thread of Things</i> follows a wealthy couple on vacation in Italy. </p>
+                  </div>
+                </div>
+              </div>
+
+              <div class="film-grid__card">
+                <div
+                  class="img"
+                  style="
+                    background: #fefefe url(../../images/week6/2022-05-06-as-tears-go-by.jpeg) no-repeat center
+                      center/cover;
+                  "
+                ></div>
+                <div class="flow | card-text">
+                  <div class="card-desc">
+                    <h3>As Tears Go By (1988)</h3>
+
+                    <p class="date">5/6/22 @ 7:00 PM</p>
+
+                    <p>Wong Kar-wai | DCP | 102m</p>
+
+                    <p>
+                     Set in the gritty Hong Kong underworld, Wong Kar-wai’s debut film grippingly portrays the story of a small-time gangster Wah (Andy Lau), caught between a budding romance with his cousin Ngor (Maggie Cheung) and his troublemaking partner-in-crime, Fly (Jacky Cheung). Taking inspiration from Scorsese’s American gangster classic <i>Mean Streets</i>, this crime thriller was a box office hit that showed early hints of the director's signature style.
+                    </p>
+                  </div>
+                </div>
+              </div>
+
+              <div class="film-grid__card">
+                <div
+                  class="img"
+                  style="
+                    background: #fefefe url(../../images/week7/2022-05-13-days-of-being-wild.jpeg) no-repeat center center/cover;
+                  "
+                ></div>
+                <div class="flow | card-text">
+                  <div class="card-desc">
+                    <h3>Days of Being Wild (1990)</h3>
+
+                    <p class="date">5/13/22 @ 7:00 PM</p>
+
+                    <p>Wong Kar-wai | DCP | 94m</p>
+
+                    <p>
+                      In Wong’s fragmentary, rain-soaked sophomore feature, the lives of restless twenty-somethings entwine in an unrequited love pentagon. Leslie Cheung stars as heartbreaker Yuddy, drifting through a series of love affairs with shop-girl (Maggie Cheung) and dancer (Carina Lau) as he searches for his birth mother. This film marks Wong’s first collaboration with cinematographer Christopher Doyle, and forms a loose trilogy with <i>In the Mood for Love</i> and <i>2046</i>.
+                    </p>
+                  </div>
+                </div>
+              </div>
+
+              <div class="film-grid__card">
+                <div
+                  class="img"
+                  style="
+                    background: #fefefe url(../../images/week8/2022-05-20-ashes-of-time-redux.jpeg) no-repeat
+                      center center/cover;
+                  "
+                ></div>
+                <div class="flow | card-text">
+                  <div class="card-desc">
+                    <h3>Ashes of Time Redux (1994)</h3>
+
+                    <p class="date">5/20/22 @ 7:00 PM</p>
+
+                    <p>Wong Kar-wai | 35mm | 93m</p>
+
+                    <p>
+                      A shockingly beautiful fever dream of a wuxia film, this dizzying period piece was described by Wong as Shakespeare meets Sergio Leone in Chinese. It’s surprisingly low on swordplay — but not on epic longing, phantasmagoric colors, and star power (Leslie Cheung, Maggie Cheung, Carina Lau, Brigitte Lin, and both Tony Leung Ka Fai and Tony Leung Chiu Wai). The film also features a score by Frankie Chan and numerous cello solos by the famous Yo-Yo Ma.
+                    </p>
+                  </div>
+                </div>
+              </div>
+                <div class="film-grid__card">
+                <div
+                  class="img"
+                  style="
+                    background: #fefefe url(../../images/week9/2022-05-27-fallen-angels.jpeg) no-repeat
+                      center center/cover;
+                  "
+                ></div>
+                <div class="flow | card-text">
+                  <div class="card-desc">
+                    <h3>Fallen Angels (1995)</h3>
+
+                    <p class="date">5/27/22 @ 7:00 PM</p>
+
+                    <p>Wong Kar-wai | DCP | 99m</p>
+
+                    <p>
+                      A story centering around a hitman trying to escape his partner and a mute delinquent building a life after escaping prison, <i>Fallen Angels</i> is a neon-noir crime thriller that follows two loosely-interlocked narratives in an exhilarating, disorienting homage to Hong Kong at night. The plot was initially set as the third narrative in <i>Chungking Express</i>, but was expanded into its own movie to showcase the real character of these two films: Hong Kong itself.
+                    </p>
+                  </div>
+                </div>
+                
+              </div>
+            </div>
+          </section>
+        </div>
+      </div>
+      <footer>
+        
+          <i>anyone can volunteer. anyone can program. everyone is invited.</i>
+          <br><br>doc films • max palevsky cinema • 1212 east 59th street • 773-702-8574 • doc@docfilms.org
+
+          <div class="footer-line2"><a href="https://www.facebook.com/DocFilmsChicago" target="_blank">facebook</a> • <a href="https://www.instagram.com/docfilmschicago/?hl=en" target="_blank">instagram</a> • <a href="https://twitter.com/docfilmschicago?lang=en" target="_blank">twitter</a> • <a href="/" target="_blank">newsletter</a></div>
+        
+      </footer>
+    </main>
+  </body>
+</html>
