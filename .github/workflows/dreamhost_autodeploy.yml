@@ -1,6 +1,6 @@
-# This is a basic workflow to help you get started with Actions
+# Workflow to auto-deploy site to Dreamhost when Github encounters pushes or pulls
 
-name: CI
+name: dreamhost_autodeploy
 
 # Controls when the workflow will run
 on:
@@ -15,22 +15,17 @@ on:
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  # This workflow contains a single job called "build"
-  build:
-    # The type of runner that the job will run on
+  write-to-console:
     runs-on: ubuntu-latest
-
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v3
-
-      # Runs a single command using the runners shell
-      - name: Run a one-line script
-        run: echo Hello, world!
-
-      # Runs a set of commands using the runners shell
-      - name: Run a multi-line script
-        run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
+      - name: Install SSH Key
+        uses: shimataro/ssh-key-action@v2.3.1
+        with:
+          key: ${{ secrets.DREAMHOST_SSH_PRIVATE_KEY }}
+          known_hosts: 'placeholder'
+      - name: Adding Known Hosts
+        run: ssh-keyscan -H ${{ secrets.DREAMHOST_SSH_HOST }} >> ~/.ssh/known_hosts  
+      - name: Checkout
+        uses: actions/checkout@v2.4.2
+      - name: Deploy with rsync
+        run: rsync -avn ${{ github.workspace }} ${{ secrets.DREAMHOST_SSH_USER }}@${{ secrets.DREAMHOST_SSH_HOST }}:~/clone_docfilms.git/
