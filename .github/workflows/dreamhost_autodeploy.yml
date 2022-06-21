@@ -28,4 +28,4 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2.4.2
       - name: Deploy with rsync
-        run: rsync -avn ${{ github.workspace }}/docfilms/site/ ${{ secrets.DREAMHOST_SSH_USER }}@${{ secrets.DREAMHOST_SSH_HOST }}:~/clone_docfilms.git/
+        run: rsync -avn ${{ github.workspace }} ${{ secrets.DREAMHOST_SSH_USER }}@${{ secrets.DREAMHOST_SSH_HOST }}:~/clone_docfilms.git/
