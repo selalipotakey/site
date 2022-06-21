@@ -24,6 +24,8 @@ jobs:
           key: ${{ secrets.DREAMHOST_SSH_PRIVATE_KEY }}
           known_hosts: 'placeholder'
       - name: Adding Known Hosts
-        run: ssh-keyscan -H ${{ secrets.DREAMHOST_SSH_HOST }} >> ~/.ssh/known_hosts
+        run: ssh-keyscan -H ${{ secrets.DREAMHOST_SSH_HOST }} >> ~/.ssh/known_hosts  
+      - name: Checkout
+        uses: actions/checkout@v2.4.2
       - name: Deploy with rsync
         run: rsync -avn ${{ github.workspace }}/docfilms/site/ ${{ secrets.DREAMHOST_SSH_USER }}@${{ secrets.DREAMHOST_SSH_HOST }}:~/clone_docfilms.git/
