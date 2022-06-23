@@ -135,3 +135,7 @@ for series_item in series_dictionary:
 
 # closes connection
 db.close()
+
+
+if __name__ == "__main__":
+   print('hello world')
