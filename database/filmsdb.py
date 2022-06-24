@@ -20,6 +20,9 @@ import pymysql
 # allows for a hidden password input
 from getpass import getpass
 
+# builds a command line interface (CLI)
+import argparse
+
 class credentials:
     def __init__(self):
         self.db_server = ''
@@ -38,11 +41,81 @@ def inputcaps(sheetpath, quarter, year, exrows):
         caps_df = pd.read_excel(sheetpath)
     except FileNotFoundError:
         print('FileNotFoundError: \'' + sheetpath + '\' is not a valid file path. Please try again.')
+        exit()
     except ValueError:
         print('ValueError: \'' + sheetpath + '\' is not a valid Excel (.xls, .xlsx, .xlsm, .xlsb, .odf, .ods, .odt) file. Please try again.')
+        exit()
+
+    #initializes dictionary containing each series
+    series_dict = {}
+
+    count = 0
+    # iterates over all rows in the dataframe (i.e. spreadsheet)
+    for index, row in caps_df.iterrows():
+        # count allows us to skip over example rows
+        count+=1
+        if count <= exrows:
+            continue
+        series_title = row['series']
+        # checks and handles for NaNs in series column
+        if pd.isna(series_title) or len(str(series_title).strip()) < 1:
+            print('TypeError: Cells in the \'series\' column of the sheet contain blanks/nulls')
+            exit()
+        series_title = str(series_title).strip()
+        # inputs series information into a dictionary
+        if not series_title in series_dict:
+            programmer = row['programmer'] 
+            if pd.isna(programmer) or len(str(programmer).strip()) < 1:
+                while True:
+                    prog_warning = input('Warning: The series \'' + series_title + '\' does not have a programmer, proceed? [y/n] ')
+                    if prog_warning.lower() == 'y' or prog_warning.lower() == 'yes':
+                        break
+                    elif prog_warning.lower() == 'n' or prog_warning.lower() == 'no':
+                        print('\nNo programmer for \'' + series_title + '.\'\nPlease input a programmer in the capsules spreadsheet. Exiting.')
+                        exit()
+                    else:
+                        continue
+            slot = row['slot']
+            if pd.isna(slot) or len(str(slot).strip()) < 1:
+                while True:
+                    slot_warning = input('Warning: The series \'' + series_title + '\' does not have a slot defined, proceed? [y/n] ')
+                    if slot_warning.lower() == 'y' or slot_warning.lower() == 'yes':
+                        break
+                    elif slot_warning.lower() == 'n' or slot_warning.lower() == 'no':
+                        print('\nNo slot for \'' + series_title + '.\'\nPlease input a slot in the capsules spreadsheet. Exiting.')
+                        exit()
+                    else:
+                        continue
+            series_dict[series_title] = [programmer, slot, quarter, year, []]
+        exit()
+        #left off here
 
 
-def main():
+
+        title_list = series_dict[series_title][-1]
+        # checks and handles for title, director, and year column (essential columns)
+        if pd.isna(row['title']) or pd.isna(row['director']) or pd.isna(row['year']):
+            print('TypeError: either \'title\', \'director\', or \'year\' are null/blank. Please check ' + spreadsheet_name + ' that all titles, directors, and years present')
+        if pd.isna(row['runtime']):
+            row['runtime'] = 'None found'
+        if pd.isna(row['format']):
+            row['format'] = 'None found'
+        if pd.isna(row['public notes']):
+            row['public notes'] = 'None'
+        # inputs information on titles in a series
+        title_list.append([row['title'], row['director'], str(int(row['year'])), row['runtime'], row['format'], row['public notes'], int(row['showdate1'].strftime('%m%d')), int(row['showtime1'].strftime('%H%M'))])
+        # inputs screening date and time into title list
+        for i in range(max_repeats-1):
+            num = i+2
+            showdate = 'showdate' + str(num)
+            showtime = 'showtime' + str(num)
+            if pd.isna(row[showdate]) and pd.isna(row[showtime]):
+                continue
+            title_list[-1][5] = title_list[-1][5] + "  -- repeated on " + row[showdate].strftime('%m/%d') + " at " + row[showtime].strftime('%H:%M')
+
+
+
+def extra():
     # YOU MUST INITIALIZE THE VARIABLES BELOW EACH TIME YOU RUN THIS PROGRAM
     # input the name of the .xlsx spreadsheet and its containing folder that you are seeking to format
     spreadsheet_name = 'Spring-2022-Capsules.xlsx'
@@ -163,8 +236,12 @@ def main():
     # closes connection
     db.close()
 
+def main():
+    parser = argparse.ArgumentParser(description='A command line program that communicates to Doc\'s filmsdb database to modify existing tables, add new series, mass-input prior screenings, and more.')
+
+    args = parser.parse_args()
+
 
 if __name__ == "__main__":
-    print('---------------------------------------------------------------------------\ndocdb is a command line program that facilitates modifying existing tables,\nadding new series, and mass-inputting prior screenings.\n\nPlease use `filmsdb -h` to see more information.\n---------------------------------------------------------------------------')
-    inputcaps(r'C:\Users\camer\docfilms-github\site\database\capsules_spreadsheets\Spring-2022-Capsules.xlsx', 'spring', 2022, 2)
-    #main()
+    main()
+    inputcaps(r'C:\Users\camer\docfilms-github\site\database\capsules_spreadsheets\Spring-2022-Capsules-testing.xlsx', 'spring', 2022, 2)
