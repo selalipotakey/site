@@ -30,11 +30,17 @@ class credentials:
         self.db_server = input("Input database server: ")
         self.db_user = input("Input username: ")
         self.db_pass = getpass('Input password: ')
-    def printthem(self):
-        print(self.db_server)
-        print(self.db_name)
-        print(self.db_user)
-        print(self.db_pass)
+
+def inputcaps(sheetpath, quarter, year, exrows):
+    # Attempts to turn the capsules spreadsheet located at sheetpath
+    # into a pandas dataframe. Handles exceptions if errors are raised.
+    try:
+        caps_df = pd.read_excel(sheetpath)
+    except FileNotFoundError:
+        print('FileNotFoundError: \'' + sheetpath + '\' is not a valid file path. Please try again.')
+    except ValueError:
+        print('ValueError: \'' + sheetpath + '\' is not a valid Excel (.xls, .xlsx, .xlsm, .xlsb, .odf, .ods, .odt) file. Please try again.')
+
 
 def main():
     # YOU MUST INITIALIZE THE VARIABLES BELOW EACH TIME YOU RUN THIS PROGRAM
@@ -48,6 +54,7 @@ def main():
     # input the maximum number of repeat screenings of a single title per quarter
     max_repeats = 0
 
+    print(os.path.join(ROOT_DIR, containing_directory, spreadsheet_name))
     # creates a pandas dataframe from the spreadsheet
     # os.path.join is used to create the path name for the spreadsheet
     capsules_dataframe = pd.read_excel(os.path.join(ROOT_DIR, containing_directory, spreadsheet_name))
@@ -159,3 +166,5 @@ def main():
 
 if __name__ == "__main__":
     print('---------------------------------------------------------------------------\ndocdb is a command line program that facilitates modifying existing tables,\nadding new series, and mass-inputting prior screenings.\n\nPlease use `filmsdb -h` to see more information.\n---------------------------------------------------------------------------')
+    inputcaps(r'C:\Users\camer\docfilms-github\site\database\capsules_spreadsheets\Spring-2022-Capsules.xlsx', 'spring', 2022, 2)
+    #main()
