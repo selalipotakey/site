@@ -61,10 +61,12 @@ def inputcaps(sheetpath, quarter, year, exrows):
         if pd.isna(series_title) or len(str(series_title).strip()) < 1:
             print('TypeError: Cells in the \'series\' column of the sheet contain blanks/nulls')
             exit()
+        
         series_title = str(series_title).strip()
         # inputs series information into a dictionary
         if not series_title in series_dict:
             programmer = row['programmer'] 
+            # handles missing/null values for programmer
             if pd.isna(programmer) or len(str(programmer).strip()) < 1:
                 while True:
                     prog_warning = input('Warning: The series \'' + series_title + '\' does not have a programmer, proceed? [y/n] ')
@@ -75,7 +77,9 @@ def inputcaps(sheetpath, quarter, year, exrows):
                         exit()
                     else:
                         continue
+
             slot = row['slot']
+            # handles missing/null values for slot
             if pd.isna(slot) or len(str(slot).strip()) < 1:
                 while True:
                     slot_warning = input('Warning: The series \'' + series_title + '\' does not have a slot defined, proceed? [y/n] ')
@@ -86,6 +90,8 @@ def inputcaps(sheetpath, quarter, year, exrows):
                         exit()
                     else:
                         continue
+
+            # actual line that inputs the data
             series_dict[series_title] = [programmer, slot, quarter, year, []]
         exit()
         #left off here
