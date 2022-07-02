@@ -1,6 +1,3 @@
-# This module takes a properly formatted Doc Films capsule spreadsheet and
-# outputs properly formatted data for database insertion.
-
 # re (regular expressions) comes with python
 import re
 
@@ -23,16 +20,49 @@ from getpass import getpass
 # builds a command line interface (CLI)
 import argparse
 
-class credentials:
+class connection:
     def __init__(self):
         self.db_server = ''
         self.db_name = 'docfilmstest'
         self.db_user = ''
         self.db_pass = ''
+
     def get_creds(self):
         self.db_server = input("Input database server: ")
         self.db_user = input("Input username: ")
         self.db_pass = getpass('Input password: ')
+
+    def open_conn(self):
+        # attempts connection to database
+        try:
+            self.db = pymysql.connect(host=self.db_server, user=self.db_user, password=self.db_pass, database=self.db_name)
+        except pymysql.err.OperationalError as e:
+            if e.args[0] == 2003:
+                print('InputError: Database server \'' + self.db_server + '\' cannot be found. Please check spelling. Exiting')
+                exit()
+            elif e.args[0] == 1045: 
+                print('InputError: Either username \'' + self.db_user + '\' or password is not valid. Please check spelling.')
+                print('- If username and password are valid, error could be due to access from an unregistered IP address.\n- Check user settings in Dreamhost MySQL database section. Add your IP address if it is not already added.\nExiting.')
+                exit()
+            else:
+                raise
+        return self.db     
+
+    def get_cursor(self):
+        self.cursor = self.db.cursor()
+        return self.cursor
+
+    def drop_table(self, table):
+        try:
+            drop_films = '''DROP TABLE %s;'''%table
+            self.cursor.execute(drop_films)
+            self.db.commit()
+            print('Dropped table `%s`'%table)
+        except pymysql.err.OperationalError as e:
+            if e.args[0] == 1051:
+                print('Table `%s` not found. Cannot drop.'%table)
+            else:
+                raise
 
 def addtables():
     # checks user wants to add tables to database
@@ -56,19 +86,28 @@ def addtables():
         else:
             continue
 
-    # initializes credentials() object to handle credentials
-    creds = credentials()
-    creds.get_creds()
+    # initializes connection() object to handle credentials
+    conn = connection()
+    conn.get_creds()
 
     # attempts connection to database
-    try:
-        db = pymysql.connect(host=creds.db_server, user=creds.db_user, password=creds.db_pass, database=creds.db_name)
-    except pymysql.err.OperationalError:
-        print('PermissionsError: Either the credentials you entered were incorrect, or your IP address was denied access to the database.\nIf the latter, log in to Dreamhost, navigate to your users database access settings, and add your computer\'s IP address to the list of allowed IPs.')
-        exit()
+    db = conn.open_conn()
+    cursor = conn.get_cursor()
 
-    # opens cursor object and executes CREATE TABLE commands
-    cursor = db.cursor()
+    create_quarters = '''
+-- -----------------------------------------------------
+-- Table `docfilmstest`.`quarters`
+-- -----------------------------------------------------
+CREATE TABLE IF NOT EXISTS `docfilmstest`.`quarters` (
+  `id` INT NOT NULL AUTO_INCREMENT,
+  `quarter` VARCHAR(45) NOT NULL,
+  `year` YEAR NOT NULL,
+  `startdate` DATE NULL,
+  `enddate` DATE NULL,
+  PRIMARY KEY (`id`),
+  INDEX `year_idx` (`year` ASC) VISIBLE)
+ENGINE = InnoDB;
+    '''
 
     create_series = '''
 -- -----------------------------------------------------
@@ -76,14 +115,19 @@ def addtables():
 -- -----------------------------------------------------
 CREATE TABLE IF NOT EXISTS `docfilmstest`.`series` (
   `id` INT NOT NULL AUTO_INCREMENT,
+  `quarters_id` INT NOT NULL,
   `name` VARCHAR(256) NOT NULL,
   `programmer` VARCHAR(256) NULL,
   `slot` VARCHAR(256) NULL,
-  `quarter` VARCHAR(45) NULL,
-  `year` YEAR NULL,
   `essay` TEXT NULL,
   `notes` TEXT NULL,
-  PRIMARY KEY (`id`))
+  PRIMARY KEY (`id`),
+  INDEX `fk_series_quarters1_idx` (`quarters_id` ASC) VISIBLE,
+  CONSTRAINT `fk_series_quarters1`
+    FOREIGN KEY (`quarters_id`)
+    REFERENCES `docfilmstest`.`quarters` (`id`)
+    ON DELETE NO ACTION
+    ON UPDATE NO ACTION)
 ENGINE = InnoDB;'''
 
     create_screenings = '''
@@ -119,6 +163,7 @@ CREATE TABLE IF NOT EXISTS `docfilmstest`.`films` (
   `imagepath` VARCHAR(256) NULL,
   PRIMARY KEY (`id`),
   INDEX `fk_films_screenings1_idx` (`screenings_id` ASC) VISIBLE,
+  INDEX `releaseyear_idx` (`releaseyear` ASC) VISIBLE,
   CONSTRAINT `fk_films_screenings1`
     FOREIGN KEY (`screenings_id`)
     REFERENCES `docfilmstest`.`screenings` (`id`)
@@ -137,6 +182,7 @@ CREATE TABLE IF NOT EXISTS `docfilmstest`.`times` (
   `showtime` TIME NULL,
   PRIMARY KEY (`id`),
   INDEX `fk_times_screenings1_idx` (`screenings_id` ASC) VISIBLE,
+  INDEX `showdate_idx` (`showdate` ASC) VISIBLE,
   CONSTRAINT `fk_times_screenings1`
     FOREIGN KEY (`screenings_id`)
     REFERENCES `docfilmstest`.`screenings` (`id`)
@@ -144,6 +190,9 @@ CREATE TABLE IF NOT EXISTS `docfilmstest`.`times` (
     ON UPDATE NO ACTION)
 ENGINE = InnoDB;
 '''
+    cursor.execute(create_quarters)
+    db.commit()
+    print('Added table `quarters`')
     cursor.execute(create_series)
     db.commit()
     print('Added table `series`')
@@ -182,60 +231,19 @@ def droptables():
         else:
             continue
 
-    # initializes credentials() object to handle credentials
-    creds = credentials()
-    creds.get_creds()
+    # initializes connection() object to handle credentials
+    conn = connection()
+    conn.get_creds()
 
     # attempts connection to database
-    try:
-        db = pymysql.connect(host=creds.db_server, user=creds.db_user, password=creds.db_pass, database=creds.db_name)
-    except pymysql.err.OperationalError:
-        print('PermissionsError: Either the credentials you entered were incorrect, or your IP address was denied access to the database.\nIf the latter, log in to Dreamhost, navigate to your users database access settings, and add your computer\'s IP address to the list of allowed IPs.')
-        exit()
+    db = conn.open_conn()
 
-    # opens cursor object
-    cursor = db.cursor()
-
-    try:
-        drop_films = '''DROP TABLE films;'''
-        cursor.execute(drop_films)
-        db.commit()
-        print('Dropped table `films`')
-    except pymysql.err.OperationalError as e:
-        if e.args[0] == 1051:
-            print('Table `films` not found. Cannot drop.')
-        else:
-            raise
-    try:
-        drop_times = '''DROP TABLE times;'''
-        cursor.execute(drop_times)
-        db.commit()
-        print('Dropped table `times`')
-    except pymysql.err.OperationalError as e:
-        if e.args[0] == 1051:
-            print('Table `times` not found. Cannot drop.')
-        else:
-            raise
-    try:
-        drop_screenings = '''DROP TABLE screenings;'''
-        cursor.execute(drop_screenings)
-        db.commit()
-        print('Dropped table `screenings`')
-    except pymysql.err.OperationalError as e:
-        if e.args[0] == 1051:
-            print('Table `screenings` not found. Cannot drop.')
-        else:
-            raise
-    try:
-        drop_series = '''DROP TABLE series;'''
-        cursor.execute(drop_series)
-        db.commit()
-        print('Dropped table `series`')
-    except pymysql.err.OperationalError as e:
-        if e.args[0] == 1051:
-            print('Table `series` not found. Cannot drop.')
-        else:
-            raise
+    # calls connection() class to drop the tables
+    conn.drop_table('films')
+    conn.drop_table('times')
+    conn.drop_table('screenings')
+    conn.drop_table('series')
+    conn.drop_table('quarters')
 
     # closes database connection
     db.close()
@@ -368,8 +376,6 @@ def inputcaps(sheetpath, quarter, year, exrows):
                 continue
             title_list[-1][5] = title_list[-1][5] + "  -- repeated on " + row[showdate].strftime('%m/%d') + " at " + row[showtime].strftime('%H:%M')
 
-
-
 def extra():
     # YOU MUST INITIALIZE THE VARIABLES BELOW EACH TIME YOU RUN THIS PROGRAM
     # input the name of the .xlsx spreadsheet and its containing folder that you are seeking to format
@@ -500,3 +506,4 @@ def main():
 if __name__ == "__main__":
     main()
     #inputcaps(r'C:\Users\camer\docfilms-github\site\database\capsules_spreadsheets\Spring-2022-Capsules-testing.xlsx', 'spring', 2022, 2)
+    addtables()
