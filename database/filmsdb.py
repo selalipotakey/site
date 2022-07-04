@@ -1,24 +1,12 @@
-# re (regular expressions) comes with python
-import re
-
 # I had to install pandas by using miniconda, then
 # I installed pandas using `conda install pandas` in the command line
 # also had to install openpyxl with `conda instsall openpyxl` in the command line
-import pandas as pd
-
-# allows for defining a path name for the directory containing these files, regardless of user's machine
-# ROOT_DIR is just database/ for our case
-import os
-from config.definitions import ROOT_DIR
-
-# allows for connection to the database using python 3
-import pymysql
-
-# allows for a hidden password input
-from getpass import getpass
-
-# builds a command line interface (CLI)
-import argparse
+import pandas as pd                             # allows excel imports
+import os                                       # together with ROOT_DIR, easy way to construct file paths
+from config.definitions import ROOT_DIR         
+import pymysql                                  # allows for connection to the database using python 3
+from getpass import getpass                     # allows for a hidden password input
+import argparse                                 # builds a command line interface (CLI)
 
 class connection:
     def __init__(self):
@@ -248,16 +236,68 @@ def droptables():
     # closes database connection
     db.close()
 
-def inputcaps(sheetpath, quarter, year, exrows):
-    # Attempts to turn the capsules spreadsheet located at sheetpath
+def try_col(row, header, null_check=False, null_suggest=False, series=''):
+    # row: Pandas dataframe row
+    # header: title of the column the value is in
+    # null_check: True=will quit if nulls are found
+    # null_suggest: True=will make user confirm nulls are intended if nulls are found
+    # series_title: title of series must be used if null_suggest is True
+
+    if null_suggest and len(series)<1:
+        print('null_suggest set to `True` but no series_title given. Cannot compute. Exiting.')
+        exit()
+    
+    try:
+        value = row['%s'%header]
+        if null_check and (pd.isna(value) or len(str(value).strip()) < 1):
+            print('NullError: Cells in the \'%s\' column of the sheet contain blanks/nulls'%header)
+            exit()
+        elif null_suggest and (pd.isna(value) or len(str(value).strip()) < 1):
+            while True:
+                warning = input('Warning: The series \'' + series + '\' does not have a programmer, proceed? [y/n] ')
+                if warning.lower() == 'y' or warning.lower() == 'yes':
+                    return value
+                elif warning.lower() == 'n' or warning.lower() == 'no':
+                    print('\nNo programmer for \'' + series + '.\'\nPlease input a programmer in the capsules spreadsheet. Exiting.')
+                    exit()
+                else:
+                    continue
+        else:
+            return value
+    except KeyError:
+        print('ColumnError: No column titled \'%s\' found. Please check the spreadsheet and try again.'%header)
+        exit()
+
+def pprint_inputcaps_historic(dict):
+    # helps to check if inputcaps_historic is working
+    # by printing out a 'pretty' version of the formatted dict
+    f = open('pprint_inputcaps_historic.out', 'w')
+    for series in dict:
+        f.write('%s: %s, %s'%(series, dict[series][0], dict[series][1]))
+        for title in dict[series][-1]:
+            count = -1
+            time_string = ''
+            while True:
+                count += 1
+                try:
+                    title[-1][count]
+                    time_string += '%s at %s, '%(title[-1][count][0], title[-1][count][1])
+                except IndexError:
+                    break
+            f.write('\t%s, by %s, %s, %smin, %s, %s, %s'%(title[0], title[1], title[2], title[3], title[4], title[5], time_string))
+    f.close()
+
+def inputcaps_historic(sheetpath, quarter, year, exrows):
+    # Attempts to turn a pre-Summer 2022 capsules spreadsheet located at sheetpath
     # into a pandas dataframe. Handles exceptions if errors are raised.
+    # A pre-Summer 2022 spreadsheet is one without a separate sheet for series essays
     try:
         caps_df = pd.read_excel(sheetpath)
     except FileNotFoundError:
         print('FileNotFoundError: \'' + sheetpath + '\' is not a valid file path. Please try again.')
         exit()
     except ValueError:
-        print('PathError: \'' + sheetpath + '\' is not a valid Excel (.xls, .xlsx, .xlsm, .xlsb, .odf, .ods, .odt) file. Please try again.')
+        print('TypeError: \'' + sheetpath + '\' is not a valid Excel (.xls, .xlsx, .xlsm, .xlsb, .odf, .ods, .odt) file. Please try again.')
         exit()
 
     #initializes dictionary containing each series
@@ -272,109 +312,51 @@ def inputcaps(sheetpath, quarter, year, exrows):
             continue
         
         # assigns the series title to a variable, handles not finding a series column
-        try:
-            series_title = row['series']
-        except KeyError:
-            print('ColumnError: No column titled \'series\' found. Please check the spreadsheet and try again.')
-            exit()
+        series_title = str(try_col(row, 'series', null_check=True)).strip()
 
-        # checks and handles for NaNs in series column
-        if pd.isna(series_title) or len(str(series_title).strip()) < 1:
-            print('NullError: Cells in the \'series\' column of the sheet contain blanks/nulls')
-            exit()
-        
-        series_title = str(series_title).strip()
-        # inputs series information into a dictionary
+        # inputs series information into dict if not present
         if not series_title in series_dict:
             # assigns programmer to a variable, handles not finding a programmer column
-            try:
-                programmer = row['programmer'] 
-            except KeyError:
-                print('ColumnError: No column titled \'programmer\' found. Please check the spreadsheet and try again.')
-                exit()
+            programmer = try_col(row, 'programmer', null_suggest=True, series=series_title) 
             
             # assigns slot to a variable, handles not finding a slot column
+            slot = try_col(row, 'slot', null_suggest=True, series=series_title)
+
+            # actual lines that inputs the series data into the dict
+            series_dict[series_title] = [programmer, slot, []]
+        
+        # assigns last element of the list containg the series as the list of the titles in the series
+        title_list = series_dict[series_title][-1]
+
+        # assigns title, director, and year to variables. Handles nulls
+        title = try_col(row, 'title', null_check=True)
+        director = try_col(row, 'director', null_check=True)
+        release_year = try_col(row, 'year', null_check=True)
+
+        # assigns runtime, format, and public notes to variables
+        runtime = try_col(row, 'runtime')
+        format = try_col(row, 'format')
+        pub_notes = try_col(row, 'public notes')
+
+        # inputs that info into the title_list
+        title_list.extend([title, director, release_year, runtime, format, pub_notes, []])
+
+        showtime_count = 0
+        while True:
+            showtime_count += 1
             try:
-                slot = row['slot']
+                showdate = row['showdate%s'%str(showtime_count)]
+                showtime = row['showtime%s'%str(showtime_count)]
+                if (pd.isna(showdate) or len(str(showdate).strip()) < 1) or (pd.isna(showtime) or len(str(showtime).strip()) < 1):
+                    continue
+                showdate = showdate.strftime('%Y-%m-%d')
+                showtime = showtime.strftime('%H:%M:%S')
+                title_list[-1].append((showdate, showtime))
             except KeyError:
-                print('ColumnError: No column titled \'slot\' found. Please check the spreadsheet and try again.')
-                exit()
-
-            # handles missing/null values for programmer
-            if pd.isna(programmer) or len(str(programmer).strip()) < 1:
-                while True:
-                    prog_warning = input('Warning: The series \'' + series_title + '\' does not have a programmer, proceed? [y/n] ')
-                    if prog_warning.lower() == 'y' or prog_warning.lower() == 'yes':
-                        break
-                    elif prog_warning.lower() == 'n' or prog_warning.lower() == 'no':
-                        print('\nNo programmer for \'' + series_title + '.\'\nPlease input a programmer in the capsules spreadsheet. Exiting.')
-                        exit()
-                    else:
-                        continue
-
-            # handles missing/null values for slot
-            if pd.isna(slot) or len(str(slot).strip()) < 1:
-                while True:
-                    slot_warning = input('Warning: The series \'' + series_title + '\' does not have a slot defined, proceed? [y/n] ')
-                    if slot_warning.lower() == 'y' or slot_warning.lower() == 'yes':
-                        break
-                    elif slot_warning.lower() == 'n' or slot_warning.lower() == 'no':
-                        print('\nNo slot for \'' + series_title + '.\'\nPlease input a slot in the capsules spreadsheet. Exiting.')
-                        exit()
-                    else:
-                        continue
-
-            # actual line that inputs the series data
-            series_dict[series_title] = [programmer, slot, quarter, year, []]
-
-
-            title_list = series_dict[series_title][-1]
-            # checks and handles for title, director, and year column (essential columns)
-
-            # assigns title to a variable, handles not finding a title column
-            try:
-                title = row['title'] 
-            except KeyError:
-                print('ColumnError: No column titled \'title\' found. Please check the spreadsheet and try again.')
-                exit()
-
-            # assigns director to a variable, handles not finding a director column
-            try:
-                director = row['director'] 
-            except KeyError:
-                print('ColumnError: No column titled \'director\' found. Please check the spreadsheet and try again.')
-                exit()
-
-            # assigns year to a variable, handles not finding a year column
-            try:
-                release_year = int(row['year'])
-            except KeyError:
-                print('ColumnError: No column titled \'year\' found. Please check the spreadsheet and try again.')
-                exit()
-            except ValueError:
-                print('ValueError: A value in the \'year\' column is not an integer. Please check that there are no non-numerical characters in the \'year\' column.')
-
-
-            if pd.isna(title) or len(str(title)) < 1:
-                print('NullError: A row has blanks/nulls in the \'title\' column. Please check spreadsheet that all titles are present.')
-            elif pd.isna(director) or len(str(director)) < 1:
-                print('NullError: A row has blanks/nulls in the \'director\' column. Please check spreadsheet that all directors are present.')
-            elif pd.isna(release_year) or len(str(release_year)) < 1:
-                print('NullError: A row has blanks/nulls in the \'year\' column. Please check spreadsheet that all year are present.')
-
-        exit()
-
-
-        # inputs information on titles in a series
-        title_list.append(title, director, release_year, row['runtime'], row['format'], row['public notes'], int(row['showdate1'].strftime('%m%d')), int(row['showtime1'].strftime('%H%M')))
-        # inputs screening date and time into title list
-        for i in range(max_repeats-1):
-            num = i+2
-            showdate = 'showdate' + str(num)
-            showtime = 'showtime' + str(num)
-            if pd.isna(row[showdate]) and pd.isna(row[showtime]):
-                continue
-            title_list[-1][5] = title_list[-1][5] + "  -- repeated on " + row[showdate].strftime('%m/%d') + " at " + row[showtime].strftime('%H:%M')
+                break
+    
+    pprint_inputcaps_historic(series_dict)
+    exit()
 
 def extra():
     # YOU MUST INITIALIZE THE VARIABLES BELOW EACH TIME YOU RUN THIS PROGRAM
@@ -505,5 +487,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-    #inputcaps(r'C:\Users\camer\docfilms-github\site\database\capsules_spreadsheets\Spring-2022-Capsules-testing.xlsx', 'spring', 2022, 2)
-    addtables()
+    inputcaps_historic(r'C:\Users\camer\docfilms-github\site\database\capsules_spreadsheets\Spring-2022-Capsules.xlsx', 'spring', 2022, 2)
