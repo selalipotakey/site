@@ -254,11 +254,11 @@ def try_col(row, header, null_check=False, null_suggest=False, series=''):
             exit()
         elif null_suggest and (pd.isna(value) or len(str(value).strip()) < 1):
             while True:
-                warning = input('Warning: The series \'' + series + '\' does not have a programmer, proceed? [y/n] ')
+                warning = input('Warning: The series \'%s\' does not have a defined %s value, proceed? [y/n] '%(series, header))
                 if warning.lower() == 'y' or warning.lower() == 'yes':
                     return value
                 elif warning.lower() == 'n' or warning.lower() == 'no':
-                    print('\nNo programmer for \'' + series + '.\'\nPlease input a programmer in the capsules spreadsheet. Exiting.')
+                    print('\nNo value for the column %s for \'%s.\'\nPlease input a value in the capsules spreadsheet. Exiting.'%(header, series))
                     exit()
                 else:
                     continue
@@ -268,12 +268,15 @@ def try_col(row, header, null_check=False, null_suggest=False, series=''):
         print('ColumnError: No column titled \'%s\' found. Please check the spreadsheet and try again.'%header)
         exit()
 
+def format_value(header, value):
+    return value
+
 def pprint_inputcaps_historic(dict):
     # helps to check if inputcaps_historic is working
     # by printing out a 'pretty' version of the formatted dict
     f = open('pprint_inputcaps_historic.out', 'w')
     for series in dict:
-        f.write('%s: %s, %s'%(series, dict[series][0], dict[series][1]))
+        f.write('%s: %s, %s\n'%(series, dict[series][0], dict[series][1]))
         for title in dict[series][-1]:
             count = -1
             time_string = ''
@@ -284,7 +287,7 @@ def pprint_inputcaps_historic(dict):
                     time_string += '%s at %s, '%(title[-1][count][0], title[-1][count][1])
                 except IndexError:
                     break
-            f.write('\t%s, by %s, %s, %smin, %s, %s, %s'%(title[0], title[1], title[2], title[3], title[4], title[5], time_string))
+            f.write('\t%s, by %s, %s, %smin, %s, %s, %s\n'%(title[0], title[1], title[2], title[3], title[4], title[5], time_string))
     f.close()
 
 def inputcaps_historic(sheetpath, quarter, year, exrows):
@@ -318,7 +321,7 @@ def inputcaps_historic(sheetpath, quarter, year, exrows):
         if not series_title in series_dict:
             # assigns programmer to a variable, handles not finding a programmer column
             programmer = try_col(row, 'programmer', null_suggest=True, series=series_title) 
-            
+
             # assigns slot to a variable, handles not finding a slot column
             slot = try_col(row, 'slot', null_suggest=True, series=series_title)
 
@@ -339,7 +342,7 @@ def inputcaps_historic(sheetpath, quarter, year, exrows):
         pub_notes = try_col(row, 'public notes')
 
         # inputs that info into the title_list
-        title_list.extend([title, director, release_year, runtime, format, pub_notes, []])
+        title_list.append([title, director, release_year, runtime, format, pub_notes, []])
 
         showtime_count = 0
         while True:
@@ -351,7 +354,7 @@ def inputcaps_historic(sheetpath, quarter, year, exrows):
                     continue
                 showdate = showdate.strftime('%Y-%m-%d')
                 showtime = showtime.strftime('%H:%M:%S')
-                title_list[-1].append((showdate, showtime))
+                title_list[-1][-1].append((showdate, showtime))
             except KeyError:
                 break
     
