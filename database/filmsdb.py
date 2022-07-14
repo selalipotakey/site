@@ -269,12 +269,27 @@ def try_col(row, header, null_check=False, null_suggest=False, series=''):
         exit()
 
 def format_value(header, value):
-    return value
+    if header == 'runtime':
+        runtime = int(''.join(char for char in str(value) if char.isnumeric()))
+        if runtime >= 270:
+            while True:
+                warning = input('Warning: A title has a runtime of %s, which is over 4.5 hours, proceed with input? [y/n] '%(value))
+                if warning.lower() == 'y' or warning.lower() == 'yes':
+                    break
+                elif warning.lower() == 'n' or warning.lower() == 'no':
+                    print('\nIf no title is over 4.5 hours in the spreadsheet, please check the formatting of the runtime. Preferred: ##m (e.g. 103m). Exiting now.')
+                    exit()
+                else:
+                    continue
+        return runtime
+    else:
+        print('No header titled \'%s\' with defined formatting instructions. Check code and try again.')
+        exit()
 
 def pprint_inputcaps_historic(dict):
     # helps to check if inputcaps_historic is working
     # by printing out a 'pretty' version of the formatted dict
-    f = open('pprint_inputcaps_historic.out', 'w')
+    f = open('pprint_inputcaps_historic.out', 'w', encoding="utf-8")
     for series in dict:
         f.write('%s: %s, %s\n'%(series, dict[series][0], dict[series][1]))
         for title in dict[series][-1]:
@@ -287,10 +302,10 @@ def pprint_inputcaps_historic(dict):
                     time_string += '%s at %s, '%(title[-1][count][0], title[-1][count][1])
                 except IndexError:
                     break
-            f.write('\t%s, by %s, %s, %smin, %s, %s, %s\n'%(title[0], title[1], title[2], title[3], title[4], title[5], time_string))
+            f.write('\t%s, by %s, %s, %smin, %s, %s, %s, %s\n'%(title[0], title[1], title[2], title[3], title[4], title[5], title[6], time_string))
     f.close()
 
-def inputcaps_historic(sheetpath, quarter, year, exrows):
+def inputcaps_historic(sheetpath, imagepath, quarter, year, exrows):
     # Attempts to turn a pre-Summer 2022 capsules spreadsheet located at sheetpath
     # into a pandas dataframe. Handles exceptions if errors are raised.
     # A pre-Summer 2022 spreadsheet is one without a separate sheet for series essays
@@ -337,12 +352,13 @@ def inputcaps_historic(sheetpath, quarter, year, exrows):
         release_year = try_col(row, 'year', null_check=True)
 
         # assigns runtime, format, and public notes to variables
-        runtime = try_col(row, 'runtime')
+        runtime = format_value('runtime', try_col(row, 'runtime'))
         format = try_col(row, 'format')
+        capsule = repr(try_col(row, 'capsule'))
         pub_notes = try_col(row, 'public notes')
 
         # inputs that info into the title_list
-        title_list.append([title, director, release_year, runtime, format, pub_notes, []])
+        title_list.append([title, director, release_year, runtime, format, capsule, pub_notes, []])
 
         showtime_count = 0
         while True:
