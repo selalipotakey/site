@@ -305,7 +305,7 @@ def pprint_inputcaps_historic(dict):
             f.write('\t%s, by %s, %s, %smin, %s, %s, %s, %s\n'%(title[0], title[1], title[2], title[3], title[4], title[5], title[6], time_string))
     f.close()
 
-def inputcaps_historic(sheetpath, imagepath, quarter, year, exrows):
+def inputcaps_historic(sheetpath, quarter, year, exrows):
     # Attempts to turn a pre-Summer 2022 capsules spreadsheet located at sheetpath
     # into a pandas dataframe. Handles exceptions if errors are raised.
     # A pre-Summer 2022 spreadsheet is one without a separate sheet for series essays
