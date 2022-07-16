@@ -2,6 +2,7 @@
 # I installed pandas using `conda install pandas` in the command line
 # also had to install openpyxl with `conda instsall openpyxl` in the command line
 import pandas as pd                             # allows excel imports
+import numpy as np
 import os                                       # together with ROOT_DIR, easy way to construct file paths
 from config.definitions import ROOT_DIR         
 import pymysql                                  # allows for connection to the database using python 3
@@ -51,6 +52,74 @@ class connection:
                 print('Table `%s` not found. Cannot drop.'%table)
             else:
                 raise
+
+    def new_quarter(self, quarter, year, startdate='', enddate=''):
+        
+        sql_check = 'SELECT `id` FROM `quarters` WHERE `quarter`=\'%s\' AND `year`=%s'%(quarter, year)
+
+        sql_insert = 'INSERT INTO `quarters` (`quarter`, `year`'
+        if len(startdate) > 0:
+            if len(enddate) > 0:
+                sql_insert += ', `startdate`, `enddate`) VALUES (\'%s\', %s, %s, %s);'%(quarter, year, startdate, enddate)
+            else:
+                sql_insert += ', `startdate`) VALUES (\'%s\', %s, %s);'%(quarter, year, startdate)
+        else:
+            sql_insert += ') VALUES (\'%s\', %s);'%(quarter, year)
+        
+        self.cursor.execute(sql_check)
+        rows = self.cursor.fetchall()
+        if len(rows) > 2:
+            print('ERROR: Table `quarters` has multiple records for %s quarter %s.'%(quarter, year))
+            self.db.close()
+            exit()
+        elif len(rows) == 1:
+            print('Warning: %s quarter %s already has record in `quarters`.'%(quarter, year))
+            return rows[0][0]
+        else:
+            self.cursor.execute(sql_insert)
+            self.db.commit()
+            
+            quarters_id = self.cursor.lastrowid
+            
+            return quarters_id
+
+    def new_series(self, quarter_id, series, series_programmer='', series_slot='', series_essay='', series_notes=''):
+        
+        sql_check = 'SELECT `id` FROM `series` WHERE `quarters_id`=%s AND `name`=\'%s\''%(quarter_id, series)
+        
+        self.cursor.execute(sql_check)
+        rows = self.cursor.fetchall()
+        if len(rows) > 2:
+            print('ERROR: Table `series` has multiple records for %s with quarters_id %s.'%(series, quarter_id))
+            self.db.close()
+            exit()
+        elif len(rows) == 1:
+            print('Warning: %s with quarters_id %s already has record in `series`.'%(series, quarter_id))
+            return rows[0][0]
+        else:
+            sql_insert = 'INSERT INTO `series` (`quarters_id`, `name`'
+            sql_values = 'VALUES (%s, \'%s\''%(quarter_id, series)
+            if not (pd.isna(series_programmer) or len(series_programmer) < 1):
+                sql_insert += ', `programmer`'
+                sql_values += ', \'%s\''%series_programmer
+            if not (pd.isna(series_slot) or len(series_slot) < 1):
+                sql_insert += ', `slot`'
+                sql_values += ', \'%s\''%series_slot
+            if not (pd.isna(series_essay) or len(series_essay) < 1):
+                sql_insert += ', `essay`'
+                sql_values += ', \'%s\''%series_essay
+            if not (pd.isna(series_notes) or len(series_notes) < 1):
+                sql_insert += ', `notes`'
+                sql_values += ', \'%s\''%series_notes
+            sql_insert = sql_insert + ') ' + sql_values + ');'
+            print(sql_insert)
+
+            self.cursor.execute(sql_insert)
+            self.db.commit()
+            
+            series_id = self.cursor.lastrowid
+            
+            return series_id
 
 def addtables():
     # checks user wants to add tables to database
@@ -225,6 +294,7 @@ def droptables():
 
     # attempts connection to database
     db = conn.open_conn()
+    conn.get_cursor()
 
     # calls connection() class to drop the tables
     conn.drop_table('films')
@@ -374,7 +444,18 @@ def inputcaps_historic(sheetpath, quarter, year, exrows):
             except KeyError:
                 break
     
-    pprint_inputcaps_historic(series_dict)
+    conn = connection()
+    conn.get_creds()
+    db = conn.open_conn()
+    conn.get_cursor()
+
+    quarter_id = conn.new_quarter(quarter, year)
+
+    for series in series_dict:
+        series_id = conn.new_series(quarter_id, series, series_programmer=series_dict[series][0], series_slot=series_dict[series][1])
+        print('%s: %s'%(series, series_id))
+
+    db.close()
     exit()
 
 def extra():
@@ -506,4 +587,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-    inputcaps_historic(r'C:\Users\camer\docfilms-github\site\database\capsules_spreadsheets\Spring-2022-Capsules.xlsx', 'spring', 2022, 2)
+    inputcaps_historic(r'C:\Users\camer\docfilms-github\site\database\capsules_spreadsheets\Spring-2022-Capsules.xlsx', 'Spring', 2022, 2)
