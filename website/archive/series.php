@@ -33,7 +33,7 @@
   </div>
 
   <?php
-        include './connection.php';
+        include $_SERVER['DOCUMENT_ROOT'].'/connection.php';
 
         $search = isset($_GET['search']) ? $_GET['search'] : '';
 
