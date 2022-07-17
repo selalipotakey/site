@@ -2,7 +2,15 @@
 <html lang="en">
 
 <head>
-  <title>Archive</title>
+  <title>Series Archive</title>
+
+  <style type="text/css">
+      table, th, td{
+        border: 1px solid black;
+        width: 1100px;
+        background-color: lightblue;
+      }
+  </style>
 </head> 
 
 <body>
@@ -25,7 +33,7 @@
   </div>
 
   <?php
-        include 'connection.php';
+        include './connection.php';
 
         $search = isset($_GET['search']) ? $_GET['search'] : '';
 
