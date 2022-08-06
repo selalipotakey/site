@@ -1,0 +1,116 @@
+﻿<!--#include virtual="../layout/header_top.html"-->
+<TITLE>Doc Films: Calendar</TITLE>
+
+<SCRIPT type="text/javascript"><!--
+function toggle_visibility(id) {
+var e = document.getElementById(id);
+if(e.style.display == 'none')
+e.style.display = 'block';
+else
+e.style.display = 'none';
+}
+//--></SCRIPT>
+
+<!--#include virtual="../layout/header_bottom.html"-->
+
+
+<H2>Calendar: Thursday (2nd Show)</H2>
+
+<H3>Lust Without Caution</H3>
+
+<P><I>Down 'n' dirty sexploitation cinema.</I></P>
+
+<IMG src="thursday2.jpg" height="211" width="325" align="right" hspace="10">
+
+<P>Serious film goers often regard sex as a worthwhile topic of cinematic inquiry if and only if the work in question meets a certain pedigree. Many are willing to accept sex on screen when it's sanctified by subtitles, high art gloss, or political fashion (exemplified by <I>Last Tango in Paris</I>, <I>In the Realm of the Senses</I>, and, most recently, <B><I>Lust, Caution</I></B> (<A href="weekend.shtml">1/18</A>)). We belittle the medium's capacity to arouse and conveniently ignore our own complicity in seeking arousal. Yet at the cinema's margins dwell a variety of films that deliver the goods without guilt. This sexy exploitation retrospective will survey the exhibition categories pioneered by shameless American entrepreneurs and renegade filmmakers. <A href="#essay" onclick="toggle_visibility('essay');">more</A></P>
+
+<DIV id="essay" style="display:none;"><P>Sex films have been around as long as the medium itself. In more cautious times, titillating reels were created for private viewing or hawked publicly under the pretense of education. A particularly delicious example, <B><I>This Nude World</I></B> (1/17) of 1933, takes stock footage of dubious provenance and sews it together with a voice-over to teach its audience about contrasting nudist mores of American and European society. The film was banned in New York and premiered instead at Chicago's Castle Theater, which risked fines of $200 by exhibiting it. The gross revenue more than made up for it.</P>
+
+<P>After the War, savvy distributors began looking beyond America's shores for salacious pictures. Indeed, before the art house paradigm developed, foreign films like Ingmar Bergman's <I>Summer with Monika</I> were often treated as skin pictures. Even after more respectable theaters began showing imported fare, Sweden and the Netherlands remained reliable sources of smut. Mac Ahlberg's <B><I>I, a Woman</I></B> (1/24), which chronicled the dalliances of Essy Persson, was a particularly popular title. It was marketed in the US as a "totally new concept in artistic motion pictures for adults." Roger Ebert lamented that the film "exhibits the maturity of a 13-year-old cranking the handle on the penny-peepshow at a county fair." Not long after <I>I, a Woman</I>, American expatriate Joe Sarno exploited Copenhagen's permissive sexual climate and shot his brothel epic <B><I>Swedish Wildcats</I></B> (1/31) there. Sarno, more interested in milieu and character development than more sleazebags, focused on an improbable romance between an aspiring ballerina (i.e., a prostitute) and a corporate nobody.</P>
+
+<P> During this period transgressive work wasn't just coming from overseas. In America the avant-garde also provided an outlet for sincere, if deviant, sexual content. Films like Jack Smith's <B><I>Flaming Creatures</I></B> (2/7) – shot on a miniscule budget but ambitiously conceived as a vaguely Oriental vision of pansexual paradise – played in underground venues but attracted police intervention nevertheless. Other outstanding experimental work like <B><I>Tricia's Wedding</I></B> (2/7 – a burlesque on Tricia Nixon's nuptials starring the Cockettes) and <B><I>Desire Pie</I></B> (2/7 – a polymorphous pornographic cartoon) should have been so lucky.</P>
+
+<P>Cheap thrills weren't confined to the aesthetic vanguard. During the golden age of sexploitation cinema, audiences for sexy fare had to be fairly forgiving of budgetary constraints. <B><I>Dirty Pool</I></B> (2/21), starring the prolific Uschi Digart, serves as a representative sample of work from the lower end of the production-values scale. Genre historian John Kostka has described the film as a fair example of "a particular brand of cheapjack late-60s / early-70s sex filmmaking where movies were cranked out in about a day, silently, and then had rambling, disjointed and often hilarious narration grafted on to give them the semblance of being "talkies.""</P>
+
+<P>As the audience for pornography exploded in the late sixties, erotic impresarios became more ambitious, lampooning familiar tropes from respectable genres (cf. <I>The Adult Version of Jekyll & Hyde</I>, <I>The First Nudie Musical</I>) and combining sex and violence for a new subgenre of sleaze known as the 'roughie.' Both trends can be seen in <B><I>The Scavengers</I></B> (2/14), a rip-snortin', bodice-tearin' western that echoes Peckinpah's The Wild Bunch in its twilight sadism. And Curt McDowell's <B><I>Thundercrack!</I></B> (2/28) bristles with the avant-garde affinities of screenwriter George Kuchar while satirizing horror film conventions and presenting sexual pairings guaranteed to offend anyone.</P>
+
+<P>With the success of <I>Deep Throat</I> in 1972, pornographic films attained quasi-mainstream visibility. Suddenly it was chic to see pornographic films with semi-artistic pretensions, of which the best may be <B><I>Behind the Green Door</I></B> (3/6) and <B><I>The Opening of Misty Beethoven</I></B> (3/13). The former, which features Marilyn Chambers as a girl abducted into a sexual netherworld populated by kinky nuns, Oakland Raiders players, and trapeze artists, was praised at the time of its release for a level of craftsmanship more commonly associated with Hollywood productions. Radley Metzger's <I>Misty Beethoven</I> also includes an ambitious narrative, real acting, high production values, and, what's more, an honest-to-God literary forerunner – Shaw's <I>Pygmalion</I>.</P> 
+
+<P>Pornographic cinema became considerably cruder in the age of Reagan, as chronicled in <I>Boogie Nights</I>. But in 1995 Paul Verhoeven's <B><I>Showgirls</I></B> (1/10) attempted to revive old-time sleaze using studio resources. Roundly dismissed upon its release as shockingly bad, low-rent trash, <I>Showgirls</I> eventually garnered a cult following, praise from Jacques Rivette, and a symposium in the pages of <I>Film Quarterly</I>. Grindhouse taste had come full circle at last. <B>KW</B> <A href="#" onclick="toggle_visibility('essay');">close</A></P></DIV>
+
+
+<TABLE>
+<TR><TD align="center" height="23"><IMG src="../layout/line.gif" height="4" width="729"></TD></TR>
+</TABLE>
+<BR>
+
+
+Thursday, January 10 - 9:00
+<BLOCKQUOTE><STRONG class="title">Showgirls</STRONG><BR> 
+<I>Paul Verhoeven, 1995 - 131 min.</I>
+<DIV class="gray">No film of the last twenty years has aroused so much controversy. Jonathan Rosenbaum speculated "if anyone emerges from this with a smile on his face he must hate women as much as this movie does." But to Charles Taylor, <I>Showgirls</I> "had a brashness that made it more fun 
+than many better movies, and a ferocious desire to entertain that bad movies seem to have lost." Nouvelle vague icon Jacques Rivette went further, declaring that <I>Showgirls</I> is "one of the great American films of the last few years ... It has great sincerity, and the script is very honest, guileless." <I>35mm.</I></DIV></BLOCKQUOTE>
+
+
+Thursday, January 17 - 9:00
+<BLOCKQUOTE><STRONG class="title">This Nude World</STRONG><BR> 
+<I>Michael Mindlin, 1933 - 62 min.</I>
+<DIV class="gray">A delicious example of the sex film hawked publicly under the pretense of education, <I>This Nude World</I> cuts together stock footage of dubious provenance, sews it together with a voice-over, and purports to teach its audience about contrasting mores of American and European society. From the Folies Bergere to a Catskills nudist resort, <I>This Nude World</I> boldly sketches (and exploits) an exotic subculture. Banned in New York, the film premiered instead at Chicago's Castle Theater, which risked fines of $200 by exhibiting it. The gross revenue more than compensated. Preceded by <I>The Satan-Tease</I>, 7 min. <I>16mm, 35mm.</I></DIV></BLOCKQUOTE>
+
+
+Thursday, January 24 - 9:00
+<BLOCKQUOTE><STRONG class="title">I, a Woman</STRONG><BR> 
+<I>Mac Ahlberg, 1965 - 95 min.</I>
+<DIV class="gray">After the War, savvy distributors began looking beyond America's shores for salacious pictures. Films like Bergman's Summer with Monika were often treated as skin pictures. Even after more respectable theaters began showing imported fare, foreign films remained reliable sources of smut. Mac Ahlberg's <I>I, a Woman</I>, which chronicled the dalliances of Essy Persson, was a particularly popular title. It was marketed as a "totally new concept in artistic motion pictures for adults." Roger Ebert lamented that the film "exhibits the maturity of a 13-year-old cranking the handle on the penny-peepshow at a county fair." <I>35mm.</I></DIV></BLOCKQUOTE>
+
+
+Thursday, January 31 - 9:00 
+<BLOCKQUOTE><STRONG class="title">Swedish Wildcats</STRONG><BR> 
+<I>Joe Sarno, 1972 - 83 min.</I>
+<DIV class="gray">Scandinavian sexual mores were pretty loose in the late '60s and early '70s, but domestic productions couldn't meet every demand. Enter American expatriate Joseph W. Sarno, who shot his brothel epic Swedish Wildcats in Copenhagen. The film focuses on a wish-fulfillment romance between an aspiring ballerina (i.e., a prostitute) and a corporate nobody who meets her at Mistress Margareta's SM show. Sarno, who later refused to attach his name to more hard-core productions, was more interested in milieu and character development than most; la Cinémathèque Française has offered up a retrospective of his output. <I>35mm.</I></DIV></BLOCKQUOTE>
+
+
+Thursday, February 7 - 9:00 - 
+<BLOCKQUOTE>Sex Underground: <STRONG class="title">Flaming Creatures</STRONG>, <STRONG class="title">Tricia's Wedding</STRONG>, & <STRONG class="title">Desire Pie</STRONG><BR> 
+<I>1963-1974 - 5, 45 & 33 min.</I>
+<DIV class="gray">In America the avant-garde provided an outlet for sincere, if deviant, sexual content. Films like Jack Smith's <I>Flaming Creatures</I> – shot on a miniscule budget but ambitiously conceived as a vaguely Oriental vision of pansexual paradise – played in underground venues but attracted police intervention nevertheless. Other transgressive experimental work like <I>Tricia's Wedding</I> (a burlesque on Tricia Nixon's nuptials starring the Cockettes) and Lisa Craft's <I>Desire Pie</I> (a polymorphous pornographic cartoon) should have been so lucky. <I>All 16mm.</I></DIV></BLOCKQUOTE>
+
+
+Thursday, February 14 - 9:00 
+<BLOCKQUOTE><STRONG class="title">The Scavengers</STRONG><BR> 
+<I>Lee Frost, 1969 - 94 min.</I>
+<DIV class="gray">One of the best sex westerns around, <I>The Scavengers</I> demonstrates two trends that accompanied the late '60s explosion of American interest in pornography. Erotic impresarios got more ambitious, lampooning familiar tropes from other, respectable genres and combining sex and violence into a new subgenre of sleaze known as the 'roughie.' <I>The Scavengers</I> is a rip-snortin', bodice-tearin' Civil War western of rampaging Confederate train robbers and rapists (known in some quarters as Rebel Vixens and The Grabbers!) that echoes Peckinpah's contemporaneous <I>The Wild Bunch</I> in its twilight sadism. <I>35mm.</I></DIV></BLOCKQUOTE>
+
+
+Thursday, February 21 - 9:00
+<BLOCKQUOTE><STRONG class="title">Dirty Pool</STRONG><BR> 
+<I>Ed Stevens, 1970 - 61 min.</I>
+<DIV class="gray">During the golden age of sexploitation, audiences had to forgive budgetary constraints. <I>Dirty Pool</I>, starring the prolific Uschi Digart, has been described by genre historian John Kostka as a fair example of "a particular brand of cheapjack late-60s/early-70s sex filmmaking where movies were cranked out in about a day, silently, and then had rambling, disjointed and often hilarious narration grafted on to give them the semblance of being 'talkies'." How pathetic was this semblance? <I>Dirty Pool</I> concerns a quartet of beatniks who must fulfill their erotic desires poolside after exposure to arousing California sunshine. <I>35mm.</I></DIV></BLOCKQUOTE>
+
+
+Thursday, February 28 - 9:30
+<BLOCKQUOTE><STRONG class="title">Thundercrack!</STRONG><BR> 
+<I>Curt McDowell, 1975 - 150 min.</I>
+<DIV class="gray">Curt McDowell's <I>Thundercrack!</I> is a consistently enervating experience; it was the scandal of Los Angeles in 1975 when festival audiences, excited by the prospect of a sexy, avant-garde satire of Old Dark House conventions (George '<I>Hold Me While I'm Naked</I>' Kuchar wrote the script), stormed out of the theater during intermission. Even those with enlightened, liberal standards will flinch at some perversely uncomfortable pairing in this kaleidoscope of pansexual couplings. <I>DVD.</I><BR>
+<I>Introduced by Melinda McDowell, sister of the late director and a </I>Thundercrack!<I> actress.</I></DIV></BLOCKQUOTE>
+
+
+Thursday, March 6 - 9:00
+<BLOCKQUOTE><STRONG class="title">Behind the Green Door</STRONG><BR> 
+<I>Jim and Artie Mitchell, 1972 - 71 min.</I>
+<DIV class="gray">With the success of <I>Deep Throat</I> in 1972, pornographic films attained quasi-mainstream visibility. Suddenly it was chic to see pornographic films with semi-artistic, plot-driven pretensions like <I>The Devil in Miss Jones</I> and Behind the Green Door. For the latter, porn brothers Jim and Artie Mitchell recruited Marilyn Chambers – so all-American she 
+was featured on boxes of Ivory soap – to star as a girl abducted into a sexual netherworld populated by kinky nuns, Oakland Raiders players, and trapeze artists. Seen in the rare 
+Canadian version! <I>35mm.</I><BR>
+<I>Introduced by sexploitation expert Joe Rubin.</I></DIV></BLOCKQUOTE>
+
+
+Thursday, March 13 - 9:00
+<BLOCKQUOTE><STRONG class="title">The Opening of Misty Beethoven</STRONG><BR> 
+<I>Radley Metzger, 1976 - 90 min.</I>
+<DIV class="gray">Radley Metzger got his start in sexploitation by importing classics like <I>I, a Woman</I>. But his masterpiece is <I>The Opening of Misty Beethoven</I> which, like <I>Behind the Green Door</I>, includes an ambitious narrative and real acting. But <I>Misty Beethoven</I> can also claim an honest-to-God literary forerunner: Shaw's <I>Pygmalion</I>. Dr. Seymour Love teaches Parisian streetwalker Misty Beethoven how to give high-class treatment to continental clients. Possibly the sweetest and funniest hardcore film ever made, <I>The Opening of Misty Beethoven</I> is the finest of the handful of sex films that can be treated as real films. <I>35mm.</I></DIV></BLOCKQUOTE>
+
+
+<A href="../calendar.shtml">Back to Winter 2008 Calendar</A>
+
+
+<!--#include virtual="../layout/footer.html"-->

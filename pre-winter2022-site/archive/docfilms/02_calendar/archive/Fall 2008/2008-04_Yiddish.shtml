@@ -1,0 +1,146 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>Doc Films</title>
+<link href="../layout/layout.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript">
+<!--
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_nbGroup(event, grpName) { //v6.0
+  var i,img,nbArr,args=MM_nbGroup.arguments;
+  if (event == "init" && args.length > 2) {
+    if ((img = MM_findObj(args[2])) != null && !img.MM_init) {
+      img.MM_init = true; img.MM_up = args[3]; img.MM_dn = img.src;
+      if ((nbArr = document[grpName]) == null) nbArr = document[grpName] = new Array();
+      nbArr[nbArr.length] = img;
+      for (i=4; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
+        if (!img.MM_up) img.MM_up = img.src;
+        img.src = img.MM_dn = args[i+1];
+        nbArr[nbArr.length] = img;
+    } }
+  } else if (event == "over") {
+    document.MM_nbOver = nbArr = new Array();
+    for (i=1; i < args.length-1; i+=3) if ((img = MM_findObj(args[i])) != null) {
+      if (!img.MM_up) img.MM_up = img.src;
+      img.src = (img.MM_dn && args[i+2]) ? args[i+2] : ((args[i+1])? args[i+1] : img.MM_up);
+      nbArr[nbArr.length] = img;
+    }
+  } else if (event == "out" ) {
+    for (i=0; i < document.MM_nbOver.length; i++) {
+      img = document.MM_nbOver[i]; img.src = (img.MM_dn) ? img.MM_dn : img.MM_up; }
+  } else if (event == "down") {
+    nbArr = document[grpName];
+    if (nbArr)
+      for (i=0; i < nbArr.length; i++) { img=nbArr[i]; img.src = img.MM_up; img.MM_dn = 0; }
+    document[grpName] = nbArr = new Array();
+    for (i=2; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
+      if (!img.MM_up) img.MM_up = img.src;
+      img.src = img.MM_dn = (args[i+1])? args[i+1] : img.MM_up;
+      nbArr[nbArr.length] = img;
+  } }
+}
+//-->
+</script></head>
+<body onload="MM_preloadImages('../layout/navbar/HomeOver.gif','../layout/navbar/CalendarOver.gif','../layout/navbar/VisitingOver.gif','../layout/navbar/AboutOver.gif','../layout/navbar/InvolvedOver.gif','../layout/navbar/MediaOver.gif','../layout/navbar/ContactOver.gif')">
+<div id="wrapper">
+<div id="header"> </div>
+<div id="navbar">
+  <table border="0" align="right" cellpadding="0" cellspacing="0">
+    <tr>
+      <td><a href="../index.shtml" target="_top" onclick="MM_nbGroup('down','group1','Home','',1)" onmouseover="MM_nbGroup('over','Home','../layout/navbar/HomeOver.gif','',1)" onmouseout="MM_nbGroup('out')"><img src="../layout/navbar/HomeUp.gif" alt="" name="Home" width="58" height="22" border="0" id="Home" onload="" /></a></td>
+      <td><img src="../layout/navbar/Dot.gif" width="14" height="22" /></td>
+      <td><a href="../02_calendar/2008-03.shtml" target="_top" onclick="MM_nbGroup('down','group1','Calendar','',1)" onmouseover="MM_nbGroup('over','Calendar','../layout/navbar/CalendarOver.gif','',1)" onmouseout="MM_nbGroup('out')"><img src="../layout/navbar/CalendarUp.gif" alt="" name="Calendar" width="86" height="22" border="0" id="Calendar" onload="" /></a></td>
+      <td><img src="../layout/navbar/Dot.gif" width="14" height="22" /></td>
+      <td><a href="../03_visitingdoc/visitors.shtml" target="_top" onclick="MM_nbGroup('down','group1','Visiting','',1)" onmouseover="MM_nbGroup('over','Visiting','../layout/navbar/VisitingOver.gif','',1)" onmouseout="MM_nbGroup('out')"><img src="../layout/navbar/VisitingUp.gif" alt="" name="Visiting" width="112" height="22" border="0" id="Visiting" onload="" /></a></td>
+      <td><img src="../layout/navbar/Dot.gif" width="14" height="22" /></td>
+      <td><a href="../04_aboutdoc/about.shtml" target="_top" onclick="MM_nbGroup('down','group1','About','',1)" onmouseover="MM_nbGroup('over','About','../layout/navbar/AboutOver.gif','',1)" onmouseout="MM_nbGroup('out')"><img src="../layout/navbar/AboutUp.gif" alt="" name="About" width="98" height="22" border="0" id="About" onload="" /></a></td>
+      <td><img src="../layout/navbar/Dot.gif" width="14" height="22" /></td>
+      <td><a href="../05_gettinginvolved/volunteers.shtml" target="_top" onclick="MM_nbGroup('down','group1','Involved','',1)" onmouseover="MM_nbGroup('over','Involved','../layout/navbar/InvolvedOver.gif','',1)" onmouseout="MM_nbGroup('out')"><img src="../layout/navbar/InvolvedUp.gif" alt="" name="Involved" width="156" height="22" border="0" id="Involved" onload="" /></a></td>
+      <td><img src="../layout/navbar/Dot.gif" width="14" height="22" /></td>
+      <td><a href="../06_media/mediainfo.shtml" target="_top" onclick="MM_nbGroup('down','group1','Media','',1)" onmouseover="MM_nbGroup('over','Media','../layout/navbar/MediaOver.gif','',1)" onmouseout="MM_nbGroup('out')"><img src="../layout/navbar/MediaUp.gif" alt="" name="Media" width="63" height="22" border="0" id="Media" onload="" /></a></td>
+      <td><img src="../layout/navbar/Dot.gif" width="14" height="22" /></td>
+      <td><a href="../07_contact/contact.shtml" target="_top" onclick="MM_nbGroup('down','group1','Contact','',1)" onmouseover="MM_nbGroup('over','Contact','../layout/navbar/ContactOver.gif','',1)" onmouseout="MM_nbGroup('out')"><img src="../layout/navbar/ContactUp.gif" alt="" name="Contact" width="76" height="22" border="0" id="Contact" onload="" /></a></td>
+    </tr>
+  </table>
+</div>
+<div id="midbar"> </div>
+<div id="content">
+<SCRIPT type="text/javascript"><!--
+function toggle_visibility(id) {
+var e = document.getElementById(id);
+if(e.style.display == 'none')
+e.style.display = 'block';
+else
+e.style.display = 'none';
+}
+//--></SCRIPT>
+<h1> Fall 2008, Thursday 1st Show &bull; Oy Revolt!</h1>
+
+<p><em>Socialism, modernity and political intrigue in the Yiddish cinema</em></p>
+
+<p>Yiddish film, a national cinema without a nation aimed at an international proletarian and deeply political audience, represents a unique perspective on the dynamic social and political forces of the early 20th century. Aimed at a public torn between modernity and tradition, assimilation and orthodoxy, universalism and community, capitalism and communism, Old Country and New World, the rare films in &#8220;Oy Revolt!&#8221; confront these issues with bite, humor, and artistry.<strong><A href="#essay" onclick="toggle_visibility('essay');">more</a></strong></p>
+
+<div id="essay" style="display:none;">
+
+<p>Even the choice of language is a political act. A fusion language spoken by European Jews for nearly a thousand years, Yiddish is composed of 60% medieval German, 20% Hebrew, 15% Slavic, and 5% medieval Romance roots. Film critic J. Hoberman describes its subversive qualities: &#8220;Earthy, expressive, marked by the experience of dispersion and marginality, and lacking the scriptural authority of Hebrew, Yiddish is neither entirely respectful nor altogether respectable.&#8221; Religious Jews considered it too worldly, &#8220;enlightened&#8221; Jews considered this &#8220;jargon&#8221; a relic of Eastern European communities known as shtetls, but the left-leaning Jewish masses lived their daily lives using <em>mame-loshn</em> &#8211; the mother tongue. These films are a radical artistic act, not only because they present the plight of the oppressed worker, but because they do so in the language of the masses, a minority language whose speakers faced severe pressure to abandon it and the culture it embodied.</p>
+
+<p>The pressure to assimilate is most obvious in the 1923 Austrian hit <strong><em><a href="#OstundWest">Ost und West (East and West)</a></em></strong> (10/2). The influx of Eastern European Jews into Western Europe after World War I created tremendous pressure for urbane, culturally German Jews to deal with their coreligionists while maintaining their foothold in Christian society. In this film, the American comedic actress Molly Picon stars as a madcap flapper who accidently marries a yeshiva boy on a visit to her family in Poland. To win her heart, her erstwhile groom refashions himself as an assimilated orientalist in Vienna, a transformation that reflects escalating tensions between crass Americans, urbane Austrian Jews, Eastern European Jewish refugees to Vienna, and rising anti-Semitism after the first World War.</p>
+
+<p>The only American Yiddish film to directly confront the emergence of Nazism, <strong><em><a href="#DerVandernerYid">Der Vanderner Yid (The Wandering Jew)</a></em></strong> (10/23) is a departure from the popular literary adaptations and family melodramas of the day, and contains both a historical pageant of the history of Jewish suffering &#8211; as shown in stock footage &#8211; and newsreel footage of an anti-Hitler rally in New York City. </p>
+
+<p>Renowned director Edgar Ulmer (see also this fall&#8217;s <strong><a href="Ulmer08.shtml">Sunday series</a></strong> of his films) orchestrated several of the most exquisite Yiddish films, even though he himself knew no Yiddish. The popular pastoral <strong><em><a href="#GrineFelder">Grine Felder (Green Fields)</a></em></strong> (10/30) evokes a Jewish utopian tradition, including agricultural colonies founded by Jewish immigrants in New Jersey and the communalist ideals of the socialist Jewish Labor Bund. It was Ulmer’s effort to create a new style of Yiddish film that replaced melodrama with optimism and religious figures with grounded, earthy characters. His <strong><em><a href="#DiKlyatsche">Di Klyatshe (A Light Ahead)</a></em></strong> (11/13) is a darker, stagier, and more expressionist vision of a shtetl full of exploitation, disease, and disfigurement. &#8220;With its crazy angles and skewed lampposts, [the shtetl] Glubsk suggests the confluence of Marc Chagall and <em>The Cabinet of Dr. Caligari</em>. In <strong><em><a href="#YanklderShmid">Yankl der Shmid (The Singing Blacksmith)</a></em></strong> (12/4), legendary singer Moshe Oysher plays an impetuous working-class hero. The lusty blacksmith Yankl loves his frail fianc&eacute;e – despite her disapproving wealthy relations &#8211; but is tempted by a married woman.</p>
+
+<p>The product of an interwar ethnographic expedition by writer Sh. Ansky to record Jewish folk culture, the Polish expressionist classic <strong><em><a href="#DerDibuk">Der Dibuk (The Dybbuk)</a></em></strong> (11/6) combines traditional beliefs &#8211; such as demon possession &#8211; with modern intergenerational conflict, aesthetics, dance, and class awareness. A number of Yiddish films portray the condition of laborers in America. In the Soviet Union&#8217;s only Yiddish talkie, <strong><em><a href="#NosnBeckerFortAheym">Nosn Becker Fort Aheym (The Return of Nathan Becker)</a></em></strong> (10/9), Nathan flees the privations of the Great Depression, returns to Russia, and helps build the industrial city of Magnitogorsk, but finds he has a lot to learn from the new Soviet worker. Look out for the great Soviet Yiddish actor Solomon Mikhoels, as Nathan’s father, and Kador Ben-Salim as Nathan&#8217;s African-American colleague Jim, whose presence serves to contrast American racism with Soviet enlightenment. <strong><em><a href="#UncleMoses">Uncle Moses</a></em></strong> (10/20) evokes the cramped tenement life of recent immigrants to America. Leading Yiddish actor Maurice Schwartz plays the title character, a sweatshop owner who courts an employee&#8217;s nubile daughter. As was common in 1930&#8217;s films, the girl&#8217;s parents pressure her to marry Uncle Moses for the sake of her family, even though Masha really prefers a Marxist union organizer. <strong><em><a href="#MotlderOperator">Motl the Operator</a></em></strong> (10/16) is an example of the popular Yiddish shund drama. Derided by intellectuals as trash, this melodramatic form was popular with the masses. The story of the strike-leader Motl&#8217;s struggles was quite a crowd-pleaser.</p> 
+
+<p>These Yiddish films are all politically on the mark and packed with substance and punch. More than simply schmaltz or stale nostalgia, the films in &#8220;Oy Revolt!&#8221; depict the political currents of the early 20th century and address worldly problems we are still trying to solve.<strong>SG</strong> <strong><a href="#" onclick="toggle_visibility('essay');">close</a></strong></p></div>
+
+  <p>Thursday, October 2 &bull; 7:00 PM &bull; 85 min<a name="OstundWest" id="OstundWest"></a><img src="../06_media/2008-04_images/01Week/Yiddish_Ost_und_West.jpg" width="177" height="100" class="image" /><br />
+      <strong>Ost und West (East and West)</strong><br />
+    <em>Sidney M. Golden &amp; Ivan Abramson, 1923</em> &bull; What happens when an American businessman brings his flapper daughter back to Poland with him? Nothing short of hilarity in this jolly romp starring delightful comedian Molly Picon. Watch as she teaches villagers to shimmy, breaks the Yom Kippur fast, and wins the heart of a Yeshiva scholar determined to return the favor. This madcap Austrian film captures the highly charged differences &#8211; and culture clashes &#8211; between Polish, American, and Austrian Jews in interwar Western Europe. <em>Silent.</em></p>
+  <p>Thursday, October 9 &bull; 7:00 PM &bull; 72min<a name="NosnBeckerFortAheym" id="NosnBeckerFortAheym"></a><img src="../06_media/2008-04_images/02Week/Yiddish_Nasn_Becker_Fort_Aheym.jpg" width="71" height="100" class="image" /><br />
+      <strong>Nosn Becker Fort Aheym (The Return of Nathan Becker)</strong><br />
+      <em>Boris Shpis &amp; Mark Milman, 1932</em> &bull; After 28 years laying bricks in the USA, Nosn escapes the Great Depression and returns home to the USSR. Unfortunately for him, he&#8217;s picked up some inefficient capitalist habits and has some learning to do before he can be a proper Soviet worker. Legendary Soviet Yiddish actor Solomon Mikhoels shines as Nosn&#8217;s father. The stinging critique of American racism adds yet another unexpected dimension to this remarkable film. Originally billed as &#8220;the first Yiddish talkie from Soviet Russia.&#8221; <em>In Yiddish with English subtitles.</em></p>
+  <p>Thursday, October 16 &bull; 7:00 PM &bull; 88min<a name="MotlderOperator" id="MotlderOperator"></a><strong><img src="../06_media/2008-04_images/03Week/Yiddish_Motl_der_Operator.jpg" width="71" height="100" class="image" /></strong><br />
+    <strong>Motl der Operator (Motl the Operator)<br />
+    </strong><em>Joseph Seiden, 1939</em> &bull; A tearjerking old-time melodrama reminiscent of the Second Avenue Yiddish theater scene and popular with the Jewish masses, Motl der Operator is an important historical document which illustrates the difficulties of the Jewish immigrant experience in New York City. Motl is a poor garment-worker who leads cloakmakers in a strike. When he is injured in a dispute with strikebreakers, his family is left in dire straits. Beautiful Yiddish songs heighten this bittersweet rendition of an archetypical Yiddish theater genre. <em>In Yiddish with English subtitles.</em></p>
+  <p>Thursday, October 23 &bull; 7:00 PM &bull; 66min<a name="DerVandernerYid" id="DerVandernerYid"></a><strong><img src="../06_media/2008-04_images/04Week/Yiddish_Der_Vanderner_Yid.jpg" width="71" height="100" class="image" /></strong><br />
+    <strong>Der Vanderner Yid (The Wandering Jew)<br />
+    </strong>George Roland, 1933 &bull; The first American feature film and the only Yiddish-language film of the era to depict the persecution of Jews in Nazi Germany, this unique film was made shortly after Hitler’s rise to power. It is the story of German-Jewish artist Arthur Levi, whose portrait of his Polish-born father is rejected by the Berlin Academy of Art. Later in the film, the portrait, titled The Eternal Wanderer, comes to life and leads Levi through the history of the persecution of the Jewish people. The film ends with an anti-Hitler rally in New York. <em>In Yiddish with English subtitles.</em></p>
+  <p>Thursday, October 30 &bull; 7:00 PM &bull; 95min<a name="GrineFelder" id="GrineFelder"></a><strong><img src="../06_media/2008-04_images/05Week/Yiddish_Grine_Felder.jpg" width="85" height="100" class="image" /></strong><br />
+      <strong>Grine Felder (Green Fields)</strong><br />
+      <em>Edgar G. Ulmer, 1937</em> &bull; Ulmer&#8217;s effort to create a new syle of &#8220;dignified&#8221; Yiddish film is laden with dreamy optimism and a soulful score. Filmed over just three days, this pastoral of life in the Eastern European shtetl remains one of the most beloved Yiddish talkies. Ascetic scholar Levi Yitskhok discovers true spirituality through earthy agrarianism in the midsummer countryside. Incorporating various currents of utopian thought, such as communalism, <em>Grine Felder</em> was popular with Communist and labor groups. <em>In Yiddish with English subtitles.</em></p>
+  <p>Thursday, November 6 &bull; 7:00 PM &bull; 123min<a name="DerDibuk" id="DerDibuk"></a><br />
+      <strong>Der Dibuk (The Dybbuk)</strong><strong><img src="../06_media/2008-04_images/06Week/Yiddish_Der_Dibuk.jpg" width="100" height="100" class="image" /></strong><br />
+      <em>Michael Waszynski, 1937</em> &bull; Betrothed before birth but separated by a father&#8217;s greed, a scholar and a maiden love each other with an intensity that is stronger than death. This classic film tells the story of a dybbuk, a spirit who possesses the body of his beloved. Inspired by an ethnographic expedition of Jewish life in Eastern Europe and inspired by interwar artistic movements, the Yiddish gothic film meticulously incorporates themes of money, social custom, and folklore in a parable of modernity. Keep an eye out for the &#8216;Dance of Death&#8217; by modern dance pioneer Judith Berg. <em>In Yiddish with English subtitles.</em></p>
+<p>Thursday, November 13 &bull; 7:00 PM &bull; 94min<a name="DiKlyatsche" id="DiKlyatsche"></a><strong><img src="../06_media/2008-04_images/07Week/Yiddish_Di_Klyatsche.jpg" width="85" height="100" class="image" /></strong><br />
+      <strong>Di Klyatsche (Fishke the Lame </strong> or <strong> The Light Ahead)</strong><br />
+      <em>Edgar G. Ulmer, 1939</em> &bull; Ulmer&#8217;s most stylized Yiddish film is packed with aesthetic and political punch. Based on a story by the &#8220;Grandfather of Yiddish Literature,&#8221; <em>Di Klyatshe</em> is the only American Yiddish film with a negative view of the shtetl. When a cholera epidemic strikes the backward town of Glubsk, the superstitious town elders decide to marry off a blind orphan and a crippled bathhouse attendant in the cemetery at midnight. Visually a combination of Marc Chagall and The Cabinet of Dr. Caligari, this expressionist film turns the themes of Grine Felder upside-down. <em>In Yiddish with English subtitles.</em></p>
+<p>Thursday, November 20 &bull; 7:00 PM &bull; 99min<a name="UncleMoses" id="UncleMoses"></a><strong><img src="../06_media/2008-04_images/08Week/Yiddish_Uncle_Moses.jpg" width="71" height="100" class="image" /></strong><br />
+      <strong>Uncle Moses</strong><br />
+      <em>Sidney M. Goldin &amp; Aubrey Scotto, 1932</em> &bull; The first Yiddish talkie to address the progressive politics and aesthetics of its day, Uncle Moses concerns a former butcher who welcomes his fellow countrymen to recreate their shtetl in the Promised Land of his sweatshop. He oppresses his workers with 14-hour workdays, shows off his wealth, and convinces the impoverished Masha to marry him for her family&#8217;s sake, even though she really loves the Marxist labor organizer Charlie. &#8220;Schwartz&#8217;s Uncle Moses is a Jewish Godfather, vain and sleazy, ruthless yet sentimental &#8211; devoid of illusions, if not irony.&#8221; <em>In Yiddish with English subtitles</em>.</p>
+	  <p>Thursday, December 4 &bull; 7:00 PM &bull; 95min<a name="YanklderShmid" id="YanklderShmid"></a><strong><img src="../06_media/2008-04_images/10Week/Yiddish_Der_Vanderner_Yid.jpg" width="71" height="100" class="image" /></strong><br />
+      <strong>Yankl der Shmid (The Singing Blacksmith)</strong><br />
+      <em>Edgar G. Ulmer, 1938</em> &bull; Renowned cantor Moishe Oysher stars as the singing, dancing, womanizing blacksmith in a pioneering psychological exploration of physical desire. Lusty blacksmith Yankl loves his frail fiancée Tamara, despite her disapproving relations, but is tempted by a married woman. Like Grine Felder, this folk operetta celebrates village life, but the mores are much more secular &#8211; it even contains an example of Yiddish swing. Visually, it resembles Ulmer&#8217;s latter Hollywood expressionist noirs and thrillers. <em>In Yiddish with English subtitles</em>.</p>
+  </div>
+<div id="midbar"> </div>
+<div id="footer"> </div> 
+</div>
+</body>
+</html>
+

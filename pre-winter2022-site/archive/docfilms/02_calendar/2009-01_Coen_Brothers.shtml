@@ -1,0 +1,161 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>Doc Films</title>
+<link href="../layout/layout.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript">
+<!--
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_nbGroup(event, grpName) { //v6.0
+  var i,img,nbArr,args=MM_nbGroup.arguments;
+  if (event == "init" && args.length > 2) {
+    if ((img = MM_findObj(args[2])) != null && !img.MM_init) {
+      img.MM_init = true; img.MM_up = args[3]; img.MM_dn = img.src;
+      if ((nbArr = document[grpName]) == null) nbArr = document[grpName] = new Array();
+      nbArr[nbArr.length] = img;
+      for (i=4; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
+        if (!img.MM_up) img.MM_up = img.src;
+        img.src = img.MM_dn = args[i+1];
+        nbArr[nbArr.length] = img;
+    } }
+  } else if (event == "over") {
+    document.MM_nbOver = nbArr = new Array();
+    for (i=1; i < args.length-1; i+=3) if ((img = MM_findObj(args[i])) != null) {
+      if (!img.MM_up) img.MM_up = img.src;
+      img.src = (img.MM_dn && args[i+2]) ? args[i+2] : ((args[i+1])? args[i+1] : img.MM_up);
+      nbArr[nbArr.length] = img;
+    }
+  } else if (event == "out" ) {
+    for (i=0; i < document.MM_nbOver.length; i++) {
+      img = document.MM_nbOver[i]; img.src = (img.MM_dn) ? img.MM_dn : img.MM_up; }
+  } else if (event == "down") {
+    nbArr = document[grpName];
+    if (nbArr)
+      for (i=0; i < nbArr.length; i++) { img=nbArr[i]; img.src = img.MM_up; img.MM_dn = 0; }
+    document[grpName] = nbArr = new Array();
+    for (i=2; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
+      if (!img.MM_up) img.MM_up = img.src;
+      img.src = img.MM_dn = (args[i+1])? args[i+1] : img.MM_up;
+      nbArr[nbArr.length] = img;
+  } }
+}
+//-->
+</script></head>
+<body onload="MM_preloadImages('../layout/navbar/HomeOver.gif','../layout/navbar/CalendarOver.gif','../layout/navbar/VisitingOver.gif','../layout/navbar/AboutOver.gif','../layout/navbar/InvolvedOver.gif','../layout/navbar/MediaOver.gif','../layout/navbar/ContactOver.gif')">
+<div id="wrapper">
+<div id="header"> </div>
+<div id="navbar">
+  <table border="0" align="right" cellpadding="0" cellspacing="0">
+    <tr>
+      <td><a href="http://docfilms.uchicago.edu/" target="_top" onclick="MM_nbGroup('down','group1','Home','',1)" onmouseover="MM_nbGroup('over','Home','../layout/navbar/HomeOver.gif','',1)" onmouseout="MM_nbGroup('out')"><img src="../layout/navbar/HomeUp.gif" alt="" name="Home" width="58" height="22" border="0" id="Home" onload="" /></a></td>
+      <td><img src="../layout/navbar/Dot.gif" width="14" height="22" /></td>
+      <td><a href="../02_calendar/2009-01.shtml" target="_top" onclick="MM_nbGroup('down','group1','Calendar','',1)" onmouseover="MM_nbGroup('over','Calendar','../layout/navbar/CalendarOver.gif','',1)" onmouseout="MM_nbGroup('out')"><img src="../layout/navbar/CalendarUp.gif" alt="" name="Calendar" width="86" height="22" border="0" id="Calendar" onload="" /></a></td>
+      <td><img src="../layout/navbar/Dot.gif" width="14" height="22" /></td>
+      <td><a href="../03_visitingdoc/visitors.shtml" target="_top" onclick="MM_nbGroup('down','group1','Visiting','',1)" onmouseover="MM_nbGroup('over','Visiting','../layout/navbar/VisitingOver.gif','',1)" onmouseout="MM_nbGroup('out')"><img src="../layout/navbar/VisitingUp.gif" alt="" name="Visiting" width="112" height="22" border="0" id="Visiting" onload="" /></a></td>
+      <td><img src="../layout/navbar/Dot.gif" width="14" height="22" /></td>
+      <td><a href="../04_aboutdoc/about.shtml" target="_top" onclick="MM_nbGroup('down','group1','About','',1)" onmouseover="MM_nbGroup('over','About','../layout/navbar/AboutOver.gif','',1)" onmouseout="MM_nbGroup('out')"><img src="../layout/navbar/AboutUp.gif" alt="" name="About" width="98" height="22" border="0" id="About" onload="" /></a></td>
+      <td><img src="../layout/navbar/Dot.gif" width="14" height="22" /></td>
+      <td><a href="../05_gettinginvolved/volunteers.shtml" target="_top" onclick="MM_nbGroup('down','group1','Involved','',1)" onmouseover="MM_nbGroup('over','Involved','../layout/navbar/InvolvedOver.gif','',1)" onmouseout="MM_nbGroup('out')"><img src="../layout/navbar/InvolvedUp.gif" alt="" name="Involved" width="156" height="22" border="0" id="Involved" onload="" /></a></td>
+      <td><img src="../layout/navbar/Dot.gif" width="14" height="22" /></td>
+      <td><a href="../06_media/mediainfo_2009_01.shtml" target="_top" onclick="MM_nbGroup('down','group1','Media','',1)" onmouseover="MM_nbGroup('over','Media','../layout/navbar/MediaOver.gif','',1)" onmouseout="MM_nbGroup('out')"><img src="../layout/navbar/MediaUp.gif" alt="" name="Media" width="63" height="22" border="0" id="Media" onload="" /></a></td>
+      <td><img src="../layout/navbar/Dot.gif" width="14" height="22" /></td>
+      <td><a href="../07_contact/contact.shtml" target="_top" onclick="MM_nbGroup('down','group1','Contact','',1)" onmouseover="MM_nbGroup('over','Contact','../layout/navbar/ContactOver.gif','',1)" onmouseout="MM_nbGroup('out')"><img src="../layout/navbar/ContactUp.gif" alt="" name="Contact" width="76" height="22" border="0" id="Contact" onload="" /></a></td>
+    </tr>
+  </table>
+</div>
+<div id="midbar"> </div>
+<div id="content">
+<SCRIPT type="text/javascript"><!--
+function toggle_visibility(id) {
+var e = document.getElementById(id);
+if(e.style.display == 'none')
+e.style.display = 'block';
+else
+e.style.display = 'none';
+}
+//--></SCRIPT><h1> Winter 2009, Wednesday Series &bull; The Coen Brothers </h1>
+
+<p><em>How ya gonna keep &#8216;em down on the farm once they&#8217ve seen Carl Hungus?</em></p>
+
+<p>As the mysterious, mustachioed cowboy ambles through the opening narration of <em>The Big Lebowski</em>, he opines: &#8220;Sometimes there&#8217;s a man&#8230; I won&#8217;t say a hero, &#8216;cause, what&#8217;s a hero? But sometimes, there&#8217;s a man, and well, he&#8217;s the man for his time and place. He fits right in there.&#8221; The cowboy&#8217;s talking about a guy called the Dude here, but the description applies equally well to the film&#8217;s creators. The Coen brothers&#8217; films fit right in there, and collectively remain central to the generation that came of age watching and incessantly quoting them. <strong><A href="#essay" onclick="toggle_visibility('essay');">more</a></strong></p>
+
+<div id="essay" style="display:none;">
+
+<p>The Coens&#8217; debut film, <strong><em>Blood Simple</em></strong> (2/18), introduces all their classic set&#8211;ups: a complex plot spun from a simple story, a royal screw&#8211;up developed from a pathetically smalltime caper, a grotesquely mundane cosmos made up of quaint simpletons, and a sardonic, hard&#8211;edged style completing the package. Somewhere in Texas, a bar manager and his boss&#8217; wife are fooling around. When the boss becomes suspicious, he hires a private detective to photograph their hanky panky. Of course, as in many a Coen film since, the unleashing of a sinister agent triggers a chain reaction of gruesome, senseless murder.</p>
+
+<p>It&#8217;s not completely accurate that older Coen films are weirder than newer&#8230; but it&#8217;s pretty close to true. And <strong><em>Raising Arizona</em></strong> (1/14), by many accounts, is the weirdest of all. Arizona refers, here, not only to the state, where the movie does in fact take place, but also to furniture tycoon Nathan Arizona, who&#8217;s the one doing the raising&#8230; of a bunch of very odd babies. Classic Coen tropes established here crop up in future features. But while kidnapping, pomade, fucked up police officers, and a penchant for clever names have become common Coen fare, only in Arizona can one find babies raging up and down staircases!</p>
+
+<p>&#8220;I&#8217;ll show you the life of the mind!&#8221; screams Coen regular John Goodman as he storms down one of the creepiest hallways in cinema, weapon in hand and flames aplenty joining him in his rampage. Goodman begins <strong><em>Barton Fink</em></strong> (2/4) as a door to door insurance salesman, often dropping in on screenwriter Fink (John Turturro) to provide conversation and help ease Fink&#8217;s writers&#8217; block, in a poorly lit room in the dreary hotel Earle. But as the film progresses &#8211; in typical dark comedy Coen brothers style &#8211; Fink&#8217;s already decrepit life gets more and more confused, and the imagery follows suit.</p>
+
+<p>Bosses, bookies and broads converge in <strong><em>Miller&#8217;s Crossing</em></strong> (1/21), the Coen Brothers&#8217; 1990 paean to the gritty, cigar&#8211;chomping world of Dashiell Hammett&#8217;s hardboiled tales. Biting dialogue, covert humor and unblinking brutality make appearances in a quest for redemption all but lost amidst the somber hues of Prohibition&#8211;era America. Mournful and meditative, this film evinces pathos while keeping its tongue lodged firmly in its cheek. The marvelous cast, including Byrne, Finney and regulars Buscemi and Turturro make for a film as elusive as the airborne fedora that escorts the audience into its sordid yarn of Italian&#8211;Irish aggression.</p>
+
+<p>Widely considered to be the Coens&#8217; best film (at least until the recent Oscar winner <em>No Country for Old Men</em>), the black comedy <strong><em>Fargo</em></strong> (1/7) tells the twisted tale of a hare&#8211;brained kidnapping scheme gone harer&#8211;brained: man kidnaps wife to get ransom from father&#8211;in&#8211;law, but shit hits fan and people die. William H. Macy joins Coen regulars Frances McDormand and Steve Buscemi in a stellar cast of outcasts, all of whom manage to stereotype a Minnesota accent with impressive verve and consistency. Though only a couple minutes of the film take place in the title city, there’s still plenty of snow, and plenty of blood; the memorable climax involves a foot protruding from a wood chipper.</p>
+
+<p>The Dude abides. But not when you pee on his rug. Or when you try to cut his johnson off. Not only the most popular film made by the Coens, but also one of the most iconic films of its generation, <strong><em>The Big Lebowski</em></strong> (1/28) is a hilarious romp through a ludicrous yet almost believable tale and a pitch&#8211;perfect take on life and its contradictions in the early 1990s. Laugh with the laid back Dude (Jeff Bridges) and his Nam vet sidekick Walter (John Goodman) as they work out a mixup over the Dude&#8217;s given name, confronting the Jesus (a pederast), Jackie Treehorn (a pornographer) and the Nihilists (nihilists) along the way.</p> 
+
+<p>If you like frisbees, or hula&#8211;hoops or bendy straws, or just about any other zany invention, you’ll enjoy <strong><em>The Hudsucker Proxy</em></strong> (2/11), a zany comedy about the guy who invented them. Norville Barnes, an inexperienced college grad with high hopes and big ideas, gets elevated from company grunt to company president at Hudsucker Industries as a stooge. But once there, he proves far smarter than those who planted him there had bargained for &#8211; who&#8217;d have thought that a spinning hoop would actually succeed? The film stars Tim Robbins and Paul Newman, but look for the late Anna Nicole Smith in a bit part.</p>
+
+<p>When you think of Homer&#8217;s <em>Odyssey</em>, the deep south of the 1930s doesn&#8217;t necessarily come to mind&#8230; but why not! Packed with fantastic performances from George Clooney (our Ulysses... Ulysses McGill), John Turturro, Tim Blake Nelson and everyone&#8217;s favorite cyclops, John Goodman, <strong><em>O Brother, Where Art Thou?</em></strong> (2/25) does Homer&#8217;s tale justice without trying too hard to be literal. The Coens pay homage to the original epic by borrowing what they like and then making it their own. To top it all off, the soundtrack is one of the best folk/bluegrass albums in recent memory, featuring the likes of Allison Krauss and Gillian Welch.</p>
+
+<p>Less widely known than other recent Coen films, <strong><em>The Man Who Wasn&#8217;t There</em></strong> (3/4) offers, among other things, an early look at Scarlett Johansson before <em>Ghost World</em> and <em>Lost in Translation</em> made her the super&#8211;famous starlet she is today. If a teenage Johansson seducing the much older protagonist (Billy Bob Thornton) isn&#8217;t enough reason to come, come instead for the crisp black and white film noir cinematography meant to deposit you right back into the 1950s, or for the impressive supporting cast, including James Gandolfini, Tony Shalhoub (from the TV show <em>Monk</em>), and of course Coen regular Frances McDormand.</p>
+
+<p>Most Coen films combine two hallmarks: a hyper&#8211;twisted, hilarious plot and a dark outlook on life and the humans living it. <strong><em>Intolerable Cruelty</em></strong> (3/11) keeps the twists, but lightens up substantially in tone, creating a pleasant excuse to watch George Clooney and Catherine Zeta&#8211;Jones being their stylish, stylish selves. Clooney is a divorce lawyer, and so the story goes, a damn good one. Jones is, for lack of a better term, a bitch. The match is made in heaven&#8230; until the backstabbing begins. Also starring Cedric the Entertainer, Geoffrey Rush, and Edward Herrmann as the expertly (and typically&#8211;Coen) named Rex Rexroth.</p>
+
+<p>Offering a little something for everyone &#8211; or at least everyone who likes dark, twisted humor &#8211; this series, as you can see, includes not only widely seen Coen favorites, but also older and lesser known titles. So join us for films you&#8217;ve seen and films you haven&#8217;t, whether you want to look back with a bit of nostalgia on simpler, zanier times, or simply have a zany good time of your own. <strong>LJ</strong> <strong><a href="#" onclick="toggle_visibility('essay');">close</a></strong></p></div>
+
+  <p>Wednesday, January 7 &bull; 7:00 &amp; 9:30 PM &bull; 98 min<a name="Coen1" id="Coen1"></a><img src="../06_media/2009-01_images/01Week/Fargo.jpg" width="147" height="100" class="image" /><br />
+      <strong>Fargo</strong><br />
+    <em>Joel &amp; Ethan Coen, 1996 &bull;</em> Widely considered to be the Coens&#8217; best film, the black comedy <em>Fargo</em> tells the twisted tale of a hare&#8211;brained kidnapping scheme gone harer&#8211;brained: man kidnaps wife to get ransom from father&#8211;in&#8211;law, but shit hits fan and people die. William H. Macy joins Coen regulars Frances McDormand and Steve Buscemi in a stellar cast of outcasts, all of whom manage to stereotype a Minnesota accent with impressive verve and consistency. Though only a couple minutes of the film take place in the title city, there&#8217;s still plenty of snow, and plenty of blood; the memorable climax involves a foot protruding from a wood chipper.</em> <em>35mm</em></p>
+  <p>Friday, January 9 &bull; 7:00, 9:00 &amp 11:00 PM &bull; Matinee Sunday, January 11 &bull; 3:00 PM &bull; 96min<a name="Friday1" id="Friday1"></a><strong><img src="../06_media/2009-01_images/01Week/Burn_after_Reading.jpg" width="149" height="100" class="image" /></strong><br />
+    <strong>Burn After Reading</strong><br />
+    <em>Joel &amp; Ethan Coen, 2008</em> &bull; When Brad Pritt protested his character&#8217;s uncanny idiocy, the Coens insisted that he was perfect for the part. Once again, the brothers&#8217; flair for savage wit brings a familial cast to maddening senselessness. Spousal intrigue smolders between a foul-mouthed John Malkovich and his wife (Tilda Swinton) before a foolish and excitable gym rat (Pitt) and coworker (Frances McDormand) attempt to blackmail the ex&#8211;CIA agent. Then glint&#8211;in&#8211;his&#8211;eye George Clooney seduces both leading ladies before espionage and infidelity come to a hatchet&#8211;y end. <em>35mm</em></p>
+  <p>Wednesday, January 14 &bull; 7:00 &amp; 9:00 PM &bull; 94min<a name="Coen2" id="Coen2"></a><strong><img src="../06_media/2009-01_images/02Week/Raising_Arizona.jpg" width="113" height="100" class="image" /></strong><br />
+    <strong>Raising Arizona<br />
+  </strong><em>Joel &amp; Ethan Coen, 1987</em> &bull; It&#8217;s not completely accurate that older Coen films are weirder than newer ones&#8230; but it&#8217;s pretty close to true. And this one, by many accounts, is the weirdest of all. Arizona refers, here, not only to the state, where the movie does in fact take place, but also to furniture tycoon Nathan Arizona, who&#8217;s the one doing the raising&#8230; of a bunch of very odd babies. Classic Coen tropes established here crop up in future features. But while kidnapping, pomade, fucked up police officers, and a penchant for clever names have become common Coen fare, only in Arizona can one find babies raging up and down staircases!<em> DVD</em></p>
+<p>Wednesday, January 21 &bull; 7:00 &amp; 9:30 PM &bull; 115m<a name="Coen3" id="Coen3"></a><strong><img src="../06_media/2009-01_images/03Week/Millers_Crossing.jpg" width="150" height="100" class="image" /></strong><br />
+    <strong>Miller&#8217;s Crossing<br />
+    </strong><em>Joel &amp; Ethan Coen, 1990</em> &bull; Bosses, bookies and broads converge in the Coen Brothers&#8217; 1990 paean to the gritty, cigar&#8211;chomping world of Dashiell Hammett&#8217;s hardboiled tales. Biting dialogue, covert humor and unblinking brutality make appearances in a quest for redemption all but lost amidst the somber hues of Prohibition&#8211;era America. Mournful and meditative, this film evinces pathos while keeping its tongue lodged firmly in its cheek. The marvelous cast, including Byrne, Finney and regulars Buscemi and Turturro make for a film as elusive as the airborne fedora that escorts the audience into its sordid yarn of Italian&#8211;Irish aggression. <em>35mm</em></p>
+  <p>Wednesday, January 28 &bull; 7:00 &amp; 9:30 PM &bull; 117min<a name="Coen4" id="Coen4"></a><strong><img src="../06_media/2009-01_images/04Week/Big_Lebowski.jpg" width="100" height="100" class="image" /></strong><br />
+    <strong>The Big Lebowski<br />
+    </strong><em>Joel &amp; Ethan Coen, 1998</em> &bull; The Dude abides. But not when you pee on his rug. Or when you try to cut his johnson off. Not only the most popular film made by the Coens, but also one of the most iconic films of its generation, <em>Lebowski</em> is a hilarious romp through a ludicrous yet almost believable tale and a pitch&#8211;perfect take on life and its contradictions in the early 1990&#8217;s. Laugh with the laid back Dude (Jeff Bridges) and his Nam vet sidekick Walter (John Goodman) as they work out a mixup over the Dude&#8217;s given name, confronting the Jesus (a pederast), Jackie Treehorn (a pornographer) and the Nihilists (nihilists) along the way. <em>35mm</em></p>
+  <p>Wednesday, February 4 &bull; 7:00 &amp; 9:30 PM &bull; 116min<a name="Coen5" id="Coen5"></a><strong><img src="../06_media/2009-01_images/05Week/Barton_Fink.jpg" width="65" height="100" class="image" /></strong><br />
+    <strong>Barton Fink<br />
+    </strong><em>Joel &amp; Ethan Coen, 1991</em> &bull; &#8220;I&#8217;ll show you the life of the mind!&#8221; screams Coen regular John Goodman as he storms down one of the creepiest hallways in cinema, weapon in hand and flames aplenty joining him in his rampage. Goodman begins the film as a door to door insurance salesman, often dropping in on screenwriter Barton Fink (John Turturro) to provide conversation and help ease Fink&#8217;s writer&#8217;s block, in a poorly lit room in the dreary hotel Earle. But as the film progresses &#8211; in typical dark comedy Coen brothers style &#8211; Fink&#8217;s already decrepit life gets more and more confused, and the imagery follows suit. <em>35mm</em></p>
+<p>Wednesday, February 11 &bull; 7:00 &amp; 9:30 PM &bull; 111min<a name="Coen6" id="Coen6"></a><br />
+      <strong>The Hudsucker Proxy</strong><strong><img src="../06_media/2009-01_images/06Week/Hudsucker_Proxy.jpg" width="70" height="100" class="image" /></strong><br />
+      <em>Joel &amp; Ethan Coen, 1994</em> &bull; If you like frisbees, or hula&#8211;hoops or bendy straws, or just about any other zany invention, you&#8217;ll enjoy this equally zany comedy about the guy who invented them. Norville Barnes, an inexperienced college grad with high hopes and big ideas, gets elevated from company grunt to company president at Hudsucker Industries as a stooge. But once there, he proves far smarter than those who planted him there had bargained for &#8211; who&#8217;d have thought that a spinning hoop would actually succeed? The film stars Tim Robbins and Paul Newman, but look for the late Anna Nicole Smith in a bit part. <em>35mm</em></p>
+<p>Wednesday, February 18 &bull; 7:00 &amp; 9:15 PM &bull; 94min<a name="Coen7" id="Coen7"></a><strong><img src="../06_media/2009-01_images/07Week/Blood_Simple.jpg" width="130" height="100" class="image" /></strong><br />
+      <strong>Blood Simple</strong><br />
+      <em>Joel &amp; Ethan Coen, 1984</em> &bull; The Coens&#8217; debut film introduces all their classic set&#8211;ups: a complex plot spun from a simple story, a royal screw&#8211;up developed from a pathetically smalltime caper, a grotesquely mundane cosmos made up of quaint simpletons, and a sardonic, hard&#8211;edged style completing the package. Somewhere in Texas, a bar manager and his boss&#8217; wife are fooling around. When the boss becomes suspicious, he hires a private detective to photograph their hanky panky. Of course, as in many a Coen film since, the unleashing of a sinister agent triggers a chain reaction of gruesome, senseless murder. <em>35mm</em></p>
+<p>Wednesday, February 25 &bull; 7:00 PM &amp; 9:15 &bull; 106min<a name="Coen8" id="Coen8"></a><strong><img src="../06_media/2009-01_images/08Week/O_Brother_Where_Art_Thou.jpg" width="147" height="100" class="image" /></strong><br />
+      <strong>O Brother Where Art Thou?</strong><br />
+      <em>Joel &amp; Ethan Coen, 2000</em> &bull; When you think of Homer&#8217;s <em>Odyssey</em>, the deep south of the 1930&#8217;s doesn&#8217;t necessarily come to mind&#8230; but why not! Packed with fantastic performances from George Clooney (our Ulysses&#8230; Ulysses McGill), John Turturro, Tim Blake Nelson and everyone&#8217;s favorite cyclops, John Goodman, <em>O Brother</em> does Homer&#8217;s tale justice without trying too hard to be literal. The Coens pay homage to the original epic by borrowing what they like and then making it their own. To top it all off, the soundtrack is one of the best folk/bluegrass albums in recent memory, featuring the likes of Allison Krauss and Gillian Welch. <em>35mm</em></p>
+    <p>Wednesday, March 4 &bull; 7:00 &amp; 9:30 PM &bull; 116min<a name="Coen9" id="Coen9"></a><strong><img src="../06_media/2009-01_images/09Week/The_Man_Who_Wasnt_There.jpg" width="133" height="100" class="image" /></strong><br />
+      <strong>The Man Who Wasn&#8217;t There</strong><br />
+      <em>Joel &amp; Ethan Coen, 2001</em> &bull; Less widely known than other recent Coen films, <em>The Man Who Wasn&#8217;t There</em> offers, among other things, an early look at Scarlett Johansson before <em>Ghost World</em> and <em>Lost in Translation</em> made her the super&#8211;famous starlet she is today. If a teenage Johansson seducing the much older protagonist (Billy Bob Thornton) isn&#8217;t enough reason to come, come instead for the crisp black and white film noir cinematography meant to deposit you right back into the 1950s, or for the impressive supporting cast, including James Gandolfini, Tony Shalhoub (from the TV show <em>Monk</em>), and of course Coen regular Frances McDormand. <em>35mm</em></p>
+    <p>Wednesday, March 11 &bull; 7:00 &amp; 9:15 PM &bull; 100min<a name="Coen10" id="Coen10"></a><strong><img src="../06_media/2009-01_images/10Week/Intolerable_Cruelty.jpg" width="118" height="100" class="image" /></strong><br />
+      <strong>Intolerable Cruelty</strong><br />
+      <em>Joel &amp; Ethan Coen, 2003</em> &bull; Most Coen films combine two hallmarks: a hyper&#8211;twisted, hilarious plot and a dark outlook on life and the humans living it. <em>Intolerable Cruelty</em> keeps the twists, but lightens up substantially in tone, creating a pleasant excuse to watch George Clooney and Catherine Zeta&#8211;Jones being their stylish, stylish selves. Clooney is a divorce lawyer, and so the story goes, a damn good one. Jones is, for lack of a better term, a bitch. The match is made in heaven&#8230; until the backstabbing begins. Also starring Cedric the Entertainer, Geoffrey Rush, and Edward Herrmann as the expertly (and typically Coen) named Rex Rexroth. <em>35mm</em></p>
+  </div>
+<div id="midbar"> </div>
+<div id="footer"> </div> 
+</div>
+</body>
+</html>
+

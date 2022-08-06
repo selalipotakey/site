@@ -1,0 +1,65 @@
+<a href="/dev/">
+
+<div class="header">
+<!-- LOGO -->
+<div class="row-fluid span8 offset1" style="margin-top:3%">
+  <div class="span4">
+  <a href="/dev/"><img src="/dev/images/docfilms_logo_2013.gif" width="100%" height="25%"></a>
+  <!--<h1 style="text-align:right;"><a href="/dev/">doc films</a></h1>-->
+  </div>
+  <div class="span6">
+  <script language="javascript">showImage();</script></h1></a>
+  </div>
+</div>
+
+<!-- NAVBAR -->
+<div class="container" style="margin-top:-1%">
+  <div class="navbar navbar-static-top">
+  <div class="navbar-inner pull-center">
+    <ul class="nav" style="margin-left:8%">
+    <li><a href="/dev/"><strong><h4>home</h4></strong></a></li> 
+    <li><a href="/dev/calendar/index.shtml"><h4>| calendar</h4></a></li>
+    <li><a href="/dev/visiting.shtml"><h4>| visiting</h4></a></li>
+    <li><a href="/dev/about/index.shtml"><h4>| about</h4></a></li>
+    <li><a href="/dev/volunteer/index.shtml"><h4>| volunteer</h4></a></li>
+    <li><a href="/dev/media.shtml"><h4>| media</h4></a></li>
+    <li><a href="/dev/contact.shtml"><h4>| contact</h4></a></li>
+    <li><a href="/dev/donate.shtml"><h4>| donate</h4></a></li>
+    </ul>
+  </div>
+</div><!-- end navbar -->
+</div>
+
+<!-- PAGE CONTENT -->
+<div class="container">    
+<div class="span8 offset2">
+<h4> 
+</h4>
+<!-- announcements here <h3> </h3> -->
+<h4 style="text-align:center;" id="showtime">
+</h4>
+
+   <!-- Announcements -->
+    <class="span8">
+    <div class="well sidebar-nav">
+      <ul class="nav nav-list">
+        <li class="nav-header"><h4>Announcements</h4></li>
+        <!-- <li><strong><b></strong></b><a href="/dev/calendar/2012/fall/events2.shtml"></a></li> -->
+        <li>
+        <p>
+        &middot; <b>Monday, March 9</b>: Director Jacques Doillon will introduce our FREE screening of <i>Love Battles</i> and participate in a Q&A following the show.
+    	<p>
+	&middot; <b>Sunday, March 15</b>: The 7pm screening of <i>Man with a Movie Camera</i> will include a live score by MT Coast and Blake Edwards.
+    	<p>
+	&middot; <b><a href="https://docs.google.com/forms/d/15FNxNglnRUuOINSXMIzpe9FLtsZ1PgQshgn_j38fLKw/viewform">Volunteer for Doc Films this Spring Quarter!</a></b>
+    	<p>
+    	&middot; <b><a href="http://docfilms.uchicago.edu/dev/images/2014/t-shirt2014.jpg">T-shirts are here!!</a></b> Pick one up at any showing for only $15 or order online <a href="http://goo.gl/forms/7VScKebJfB">here</a>.
+    	<p>
+        &middot; Quarterly passes are available to purchase online at the <b><a href="http://ticketsweb.uchicago.edu/Merchandiselist.aspx">UChicago Arts Box Office</a></b>. 
+    	<p>
+    	&middot; To receive weekly updates on showtimes, sign up for our <b><a href="/dev/mailinglistsignup.shtml">mailing list</a></b>.
+    	<p>
+    	</li>
+        <li></li>
+      </ul>
+    </div>

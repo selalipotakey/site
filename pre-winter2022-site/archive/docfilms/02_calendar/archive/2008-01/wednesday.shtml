@@ -1,0 +1,120 @@
+﻿<!--#include virtual="../layout/header_top.html"-->
+<TITLE>Doc Films: Calendar</TITLE>
+
+<SCRIPT type="text/javascript"><!--
+function toggle_visibility(id) {
+var e = document.getElementById(id);
+if(e.style.display == 'none')
+e.style.display = 'block';
+else
+e.style.display = 'none';
+}
+//--></SCRIPT>
+
+<!--#include virtual="../layout/header_bottom.html"-->
+
+<H2>Calendar: Wednesday</H2>
+
+<H3>¡Viva Pedro! The Films of Pedro Almodóvar</H3>
+
+<P><I>Saturated with more color than a pack of candy, and packed with more 
+twists than a soap opera, Almodóvar's films are crazy, beautiful, and fun. </I></P>
+
+<CENTER><IMG src="wednesday.jpg" height="220" width="650" hspace="10"></CENTER>
+
+<P>The career of Spanish filmmaker Pedro Almodóvar can be divided into two distinctly different periods. The first of these periods, which begins as early as 1980 with <I>Pepi, Luci, Bom y otras chicas del montón</I>, and which effectively ends with <I>Tie Me Up! Tie Me Down!</I> in 1990, represents a filmmaker concerned primarily with class, gender, and sexual identity as well as one inclined towards dark comedy with subversive sexual and social themes. The second major period of Almodóvar's career, beginning with <B><I>High Heels</I></B> (2/20) in 1991 and continuing into the present, represents a thematic about-turn. Not only has Almodóvar embraced the bourgeois concerns of traditional melodrama, but he has also crafted films that are vastly more indebted to the Hollywood melodrama of the 1940s and 1950s. Despite their differences however, both of these periods are very much a part of the legend and enduring popularity of one of Spain's most important living filmmakers. <A href="#essay" onclick="toggle_visibility('essay');">more</A></P>
+
+<DIV id="essay" style="display:none;"><P>Almodóvar's oeuvre certainly has a distinctive visual style, but his films are as much defined by their stories and themes as they are by their visualization. Borrowing heavily from classical Hollywood melodramatists such as John M. Stahl, Michael Curtiz, Joseph Mankiewicz, and Douglas Sirk, Almodóvar attempts to subvert these genre trappings just as he is actively imitating them. He does this by peppering these melodramatic templates with characters that are consciously outside of the mainstream: lower class women, transsexuals, and the gay working class. He places these same characters in off-beat, often transgressive social situations in an attempt to shatter mainstream taboos and to once again invert the genres that he is imitating.</P>
+
+<P>The first phase of Almodóvar's career best embodies these more transgressive aspects of his filmmaking, with darkly comic treatments of lower-middle class family life and the gay experience thematically dominating the films of this period. In <B><I>What Have I Done To Deserve 
+This?</I></B> (1/30), Carmen Maura's glue-sniffing working class mom battles depression, an unfaithful husband, her two wild sons (one a drug dealer, the other a gay hustler), and 
+a nutty grandmother. Similarly, in <B><I>Women on the Verge of a Nervous Breakdown</I></B> (1/23), 
+Almodóvar focuses on the travails of a Spanish housewife but in a style that constantly straddles the border between comedy and melodrama. However, with 1986's <B><I>Matador</I></B> (2/6), Almodóvar strikes out in a different direction, setting out to shatter sexual taboos (no doubt in response to the fall of Franco's fascist government only a decade previously) and to explore the connections between sex and death. In <B><I>Law of Desire</I></B> (2/13), he again explores themes of transgressive (i.e., homosexual) behavior, in a story about a gay filmmaker, his transsexual brother/sister, and his psychopathic gay stalker.</P> 
+
+<P>By 1991, Almodóvar seems to have abandoned this fascination with transgressive behavior, instead embracing more serious subject matter that more clearly embodies the characteristics of classic Hollywood melodrama. Critics began to sense this dramatic change beginning with <I>High Heels</I>, a film very much rooted in its melodramatic trappings, and one that is now seen as a dry-run for 1999's <B><I>All About My Mother</I></B> (1/9). Only four years after <I>High Heels</I>, Almodóvar made 
+<B><I>Flower of My Secret</I></B> (2/27), a film that many critics at the time considered his most mature work, as well as one that again plays with the conventions of melodrama while focusing on 
+upper-echelon, bourgeois female leads. He would tackle this subject again in <I>All About My Mother</I>, a film that, along with 2006's <I>Volver</I>, is not only a celebration of women, actresses, and mothers, but also an extended homage to the work of Stahl, Curtiz, and Sirk.</P>
+
+<P>While gay characters and themes do occasionally appear throughout this period, Almodóvar has also shown a surprising interest in male heterosexuality. Aside from <B><I>Bad Education</I></B> (3/12), a modern day noir about transsexuals and childhood sexual abuse, his other major films in this period, notably <B><I>Talk to Her</I></B> (1/16) and <B><I>Live Flesh</I></B> (3/5) focus almost exclusively on heteronormative relationships. <I>Live Flesh</I> is about the sexual politics between a paralyzed cop, a former junkie, and the boy who loved her; and while the subject matter is as lurid and the twists as melodramatic as much of his earlier work, the concerns are vastly different. Similarly, his masterpiece <I>Talk to Her</I> focuses on the unlikely bond that develops between two vastly different men whose loves both lay comatose in the hospital. In each of these films, Almodóvar demonstrates a surprising amount of concern not only for heterosexual characters, but also for characters of a higher social status, a marked departure from his 1980s work.</P>
+
+<P>But whether one prefers his early comic films or his recent, more serious melodramas, Almodóvar provides entertainments that challenge and question our previously held conceptions of sexuality and gender. While his attitudes, concerns, and tone may have changed in the last fifteen years, his visual style remains unmistakable. Using a rich color palette and with a keen eye for visual 
+detail, Almodóvar's films literally pop off the screen. Doc invites you to see these films in 
+bold 35mm and to celebrate the work of one of Spain's most important contemporary filmmakers. <B>TF</B> <A href="#essay" onclick="toggle_visibility('essay');">close</A></P></DIV>
+
+<P><I>Co-sponsored by The Franke Institute for the Humanities, the Master of Arts Program in the  Humanities, the Gender Studies Program, the Center for Latin American Studies, and the Romance Languages Department</I></P>
+
+<TABLE>
+<TR><TD align="center" height="23"><IMG src="../layout/line.gif" height="4" width="729"></TD></TR>
+</TABLE>
+<BR>
+
+
+Wednesday, January 9 - 7:00, 9:15 
+<BLOCKQUOTE><STRONG class="title">All About My Mother</STRONG><BR>
+<I>Pedro Almodóvar, 1999 - 101 min.</I>
+<DIV class="gray">Following her son's tragic death, a mother moves to Barcelona to try to find the boy's long-lost father. Along the way she meets a famous actress (Marisa Paredes), a pregnant nun (Penelope Cruz), and a sympathetic drag queen (Antonia San Juan). Full of echoes of films like <I>All About Eve</I> and <I>A Streetcar Named Desire</I>, this intensely moving film about female solidarity 
+was a huge international hit and Almodóvar's most assured work to date. He dedicated it to "all actresses who have played actresses, to all women who act, to men who act and become women, to all the people who want to be mothers." <I>In Spanish; subtitled. 35mm.</I></DIV></BLOCKQUOTE>
+
+
+Wednesday, January 16 - 7:00, 9:30 
+<BLOCKQUOTE><STRONG class="title">Talk to Her</STRONG><BR>
+<I>Pedro Almodóvar, 2002 - 112 min.</I>
+<DIV class="gray">Two lonely men form a friendship while the women they love are in comas. On the surface they couldn't be more different: Marco (Darío Grandinetti) is a worldly writer whose stricken girlfriend was a matador, and Benigno (Javier Cámara) is a shy nurse with stalker tendencies. But 
+they bond over their shared trauma, their grief, and their despair. Poetic and disturbing, sensual and complex, this film is widely considered to be Almodóvar's masterpiece; his command of the medium has never been so assured. It's also his deepest exploration of male/female relationships. <I>In Spanish; subtitled. 35mm.</I></DIV></BLOCKQUOTE>
+
+
+Wednesday, January 23 - 7:00, 9:00
+<BLOCKQUOTE><STRONG class="title">Women on the Verge of a Nervous Breakdown</STRONG><BR>
+<I>Pedro Almodóvar, 1988 - 90 min.</I>
+<DIV class="gray">The masterpiece of Almodóvar's wacky period (aka "the early, funny ones"). The deliriously convoluted plot concerns scorned women, psycho ex-wives, terrorist boyfriends, mambo-mad 
+taxi drivers, and a tragically lethal gazpacho. The brilliant Carmen Maura heads up a cast rounded out by a number of familiar faces (Antonio Banderas, Rossy de Palma, Julieta Serrano) from previous Almodóvar films. Like Almodóvar's earlier <I>Law of Desire</I>, <I>Women on the Verge</I> is a partial reworking of the famous Cocteau play, <I>The Human Voice</I>. <I>In Spanish; subtitled. 35mm.</I></DIV></BLOCKQUOTE>
+
+
+Wednesday, January 30 - 7:00, 9:15 
+<BLOCKQUOTE><STRONG class="title">What Have I Done to Deserve This?</STRONG><BR>
+<I>Pedro Almodóvar, 1984 - 101 min.</I>
+<DIV class="gray">This delightfully scabrous comedy was the first Almodóvar film to be released in the U.S. It centers on a glue-sniffing desperate housewife (Carmen Maura) and the trials and tribulations of her brood, including a grifter hubby, one son who sells dope and another who peddles his body, and a nutty grandma (she keeps a pet lizard). As is often the case with Almodóvar, there's a wild mixture of genres here: part screwball comedy, part neorealist melodrama, but with a boldly imagined, sexually and politically subversive edge. <I>In Spanish; subtitled. 16mm.</I></DIV></BLOCKQUOTE>
+
+
+Wednesday, February 6 - 7:00, 9:30 
+<BLOCKQUOTE><STRONG class="title">Matador</STRONG><BR>
+<I>Pedro Almodóvar, 1986 - 110 min.</I>
+<DIV class="gray">A virginal young bullfighting student (Antonio Banderas) is charged in connection with a string of grisly murders - but all is not what it seems. This brilliant black comedy/melodrama may be the most daring film Almodóvar ever made. There are graphic, sometimes shocking images of sexualized violence and torture, and film's exploration of the connections between sex and death is disturbing. <I>Matador</I> is perhaps the best example of the taboo-shattering power of Almodóvar's work in the context of a society that was still recovering from the sexual and political repression of Franco. <I>In Spanish; subtitled. 35mm.</I></DIV></BLOCKQUOTE>
+
+
+Wednesday, February 13 - 7:00, 9:15
+<BLOCKQUOTE><STRONG class="title">Law of Desire</STRONG><BR>
+<I>Pedro Almodóvar, 1987 - 102 min.</I>
+<DIV class="gray">One of Almodóvar's most personal works, this absurdist melodrama concerns the complicated artistic and romantic life of a gay film director. While it's stylistically similar to <I>Matador</I>, the plot and themes look forward to <I>Bad Education</I>. It stars Eusebio Poncela as the director, Carmen Maura as his fiery transsexual sister, and Antonio Banderas as the director's stalker. Members of Almodóvar's stock company, such as Rossy de Palma (as a television reporter) and the transvestite actor Bibi Anderssen (as Maura's former lover, who is the mother of their child) also appear. <I>In Spanish; subtitled. 35mm.</I></DIV></BLOCKQUOTE>
+
+
+Wednesday, February 20 - 7:00, 9:30 
+<BLOCKQUOTE><STRONG class="title">High Heels</STRONG><BR>
+<I>Pedro Almodóvar, 1991 - 112 min.</I>
+<DIV class="gray">This film, which can be read as an homage to Sirk's <I>Imitation of Life</I> and in particular to that film's star, Lana Turner, marked a turn toward the melodramatic. It concerns a reunion between a mother (Marisa Paredes), a famous pop singer, and her daughter (Victoria Abril), a 
+television news reporter, after many years of estrangement. When the mother's former lover is found murdered, a number of jaw-dropping secrets are revealed. Compared to the director's earlier works, the satire is tempered, the wild comedy more muted. But in its place is a newly mature tone and deep emotion. <I>In Spanish; subtitled. 16mm.</I></DIV></BLOCKQUOTE>
+
+
+Wednesday, February 27 - 7:00, 9:15
+<BLOCKQUOTE><STRONG class="title">The Flower of My Secret</STRONG><BR> 
+<I>Pedro Almodóvar, 1995 - 103 min.</I>
+<DIV class="gray">A popular romance novelist faces a midlife crisis when she becomes disillusioned with both her marriage and her career. The tone is atypically understated, but some have called this 
+Almodóvar's "most mature work." Photographed in gorgeously rich colors, it boasts an evocative musical score and a stunning flamenco dance sequence. Almodóvar obsessives may note that the opening line of this film reappears in <I>All About My Mother</I>, and that a story written by the protagonist (involving a dead body in a refrigerator) forms part of the plot of Almodóvar's recent <I>Volver</I>. <I>In Spanish; subtitled. 35mm.</I></DIV></BLOCKQUOTE>
+
+
+Wednesday, March 5 - 7:00, 9:15 
+<BLOCKQUOTE><STRONG class="title">Live Flesh</STRONG><BR>
+<I>Pedro Almodóvar, 1997 - 103 min.</I>
+<DIV class="gray">This noirish adaptation of a Ruth Rendell novel about love, crime, and obsession has much more of a historical and political subtext than any of his other films. The riveting opening sequence involves a poor woman (Penelope Cruz) in Franco-era Spain giving birth on a city bus. The film then flashes forward 20 years, and centers on the complicated life and sexual relationships of Victor, a young man who goes to jail after accidentally shooting and paralyzing a cop (Javier Bardem). Almodóvar does full justice to Rendell's sexy, sophisticated, brilliantly plotted novel. <I>In Spanish; subtitled. 35mm.</I></DIV></BLOCKQUOTE>
+
+
+Wedneday, March 12 - 7:00, 9:15  
+<BLOCKQUOTE><STRONG class="title">Bad Education</STRONG><BR>
+<I>Pedro Almodóvar, 2004 - 106 min.</I>
+<DIV class="gray">Almodóvar is at his noir-iest in this, one of his most extravagantly (and deliciously) stylized concoctions. Gael Garcia Bernal (<I>Motorcycle Diaries</I>, <I>Y Tu Mamá También</I>) stars as a young transsexual in this story of betrayal, blackmail, and revenge. A successful film director (Fele Martínez) is contacted by his boyhood love (Bernal), who wants him to film his life story, which involves a traumatic episode of sexual abuse by a Catholic priest (Daniel Giménez Cacho). Almodóvar worked on the intricately plotted screenplay for over 10 years; clearly it is one of his most deeply personal works. <I>In Spanish; subtitled. 35mm.</I></DIV></BLOCKQUOTE>
+
+
+<A href="../calendar.shtml">Back to Winter 2008 Calendar</A>
+
+
+<!--#include virtual="../layout/footer.html"-->

@@ -1,0 +1,43 @@
+<!--#include virtual="layout/header_top.html"-->
+<TITLE>Doc Films: Calendar</TITLE>
+<!--#include virtual="layout/header_bottom.html"-->
+
+<H2>The Doc Films Calendar: Autumn 2006</H2>
+
+
+<TABLE cellspacing=0 cellpadding=0 width=100%><TR><TD valign="top">
+
+<H3>View By Series</H3>
+	Sunday: <A href="calendar/sunday.shtml">The Women of Early Hollywood</A><BR>
+	Monday: <A href="calendar/monday.shtml">Jean-Luc Godard: The Later Films</A><BR>
+	Tuesday: <A href="calendar/tuesday.shtml">American Horror in the 1970s</A><BR>
+	Wednesday: <A href="calendar/wednesday.shtml">Antiheroes: Icons of the New<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hollywood Era</A><BR>
+	Thursday:<BR>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<A href="calendar/thursday1.shtml">1-2 Punch: Garfield & Ryan</A><BR>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<A href="calendar/thursday2.shtml">Jazz Cinema</A><BR>
+	Weekends:<BR>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<A href="calendar/weekend.shtml">I'm Your Doc (New Releases)</A><BR>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<A href="calendar/weekend.shtml#matinee">Sunday Matinees</A><BR>	
+
+</TD><TD valign="top">
+	
+<H3>View By Week</H3>
+	<A href="calendar/week1.shtml">Week 1:</A> September 25 - September 30<BR>
+	<A href="calendar/week2.shtml">Week 2:</A> October 1 - October 7<BR>
+	<A href="calendar/week3.shtml">Week 3:</A> October 8 - October 14<BR>
+	<A href="calendar/week4.shtml">Week 4:</A> October 15 - October 21<BR>
+	<A href="calendar/week5.shtml">Week 5:</A> October 22 - October 28<BR>
+	<A href="calendar/week6.shtml">Week 6:</A> October 29 - November 4<BR>
+	<A href="calendar/week7.shtml">Week 7:</A> November 5 - November 11<BR>
+	<A href="calendar/week8.shtml">Week 8:</A> November 12 - November 18<BR>
+	<A href="calendar/week9.shtml">Week 9:</A> November 19 - November 25<BR>
+	<A href="calendar/week10.shtml">Week 10:</A> November 26 - December 2<BR>
+
+</TD></TR></TABLE>
+
+<P>For a pdf version of the print calendar, please <A href="http://docfilms.uchicago.edu/files/calendar_a06.pdf" target="_win">click here</A>.  We generally deliver the print calendars around Hyde Park, and to as many film and art hotspots around the rest of Chicago as we can. If you'd like us to deliver to a location we may not have thought about, especially in the Hyde Park/Kenwood/Woodlawn neighborhoods, please <a href="contact.shtml">let us know</a>.</P>
+
+<P>A list of past films shown at Doc Films can be found <A href="http://docfilms.uchicago.edu/files/films.pdf">here</A>.</P>
+
+
+<!--#include virtual="layout/footer.html"-->

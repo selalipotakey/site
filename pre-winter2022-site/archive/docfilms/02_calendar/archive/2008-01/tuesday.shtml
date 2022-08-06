@@ -1,0 +1,126 @@
+﻿<!--#include virtual="../layout/header_top.html"-->
+<TITLE>Doc Films: Calendar</TITLE>
+
+<SCRIPT type="text/javascript"><!--
+function toggle_visibility(id) {
+var e = document.getElementById(id);
+if(e.style.display == 'none')
+e.style.display = 'block';
+else
+e.style.display = 'none';
+}
+//--></SCRIPT>
+
+<!--#include virtual="../layout/header_bottom.html"-->
+
+<H2>Calendar: Tuesday</H2>
+
+<H3>Jacques Demy & Jacques Tati</H3>
+
+<P><I>Two French geniuses who revived their old-fashioned genres with verve.</I></P>
+
+<P><B>Jacques Demy (1931 - 1990)</B> emerged as part of the French New Wave, yet it was immediately clear that he diverged from his contemporaries stylistically. As depicted in the biopic <I>Jacquot de Nantes</I> directed by his wife Agnès Varda, Demy had been enthralled by cinema even as a child, and this feeling of whimsy translated into his films. While some of his critics have dismissed this as mere naïveté and nostalgia, it is truly a sense of lyricism and grace that sets him apart from other New Wavers. <A href="#demy" onclick="toggle_visibility('demy');">more</A></P>
+
+<DIV id="demy" style="display:none;">
+
+<IMG src="tuesday2.jpg" height="300" width="232" align="left" hspace="10">
+
+<P>Though his style varied tremendously even between films, they all seem to exist within the same whimsical universe. The films chosen for this series, focusing on the earlier part of his career, highlight the intertextuality of his oeuvre. The titular protagonist of his debut <B><I>Lola</I></B> (1/8), played by Anouk Aimeé, returns in the radically different setting of 1969 Los Angeles in <B><I>Model Shop</I></B> (1/29). Likewise, Roland Cassard (Marc Michel), Lola's admirer from the first film, appears again as a sadder and more mature man in <B><I>The Umbrellas of Cherbourg</I></B> (1/15), to name just a couple of Demy's self-references.</P>
+
+<P>If Demy's films succeeded in creating a self-contained universe, then it is a universe many of us would love to step into. From the gloriously silly coastal town of Rochefort in <B><I>Les Demoiselles de Rochefort</I></B> (1/22) to the enchanted kingdom in <B><I>Donkey Skin</I></B> (2/5), Demy used a masterful sense of color and style that borrowed as much from big-budget Hollywood musicals as from European influences like Max Ophüls. A career-long collaboration with composer Michel Legrand was 
+largely responsible for the success of Demy's films. Legrand's scores were also a charming mixture of 
+jazz and showtunes from American and traditional French melodies. Rarely in cinema has a composer been given as great a showcase as in <I>Umbrellas</I> and <I>Rochefort</I>, essentially operettas with dialogue that is entirely sung. <I>Umbrellas</I> was also an important showcase for the beautiful Catherine Deneuve, turning her into a star of world cinema. She would ultimately star in four of Demy's features, three of which are represented here. <B>EVAN!</B> <A href="#" onclick="toggle_visibility('demy');">close</A></P></DIV>
+
+<TABLE width="100%">
+<TR><TD align="center" height="23"><CENTER><IMG src="../layout/line.gif" height="4" width="360"></CENTER></TD></TR>
+</TABLE>
+
+<P><B>Jacques Tati (1907 - 1982)</B> was a far less prolific director than Demy. This retrospective focuses on the four features starring Tati's bumbling alter ego Monsieur Hulot, plus his rarely seen and underappreciated final film <B><I>Parade</I></B> (3/11). <A href="#tati" onclick="toggle_visibility('tati');">more</A></P>
+
+<DIV id="tati" style="display:none;">
+
+<IMG src="tuesday1.jpg" height="300" width="228" align="right" hspace="10">
+
+<P>M. Hulot comes from a long lineage of charmingly clumsy characters from the silent era, including Buster Keaton and Charlie Chaplin's iconic personas. Hulot's connection to this past era is appropriate, as his inability to adjust to the modern age becomes the major theme of his films. Tati places his character in every geographical configuration France has to offer, but Hulot can never seem to find his place. His first appearance in <B><I>M. Hulot's Holiday</I></B> (2/12) finds him running amok among vacationers at a seaside resort, while <B><I>Mon Oncle</I></B> (2/19) takes him instead into space-age suburbia. The artificial urban landscape becomes the setting for <B><I>Playtime</I></B> (2/26), and <B><I>Trafic</B></I> (3/4) places him in the final frontier of modernity: the highway.  Accidents happen in every location, yet the havoc he creates is always relatively mild, and is rarely entirely his own fault - the unnecessary Rube Goldberg-like contraptions and "conveniences" of modernity are as much to blame. There is something undeniably human about M. Hulot, and this contributes to why he is such a likable character. Despite the obstacles placed in front of him, Hulot always radiates kindness, ensuring that Tati's other characters, and his audience, only feel sympathy for his struggles.</P>
+
+<P>The brilliance of Tati's visuals is apparent immediately. He fills each perfectly composed frame with dozens of subtle sight gags. He continually refined his style throughout his career, reaching his peak in <I>Playtime</I>, which was filmed on larger format 70mm film, allowing him even more room for his clever visual puns. His films also benefited tremendously from his talent as a physical comedian, performing tricky stunts within elaborately orchestrated set-ups seemingly without effort.</P>
+
+<P>Yet despite his obvious visual genius, Tati's greatest accomplishment may have been his use of sound. Dialogue appears only sporadically in his films, and when characters do speak it remains largely inaudible. Tati treats the human voice as just another disorienting noise, among the car horns, duck calls, and sprinkler systems, with which Hulot must deal regularly. It's in this sonic architecture that Tati is really able to develop physical comedy in ways that Keaton and Chaplin were never fully able to, solidifying Tati's place in the cinematic canon. If only Monsieur Hulot were able to find his place, too. <B>EVAN!</B> <A href="#" onclick="toggle_visibility('tati');">close</A></P></DIV>
+
+<TABLE>
+<TR><TD align="center" height="23"><IMG src="../layout/line.gif" height="4" width="729"></TD></TR>
+</TABLE>
+<BR>
+
+
+Tuesday, January 8 - 7:00
+<BLOCKQUOTE><STRONG class="title">Lola</STRONG><BR>
+<I>Jacques Demy, 1961 - 90 min.</I>
+<DIV class="gray">Demy's debut inexplicably remains a neglected masterpiece of the French New Wave, but it stands up with the best of early Godard and Truffaut, and has more polish and lyricism than either typically displayed. Anouk Aimée plays the title character, a cabaret dancer and single mother in Nantes. While she waits for her child's father to return, she attracts the attention of a bored young man (Marc Michel) and an American sailor (Alan Scott). Demy dedicated his "musical without music" to Max Ophüls, whose <I>Lola Montès</I>, along with von Sternberg's <I>The Blue Angel</I>, is a clear inspiration. <I>In French; subtitled. 35mm.</I></DIV></BLOCKQUOTE>
+
+
+Tuesday, January 15 - 7:00 
+<BLOCKQUOTE><STRONG class="title">The Umbrellas of Cherbourg</STRONG><BR> 
+<I>Jacques Demy, 1964 - 91 min.</I>
+<DIV class="gray">This hauntingly beautiful melodrama was Demy's first experiment in "film opera." The dialogue is sung to the gorgeous jazz score of frequent collaborator Michel Legrand. Catherine Deneuve stars as Geneviève, a teenager whose mother owns an umbrella shop in coastal France. After her auto mechanic boyfriend Guy is drafted to fight in the Algerian War, Geneviève discovers she is pregnant. The film made an international star of Deneuve, and the song "I Will Wait For You" has since become a standard. <I>Umbrellas</I> was recently restored, enhancing Jean Rabier's vibrant cinematography. <I>In French; subtitled. 35mm.</I></DIV></BLOCKQUOTE>
+
+
+Tuesday, January 22 - 7:00
+<BLOCKQUOTE><STRONG class="title">Les Demoiselles de Rochefort</STRONG><BR> 
+<I>Jacques Demy, 1967 - 120 min.</I>
+<DIV class="gray">The second Michel Legrand opera is a more cheerful affair than Umbrellas, shot entirely on location in the sunny seaside town of Rochefort. Two twins (real life sisters Catherine Deneuve and Françoise Dorléac) teach music and dance to children, but long to find true love in Paris. When a fair comes to town, the sisters cross paths with equally lovelorn characters, including a sailor-poet whose painting of his imaginary "feminine ideal" just so happens to look like Deneuve. For his homage to the Hollywood musical, Demy even cast Gene Kelly, 55 and graceful as ever, as a romantic stranger. <I>In French; subtitled. 35mm.</I></DIV></BLOCKQUOTE>
+
+
+Tuesday, January 29 - 7:00
+<BLOCKQUOTE><STRONG class="title">Model Shop</STRONG><BR> 
+<I>Jacques Demy, 1969 - 90 min.</I>
+<DIV class="gray">Demy's only American film ambitiously addresses the anxieties of American youth at the end of the '60s. Gary Lockwood stars as George, a confused young man who's just quit his job and knows that he'll inevitably be drafted. He falls for a mysterious French model named Lola (Anouk Aimée, reprising her role from Demy's first film). Aimée's performance is perhaps even richer here than in <I>Lola</I>, but the true star is the city of Los Angeles. Demy superbly captures the grittiness and poetry of the city, which led the film to be a perfect subject for Thom Anderson's essay film <I>Los Angeles Plays Itself</I>. <I>35mm.</I></DIV></BLOCKQUOTE>
+
+
+Tuesday, February 5 - 7:00
+<BLOCKQUOTE><STRONG class="title">Donkey Skin</STRONG><BR> 
+<I>Jacques Demy, 1970 - 90 min.</I>
+<DIV class="gray">For his musical adaptation of Charles Perrault's classic fairy tale, 
+Demy teamed yet again with his favorite pair of collaborators - Catherine Deneuve and composer Miche Legrand. Demy keeps intact all of the bizarre and unsettling details of the story, which concerns a king (Jean Marais) who wishes to marry his daughter (Deneuve). Guided by her fairy godmother (Delphine Seyrig), the princess demands the skin of a magic donkey as a wedding present. This film may mark the visual high mark for Demy, who was always a highly visual director. Sets by Jacques Dugied and Jim Leom are stunning.  <I>In French; subtitled. 35mm.</I></DIV></BLOCKQUOTE>
+
+
+<TABLE width="100%">
+<TR><TD align="center" height="23"><CENTER><IMG src="../layout/line.gif" height="4" width="360"></CENTER></TD></TR>
+</TABLE>
+<BR>
+
+
+Tuesday, February 12 - 7:00
+<BLOCKQUOTE><STRONG class="title">M. Hulot's Holiday</STRONG><BR> 
+<I>Jacques Tati, 1953 - 86 min.</I>
+<DIV class="gray">Tati introduced his trademark pipe-smoking persona M. Hulot in this charmingly simple story. The relatively plotless film finds the bumbling Hulot falling into a series of mishaps as he vacations by the sea. Tati's innovative use of sound keeps the movie's dialogue minimal, instead relying on a collage of repeated noises as funny as the masterful slapstick gags. He would further refine this technique in subsequent films, particularly <I>Playtime</I>. Even from his first appearance, it's clear that Hulot ranks alongside Chaplin's Little Tramp as one of film's greatest comedic characters. <I>In French; subtitled. 35mm.</I></DIV></BLOCKQUOTE>
+
+
+Tuesday, February 19 - 7:00
+<BLOCKQUOTE><STRONG class="title">Mon oncle</STRONG><BR> 
+<I>Jacques Tati, 1958 - 110 min.</I>
+<DIV class="gray">The Hulot character returns in Tati's rather dark examination of life in suburban Paris, though in a somewhat more peripheral role. Hulot and his adoring nephew have trouble adjusting to the conveniences of a modern household, which consist mainly of gadgets that serve more to show off than to improve life. Hulot's relatives meanwhile try to set him up with a job and a woman, but the lovable character fails to live up to their hopes. Though the satire is pointed and unmistakable, <I>Mon oncle</I> remains a very funny movie, filled with even more elaborate sight gags than in Hulot's holiday jaunt.  <I>In French; subtitled. 35mm.</I></DIV></BLOCKQUOTE>
+
+
+Tuesday, February 26 - 7:00
+<BLOCKQUOTE><STRONG class="title">Playtime</STRONG><BR> 
+<I>Jacques Tati, 1967 - 126 min.</I>
+<DIV class="gray">Where <I>Mon Oncle</I> addresses dehumanization in suburbia, <I>Playtime</I> paints a nightmarish vision of the modern city with its ultra-sleek yet soulless glass architecture and its U.S.-style consumerism. The ever charming Hulot gets lost within the elaborate set pieces of office buildings, department stores, and restaurants. Tati's exquisitely detailed compositions, originally shot on 70mm film, beg to be seen on the big screen. The film took three years to complete and ultimately disappointed financially. All the same, <I>Playtime</I> is not only Jacques Tati's masterpiece, but perhaps the greatest film ever made. <I>In French; subtitled. 35mm.</I></DIV></BLOCKQUOTE>
+
+
+Tuesday, March 4 - 7:00
+<BLOCKQUOTE><STRONG class="title">Trafic</STRONG><BR> 
+<I>Jacques Tati, 1971 - 96 min.</I>
+<DIV class="gray">Monsieur Hulot makes his final appearance in this underseen film, where he attempts to drive a prototype car from Paris to an auto show in Amsterdam. Tati again masterfully blends satire with perfectly choreographed slapstick gags in his critique of our car-obsessed culture. Designed to be more accessible than <I>Playtime</I> in order to rescue Tati financially, <I>Trafic</I> still failed to find an audience. Yet despite the cynicism about the madness of the modern world and despite Tati's personal misfortunes, to the end, Monsieur Hulot remains undeterred, optimistic, and charming as ever. <I>In French; subtitled. 35mm.</I></DIV></BLOCKQUOTE>
+
+
+Tuesday, March 11 - 7:00
+<BLOCKQUOTE><STRONG class="title">Parade</STRONG><BR> 
+<I>Jacques Tati, 1974 - 84 min.</I>
+<DIV class="gray">Tati's final feature, essentially a concert documentary of circus acts with Tati himself as emcee, is his least characteristic and his least-seen film. Shot on video for Swedish television, it's easy to dismiss <I>Parade</I> as slight - which is exactly what most critics have done for decades. Yet that assessment ignores all the subtle complexities of Tati's swan song, which serves as a poignant summation of his career. For in an oeuvre largely about the struggle to remain human in the modern world, to what better place could he lead us to recover our humanity than the whimsically childish circus? <I>In French; subtitled. 35mm.</I></DIV></BLOCKQUOTE>
+
+
+<A href="../calendar.shtml">Back to Winter 2008 Calendar</A>
+
+
+<!--#include virtual="../layout/footer.html"-->

@@ -1,0 +1,151 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>Doc Films</title>
+<link href="../layout/layout.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript">
+<!--
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_nbGroup(event, grpName) { //v6.0
+  var i,img,nbArr,args=MM_nbGroup.arguments;
+  if (event == "init" && args.length > 2) {
+    if ((img = MM_findObj(args[2])) != null && !img.MM_init) {
+      img.MM_init = true; img.MM_up = args[3]; img.MM_dn = img.src;
+      if ((nbArr = document[grpName]) == null) nbArr = document[grpName] = new Array();
+      nbArr[nbArr.length] = img;
+      for (i=4; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
+        if (!img.MM_up) img.MM_up = img.src;
+        img.src = img.MM_dn = args[i+1];
+        nbArr[nbArr.length] = img;
+    } }
+  } else if (event == "over") {
+    document.MM_nbOver = nbArr = new Array();
+    for (i=1; i < args.length-1; i+=3) if ((img = MM_findObj(args[i])) != null) {
+      if (!img.MM_up) img.MM_up = img.src;
+      img.src = (img.MM_dn && args[i+2]) ? args[i+2] : ((args[i+1])? args[i+1] : img.MM_up);
+      nbArr[nbArr.length] = img;
+    }
+  } else if (event == "out" ) {
+    for (i=0; i < document.MM_nbOver.length; i++) {
+      img = document.MM_nbOver[i]; img.src = (img.MM_dn) ? img.MM_dn : img.MM_up; }
+  } else if (event == "down") {
+    nbArr = document[grpName];
+    if (nbArr)
+      for (i=0; i < nbArr.length; i++) { img=nbArr[i]; img.src = img.MM_up; img.MM_dn = 0; }
+    document[grpName] = nbArr = new Array();
+    for (i=2; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
+      if (!img.MM_up) img.MM_up = img.src;
+      img.src = img.MM_dn = (args[i+1])? args[i+1] : img.MM_up;
+      nbArr[nbArr.length] = img;
+  } }
+}
+//-->
+</script></head>
+<body onload="MM_preloadImages('../layout/navbar/HomeOver.gif','../layout/navbar/CalendarOver.gif','../layout/navbar/VisitingOver.gif','../layout/navbar/AboutOver.gif','../layout/navbar/InvolvedOver.gif','../layout/navbar/MediaOver.gif','../layout/navbar/ContactOver.gif')">
+<div id="wrapper">
+<div id="header"> </div>
+<div id="navbar">
+  <table border="0" align="right" cellpadding="0" cellspacing="0">
+    <tr>
+      <td><a href="http://docfilms.uchicago.edu/" target="_top" onclick="MM_nbGroup('down','group1','Home','',1)" onmouseover="MM_nbGroup('over','Home','../layout/navbar/HomeOver.gif','',1)" onmouseout="MM_nbGroup('out')"><img src="../layout/navbar/HomeUp.gif" alt="" name="Home" width="58" height="22" border="0" id="Home" onload="" /></a></td>
+      <td><img src="../layout/navbar/Dot.gif" width="14" height="22" /></td>
+      <td><a href="../02_calendar/2009-01.shtml" target="_top" onclick="MM_nbGroup('down','group1','Calendar','',1)" onmouseover="MM_nbGroup('over','Calendar','../layout/navbar/CalendarOver.gif','',1)" onmouseout="MM_nbGroup('out')"><img src="../layout/navbar/CalendarUp.gif" alt="" name="Calendar" width="86" height="22" border="0" id="Calendar" onload="" /></a></td>
+      <td><img src="../layout/navbar/Dot.gif" width="14" height="22" /></td>
+      <td><a href="../03_visitingdoc/visitors.shtml" target="_top" onclick="MM_nbGroup('down','group1','Visiting','',1)" onmouseover="MM_nbGroup('over','Visiting','../layout/navbar/VisitingOver.gif','',1)" onmouseout="MM_nbGroup('out')"><img src="../layout/navbar/VisitingUp.gif" alt="" name="Visiting" width="112" height="22" border="0" id="Visiting" onload="" /></a></td>
+      <td><img src="../layout/navbar/Dot.gif" width="14" height="22" /></td>
+      <td><a href="../04_aboutdoc/about.shtml" target="_top" onclick="MM_nbGroup('down','group1','About','',1)" onmouseover="MM_nbGroup('over','About','../layout/navbar/AboutOver.gif','',1)" onmouseout="MM_nbGroup('out')"><img src="../layout/navbar/AboutUp.gif" alt="" name="About" width="98" height="22" border="0" id="About" onload="" /></a></td>
+      <td><img src="../layout/navbar/Dot.gif" width="14" height="22" /></td>
+      <td><a href="../05_gettinginvolved/volunteers.shtml" target="_top" onclick="MM_nbGroup('down','group1','Involved','',1)" onmouseover="MM_nbGroup('over','Involved','../layout/navbar/InvolvedOver.gif','',1)" onmouseout="MM_nbGroup('out')"><img src="../layout/navbar/InvolvedUp.gif" alt="" name="Involved" width="156" height="22" border="0" id="Involved" onload="" /></a></td>
+      <td><img src="../layout/navbar/Dot.gif" width="14" height="22" /></td>
+      <td><a href="../06_media/mediainfo_2009_01.shtml" target="_top" onclick="MM_nbGroup('down','group1','Media','',1)" onmouseover="MM_nbGroup('over','Media','../layout/navbar/MediaOver.gif','',1)" onmouseout="MM_nbGroup('out')"><img src="../layout/navbar/MediaUp.gif" alt="" name="Media" width="63" height="22" border="0" id="Media" onload="" /></a></td>
+      <td><img src="../layout/navbar/Dot.gif" width="14" height="22" /></td>
+      <td><a href="../07_contact/contact.shtml" target="_top" onclick="MM_nbGroup('down','group1','Contact','',1)" onmouseover="MM_nbGroup('over','Contact','../layout/navbar/ContactOver.gif','',1)" onmouseout="MM_nbGroup('out')"><img src="../layout/navbar/ContactUp.gif" alt="" name="Contact" width="76" height="22" border="0" id="Contact" onload="" /></a></td>
+    </tr>
+  </table>
+</div>
+<div id="midbar"> </div>
+<div id="content">
+<h1> Winter 2009, Weekend Schedule </h1>
+  <p>Friday, January 9 &bull; 7:00, 9:00 &amp 11:00 PM &bull; Matinee Sunday, January 11 &bull; 3:00 PM &bull; 96min<a name="Friday1" id="Friday1"></a><strong><img src="../06_media/2009-01_images/01Week/Burn_after_Reading.jpg" width="149" height="100" class="image" /></strong><br />
+    <strong>Burn After Reading</strong><br />
+    <em>Joel &amp; Ethan Coen, 2008</em> &bull; When Brad Pritt protested his character&#8217;s uncanny idiocy, the Coens insisted that he was perfect for the part. Once again, the brothers&#8217; flair for savage wit brings a familial cast to maddening senselessness. Spousal intrigue smolders between a foul-mouthed John Malkovich and his wife (Tilda Swinton) before a foolish and excitable gym rat (Pitt) and coworker (Frances McDormand) attempt to blackmail the ex&#8211;CIA agent. Then glint&#8211;in&#8211;his&#8211;eye George Clooney seduces both leading ladies before espionage and infidelity come to a hatchet&#8211;y end. <em>35mm</em></p>
+  <p>Saturday, January 10 &bull; 7:00 &amp; 9:00 &bull; Matinee Sunday, January 11 &bull; 1:00 PM &bull; 96min<a name="Saturday1" id="Saturday1"></a><strong><img src="../06_media/2009-01_images/01Week/Vicky_Christina_Barcelona.jpg" width="150" height="100" class="image" /></strong><br />
+    <strong>Vicky Christina Barcelona<br />
+    </strong><em>Woody Allen, 2008</em> &bull; After working successfully with her in <em>Scoop</em> and <em>Matchpoint</em>, Woody Allen couldn&#8217;t help but bring back Scarlet Johansson for yet another story of European drama and passion. Javier Bardem plays artist and seducer Juan Antonio, who steps into the lives of two Americans spending the summer in Barcelona: the reserved and practical Vicky (Rebecca Hall) and the sexually liberated Cristina (Johansson). Enter one ravishingly beautiful, but unstable ex&#8211;wife (Penelope Cruz), and hilarity and trauma dance around as the cast weaves an increasingly complicated romantic web. <em>35mm</em></p>
+  <p>Friday, January 16 &bull; 6:15, 9:00 &amp; 11:45 PM &bull; Matinee Sunday, January 18 &bull; 3:30 PM &bull; 129min<a name="Friday2" id="Friday2"></a><strong></strong><br />
+      <strong>W.</strong><br />
+      <em>Oliver Stone, 2008</em> &bull; The third presidential biopic from the director of JFK and Nixon is the first to hit theaters while its subject is still alive, much less in office.  As Stone&#8217;s George W. Bush (Josh Brolin) wrangles with his father&#8217;s legacy and tries to carve out his own, he veers towards wry caricature rather than brooding historical figure &#8211; a reflection of how this Presidency has at times felt like the stuff of satire. Richard Dreyfuss plays a Dick Cheney who could scare the smile off of the Mona Lisa. <em>35mm</em></p>
+  <p>Saturday, January 17 &bull; 6:30 &amp; 9:00 PM &bull; Matinee Sunday, January 18 &bull; 1:00 PM &bull; 120min<a name="Saturday2" id="Saturday2"></a><strong><img src="../06_media/2009-01_images/02Week/I_Served_the_King_of_England.jpg" width="133" height="100" class="image" /></strong><br />
+      <strong>I Served the King of England</strong><br />
+      <em>Jiri Menzel, 2006</em> &bull; Menzel&#8217;s worked little since the Czech New Wave&#8217;s height, when he won an Oscar for another Bohumil Hrabal adaption, <em>Closely Watched Trains</em>. But he&#8217;s not rusty. Aged protagonist Jan Dite tells the tale in flashback, as WWII-era Dite attempts to achieve his greatest dream &#8211; to become a millionaire. His ravenous appetites provide fodder for a fairy tale&#8211;like coming of age story, even as Nazism&#8217;s ascendancy acts as backdrop (sometimes foregrounded, as when Dite works in a hotel turned Hitler Youth breeding center). <em>I Served&#8230;</em> is as dark as it is heedless, as funny as it is singular. <em>35mm</em></p>
+  <p>Friday, January 23 &bull; 6:30, 9:00 &amp; 11:30 PM &bull; Matinee Sunday, January 25 &bull; 3:30 PM &bull; 112min<a name="Friday3" id="Friday3"></a><strong></strong><br />
+      <strong>High School Musical 3: Senior Year</strong><br />
+      <em>Kenny Ortega, 2008 </em> &bull; Sweethearts Troy (Zac Efron) and Gabriella (Vanessa Hudgens), and the entire cast of <em>High School Musicals 1</em> and <em>2</em> return for their senior year at East High School. In reality, East High was attended by the individuals portrayed in <em>SLC Punk</em>, and by kidnap victim Elizabeth Smart, but <em>HSM3</em> transforms the school into a far sunnier, more melodic realm. Everyone is beautiful and exuberant&#8230; even the bratty drama queen (Ashley Tisdale). Students sing sincerely about their hopes and college plans between wholesome smooches. <em>35mm</em></p>
+  <p>Saturday, January 24 &bull; 6:30 &amp; 9:00 PM &bull; Matinee Sunday, January 25 &bull; 1:00 PM &bull; 118min <a name="Saturday3" id="Saturday3"></a><strong><img src="../06_media/2009-01_images/03Week/Happy_Go_Lucky.jpg" width="163" height="100" class="image" /></strong><br />
+    <strong>Happy&#8211;Go&#8211;Lucky<br />
+  </strong><em>Mike Leigh, 2008</em> &bull; A night with Poppy offers quite the escape from winter. She&#8217;s dedicated to her job as a teacher, and spends her time preparing for classes, taking flamenco lessons, clubbing with friends, etc., with a total optimism and cheer that others might find grating, even as her beautiful smile never seems put&#8211;on. Major dramatic arcs include confrontation with a driving instructor and a romantic dalliance, but the plot isn&#8217;t what defines the film&#8217;s experience; it&#8217;s the convincing and delightful portrait of a young, urban existence that&#8217;s neither existentially angsty nor materialistically frivolous. <em>35mm</em></p>
+<p>Friday, January 30 &bull; 7:00, 9:00 &amp; 11:00 PM &bull; Matinee Sunday, February 1 &bull; 1:00 PM &bull; 82min <a name="Friday4" id="Friday4"></a><strong><img src="../06_media/2009-01_images/04Week/Christmas_on_Mars.jpg" width="133" height="100" class="image" /></strong><br />
+  <strong>Christmas on Mars<br />
+  </strong>Wayne Coyne, 2008 <em> </em>&bull;After Mars&#8217; first Christmas pageant loses its Santa Claus to an eerie suicide, the colonists convince a silent Martian to take his place. The pageant goes on to celebrate the first baby born on Mars, fathered by no man but test&#8211;tube&#8211;tastic science. The rest is what you might expect from psychedelic rock band The Flaming Lips, which intended for the film &#8220;to hint at childlike magic within a tragic and realistic situation&#8221;: colorfully kitsch costumes, an understandably space&#8211;age set, and original music played by the cast. <em>35mm</em></p>
+  <p>Saturday, January 31 &bull; 6:45 &amp; 9:00 PM &bull; Matinee Sunday, February 1 &bull; 3:00 PM &bull; 98min<a name="Saturday4" id="Saturday4"></a><strong><img src="../06_media/2009-01_images/04Week/The_Princess_Bride.jpg" width="117" height="100" class="image" /></strong><br />
+      <strong>The Princess Bride</strong><br />
+      <em>Rob Reiner, 1987 </em>&bull; &#8220;We&#8217;ll never survive.&#8221; &#8220;Nonsense! You&#8217;re only saying that because no one ever has.&#8221; In Rob Reiner&#8217;s adaptation of the 1973 novel, a not&#8211;so&#8211;classic tale is told by a grandfather for a sick boy. Ambidextrous swordfights, vocabulary misuse, and Billy Crystal conspire in this cult classic of love everlasting and wit never stopping. You’ll laugh, you’ll cry, you’ll be dragged by your friends to see this movie. Keep your eyes out for the Cliffs of Insanity (actually the Cliffs of Moher, Ireland). Also starring: Christopher Guest, Mandy Patinkin, and wrestler Andr&eacute; the Giant. <em>35mm</em></p>
+  <p>Friday, February 6 &bull; 6:45, 9:00 &amp; 11:15 PM &bull; Matinee Sunday, February 8 &bull; 3:00 &bull; 101min <a name="Friday5" id="Friday5"></a><strong></strong><br />
+    <strong>Religulous</strong><br />
+    <em>Larry Charles, 2008</em> &bull; Directed by Charles of <em>Borat</em> fame, Bill Maher confronts religious devotion in the Vatican, the Holy Land, London, and Salt Lake City, among other places. See Maher confront the dancing Jesus of a Biblical theme park! Watch him confess his sins, evangelize Scientology, and visit a Muslim gay bar! Some have criticized Maher&#8217;s gleefully unfair interviews &#8211; stocked with interruptions, false pretenses, added subtitles &#8211; but <em>Religulous</em> isn&#8217;t meant to be a sober overview of faith. Instead, Maher is preaching to the choir. For non&#8211;theists, it&#8217;s a very funny sermon. <em>35mm</em></p>
+    <p>Saturday, February 7 &bull; 7:00 &amp; 9:00 PM &bull; Matinee Sunday, February 8 &bull; 1:00 PM &bull; 72min<a name="Saturday5" id="Saturday5"></a><img src="../06_media/2009-01_images/05Week/The_Exiles.jpg" width="134" height="100" class="image" /><br />
+      <strong>The Exiles</strong><br />
+      <em>Kent Mackenzie, 1961</em> &bull; Mackenzie&#8217;s beautiful film first got attention from Thom Andersen&#8217;s <em>Los Angeles Plays Itself</em>, and as Andersen promises, it shows a world now vanished. The cast of non-professional Native Americans play characters living hard&#8211;drinking lives in Bunker Hill, a seedy, cosmopolitan wonderland in downtown L.A. now gentrified beyond recognition. The performances are moving, but the unsung miracle of this DIY masterpiece is the photography, which never sacrifices elegance for grit, and tricked almost every critic into praising its use of &#8220;natural lighting.&#8221; <em>35mm</em></p>
+<p>Friday, February 13 &bull; 6:30, 9:00 &amp; 11:30 PM &bull; Matinee Sunday, February 15 &bull; 3:00 &bull; 114min<a name="Friday6" id="Friday6"></a><strong><img src="../06_media/2009-01_images/06Week/Appaloosa.jpg" width="100" height="100" class="image" /></strong><br />
+      <strong>Appaloosa</strong><br />
+      <em>Ed Harris, 2008</em> &bull; Perhaps no one looks quite so good wielding a pistol as Viggo Mortensen. Then again, few are so magnificent wielding a sword in Tolkien garb or knife&#8211;fighting nude in a public bath… In <em>Appaloosa</em>, Mortensen plays Everett Hitch, who along with his partner (Ed Harris), attempts to bring justice and order to a late 19th century New Mexican town. Don&#8217;t expect <em>The Man Who Shot Liberty Valance</em> sort of justice, but do expect the ethical nuance, precarious stoicism, and stunning visions of the &#8220;West&#8221; as imagined in recent excellent reinventions of the Western. <em>35mm</em></p>
+<p>Saturday, February 14 &bull; 7:00 &amp; 9:00 PM &bull; Matinee Sunday, February 15 &bull; 1:00 &bull; 87min<a name="Saturday6" id="Saturday6"></a><strong><img src="../06_media/2009-01_images/06Week/City_Lights.jpg" width="138" height="100" class="image" /></strong><br />
+      <strong>City Lights</strong><br />
+      <em>Charlie Chaplin, 1931</em> &bull; In 1931 when it came out, the <em>New York Times</em> wrote that <em>City Lights</em> proved the &#8220;eloquence of silence.&#8221; Chaplin avoided the constraining sound stage of early talkies, so his Little Tramp prances and skates in immortal long shots. The most representative Chaplin film, <em>City Lights</em> has &#8220;the slapstick, the pathos, the pantomime, the effortless coordination, the melodrama, the bawdiness, the grace, and, of course, the Little Tramp &#8221; the character said, at one time, to be the most famous image on earth,&#8221; says Roger Ebert. <em>35mm</em> <em>***Kiss your Valentine and get in 2-for-1!***</em></p>
+<p>Friday, February 20 &bull; 6:30, 9:00 &amp; 11:30 PM &bull; Matinee Sunday, February 22 &bull; 3:00 PM &bull; 124min<a name="Friday7" id="Friday7"></a><strong><img src="../06_media/2009-01_images/07Week/Synecdoche_New_York.jpg" width="177" height="100" class="image" /></strong><br />
+      <strong>Synecdoche, New York</strong><br />
+      <em>Charlie Kaufman, 2008</em> &bull; The directorial debut of Charlie Kaufman, the most interesting living screenwriter in America, is as wonderfully strange and sad and fantastic as his past writing credits (<em>Being John Malkovich</em>, <em>Eternal Sunshine of the Spotless Mind</em>) would suggest. Philip Seymour Hoffman plays a depressed and unfulfilled theater director. Gifted with a MacArthur Genius Grant, he attempts to make real the impossibly complex and perfect story in his mind, using a cast and a set as detailed and massive as all of New York. Failure is rarely this beautiful. <em>35mm</em></p>
+<p>Saturday, February 21 &bull; 7:00 &amp; 9:00 PM &bull; Matinee Sunday, February 22 &bull; 1:00 PM &bull; 89min<a name="Saturday7" id="Saturday7"><strong><img src="../06_media/2009-01_images/07Week/Choke.jpg" width="68" height="100" class="image" /></strong></a><br />
+      <strong>Choke</strong><br />
+      <em>Clark Gregg, 2008</em> &bull; Victor Mancini is an unapologetic sex fiend who spends his days working at a Williamsburgesque tourist attraction, and seeking another lay at the various sex addiction workshops he frequents. When his evenings aren&#8217;t filled with further indulgence, he&#8217;s intentionally choking at expensive restaurants. Wealthy customers save him, and send him money; the extra cash pays the bills for his dementia&#8211;plagued mother&#8217;s private hospital room. In <em>Choke</em>, misanthropy mixes with dark humor, just what one would want from another Chuck Palahniuk adaptation. <em>35mm</em></p>
+<p>Friday, February 27 &bull; 6:30, 9:00 &amp; 11:30 PM &bull; Matinee Sunday, March 1 &bull; 3:00 &bull; 114min<a name="Friday8" id="Friday8"></a><br />
+      <strong>Twilight</strong><br />
+      <em>Catherine Hardwick, 2008</em> &bull; Set in gloomy but beautiful Forks, Washington, Twilight tells of a forbidden love. Bella doesn&#8217;t quite fit in with others at her high school, and doesn&#8217;t really want to. She meets the mysterious, witty Edward, who is eventually revealed to be an 100&#8211;year&#8211;old vampire, and falls in love. He and his family choose not to drink human blood, which allows his romance with Bella to blossom hygienically, even as he&#8217;s nearly overcome by urges. When a new clan of vampires comes to town, he must put everything into protecting his newfound soul mate from their bites. <em>35mm</em></p>
+<p>Saturday, February 28 &bull; 7:00 &amp; 9:00 PM &bull; Matinee Sunday, March 1 &bull; 1:00 &bull; 90min<a name="Saturday8" id="Saturday8"></a><strong><img src="../06_media/2009-01_images/08Week/Plus_Tard_Tu_Comprendras.jpg" width="133" height="100" class="image" /></strong><br />
+      <strong>Plus Tard, Tu Comprendras</strong><br />
+      <em>Amos Gitai, 2008</em> &bull; Acclaimed Israeli director Gitai tells the story of a French&#8211;Jewish man investigating his parents&#8217; sufferings during the Holocaust. Family tensions rise, as his mother remains obstinately silent on the subject, and his sister defends an Aryan declaration written by his long&#8211;dead father during the war. The heavy subject matter of the Holocaust almost always lends a film some weight, but <em>Plus Tard</em> claims its heaviness from other places as well, adeptly showing the fluidity of past and present, and the tenacity with which the grand&#8211;scale horrors of history reverberate. <em>35mm</em></p>
+<p>Friday, March 6 &bull; 7:00, 9:00 &amp; 11:00 PM &bull; Matinee Sunday, March 8 &bull; 1:00 &bull; 93min<a name="Friday9" id="Friday9"></a><strong><img src="../06_media/2009-01_images/09Week/Ashes_of_Time_Redux.jpg" width="151" height="100" class="image" /></strong><br />
+      <strong>Ashes of Time Redux</strong><br />
+      <em>Wong Kar&#8211;Wai, 2008</em> &bull; For the original, his third film, Wong made the most of a chaotic shoot on the fringe of the Gobi desert, and the result was a demanding but organic visual style. In this recut, leaner version, the dealings of a bunch of swordsmen and a suspicious brother&#8211;sister duo still defy easy narration, but the blurry camera&#8211;work &#8211; suggestive of one swordsman&#8217;s imminent blindness &#8211; has been touched up and the colors sharpened, at least to the degree permitted in a film about the fallibility of memory and the ill&#8211;defined contours of everyday impressions. <em>35mm</em></p>
+<p>Saturday, March 7 &bull; 7:00 &amp; 9:00 PM &bull; Matinee Sunday, March 8 &bull; 3:00 &bull; 80min<a name="Saturday9" id="Saturday9"></a><strong><img src="../06_media/2009-01_images/09Week/My_Winnipeg.jpg" width="133" height="100" class="image" /></strong><br />
+      <strong>My Winnipeg</strong><br />
+      <em>Guy Maddin, 2007</em> &bull; Watch only the first five minutes of this film, and you could be forgiven for not getting its unorthodox and irreverent take on the personality of a city losing its memories and character quick. Watch any more and you&#8217;ll be transfixed, if not by the deeply personal mix of wit and nostalgia with which Maddin narrates, then by his compelling thesis that even something as seemingly inanimate as a city can have intense character, emotion and mystery. Once transfixed, you&#8217;ll feel Maddin&#8217;s own intense sense of loss at the transformation of the Winnipeg he knew and loved. <em>35mm</em></p>
+ <p>Friday, March 13 &bull; 6:45, 9:00, &amp; 11:15 PM &bull; Matinee Sunday, March 15 &bull; 3:30 &bull; 101min<a name="Friday10" id="Friday10"></a><strong><img src="../06_media/2009-01_images/10Week/Zack_and_Miri_Make_a_Porno.jpg" width="159" height="100" class="image" /></strong><br />
+      <strong>Zack and Miri Make a Porno</strong><br />
+      <em>Kevin Smith, 2008</em> &bull; Kevin Smith&#8217;s first film to leave the sunny pastures of New Jersey instead sets itself in the equally idyllic Monroeville, PA. Two strictly platonic, debt&#8211;riddled roommates (Seth Rogen and Elizabeth Banks, off a stint as Laura Bush in Oliver Stone’s <em><a href="http://docfilms.uchicago.edu/docfilms/02_calendar/2009-01.shtml#Friday2" target="_self">W.</a></em>, showing at Doc 1/17) scheme to make an epic skin flick in order to pay the bills. During production, they discover that their relationship is far more complicated than the usual plumber/lonely housewife fare. Smith wisely borrows from the Judd Apatow playbook to create a love story as touching as the humor is raunchy. <em>35mm</em></p>
+    <p>Saturday, March 14 &bull; 6:30 &amp; 9:00 PM &bull; Matinee Sunday, March 15 &bull; 1:00 &bull; 113min<a name="Saturday10" id="Saturday10"></a><strong><img src="../06_media/2009-01_images/10Week/Rachel_Getting_Married.jpg" width="163" height="100" class="image" /></strong><br />
+      <strong>Rachel Getting Married</strong><br />
+      <em>Johnathan Demme, 2008</em> &bull; Long suppressed tensions and conflicts resurface for the Buchman family when Kym (Anne Hathaway) temporarily leaves drug rehab for what is meant to be her sister&#8217;s idyllic wedding in the country. <em>Rachel Getting Married</em> is witty and poignant in its portrayal of one family&#8217;s complex existence, but above all else, it feels honest. Director Demme has an eclectic group of films to his name, including <em>Silence of the Lambs</em> and <em>Jimmy Carter: Man From Plains</em>, and perhaps it&#8217;s this that allows Rachel to be much more than just another dysfunctional family drama. <em>35mm</em></p>
+  </div>
+<div id="midbar"> </div>
+<div id="footer"> </div> 
+</div>
+</body>
+</html>
+

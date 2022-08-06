@@ -1,0 +1,152 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>Doc Films</title>
+<link href="../layout/layout.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript">
+<!--
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_nbGroup(event, grpName) { //v6.0
+  var i,img,nbArr,args=MM_nbGroup.arguments;
+  if (event == "init" && args.length > 2) {
+    if ((img = MM_findObj(args[2])) != null && !img.MM_init) {
+      img.MM_init = true; img.MM_up = args[3]; img.MM_dn = img.src;
+      if ((nbArr = document[grpName]) == null) nbArr = document[grpName] = new Array();
+      nbArr[nbArr.length] = img;
+      for (i=4; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
+        if (!img.MM_up) img.MM_up = img.src;
+        img.src = img.MM_dn = args[i+1];
+        nbArr[nbArr.length] = img;
+    } }
+  } else if (event == "over") {
+    document.MM_nbOver = nbArr = new Array();
+    for (i=1; i < args.length-1; i+=3) if ((img = MM_findObj(args[i])) != null) {
+      if (!img.MM_up) img.MM_up = img.src;
+      img.src = (img.MM_dn && args[i+2]) ? args[i+2] : ((args[i+1])? args[i+1] : img.MM_up);
+      nbArr[nbArr.length] = img;
+    }
+  } else if (event == "out" ) {
+    for (i=0; i < document.MM_nbOver.length; i++) {
+      img = document.MM_nbOver[i]; img.src = (img.MM_dn) ? img.MM_dn : img.MM_up; }
+  } else if (event == "down") {
+    nbArr = document[grpName];
+    if (nbArr)
+      for (i=0; i < nbArr.length; i++) { img=nbArr[i]; img.src = img.MM_up; img.MM_dn = 0; }
+    document[grpName] = nbArr = new Array();
+    for (i=2; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
+      if (!img.MM_up) img.MM_up = img.src;
+      img.src = img.MM_dn = (args[i+1])? args[i+1] : img.MM_up;
+      nbArr[nbArr.length] = img;
+  } }
+}
+//-->
+</script></head>
+<body onload="MM_preloadImages('../layout/navbar/HomeOver.gif','../layout/navbar/CalendarOver.gif','../layout/navbar/VisitingOver.gif','../layout/navbar/AboutOver.gif','../layout/navbar/InvolvedOver.gif','../layout/navbar/MediaOver.gif','../layout/navbar/ContactOver.gif')">
+<div id="wrapper">
+<div id="header"> </div>
+<div id="navbar">
+  <table border="0" align="right" cellpadding="0" cellspacing="0">
+    <tr>
+      <td><a href="../index.shtml" target="_top" onclick="MM_nbGroup('down','group1','Home','',1)" onmouseover="MM_nbGroup('over','Home','../layout/navbar/HomeOver.gif','',1)" onmouseout="MM_nbGroup('out')"><img src="../layout/navbar/HomeUp.gif" alt="" name="Home" width="58" height="22" border="0" id="Home" onload="" /></a></td>
+      <td><img src="../layout/navbar/Dot.gif" width="14" height="22" /></td>
+      <td><a href="../02_calendar/2008-03.shtml" target="_top" onclick="MM_nbGroup('down','group1','Calendar','',1)" onmouseover="MM_nbGroup('over','Calendar','../layout/navbar/CalendarOver.gif','',1)" onmouseout="MM_nbGroup('out')"><img src="../layout/navbar/CalendarUp.gif" alt="" name="Calendar" width="86" height="22" border="0" id="Calendar" onload="" /></a></td>
+      <td><img src="../layout/navbar/Dot.gif" width="14" height="22" /></td>
+      <td><a href="../03_visitingdoc/visitors.shtml" target="_top" onclick="MM_nbGroup('down','group1','Visiting','',1)" onmouseover="MM_nbGroup('over','Visiting','../layout/navbar/VisitingOver.gif','',1)" onmouseout="MM_nbGroup('out')"><img src="../layout/navbar/VisitingUp.gif" alt="" name="Visiting" width="112" height="22" border="0" id="Visiting" onload="" /></a></td>
+      <td><img src="../layout/navbar/Dot.gif" width="14" height="22" /></td>
+      <td><a href="../04_aboutdoc/about.shtml" target="_top" onclick="MM_nbGroup('down','group1','About','',1)" onmouseover="MM_nbGroup('over','About','../layout/navbar/AboutOver.gif','',1)" onmouseout="MM_nbGroup('out')"><img src="../layout/navbar/AboutUp.gif" alt="" name="About" width="98" height="22" border="0" id="About" onload="" /></a></td>
+      <td><img src="../layout/navbar/Dot.gif" width="14" height="22" /></td>
+      <td><a href="../05_gettinginvolved/volunteers.shtml" target="_top" onclick="MM_nbGroup('down','group1','Involved','',1)" onmouseover="MM_nbGroup('over','Involved','../layout/navbar/InvolvedOver.gif','',1)" onmouseout="MM_nbGroup('out')"><img src="../layout/navbar/InvolvedUp.gif" alt="" name="Involved" width="156" height="22" border="0" id="Involved" onload="" /></a></td>
+      <td><img src="../layout/navbar/Dot.gif" width="14" height="22" /></td>
+      <td><a href="../06_media/mediainfo.shtml" target="_top" onclick="MM_nbGroup('down','group1','Media','',1)" onmouseover="MM_nbGroup('over','Media','../layout/navbar/MediaOver.gif','',1)" onmouseout="MM_nbGroup('out')"><img src="../layout/navbar/MediaUp.gif" alt="" name="Media" width="63" height="22" border="0" id="Media" onload="" /></a></td>
+      <td><img src="../layout/navbar/Dot.gif" width="14" height="22" /></td>
+      <td><a href="../07_contact/contact.shtml" target="_top" onclick="MM_nbGroup('down','group1','Contact','',1)" onmouseover="MM_nbGroup('over','Contact','../layout/navbar/ContactOver.gif','',1)" onmouseout="MM_nbGroup('out')"><img src="../layout/navbar/ContactUp.gif" alt="" name="Contact" width="76" height="22" border="0" id="Contact" onload="" /></a></td>
+    </tr>
+  </table>
+</div>
+<div id="midbar"> </div>
+<div id="content">
+<SCRIPT type="text/javascript"><!--
+function toggle_visibility(id) {
+var e = document.getElementById(id);
+if(e.style.display == 'none')
+e.style.display = 'block';
+else
+e.style.display = 'none';
+}
+//--></SCRIPT>
+<h1> Fall 2008, Thursday 2nd Show &bull; Andy Warhol </h1>
+
+<p><em>&#8220;The most influential unseen film oeuvre in film history.&#8221; &#8211; J. Hoberman</em></p>
+
+<p>More often derided or celebrated than seen, Warhol&#8217;s films constitute an undiscovered continent of cinema. Some, shown once or twice, cut up, reassembled, withdrawn, retitled, and buried are only now being seen again. Diligent work on the part of the Warhol Foundation has turned up Factory films that no one knew existed. Each new film expands one&#8217;s sense of the challenge that Warhol posed to cinema, working out forms that resurrect the legitimacy of the earliest cinema devices and simultaneously point toward its future. A supposed minimalist, Warhol created movies so bereft of the aesthetic excesses of his peers that one observer once remarked without irony that one of his films resorted to &#8220;such unWarholian elements as color, sound, editing, and camera movements.&#8221; <strong><A href="#essay" onclick="toggle_visibility('essay');">more</a></strong></p>
+
+<div id="essay" style="display:none;">
+
+<p>Warhol&#8217;s films are minimalist, insofar as they pause and linger over the innate characteristics of cinema that others see as a means rather than an end &#8211; light and texture, movement and stasis, figure and frame &#8211; and force us to engage them anew. On the rare occasion that these elements are harnessed for narrative purposes they still maintain a forceful interest as autonomous qualities. Warhol&#8217;s films are about looking (and eventually listening) and reclaiming such frequently passive acts as staggering, ecstatic experiences.</p> 
+
+<p>When asked by an interviewer to explain his directorial contributions to his films, Warhol offered only &#8220;I don&#8217;t know. I&#8217;m still trying to figure it out.&#8221; This answer, completely sincere and completely punk, tempts some to perpetuate myths that Warhol would simply set a camera down on the Factory floor, turn it on, and leave the room. Yet even his early silent pictures like <strong><em><a href="#Kiss">Kiss</a></em></strong> and <strong><em><a href="#Kiss">Couch</a></em></strong> (both 10/2), which simply splice together complete camera rolls, are exquisitely composed, deeply felt records of desire. Lovers kiss, women writhe, men cavort, others fuck and suck &#8211; and with such stealthy slowness that they begin to seem like Wilhelm von Gloeden photographs emerging from suspended animation.</p> 
+
+<p>Some of his other silents purport to show simple events (<strong><em><a href="#BlowJob">Blow Job</a></em></strong>, <strong><em><a href="#BlowJob">Eat</a></em></strong>, <strong><em><a href="#BlowJob">Haircut</a></em></strong> &#8211; all 10/9) and they satisfy these goals to an extent. Blow Job gives us thirty five minutes of fellatio &#8211; as charted on the face of the receiver in intimate close-up. Eat presents the consumption of a single mushroom as a stringently achronological adventure, with the main course appearing to shrink or grow with each reel.</p>
+
+<p><strong><em><a href="#Sleep">Sleep</a></em></strong> (10/16), Warhol&#8217;s most radical exercise in stupendous, stupid duration this side of the eight-hour Empire, observes his lover John Giorno sleeping for five hours. It proceeds in repeated four-minute segments from assorted angles that distort and amplify the intensity of the gaze. Though its formal qualities invite intense contemplation, <em>Sleep</em> can and perhaps should be experienced transiently &#8211; leaving and returning, watching in light of the brilliant quietude of the world outside. &#8220;When people go to a show today they&#8217;re never involved any more,&#8221; Warhol observed; &#8220;A movie like <em>Sleep</em> gets them involved again. They get involved with themselves and they create their own entertainment.&#8221;</p>
+
+<p>Was it a way of seeing or a put-on? Even Warhol&#8217;s jokes &#8211; such as <strong><em><a href="#TaylorMeadsAss">Taylor Mead&#8217;s Ass</a></em></strong> (11/6), inspired by an angry letter to the Village Voice that lamented Jonas Mekas&#8217;s enthusiasm for an unnamed Warhol movie &#8220;focusing on Taylor Mead&#8217;s ass for two hours&#8221; &#8211; are remarkably creative endeavors that exhaust and then expand the possibilities of their contemplating subject. <strong><em><a href="#Horse">Horse</a></em></strong> (11/23) boasts two reels of scripted material and one reel of documentary footage: just a horse incongruously existing. Just a day in the life of the Factory.</p>
+
+<p>On another day at the Factory, Henry Geldzahler, a curator at the Metropolitan Museum of Art, drops by and smokes on the couch. He gradually becomes annoyed when he realizes that Warhol does not intend to make a simple screen test but a fullfledged, feature-length portrait drawn from little more than Geldzahler&#8217;s miniscule movements and nervous tics. Some regard the result, <strong><em><a href="#HenryGeldzahler">Henry Geldzahler</a></em></strong> (11/20), as one of Warhol&#8217;s greatest films.</p> 
+
+<p>Other portraits followed &#8211; not only of art world celebrities but Superstars Warhol had basically created. <strong><em><a href="#PoorLittleRichGirl">Poor Little Rich Girl</a></em></strong> (10/30), one of several Edie Sedgwick talkies, likewise took boredom as its subject &#8211; the quotidian aspects of Edie&#8217;s life such as talking on the phone and trying on outfits. But as always the experience is boring in a productive, provocative manner: the first reel, out of focus save a few moments, redefines human beauty and our ability to perceive it. The same might not quite be true of another Superstar talkie, <strong><em><a href="#PoorLittleRichGirl">Hedy</a></em></strong> (10/30), but it&#8217;s just as much a dual portrait &#8211; of exotic Hollywood star Hedy Lamarr and of Mario Montez, the drag queen supreme who plays her here, recreating such scintillating moments as Lamarr&#8217;s shoplifting trial.</p>
+
+<p>Other &#8216;genres&#8217; proliferated: the domestic drama <strong><em><a href="#JohnandIvy">John and Ivy</a></em></strong> (11/13), which observed the titular couple in their kitchen with the radio drowning out all their speech; absurdist conceits like <strong><em><a href="#JohnandIvy">The Closet</a></em></strong> (11/13) in which Nico and a Factory hand find themselves living together in a closet and contemplating their sexual chemistry; and the unclassifiable, so-called narrative films such as the drugs and hippies and horny maids epic <strong><em><a href="#ImitationofChrist">Imitation of Christ</a></em></strong> (12/4). That the present 85-minute version was assembled from an earlier (and purportedly still extant) eight-hour version included in Warhol’s day-long film <em>****</em> suggests that the scope and importance of Warhol&#8217;s cinematic progeny isn’t nearly yet determined. <strong>KW/RH</strong> <strong><a href="#" onclick="toggle_visibility('essay');">close</a></strong></p></div>
+
+  <p>Thursday, October 2 &bull; 9:00 PM &bull; 54min &amp; 58min<a name="Kiss" id="Kiss"></a><img src="../06_media/2008-04_images/01Week/Warhol_Kiss.jpg" width="139" height="100" class="image" /><br />
+    <strong></strong>
+  <strong>Kiss </strong>&amp;<strong> Couch<br />
+  </strong><em>Andy Warhol, 1963-4</em> &bull; These early films exemplify
+some of Warhol&#8217;s mythic qualities &#8211; entire rolls of film simply shot and spliced together, themes of sexuality &#8211; while revealing that he channelled these attributes into the creation of deeply felt, exquisitely composed records of desire, not the vulgarity with which his films are often associated in the popular imagination. Kiss is a dozen or so three-minute takes of pairs kissing, with varying degrees of passion. Couch documents assorted Warhol associates &#8211; including Allen Ginsberg and Jack Kerouac! &#8211; behaving both mundanely and pornographically on the Factory’s couch.</p>
+  <p>Thursday, October 9 &bull; 9:00 PM &bull; 24min &amp; 35min &amp; 28min<a name="BlowJob" id="BlowJob"></a><img src="../06_media/2008-04_images/02Week/Warhol_Blow_Job.jpg" width="139" height="100" class="image" /><br />
+      <strong>Haircut No. 1 </strong>&amp;<strong> Eat </strong>&amp;<strong> Blowjob</strong><br />
+      <em>Andy Warhol, 1963-4</em> &bull; These three chronicles of the ordinary &#8211; a haircut, a meal, a blowjob &#8211; are transformed under Warhol&#8217;s lens into perception-altering documents of the intimate and unseen. Haircut No. 1 emphasizes the sensuality that underlies all human physical interaction. Eat presents the consumption of a single mushroom by a hungry man as a stringently achronological adventure, with the main course appearing to shrink or grow with each reordered reel. Blow Job gives us thirty-five minutes of fellatio &#8211; as charted on the face of the receiver in intense, studied close-up.</p>
+  <p>Thursday, October 16 &bull; 9:00 PM &bull; 285min<strong></strong> <a name="Sleep" id="Sleep"></a><strong><img src="../06_media/2008-04_images/03Week/Warhol_Sleep.jpg" width="127" height="100" class="image" /></strong><br />
+      <strong>Sleep</strong><br />
+      <em>Andy Warhol, 1963</em> &bull; &#8220;Sleep&#8221;, Warhol&#8217;s most radical exercise in stupendous, stupid duration this side of the eight-hour Empire, observes his lover, poet John Giorno, sleeping for five hours. It proceeds in repeated four-minute segments from assorted angles that distort and amplify the intensity of the gaze. <em>Sleep</em> can and perhaps should be experienced transiently &#8211; leaving and returning, watching in light of the world outside. &#8220;When people go to a show today they&#8217;re never involved any more,&#8221; Warhol observed; &#8220;A movie like <em>Sleep</em> gets them involved again. They get involved with themselves and they create their own entertainment.&#8221;</p>
+  <p>Thursday, October 23 &bull; 9:00 PM &bull; 100min<a name="Horse" id="Horse"></a><br />
+      <strong>Horse</strong><br />
+      <em>Andy Warhol, 1965 </em>&bull; Warhol&#8217;s take on the Hollywood Western, Horse features two reels of scripted material (written by Ronald Tavel, who would, a decade later, become the first artist-in-residence at the Yale divinity school) and one live horse, which Warhol rented and brought to the Factory for the shoot. The film gradually turns from scripted staging to Factory documentary, as the horse gets increasingly antsy and the cast begins to abandon the script, finally becoming more interested in playing S&amp;M than playing cowboy. The film also includes a rare on-screen appearance from Warhol himself &#8211; so keep your eyes peeled.</p>
+  <p>Thursday, October 30 &bull; 9:00 PM &bull; 132min <a name="PoorLittleRichGirl" id="PoorLittleRichGirl"></a><strong><img src="../06_media/2008-04_images/05Week/Warhol_Poor_Little_Rich_Girl.jpg" width="139" height="100" class="image" /></strong><br />
+      <strong>Hedy </strong>&amp;<strong> Poor Little Rich Girl</strong><br />
+      <em>Andy Warhol, 1965-6</em>  &bull; Poor Little Rich Girl &#8211; one of several talkies featuring Warhol&#8217;s homegrown Superstar, Edie Sedgwick &#8211; takes boredom as its subject: quotidian aspects of Edie&#8217;s life such as talking on the phone. As usual, the experience is productively and provocatively boring: the first reel, mostly out of focus, redefines human beauty and our ability to perceive it. The same is not quite true of another Superstar talkie, Hedy, but it&#8217;s just as much a dual portrait &#8211; of exotic Hollywood star Hedy Lamarr and of Mario Montez, the drag queen who plays her, recreating such scintillating moments as Lamarr&#8217;s shoplifting trial.</p>
+  <p>Thursday, November 6 &bull; 9:30 PM &bull; 70min &amp; 4min<a name="TaylorMeadsAss" id="TaylorMeadsAss"></a><br />
+      <strong>Taylor Mead&#8217;s Ass</strong> &amp; <strong>Shoulder</strong><br />
+      <em>Andy Warhol, 1964</em> &bull; <em>Taylor Mead’s Ass</em> was inspired by an angry letter to the <em>Village Voice</em> that lamented filmmaker Jonas Mekas&#8217;s enthusiasm for an unnamed Warhol film that &#8220;focuses on Taylor Mead&#8217;s ass for two hours.&#8221; Despite these comic origins, the film goes beyond satire, turning what might have been self-parody into a work that exhausts, then expands the possibilities of the contemplating subject. Mead, who played equally significant roles in other Warhol films (including <em>Imitation of Christ</em>, 12/4), <em>Shoulder</em>, the preceding short, stars a body part too: the closely-framed shoulder of dancer Lucinda Childs. <em>Silent.</em></p>
+<p>Thursday, November 13 &bull; 9:00 PM &bull; 35min &amp; 66min<a name="JohnandIvy" id="JohnandIvy"></a><br />
+      <strong>John and Ivy </strong>&amp;<strong> The Closet</strong><br />
+      <em>Andy Warhol, 1965-6</em> &bull; <em>John and Ivy</em> is a domestic drama of sorts, in which we observe the titular couple in their tiny apartment kitchen with the radio drowning out much of their speech as they enact the evening&#8217;s tasks and distractions. <em>The Closet</em> likewise concerns cramped spaces and relations, this time in the more absurd and existentially potent setting of a closet, in which Nico and a young Factory hand find themselves living. The two spend the duration of the film contemplating the contents of the closet, their sexual chemistry, and whether or not they should leave &#8211; but never manage to get anywhere in any of these endeavors.</p>
+<p>Thursday, November 20 &bull; 9:00 PM &bull; 99min<a name="HenryGeldzahler" id="HenryGeldzahler"></a><br />
+      <strong>Henry Geldzahler</strong><br />
+      <em>Andy Warhol, 1964</em> &bull; Made with the film leftover from Empire, Warhol&#8217;s eight-hour epic, Henry Geldzahler shows us another day at the Factory: Henry Geldzahler, curator of the Metropolitan Museum of Art, drops by and smokes a cigar on the couch. He gradually realizes that Warhol does not intend to make a simple screen test but a featurelength portrait drawn from little more than Geldzahler&#8217;s fidgeting acts, miniscule movements and nervous tics, as he grows increasingly agitated. As Geldzahler himself wrote of Warhol&#8217;s films, &#8220;A more incident-filled story would draw our attention from the fact that we are seeing a film.&#8221; <em>Silent.</em></p>
+	  <p>Thursday, December 4 &bull; 9:00 PM &bull; 85min<a name="ImitationofChrist" id="ImitationofChrist"></a><br />
+      <strong>Imitation of Christ</strong><br />
+      <em>Andy Warhol, 1967</em> &bull; Said to have been inspired by a 15th century Catholic text of the same name, Imitation of Christ is a comedic &#8220;narrative film&#8221; like a number of Warhol&#8217;s other later works. The film is scripted, and was shot in San Francisco with a cast of Warhol regulars supporting former child actor Patrick Tilden in the role of the restless, youthful hippie protagonist. Tilden&#8217;s character wanders aimlessly through his city and his family life, apparently stoned and unfazed by the seductive advances of the family maid (played by Nico) or the concerned interjections of his parents (Ondine and Brigid Polk).</p>
+  </div>
+<div id="midbar"> </div>
+<div id="footer"> </div> 
+</div>
+</body>
+</html>
+

@@ -1,0 +1,427 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>Doc Films Publicity</title>
+<link href="../layout/layout.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_nbGroup(event, grpName) { //v6.0
+  var i,img,nbArr,args=MM_nbGroup.arguments;
+  if (event == "init" && args.length > 2) {
+    if ((img = MM_findObj(args[2])) != null && !img.MM_init) {
+      img.MM_init = true; img.MM_up = args[3]; img.MM_dn = img.src;
+      if ((nbArr = document[grpName]) == null) nbArr = document[grpName] = new Array();
+      nbArr[nbArr.length] = img;
+      for (i=4; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
+        if (!img.MM_up) img.MM_up = img.src;
+        img.src = img.MM_dn = args[i+1];
+        nbArr[nbArr.length] = img;
+    } }
+  } else if (event == "over") {
+    document.MM_nbOver = nbArr = new Array();
+    for (i=1; i < args.length-1; i+=3) if ((img = MM_findObj(args[i])) != null) {
+      if (!img.MM_up) img.MM_up = img.src;
+      img.src = (img.MM_dn && args[i+2]) ? args[i+2] : ((args[i+1])? args[i+1] : img.MM_up);
+      nbArr[nbArr.length] = img;
+    }
+  } else if (event == "out" ) {
+    for (i=0; i < document.MM_nbOver.length; i++) {
+      img = document.MM_nbOver[i]; img.src = (img.MM_dn) ? img.MM_dn : img.MM_up; }
+  } else if (event == "down") {
+    nbArr = document[grpName];
+    if (nbArr)
+      for (i=0; i < nbArr.length; i++) { img=nbArr[i]; img.src = img.MM_up; img.MM_dn = 0; }
+    document[grpName] = nbArr = new Array();
+    for (i=2; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
+      if (!img.MM_up) img.MM_up = img.src;
+      img.src = img.MM_dn = (args[i+1])? args[i+1] : img.MM_up;
+      nbArr[nbArr.length] = img;
+  } }
+}
+//-->
+</script>
+</head>
+<div id="wrapper">
+<div id="header"> </div>
+<div id="navbar"><table border="0" align="right" cellpadding="0" cellspacing="0">
+    <tr>
+      <td><a href="http://docfilms.uchicago.edu/index.shtml" target="_top" onclick="MM_nbGroup('down','group1','Home','',1)" onmouseover="MM_nbGroup('over','Home','../layout/navbar/HomeOver.gif','',1)" onmouseout="MM_nbGroup('out')"><img src="../layout/navbar/HomeUp.gif" alt="" name="Home" width="58" height="22" border="0" id="Home" onload="" /></a></td> <td><img src="../layout/navbar/Dot.gif" width="14" height="22"></td>
+      <td><a href="../02_calendar/2008-04.shtml" target="_top" onclick="MM_nbGroup('down','group1','Calendar','',1)" onmouseover="MM_nbGroup('over','Calendar','../layout/navbar/CalendarOver.gif','',1)" onmouseout="MM_nbGroup('out')"><img src="../layout/navbar/CalendarUp.gif" alt="" name="Calendar" width="86" height="22" border="0" id="Calendar" onload="" /></a></td> <td><img src="../layout/navbar/Dot.gif" width="14" height="22"></td>
+      <td><a href="../03_visitingdoc/visitors.shtml" target="_top" onclick="MM_nbGroup('down','group1','Visiting','',1)" onmouseover="MM_nbGroup('over','Visiting','../layout/navbar/VisitingOver.gif','',1)" onmouseout="MM_nbGroup('out')"><img src="../layout/navbar/VisitingUp.gif" alt="" name="Visiting" width="112" height="22" border="0" id="Visiting" onload="" /></a></td> 
+      <td><img src="../layout/navbar/Dot.gif" width="14" height="22"></td>
+      <td><a href="../04_aboutdoc/about.shtml" target="_top" onclick="MM_nbGroup('down','group1','About','',1)" onmouseover="MM_nbGroup('over','About','../layout/navbar/AboutOver.gif','',1)" onmouseout="MM_nbGroup('out')"><img src="../layout/navbar/AboutUp.gif" alt="" name="About" width="98" height="22" border="0" id="About" onload="" /></a></td> <td><img src="../layout/navbar/Dot.gif" width="14" height="22"></td>
+      <td><a href="../05_gettinginvolved/volunteers.shtml" target="_top" onclick="MM_nbGroup('down','group1','Involved','',1)" onmouseover="MM_nbGroup('over','Involved','../layout/navbar/InvolvedOver.gif','',1)" onmouseout="MM_nbGroup('out')"><img src="../layout/navbar/InvolvedUp.gif" alt="" name="Involved" width="156" height="22" border="0" id="Involved" onload="" /></a></td> <td><img src="../layout/navbar/Dot.gif" width="14" height="22"></td>      
+      <td><a href="../06_media/mediainfo.shtml" target="_top" onclick="MM_nbGroup('down','group1','Media','',1)" onmouseover="MM_nbGroup('over','Media','../layout/navbar/MediaOver.gif','',1)" onmouseout="MM_nbGroup('out')"><img src="../layout/navbar/MediaUp.gif" alt="" name="Media" width="63" height="22" border="0" id="Media" onload="" /></a></td> <td><img src="../layout/navbar/Dot.gif" width="14" height="22"></td>
+      <td><a href="../07_contact/contact.shtml" target="_top" onclick="MM_nbGroup('down','group1','Contact','',1)" onmouseover="MM_nbGroup('over','Contact','../layout/navbar/ContactOver.gif','',1)" onmouseout="MM_nbGroup('out')"><img src="../layout/navbar/ContactUp.gif" alt="" name="Contact" width="76" height="22" border="0" id="Contact" onload="" /></a></td>
+    </tr>
+  </table>
+</div>
+<div id="midbar"> </div>
+<div id="content">
+ <h1>For the Media </h1>
+ <p>This area of our website is intended for the media. You can download  our press kit, press releases, our most recent calendar and newsletter as well as images for our current film series. </p>
+ <p>As an active member of the Chicago film community, Doc Films is happy to work with media from outside the borders of Hyde Park. In the past, we have been featured in the Chicago Tribune, Chicago Magazine's Best of Chicago issue, Cahiers du Cin&eacute;ma, as well as many other publications.  If there's any information you would like to know about Doc Films that you can't find here, please <a href="../07_contact/contact.shtml">let us know</a>.</p>
+ <p>If you are interested in more information about specific Doc screenings or special events, please contact <a href="mailto: rfhall@uchicago.edu">Becca Hall</a>, Publicity Chair, at rfhall@uchicago.edu.</p>
+ <p><a href="presskit.pdf">Doc Films Press Kit</a> (.pdf) </p>
+ <p>&nbsp;</p>
+ <h1>Summer 2008 </h1>
+ <p>Most recent press releases: <a href="2008-02_calendar_pr.pdf" target="_blank">Doc Films Announces Spring 2008 Calendar</a> (.pdf) </p>
+ <p>Summer 2008 Calendar and Newsletter (.pdf)<br />
+  </p>
+ <!-- thumbnail (TN) height 100px alignment center -->
+ <table width="750" border="0" cellpadding="0">
+   <tr>
+     <td colspan="6">&nbsp;</td>
+     </tr>
+   <tr>
+     <td>&nbsp;</td>
+     <td colspan="5"><strong>Week 1:</strong><span class="white_font"> _ </span><strong>June 25 - June 28, 2008</strong></td>
+     </tr>
+   <tr>
+     <td colspan="6">&nbsp;</td>
+     </tr>
+   <tr>
+     <td>&nbsp;</td>
+     <td><div align="center"></div></td>
+     <td width="153"><div align="center"><a href="2008-03_images/01Week/dreyer_master_of_the_house.jpg"><img src="2008-03_images/01Week/dreyer_master_of_the_houseTN.jpg" width="130" height="100" border="0" /></a></div></td>
+     <td width="159"><div align="center"></div></td>
+     <td width="165"><div align="center"></div></td>
+     <td width="162"><div align="center"></div></td>
+   </tr>
+   <tr>
+     <td>&nbsp;</td>
+     <td><div align="center"></div></td>
+     <td><div align="center">The Master of the House</div></td>
+     <td><div align="center"></div></td>
+     <td><div align="center"></div></td>
+     <td><div align="center"></div></td>
+   </tr>
+   <tr>
+     <td colspan="6">&nbsp;</td>
+     </tr>
+   <tr>
+     <td colspan="6">&nbsp;</td>
+   </tr>
+   <tr>
+     <td>&nbsp;</td>
+     <td colspan="5"><strong>Week 4: <span class="white_font"> _</span></strong><strong>July 16 - July 19, 2008</strong></td>
+     </tr>
+   <tr>
+     <td colspan="6">&nbsp;</td>
+     </tr>
+   <tr>
+     <td>&nbsp;</td>
+     <td><div align="center"></div></td>
+     <td><div align="center"><a href="2008-02_images/Adaptations/MourningBecomesElectra.jpg"></a><a href="2008-03_images/04Week/griffith_isn't_life_wonderful_1.jpg"><img src="2008-03_images/04Week/griffith_isn't_life_wonderful_1TN.jpg" width="131" height="100" border="0" /></a></div></td>
+     <td><div align="center"><a href="2008-03_images/04Week/griffith_isn't_life_wonderful_2.jpg"><img src="2008-03_images/04Week/griffith_isn't_life_wonderful_2TN.jpg" width="124" height="100" border="0" /></a></div></td>
+     <td><div align="center"><a href="2008-03_images/04Week/griffith_the_struggle_3.jpg"><img src="2008-03_images/04Week/griffith_the_struggle_3TN.jpg" width="134" height="100" border="0" /></a></div></td>
+     <td><div align="center"><a href="2008-03_images/04Week/griffith_the_struggle_4.jpg"><img src="2008-03_images/04Week/griffith_the_struggle_4TN.jpg" width="130" height="100" border="0" /></a></div></td>
+   </tr>
+   <tr>
+     <td>&nbsp;</td>
+     <td><div align="center"></div></td>
+     <td><div align="center">Isn't Life Wonderful?</div></td>
+     <td><div align="center">Isn't Life Wonderful?</div></td>
+     <td><div align="center">The Struggle</div></td>
+     <td><div align="center">The Struggle</div></td>
+   </tr>
+   <tr>
+     <td colspan="6">&nbsp;</td>
+     </tr>
+   <tr>
+     <td>&nbsp;</td>
+     <td><div align="center"></div></td>
+     <td><div align="center"><a href="2008-03_images/04Week/griffith_the_struggle_5.jpg"><img src="2008-03_images/04Week/griffith_the_struggle_5TN.jpg" width="117" height="100" border="0" /></a></div></td>
+     <td><div align="center"><a href="2008-03_images/04Week/griffith_the_struggle_6.jpg"><img src="2008-03_images/04Week/griffith_the_struggle_6TN.jpg" width="115" height="100" border="0" /></a></div></td>
+     <td><div align="center"><a href="2008-03_images/04Week/griffith_the_struggle_1.jpg"><img src="2008-03_images/04Week/griffith_the_struggle_1TN.jpg" width="129" height="100" border="0" /></a></div></td>
+     <td><div align="center"><img src="2008-03_images/04Week/griffith_the_struggle7TN.jpg" width="123" height="100" /></div></td>
+   </tr>
+   <tr>
+     <td>&nbsp;</td>
+     <td><div align="center"></div></td>
+     <td><div align="center">The Struggle</div></td>
+     <td><div align="center">The Struggle</div></td>
+     <td><div align="center">The Struggle</div></td>
+     <td><div align="center">The Struggle: Griffith directing Zita Johann </div></td>
+   </tr>
+   <tr>
+     <td colspan="6">&nbsp;</td>
+     </tr>
+   <tr>
+     <td colspan="6">&nbsp;</td>
+   </tr>
+   <tr>
+     <td>&nbsp;</td>
+     <td colspan="5"><strong>Week 5: <span class="white_font"> _</span></strong><strong>July 23 - July 26, 2008</strong></td>
+     </tr>
+   <tr>
+     <td colspan="6">&nbsp;</td>
+     </tr>
+   <tr>
+     <td>&nbsp;</td>
+     <td><div align="center"></div></td>
+     <td><div align="center"><a href="2008-03_images/05Week/godard_pierrot_le_fou.jpg"><img src="2008-03_images/05Week/godard_pierrot_le_fouTN.jpg" width="71" height="100" border="0" /></a></div></td>
+     <td><div align="center"><a href="2008-03_images/05Week/wieland_reason_over_passion_1.jpg"><img src="2008-03_images/05Week/wieland_reason_over_passion_1TN.jpg" width="150" height="100" border="0" /></a></div></td>
+     <td><div align="center"><a href="2008-03_images/05Week/wieland_reason_over_passion_2.jpg"><img src="2008-03_images/05Week/wieland_reason_over_passion_2TN.jpg" width="141" height="100" border="0" /></a></div></td>
+     <td><div align="center"></div></td>
+   </tr>
+   <tr>
+     <td>&nbsp;</td>
+     <td><div align="center"></div></td>
+     <td><div align="center">Pierrot Le Fou</div></td>
+     <td><div align="center">Raison Avant la Passion</div></td>
+     <td><div align="center">Raison Avant la Passion</div></td>
+     <td><div align="center"></div></td>
+   </tr>
+   <tr>
+     <td colspan="6"><div align="center"></div></td>
+     </tr>
+   <tr>
+     <td colspan="6">&nbsp;</td>
+   </tr>
+   <tr>
+     <td>&nbsp;</td>
+     <td colspan="5"><strong>Week 6: <span class="white_font"> _</span></strong><strong>July 30 - August 2, 2008</strong></td>
+     </tr>
+   <tr>
+     <td colspan="6">&nbsp;</td>
+     </tr>
+   <tr>
+     <td>&nbsp;</td>
+     <td><div align="center"></div></td>
+     <td><div align="center"><a href="2008-03_images/06Week/kubelka_unsere_afrikareise.jpg"><img src="2008-03_images/06Week/kubelka_unsere_afrikareiseTN.jpg" width="173" height="100" border="0" /></a></div></td>
+     <td><div align="center"><a href="2008-03_images/06Week/murnau_sunrise_1.jpeg"><img src="2008-03_images/06Week/murnau_sunrise_1TN.jpg" width="162" height="100" border="0" /></a></div></td>
+     <td><div align="center"><a href="2008-03_images/06Week/murnau_sunrise_2.jpeg"><img src="2008-03_images/06Week/murnau_sunrise_2TN.jpg" width="148" height="100" border="0" /></a></div></td>
+     <td><div align="center"><a href="2008-03_images/06Week/murnau_tabu_1.jpeg"><img src="2008-03_images/06Week/murnau_tabu_1TN.jpg" width="133" height="100" border="0" /></a></div></td>
+   </tr>
+   <tr>
+     <td>&nbsp;</td>
+     <td><div align="center"></div></td>
+     <td><div align="center">Kubelka's Afrikareise</div></td>
+     <td><div align="center">Sunrise</div></td>
+     <td><div align="center">Sunrise</div></td>
+     <td><div align="center">Tabu</div></td>
+   </tr>
+   <tr>
+     <td colspan="6">&nbsp;</td>
+     </tr>
+   <tr>
+     <td>&nbsp;</td>
+     <td><div align="center"></div></td>
+     <td><div align="center"><a href="2008-03_images/06Week/murnau_tabu_2.jpg"><img src="2008-03_images/06Week/murnau_tabu_2TN.jpg" width="128" height="100" border="0" /></a></div></td>
+     <td><div align="center"><a href="2008-03_images/06Week/murnau_tabu_3.jpg"><img src="2008-03_images/06Week/murnau_tabu_3TN.jpg" width="78" height="100" border="0" /></a></div></td>
+     <td><div align="center"></div></td>
+     <td><div align="center"></div></td>
+   </tr>
+   <tr>
+     <td>&nbsp;</td>
+     <td><div align="center"></div></td>
+     <td><div align="center">Tabu</div></td>
+     <td><div align="center">Tabu</div></td>
+     <td><div align="center"></div></td>
+     <td><div align="center"></div></td>
+   </tr>
+   <tr>
+     <td colspan="6">&nbsp;</td>
+     </tr>
+   <tr>
+     <td colspan="6">&nbsp;</td>
+   </tr>
+   <tr>
+     <td>&nbsp;</td>
+     <td colspan="5"><strong>Week 7:</strong> <span class="white_font"> _</span><strong>August 6 - August 9, 2008</strong></td>
+     </tr>
+   <tr>
+     <td colspan="6">&nbsp;</td>
+     </tr>
+   <tr>
+     <td>&nbsp;</td>
+     <td><div align="center"></div></td>
+     <td><div align="center"><a href="2008-03_images/07Week/peterson_the_cage.jpg"><img src="2008-03_images/07Week/peterson_the_cageTN.jpg" width="154" height="100" border="0" /></a></div></td>
+     <td><div align="center"><a href="2008-03_images/07Week/ray_charulata_1.jpg"><img src="2008-03_images/07Week/ray_charulata_1TN.jpg" width="187" height="100" border="0" /></a></div></td>
+     <td><div align="center"><a href="2008-03_images/07Week/ray_charulata_2.jpg"><img src="2008-03_images/07Week/ray_charulata_2TN.jpg" width="163" height="100" border="0" /></a></div></td>
+     <td><div align="center"><a href="2008-03_images/07Week/ray_charulata_3.jpg"><img src="2008-03_images/07Week/ray_charulata_3TN.jpg" width="65" height="100" border="0" /></a></div></td>
+   </tr>
+   <tr>
+     <td>&nbsp;</td>
+     <td><div align="center"></div></td>
+     <td><div align="center">Peterson's Cage</div></td>
+     <td><div align="center">Charulata</div></td>
+     <td><div align="center">Charulata</div></td>
+     <td><div align="center">Charulata</div></td>
+   </tr>
+   <tr>
+     <td colspan="6">&nbsp;</td>
+   </tr>
+   <tr>
+     <td>&nbsp;</td>
+     <td><div align="center"></div></td>
+     <td><div align="center"><a href="2008-02_images/Thrillers/Repulsion4.jpg"></a><a href="2008-03_images/07Week/ray_charulata_5.jpg"><img src="2008-03_images/07Week/ray_charulata_5TN.jpg" width="66" height="100" border="0" /></a></div></td>
+     <td><div align="center"><a href="2008-03_images/07Week/ray_charulata_6.jpg"><img src="2008-03_images/07Week/ray_charulata_6TN.jpg" width="76" height="100" border="0" /></a></div></td>
+     <td><div align="center"><a href="2008-03_images/07Week/ray_charulata_7.jpg"><img src="2008-03_images/07Week/ray_charulata_7TN.jpg" width="64" height="100" border="0" /></a></div></td>
+     <td><div align="center"><a href="2008-03_images/07Week/ray_charulata_4.jpg"><img src="2008-03_images/07Week/ray_charulata_4TN.jpg" width="134" height="100" border="0" /></a></div></td>
+   </tr>
+   <tr>
+     <td>&nbsp;</td>
+     <td><div align="center"></div></td>
+     <td><div align="center">Charulata</div></td>
+     <td><div align="center">Charulata</div></td>
+     <td><div align="center">Charulata</div></td>
+     <td><div align="center">Charulata</div></td>
+   </tr>
+   <tr>
+     <td colspan="6">&nbsp;</td>
+   </tr>
+   <tr>
+     <td colspan="6">&nbsp;</td>
+     </tr>
+   
+   <tr>
+     <td>&nbsp;</td>
+     <td colspan="5"><strong>Week 8:</strong> <span class="white_font"> _</span><strong>August 13 - August 16, 2008</strong></td>
+     </tr>
+   <tr>
+     <td colspan="6">&nbsp;</td>
+     </tr>
+   <tr>
+     <td>&nbsp;</td>
+     <td><div align="center"></div></td>
+     <td><div align="center"><a href="2008-03_images/08Week/mizoguchi_utamaro.jpg"><img src="2008-03_images/08Week/mizoguchi_utamaroTN.jpg" width="138" height="100" border="0" /></a></div></td>
+     <td><div align="center"><a href="2008-03_images/08Week/hitchcock_frenzy_1.jpg"><img src="2008-03_images/08Week/hitchcock_frenzy_1TN.jpg" width="133" height="100" border="0" /></a></div></td>
+     <td><div align="center"><a href="2008-03_images/08Week/hitchcock_frenzy_2.jpg"><img src="2008-03_images/08Week/hitchcock_frenzy_2TN.jpg" width="137" height="100" border="0" /></a></div></td>
+     <td><div align="center"><a href="2008-03_images/08Week/hitchcock_frenzy_3.jpg"><img src="2008-03_images/08Week/hitchcock_frenzy_3TN.jpg" width="134" height="100" border="0" /></a></div></td>
+   </tr>
+   <tr>
+     <td>&nbsp;</td>
+     <td><div align="center"></div></td>
+     <td><div align="center">Utamaro</div></td>
+     <td><div align="center">Frenzy</div></td>
+     <td><div align="center">Frenzy</div></td>
+     <td><div align="center">Frenzy</div></td>
+   </tr>
+   <tr>
+     <td colspan="6">&nbsp;</td>
+     </tr>
+   <tr>
+     <td>&nbsp;</td>
+     <td><div align="center"></div></td>
+     <td><div align="center"><a href="2008-03_images/08Week/hitchcock_frenzy_5.jpg"><img src="2008-03_images/08Week/hitchcock_frenzy_5TN.jpg" width="146" height="100" border="0" /></a></div></td>
+     <td><div align="center"><img name="" src="" width="0" height="100" alt="" style="background-color: #CCCCCC" /><a href="2008-03_images/08Week/hitchcock_frenzy_4.jpg"><img src="2008-03_images/08Week/hitchcock_frenzy_4TN.jpg" width="143" height="100" border="0" /></a></div></td>
+     <td><div align="center"><a href="2008-03_images/08Week/rossellini_flowers_of_st_francis.jpg"><img src="2008-03_images/08Week/rossellini_flowers_of_st_francisTN.jpg" width="173" height="100" border="0" /></a></div></td>
+     <td><div align="center"></div></td>
+   </tr>
+   <tr>
+     <td>&nbsp;</td>
+     <td><div align="center"></div></td>
+     <td><div align="center">Frenzy</div></td>
+     <td><div align="center">Frenzy</div></td>
+     <td><div align="center">Flowers of St. Francis</div></td>
+     <td><div align="center"></div></td>
+   </tr>
+   <tr>
+     <td colspan="6">&nbsp;</td>
+     </tr>
+   <tr>
+     <td colspan="6">&nbsp;</td>
+   </tr>
+   <tr>
+     <td>&nbsp;</td>
+     <td colspan="4"><strong>Week 9: </strong><strong><span class="white_font"> _</span>August 20 - August 23, 2008</strong></td>
+     <td>&nbsp;</td>
+   </tr>
+   <tr>
+     <td colspan="6">&nbsp;</td>
+     </tr>
+   <tr>
+     <td>&nbsp;</td>
+     <td><div align="center"></div></td>
+     <td><div align="center"><a href="2008-03_images/09Week/renoir_toni_1.jpg"><img src="2008-03_images/09Week/renoir_toni_1TN.jpg" width="130" height="100" border="0" /></a></div></td>
+     <td><div align="center"><a href="2008-03_images/09Week/renoir_toni_2.jpg"><img src="2008-03_images/09Week/renoir_toni_2TN.jpg" width="154" height="100" border="0" /></a></div></td>
+     <td><div align="center"><a href="2008-03_images/09Week/lang_rancho_notorious.jpg"><img src="2008-03_images/09Week/lang_rancho_notoriousTN.jpg" width="79" height="100" border="0" /></a></div></td>
+     <td><div align="center"></div></td>
+   </tr>
+   <tr>
+     <td>&nbsp;</td>
+     <td><div align="center"></div></td>
+     <td><div align="center">Toni</div></td>
+     <td><div align="center">Toni</div></td>
+     <td><div align="center">Rancho Notorious</div></td>
+     <td><div align="center"></div></td>
+   </tr>
+   <tr>
+     <td colspan="6">&nbsp;</td>
+     </tr>
+   <tr>
+     <td colspan="6">&nbsp;</td>
+     </tr>
+   <tr>
+     <td>&nbsp;</td>
+     <td colspan="4"><strong>Week 10:</strong><strong> <span class="white_font"> _</span>August 27 - August 30, 2008</strong></td>
+     <td>&nbsp;</td>
+   </tr>
+   <tr>
+     <td colspan="6">&nbsp;</td>
+     </tr>
+   <tr>
+     <td>&nbsp;</td>
+     <td><div align="center"></div></td>
+     <td><div align="center"><a href="2008-02_images/Other/Metropolis.jpg"></a><a href="2008-03_images/10Week/borzage_history_is_made_at_night.jpg"><img src="2008-03_images/10Week/borzage_history_is_made_at_nightTN.jpg" width="133" height="100" border="0" /></a></div></td>
+     <td><div align="center"><a href="2008-03_images/10Week/lubitsch_the_man_i_killed_1.jpg"><img src="2008-03_images/10Week/lubitsch_the_man_i_killed_1TN.jpg" width="140" height="100" border="0" /></a></div></td>
+     <td><div align="center"><a href="2008-03_images/10Week/lubitsch_the_man_i_killed_2.jpg"><img src="2008-03_images/10Week/lubitsch_the_man_i_killed_2TN.jpg" width="77" height="100" border="0" /></a></div></td>
+     <td><div align="center"><a href="2008-03_images/10Week/hawks_ball_of_fire.jpg"><img src="2008-03_images/10Week/hawks_ball_of_fireTN.jpg" width="133" height="100" border="0" /></a></div></td>
+   </tr>
+   <tr>
+     <td>&nbsp;</td>
+     <td><div align="center"></div></td>
+     <td><div align="center">History Is Made At Night</div></td>
+     <td><div align="center">The Man I Killed </div></td>
+     <td><div align="center">The Man I Killed </div></td>
+     <td><div align="center">Ball of Fire</div></td>
+   </tr>
+   <tr>
+     <td colspan="6">&nbsp;</td>
+   </tr>
+   <tr>
+     <td>&nbsp;</td>
+     <td><div align="center"></div></td>
+     <td><div align="center"><a href="2008-02_images/Cinemasaurus/LostWorld3.jpg"></a><a href="2008-03_images/10Week/romero_night_of_the_living_dead_1.jpg"><img src="2008-03_images/10Week/romero_night_of_the_living_dead_1TN.jpg" width="63" height="100" border="0" /></a></div></td>
+     <td><div align="center"><a href="2008-03_images/10Week/romero_night_of_the_living_dead_2.jpg"><img src="2008-03_images/10Week/romero_night_of_the_living_dead_2TN.jpg" width="72" height="100" border="0" /></a><img name="" src="" width="0" height="100" alt="" style="background-color: #CCCCCC" /></div></td>
+     <td><div align="center"></div></td>
+     <td><div align="center"></div></td>
+   </tr>
+   <tr>
+     <td>&nbsp;</td>
+     <td><div align="center"></div></td>
+     <td><div align="center">Night of the Living Dead</div></td>
+     <td><div align="center">Night of the Living Dead</div></td>
+     <td><div align="center"></div></td>
+     <td><div align="center"></div></td>
+   </tr>
+   <tr>
+     <td colspan="6">&nbsp;</td>
+   </tr>
+ </table>
+ <p>Please click on the  images  to access high-quality images in .jpeg format. </p>
+ </div>
+<div id="midbar"> </div>
+<div id="footer"> </div> 
+</div>
+</body>
+</html>
+

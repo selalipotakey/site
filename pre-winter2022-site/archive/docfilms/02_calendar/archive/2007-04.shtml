@@ -1,0 +1,70 @@
+﻿<!--#include virtual="layout/header_top.html"-->
+<TITLE>Doc Films: Calendar</TITLE>
+
+<SCRIPT language="JavaScript">
+<!-- 
+ function surfto(form) {
+        var myindex=form.select.selectedIndex
+        if (form.select.options[myindex].value != "0") {
+        window.open(form.select.options[myindex].value, target="calendar");}
+}
+//-->
+</SCRIPT>
+
+<!--#include virtual="layout/header_bottom.html"-->
+
+<TABLE width=100%><TR><TD><H2>The Doc Films Calendar: Autumn 2007</H2></TD><TD><DIV align="right">
+
+<FORM name="form">
+  <SELECT name="select" onChange="surfto(this.form)" size=1>
+    <OPTION selected value="0"> Calendar View</OPTION>
+    <OPTION value="http://docfilms.uchicago.edu/autumn2007.html">&nbsp;&nbsp;&nbsp; Autumn 2007 At A Glance</OPTION>
+	<OPTION value="http://www.google.com/calendar/embed?src=docinfo%40cs.uchicago.edu&amp;title=Doc%20Films%20Winter%202007&amp;chrome=NAVIGATION&amp;height=500"epr=3&amp;wkst=1&amp;hl=en">&nbsp;&nbsp;&nbsp; Google Calendar
+  </SELECT>
+</FORM>
+
+</DIV></TD></TR></TABLE>
+
+<CENTER><IFRAME src="autumn2007.html" style=" border-width:0;" width="675" frameborder="0" height="470" scrolling="no" name="calendar"></IFRAME></CENTER>
+
+
+<P align="center"><FONT style="font-size:8pt;">Last-minute <A href="events.shtml">schedule changes and sneak previews</A> may not be reflected on the "At A Glance" calendar.<BR>
+In order to view the Doc Films schedule correctly, please set your Google Calendar time zone settings to Central Time.</FONT></P>
+
+<TABLE cellspacing=0 cellpadding=0 width=100%><TR><TD valign="top">
+
+<H3>View By Series</H3>
+	Sunday: <A href="calendar/sunday.shtml">William S. Hart: Hollywood Frontiersman</A><BR>
+	Monday: <A href="calendar/monday.shtml">Ealing Forever</A><BR>
+	Tuesday: <A href="calendar/tuesday.shtml">Margaret Sullavan, Star Alone...</A><BR>
+	Wednesday: <A href="calendar/wednesday.shtml">Kurosawa</A><BR>
+	Thursday:<BR>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<A href="calendar/thursday1.shtml">Ousmane Sembène</A><BR>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<A href="calendar/thursday2.shtml">Mormons!</A><BR>
+	Weekends:<BR>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<A href="calendar/weekend.shtml">New Releases</A><BR>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<A href="calendar/weekend.shtml#matinee">Sunday Matinees</A><BR>	
+
+</TD><TD valign="top">
+	
+<H3>View By Week</H3>
+	<A href="calendar/week1.shtml">Week 1:</A> September 24 - September 29<BR>
+	<A href="calendar/week2.shtml">Week 2:</A> September 30 - October 6<BR>
+	<A href="calendar/week3.shtml">Week 3:</A> October 7 - October 13<BR>
+	<A href="calendar/week4.shtml">Week 4:</A> October 14 - October 20<BR>
+	<A href="calendar/week5.shtml">Week 5:</A> October 21 - October 27<BR>
+	<A href="calendar/week6.shtml">Week 6:</A> October 28 - November 3<BR>
+	<A href="calendar/week7.shtml">Week 7:</A> November 4 - November 10<BR>
+	<A href="calendar/week8.shtml">Week 8:</A> November 11 - November 17<BR>
+	<A href="calendar/week9.shtml">Week 9:</A> November 18 - November 24<BR>
+	<A href="calendar/week10.shtml">Week 10:</A> November 25 - December 1<BR>
+	<A href="calendar/week11.shtml">Week 11:</A> December 2<BR>
+
+</TD></TR></TABLE>
+
+<P>The Autumn 2007 <A href="files/autumn07/proof5.pdf">calendar</a> and our Autumn 2007 <A href="files/autumn07/proofn7.pdf">newsletter</A> are now available in PDF form.  We generally deliver the print calendars around Hyde Park, and to as many film and art hotspots around the rest of Chicago as we can. If you'd like us to deliver to a location we may not have thought about, especially in the Hyde Park/Kenwood/Woodlawn neighborhoods, please <A href="contact.shtml">let us know</A>.</P>
+
+<P>Special thanks this quarter goes to Brian Meacham of the Academy Film Archive, David Shepard of Film Preservation Associates, Paul Ginsburg of Universal Studios, and Mike Mashon of the Library of Congress.</P>
+
+
+<!--#include virtual="layout/footer.html"-->

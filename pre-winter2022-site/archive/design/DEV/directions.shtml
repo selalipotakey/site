@@ -1,0 +1,29 @@
+<!--#include virtual="global/header_top.html"-->
+<title>Doc Films / Directions</title>
+<!--#include virtual="global/header_bottom.html"-->
+
+<h2>Directions</h2>
+
+<p>Doc  Films is located in the Max Palevsky Cinema in Ida Noyes Hall at The University of Chicago.</p>
+
+<p>1212 East 59th Street<br />
+    Chicago, IL 60637<br />
+    773-702-8574</p>
+	
+<h3>From Lake Shore Drive</h3>
+<p>Exit 57th Drive. Travel west on 57th and follow the road around the Museum of Science and Industry. Continue south to the Midway Plaisance, and turn right onto the Midway. Continue west to the third stop light (Woodlawn) where parking is available. Ida Noyes Hall is located just north of the Midway Plaisance.</p>
+
+<h3>From the Dan Ryan Expressway</h3>
+<p>Exit East at Garfield Boulevard (55th Street). Continue eastbound through Washington Park to the Midway Plaisance. Continue on the Midway to the third stop light (Woodlawn) where street parking is available. Ida Noyes Hall is located just north of the Midway Plaisance.<br />
+    <img src="images/map.gif" alt="Doc Films Map" /></p>
+	
+<h3>FREE PARKING</h3>
+<p>On-street parking is available on the Midway Plaisance and on 59th Street. All University parking lots are FREE and open to the public on weekdays after 4 p.m. and at all times on Saturday and Sunday.</p>
+
+<p><a href="http://www.uchicago.edu/docs/maps/directions/">More Detailed Directions to the University</a></p>
+
+<p><a href="http://www.uchicago.edu/docs/maps/directions/parking.html">Campus Parking Map</a></p>
+
+<p>Persons with a disability who may need assistance should call Scott Corkran at (773) 834-5312 or email him at <a href="mailto:scorkran@uchicago.edu">scorkran@uchicago.edu</a>. </p>
+
+<!--#include virtual="global/footer.html"-->

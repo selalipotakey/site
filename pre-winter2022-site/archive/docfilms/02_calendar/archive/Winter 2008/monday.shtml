@@ -1,0 +1,115 @@
+﻿<!--#include virtual="../layout/header_top.html"-->
+<TITLE>Doc Films: Calendar</TITLE>
+
+<SCRIPT type="text/javascript"><!--
+function toggle_visibility(id) {
+var e = document.getElementById(id);
+if(e.style.display == 'none')
+e.style.display = 'block';
+else
+e.style.display = 'none';
+}
+//--></SCRIPT>
+
+<!--#include virtual="../layout/header_bottom.html"-->
+
+<H2>Calendar: Monday</H2>
+
+<H3>Impossible Adaptations</H3>
+
+<P><I>"Film is a battleground. Love, hate, violence, action, death... in a word, emotion."</I></P>
+
+<IMG src="monday.jpg" height="250" width="375" align="right" hspace="10" vspace="15">
+
+<P>Born in 1912 to Eastern European immigrants, Samuel Fuller understood the American experience better than most. He worked his way up the newspaper ranks, wrote pulp novels, and served with distinction in Europe and North Africa during World War II, all this before becoming one of the most celebrated filmmakers in the history of the medium. His films, spanning multiple genres over a nearly forty year career, have influenced filmmakers as diverse as Jean-Luc Godard and Jim Jarmusch. Without a doubt one of the most original of American filmmakers, Fuller was also a maverick, a director totally unafraid to make his films his own way.  <A href="#essay" onclick="toggle_visibility('essay');">more</A></P>
+
+<DIV id="essay" style="display:none;"><P>My first encounter with this maverick filmmaker came when I was only eleven years old. At the time, I had no idea what to make of the film I had just seen, Fuller's World War II epic <I>The Big Red One</I>. I was shocked by the image of Mark Hamill pumping round after round into a frightened SS officer. And how could I forget the image of Lee Marvin's gruff sergeant tossing a man's testicles away ("It's only your balls!" he barks)? The film left me numb even if I had no idea then what I was experiencing. Such is the power of the cinema of Sam Fuller that even after ten years I still have not forgotten that film. We remember the cinema of Sam Fuller because it remains as fresh, fascinating, and bold today as it was in its own time.</P>
+
+<P>The 1950s were the most fruitful and prolific years of Sam Fuller's career. In only ten years he created an extremely diverse body of work including war films, noirs, Westerns, and independent 
+projects. Drawing from his own wartime experiences, Fuller sought to confront the realities of the Korean War beginning with 1951's <B><I>The Steel Helmet</I></B> (1/14). In it, a tough, racist sergeant forms an unlikely bond with a young Korean orphan, and Fuller attempts to confront the contradictions and emotionally traumatizing realities of war. While he would continue these themes in several other war films, including 1959's <B><I>Verboten!</I></B> (2/4), the 1950s also saw the production of several film noirs, including the politically provocative <B><I>Pickup on South Street</I></B> (1/7 - a film that managed to outrage both the American left and the FBI) and the racially provocative <B><I>Crimson Kimono</I></B> (<A href="thursday1.shtml">3/13</A> - in which James Shigeta's Japanese-American detective gets the girl). However, Fuller also lent his unique sensibilities to the Western as well, culminating in his fabulous 1957 Western <I>Forty Guns</I>, about which he said: "My forty guns were forty pricks. My powerful heroine had her way in the sack with all forty, then cast them aside for the forty-first 'gun,' Griff." Today though, it is his 1952 picture <B><I>Park Row</I></B> (1/21) that stands out. A unique film that Fuller financed himself, it is a breathtaking trip into a place in history that Fuller believed was the foundation of American journalism.</P>
+
+<P>The end of the 1950s brought Fuller fewer and fewer new projects. In the early 1960s though, Fuller was still able to churn out a number of choice dark thrillers, beginning with <B><I>Underworld U.S.A.</I></B> (2/11) in 1961. While the studio balked at Fuller's original opening, in which the president of a prostitutes' union is shot through the mouth, the film remains as grisly and disturbing as anything he made. He sold the film as a kind of irredeemable revenge thriller, and that's precisely what he delivered: a bleak, tough, uncompromising look at crime in America. This theme, a harsh look at the underbelly of American social life, can be found again in two of his more famous films, <B><I>The Naked Kiss</I></B> (3/3) and <B><I>Shock Corridor</I></B> (2/18). While 
+most famous for its opening scene, in which Constance Towers's bald prostitute beats her pimp unconscious with a handbag, <I>The Naked Kiss</I> is ultimately an exploration of American hypocrisy. Fuller would take up this theme once again in <I>Shock Corridor</I>, a lurid, provocative film 
+in which a young journalist decides to investigate a murder case by having himself committed to an asylum. Once there however, he gets far more than he ever bargained for.</P>
+
+<P>Strangely, Fuller's career fell into near collapse after the mid 1960s. It wasn't until the early 1980s that Fuller would once again find his filmmaking feet, first making the incomparable World War II picture <I>The Big Red One</I> in 1980. His follow-up, the controversial <B><I>White Dog</I></B> (3/10), a film about a dog trained by racists to attack people with dark skin, was shelved by Paramount after the NAACP accused the film of racism. These accusations, no matter how unwarranted, deeply wounded Fuller and his career would never again recover. Despite this, <I>White Dog</I> remains one of Fuller's most criminally overlooked films, a haunting work that challenges its audience with some of the most troubling, frightening imagery of his long, distinguished career. <B>TF</B> <A href="#" onclick="toggle_visibility('essay');">close</A></P></DIV>
+
+
+<TABLE>
+<TR><TD align="center" height="23"><IMG src="../layout/line.gif" height="4" width="729"></TD></TR>
+</TABLE>
+<BR>
+
+
+Monday, January 7 - 7:00 
+<BLOCKQUOTE><STRONG class="title">Pickup on South Street</STRONG><BR>
+<I>Sam Fuller, 1953 - 80 min.</I>
+<DIV class="gray"><I>How the law took a chance on a B-girl...and won!</I><BR>
+Sam Fuller's classic film noir <I>Pickup on South Street</I> is the story of a small-time pickpocket who, after filching top secret microfilm from a prostitute on the New York subway, is tailed by both communist agents and the FBI. <I>Pickup on South Street</I> incensed the radical left and the far right, so much so that its very subject matter was completely altered for its French release. A masterpiece by any measure, <I>Pickup on South Street</I> delivers knockout performances, crackling dialogue ("Are you waving the flag at me?"), and one hell of a fight scene. <I>35mm.</I></DIV></BLOCKQUOTE>
+
+
+Monday, January 14 - 7:00
+<BLOCKQUOTE><STRONG class="title">The Steel Helmet</STRONG><BR>
+<I>Sam Fuller, 1951 - 85 min.</I>
+<DIV class="gray"><I>It's the REAL Korean Story!</I><BR>
+A WWII combat veteran, Fuller was completely unafraid of tackling the then-ongoing Korean War. The story, about an assault on a Buddhist temple, reaches beyond the typical war movie clichés and searches for deeper meaning in the conflict. The film's protagonist, Sergeant Zack, is a racist, yet one who is willing to take an orphaned Korean boy under his wing, however reluctantly. Such contradictory actions are at the heart of Fuller's message. Shot on an extremely low budget and in only ten days, <I>The Steel Helmet</I> remains one of Fuller's gutsiest, most emotionally honest pictures. <I>35mm.</I></DIV></BLOCKQUOTE>
+
+
+Monday, January 21 - 7:00
+<BLOCKQUOTE><STRONG class="title">Park Row</STRONG><BR> 
+<I>Sam Fuller, 1952 - 83 min.</I>
+<DIV class="gray"><I>Street of rogues...reporters...and romance!</I><BR>
+When Fuller tried to get Fox honcho Darryl Zanuck to finance <I>Park Row</I>, Zanuck was hesitant: "But your hero is in love with a linotype machine. The audience won't get it." Fuller, ever the passionate journalist, refused to budge: "I wouldn't compromise on this project, because it was just too important to me. Goddamnit, <I>Park Row</I> was me!" <I>Park Row</I> is all about the blood, passion, and ink spilled over the creation of the daily newspaper in New York, and, despite its failure at the box office, it may be Fuller's most passionate and powerful film. <I>16mm.</I></DIV></BLOCKQUOTE>
+
+
+Monday, January 28 - 7:00
+<BLOCKQUOTE><STRONG class="title">Forty Guns</STRONG><BR> 
+<I>Sam Fuller, 1957 - 79 min.</I>
+<DIV class="gray"><I>She's the woman with a whip!</I><BR>
+Barbara Stanwyck stars in this remarkable B Western, a sharp criticism of American gun culture. The story, in Fuller's own words: "My forty guns were forty pricks. My powerful heroine had her way in the sack with all forty, then cast them aside for the forty-first 'gun,' Griff." Full of double entendres, visual gags (the shot in which Griff's brother Wes looks at his future bride down the barrel of a rifle would later resurface in Godard's <I>Breathless</I>), and violence, <I>Forty Guns</I> may be the ultimate Fuller Western. <I>35mm.</I></DIV></BLOCKQUOTE>
+
+
+Monday, February 4 - 7:00
+<BLOCKQUOTE><STRONG class="title">Verboten!</STRONG><BR> 
+<I>Sam Fuller, 1959 - 93 min.</I>
+<DIV class="gray"><I>A MAD GENERATION... Spawned In Lust...Consumed By Hate!</I><BR>
+This rarely seen gem chronicles the confusion, terror, and poverty that racked post-War Germany. After being wounded in a raid, Sgt. David Brent is taken in by a beautiful young German woman. Madly in love, he refuses to see that she's using him for money, and that her neo-Nazi brother is deeply involved in a plot far more sinister. <I>Verboten!</I> is a surprising combination of stylish excess (the raid on the sniper hideout is scored to the music of Beethoven) and atypical restraint, making it one of Fuller's most fascinating and unusual pictures. <I>16mm.</I></DIV></BLOCKQUOTE>
+
+
+Monday, February 11 - 7:00
+<BLOCKQUOTE><STRONG class="title">Underworld U.S.A.</STRONG><BR> 
+<I>Sam Fuller, 1961 - 99 min.</I>
+<DIV class="gray"><I>The Facts...The Faces... The Film That Cracks America's Organized Crime Syndicate Wide Open!</I><BR>
+"How about this: a little sonofabitch raised in the world of crime sees his father being murdered by 
+gangsters. His father's only legacy to the kid is an obsession to take revenge on the murderers. The boy grows up and gets into crime, too." Fuller's pitch to Columbia's executive Sam Briskin was just what he was looking for: "Yeah, the public loves revenge." A mean, nasty, and thoroughly dirty film, <I>Underworld U.S.A.</I> marked the beginning of a bleaker, completely unsentimental period for Fuller. <I>35mm.</I></DIV></BLOCKQUOTE>
+
+
+Monday, February 18 - 7:00
+<BLOCKQUOTE><STRONG class="title">Shock Corridor</STRONG><BR> 
+Sam Fuller, 1963 - 101 min.</I>
+<DIV class="gray"><I>Whom God Wishes to Destroy...He First Turns Mad!</I><BR>
+In his pursuit of a big murder scoop, young reporter Johnny Barrett commits himself to a mental asylum. There he discovers an assortment of madmen (and women): a black patient who believes that he's a Klan member, a nuclear scientist who acts like a six year-old, and an aggressive pack of raging nymphos. <I>Shock Corridor</I>, a title which Fuller described as having "the subtlety of a sledgehammer," is his most provocative film. <I>35mm.</I><BR>
+<I>Print courtesy of UCLA Film & Television Archive. Preservation Funded by the Film Foundation and 
+Hollywood Foreign Press Association.</I></DIV></BLOCKQUOTE>
+
+
+Monday, March 3 - 7:00
+<BLOCKQUOTE><STRONG class="title">The Naked Kiss</STRONG><BR> 
+<I>Sam Fuller, 1964 - 90 min.</I>
+<DIV class="gray"><I>Candy's Place - where all kinds of men find all kinds of sweets!</I><BR>
+A classic pulp spectacle, <I>The Naked Kiss</I> features the most lurid and indelible opening scene 
+in Sam Fuller's oeuvre: when bald prostitute Kelly (Constance Towers) beats her pimp with a handbag, we know we're in for a wild ride. "I wanted to grab the audience like a screaming headline, and quickly establish the character of my lead, Kelly, in the first scene." After fleeing her prostitute lifestyle, Kelly seeks redemption in the small town of Granstville. There however, she finds more than she bargained for. <I>35mm.</I><BR>
+<I>Print courtesy of UCLA Film & Television Archive.</I></DIV></BLOCKQUOTE>
+
+
+Monday, March 10 - 7:00
+<BLOCKQUOTE><STRONG class="title">White Dog</STRONG><BR> 
+<I>Sam Fuller, 1982 - 84 min.</I>
+<DIV class="gray"><I>When man's best friend becomes his fiercest enemy...</I><BR>
+Shelved by Paramount upon initial release, Sam Fuller's <I>White Dog</I> is a powerful indictment of the very racism that it was accused of purveying. Based on a 1970 book by French writer Romain Gary, <I>White Do</I> is the story of a dog trained by white supremacists to attack people with dark skin, and the efforts of one fanatical trainer to deprogram it. Fuller and co-scriptwriter Curtis Hanson fill <I>White Dog</I> with tough, almost cartoon-like dialogue, but its raw, poetic imagery and haunting Ennio Morricone score elevate the film to masterpiece status.<I>35mm.</I></DIV></BLOCKQUOTE>
+
+
+<A href="../calendar.shtml">Back to Winter 2008 Calendar</A>
+
+
+<!--#include virtual="../layout/footer.html"-->

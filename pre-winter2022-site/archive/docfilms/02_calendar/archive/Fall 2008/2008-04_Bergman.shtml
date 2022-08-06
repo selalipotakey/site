@@ -1,0 +1,153 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>Doc Films</title>
+<link href="../layout/layout.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript">
+<!--
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_nbGroup(event, grpName) { //v6.0
+  var i,img,nbArr,args=MM_nbGroup.arguments;
+  if (event == "init" && args.length > 2) {
+    if ((img = MM_findObj(args[2])) != null && !img.MM_init) {
+      img.MM_init = true; img.MM_up = args[3]; img.MM_dn = img.src;
+      if ((nbArr = document[grpName]) == null) nbArr = document[grpName] = new Array();
+      nbArr[nbArr.length] = img;
+      for (i=4; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
+        if (!img.MM_up) img.MM_up = img.src;
+        img.src = img.MM_dn = args[i+1];
+        nbArr[nbArr.length] = img;
+    } }
+  } else if (event == "over") {
+    document.MM_nbOver = nbArr = new Array();
+    for (i=1; i < args.length-1; i+=3) if ((img = MM_findObj(args[i])) != null) {
+      if (!img.MM_up) img.MM_up = img.src;
+      img.src = (img.MM_dn && args[i+2]) ? args[i+2] : ((args[i+1])? args[i+1] : img.MM_up);
+      nbArr[nbArr.length] = img;
+    }
+  } else if (event == "out" ) {
+    for (i=0; i < document.MM_nbOver.length; i++) {
+      img = document.MM_nbOver[i]; img.src = (img.MM_dn) ? img.MM_dn : img.MM_up; }
+  } else if (event == "down") {
+    nbArr = document[grpName];
+    if (nbArr)
+      for (i=0; i < nbArr.length; i++) { img=nbArr[i]; img.src = img.MM_up; img.MM_dn = 0; }
+    document[grpName] = nbArr = new Array();
+    for (i=2; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
+      if (!img.MM_up) img.MM_up = img.src;
+      img.src = img.MM_dn = (args[i+1])? args[i+1] : img.MM_up;
+      nbArr[nbArr.length] = img;
+  } }
+}
+//-->
+</script></head>
+<body onload="MM_preloadImages('../layout/navbar/HomeOver.gif','../layout/navbar/CalendarOver.gif','../layout/navbar/VisitingOver.gif','../layout/navbar/AboutOver.gif','../layout/navbar/InvolvedOver.gif','../layout/navbar/MediaOver.gif','../layout/navbar/ContactOver.gif')">
+<div id="wrapper">
+<div id="header"> </div>
+<div id="navbar">
+  <table border="0" align="right" cellpadding="0" cellspacing="0">
+    <tr>
+      <td><a href="../index.shtml" target="_top" onclick="MM_nbGroup('down','group1','Home','',1)" onmouseover="MM_nbGroup('over','Home','../layout/navbar/HomeOver.gif','',1)" onmouseout="MM_nbGroup('out')"><img src="../layout/navbar/HomeUp.gif" alt="" name="Home" width="58" height="22" border="0" id="Home" onload="" /></a></td>
+      <td><img src="../layout/navbar/Dot.gif" width="14" height="22" /></td>
+      <td><a href="../02_calendar/2008-03.shtml" target="_top" onclick="MM_nbGroup('down','group1','Calendar','',1)" onmouseover="MM_nbGroup('over','Calendar','../layout/navbar/CalendarOver.gif','',1)" onmouseout="MM_nbGroup('out')"><img src="../layout/navbar/CalendarUp.gif" alt="" name="Calendar" width="86" height="22" border="0" id="Calendar" onload="" /></a></td>
+      <td><img src="../layout/navbar/Dot.gif" width="14" height="22" /></td>
+      <td><a href="../03_visitingdoc/visitors.shtml" target="_top" onclick="MM_nbGroup('down','group1','Visiting','',1)" onmouseover="MM_nbGroup('over','Visiting','../layout/navbar/VisitingOver.gif','',1)" onmouseout="MM_nbGroup('out')"><img src="../layout/navbar/VisitingUp.gif" alt="" name="Visiting" width="112" height="22" border="0" id="Visiting" onload="" /></a></td>
+      <td><img src="../layout/navbar/Dot.gif" width="14" height="22" /></td>
+      <td><a href="../04_aboutdoc/about.shtml" target="_top" onclick="MM_nbGroup('down','group1','About','',1)" onmouseover="MM_nbGroup('over','About','../layout/navbar/AboutOver.gif','',1)" onmouseout="MM_nbGroup('out')"><img src="../layout/navbar/AboutUp.gif" alt="" name="About" width="98" height="22" border="0" id="About" onload="" /></a></td>
+      <td><img src="../layout/navbar/Dot.gif" width="14" height="22" /></td>
+      <td><a href="../05_gettinginvolved/volunteers.shtml" target="_top" onclick="MM_nbGroup('down','group1','Involved','',1)" onmouseover="MM_nbGroup('over','Involved','../layout/navbar/InvolvedOver.gif','',1)" onmouseout="MM_nbGroup('out')"><img src="../layout/navbar/InvolvedUp.gif" alt="" name="Involved" width="156" height="22" border="0" id="Involved" onload="" /></a></td>
+      <td><img src="../layout/navbar/Dot.gif" width="14" height="22" /></td>
+      <td><a href="../06_media/mediainfo.shtml" target="_top" onclick="MM_nbGroup('down','group1','Media','',1)" onmouseover="MM_nbGroup('over','Media','../layout/navbar/MediaOver.gif','',1)" onmouseout="MM_nbGroup('out')"><img src="../layout/navbar/MediaUp.gif" alt="" name="Media" width="63" height="22" border="0" id="Media" onload="" /></a></td>
+      <td><img src="../layout/navbar/Dot.gif" width="14" height="22" /></td>
+      <td><a href="../07_contact/contact.shtml" target="_top" onclick="MM_nbGroup('down','group1','Contact','',1)" onmouseover="MM_nbGroup('over','Contact','../layout/navbar/ContactOver.gif','',1)" onmouseout="MM_nbGroup('out')"><img src="../layout/navbar/ContactUp.gif" alt="" name="Contact" width="76" height="22" border="0" id="Contact" onload="" /></a></td>
+    </tr>
+  </table>
+</div>
+<div id="midbar"> </div>
+<div id="content">
+<SCRIPT type="text/javascript"><!--
+function toggle_visibility(id) {
+var e = document.getElementById(id);
+if(e.style.display == 'none')
+e.style.display = 'block';
+else
+e.style.display = 'none';
+}
+//--></SCRIPT><h1> Fall 2008, Wednesday Series &bull; Ingmar Bergman </h1>
+
+<p><em>The Swedish mater&#8217;s vision of the sacred and the profane</em></p>
+
+<p><em>&#8220;To make films is to plunge into the very depths of childhood.&#8221;</em> &#8211; Ingmar Bergman</p>
+
+<p>The world viewed through the eyes of a child is a world of mystery and imagination, of magic and make-believe, and for Ingmar Bergman a world of sacred fear and terror. If art is an attempt to reclaim a childlike sense of wonder, then Bergman&#8217;s films are the expression of his tormented attempts to reclaim the wonder that was lost to time. Despite his repeated attempts at remembrance and redemption, Bergman was consistently left with the reality of a world indifferent, of people apathetic, and of the bitter chill that pierces the heart of the one who realizes he is alone in the only existence he is allowed to suffer. <strong><A href="#essay" onclick="toggle_visibility('essay');">more</a></strong></p>
+
+<div id="essay" style="display:none;">
+
+<p>Ingmar Bergman was born in Sweden in 1918 as the son of a Lutheran minister. His father praised the pure and ascetic life, punishing young Ingmar by beating him with a cane or locking him in a dark closet for the most minute infractions. His earliest memories are infused with religious imagery. As he recalls in his autobiography, &#8220;While father preached away in the pulpit&#8230; I devoted my interest to the church&#8217;s mysterious world of&#8230; medieval paintings and carved figures on ceilings and walls. There was everything that one&#8217;s imagination could desire &#8211; angels, saints, dragons, prophets, devils, humans.&#8221;</p>
+
+<p>Despite the strictness of his household, as a young child Bergman took a passionate interest in the theater. He was entranced with the possibility of creating an existence beyond his narrow reality. At the age of nine, he obtained a toy cinematograph, after which he staged puppet shows and plays. Such a wonderland certainly provided an escape from the strict world of discipline under his father, but for Bergman art was not merely a diversion from reality. Instead, he viewed &#8220;the practice of art [as] an exorcism, a ritual act, an intercession, a satisfaction of the inner need.&#8221; As a filmmaker Bergman was able not only to retreat into the world of childhood, but more importantly to explain, interpret, and redefine the loss of faith, trust, and love that came to plague him for the rest of his career.</p>
+
+<p>Bergman&#8217;s early professional career was that of an artist struggling to find his voice, making nearly a dozen films of middling artistic and commercial success. In 1953, he received international notoriety for <strong><em><a href="Weekend08-04.shtml#SummerwithMonika">Summer with Monika</a></em></strong> (10/25), which was marketed in the U.S. as a soft-core porn flick under the title <em>Monika: Story of a Bad Girl</em>. His first significant international success came two years later with <strong><em><a href="#SmilesofaSummerNight">Smiles of a Summer Night</a></em></strong> (10/22), a romantic farce detailing four couples&#8217; mixed-up weekend affairs. These two films announced Bergman to the world as a talented filmmaker, but remain uncharacteristic in light of the films that later came to define his bleak and serious image.</p>
+
+<p>With his career firmly established, he began to reach backward into the depths of his childhood, pondering the God of his upbringing and the faith of his father. 1957&#8217;s <strong><em><a href="#TheSeventhSeal">The Seventh Seal</a></em></strong> (10/1) is remembered as the story of a knight who plays chess with death, but is significant because of Bergman&#8217;s relentless questioning into the nature of suffering, whether suffering is the path to salvation or is senseless and without meaning. The theme of suffering&#8217;s proximity to holiness recurs in <strong><em><a href="#TheVirginSpring">The Virgin Spring</a></em></strong> (10/15), this time in a revenge tale more personally recalling the cruel holy justice of Bergman&#8217;s father. <strong><em><a href="#TheMagician">The Magician</a></em></strong> (10/8) finds Bergman returning to the childlike idea of magic, wondering whether such a thing is possible in the cold rational world of his mature life.</p>
+
+<p>The turning point in his career is the &#8220;Faith Trilogy,&#8221; in which the question of faith is finally put to rest. <strong><em><a href="#ThroughaGlassDarkly">Through a Glass Darkly</a></em></strong> (10/29) proclaims a personal experience with God, albeit through delusion and madness. In <strong><em><a href="#WinterLight">Winter Light</a></em></strong> (11/5), a priest loses his faith and questions his commitment to his congregation in the midst of his doubt and anger. <strong><em><a href="#TheSilence">The Silence</a></em></strong> (11/12) unflinchingly offers a glimpse of the world in the absence of God and faith, in all its bleakness and uncertainty. Concerning their connection, Bergman explains, &#8220;These three films deal with reduction. Through a Glass Darkly &#8211; conquered certainty. Winter Light &#8211; penetrated certainty. The Silence &#8211; God’s silence &#8211; the negative imprint.&#8221;</p>
+
+<p>The angels and devils now exorcised, Bergman devoted the rest of his career to understanding humanity in the context established in The Silence. In <strong><em><a href="#Persona">Persona</a></em></strong> (10/19), he explores the nature and meaning of individual identity, and in <strong><em><a href="#AutumnSonata">Autumn Sonata</a></em></strong> (12/3) ponders the importance of reconciliation and redemption. The ghosts of his childhood still haunted his work late into his career, except by this point he took a mature outlook on his regret and guilt in relation to his father. But despite the maturity that came out of his dilemmas of faith, his filmed version of <strong><em><a href="#TheMagicFlute">The Magic Flute</a></em></strong> (11/26) testifies that Bergman never lost his childlike wonder. One can imagine little difference between Bergman as a nine year old playing with his puppets and as a 57 year old directing an opera. Through film and theater, he satisfied his inner need for magic and mystery until his death in July of last year. <strong>AB</strong> <strong><a href="#" onclick="toggle_visibility('essay');">close</a></strong></p></div>
+
+  <p>Wednesday October 1 &bull; 7:00 &amp; 9:00 PM &bull; 96 min<a name="TheSeventhSeal" id="TheSeventhSeal"></a><img src="../06_media/2008-04_images/01Week/Bergman_Seventh_Seal.jpg" width="144" height="100" class="image" /><br />
+      <strong>The Seventh Seal</strong><br />
+    <em>Ingmar Bergman, 1957 &bull;</em> One of the most iconic (and most parodied) foreign art films, The Seventh Seal is the story of a 14th century knight (Max von Sydow) who upon returning home from the Crusades plays a game of chess with Death in a battle for his life. As a result of the war and the despair of the plague-ridden land to which he has returned, the knight suffers a crisis of faith. As he buys time through the game of chess, he deliberates on the meaning of life, death and the existence of God, questions that would plague Bergman for the next two decades. <em>In Swedish with English subtitles.</em></p>
+  
+  <p>Wednesday, October 8 &bull; 7:00 &amp; 9:15 PM &bull; 101min<a name="TheMagician" id="TheMagician"></a><strong><img src="../06_media/2008-04_images/02Week/Bergman_The_Magician.jpg" width="139" height="100" class="image" /></strong><br />
+    <strong>The Magician<br />
+  </strong><em>Ingmar Bergman, 1958</em> &bull; Bergman regular Max von Sydow stars as a traveling magician, widely known for a series of disturbing supernatural occurrences in his show &#8220;Vogler&#8217;s Magnetic Health Theater.&#8221; The town&#8217;s leading authorities are aware of these rumors and request a preview of his act. As they meet his magic with unwavering skepticism, the film offers a profound meditation on the relationship between the rational and the supernatural. Alternatively called The Face, this film is one of Bergman&#8217;s most unjustly neglected pictures from his early period. <em>In Swedish with English subtitles.</em>&nbsp;&nbsp;
+  <p>Wednesday, October 15 &bull; 7:00 &amp; 9:00 PM &bull; 89m<a name="TheVirginSpring" id="TheVirginSpring"></a><strong><img src="../06_media/2008-04_images/03Week/Bergman_The_Virgin_Spring.jpg" width="187" height="100" class="image" /></strong><br />
+    <strong>The Virgin Spring<br />
+    </strong><em>Ingmar Bergman, 1960</em> &bull; In his first of many collaborations with master cinematographer Sven Nykvist, Bergman returns to medieval Sweden for this tale of a young peasant girl who is murdered in cold blood by two goat herders. The men seek shelter at the house of her pious father (Max von Sydow), who upon learning of their terrible deed seeks revenge at any cost. His piety and savage ruthlessness rage in conflict as he seeks to understand a God that could allow such evil to come upon his family. Curiously inspired Wes Craven&#8127;s 1972 horror classic <em>The Last House on the Left</em>. <em>In Swedish with English subtitles.</em></p>
+  <p>Wednesday, October 22 &bull; 7:00 &amp; 9:15 PM &bull; 108min<a name="SmilesofaSummerNight" id="SmilesofaSummerNight"></a><br />
+    <strong>Smiles of a Summer Night<br />
+    </strong><em>Ingmar Bergman, 1955</em> &bull; Although he had previously released 15 films to various acclaim, this film, while somewhat of an anomaly in his oeuvre, propelled Bergman to the international limelight. <em>Smiles of a Summer Night</em> is the charming story of four men and four women who spend a weekend together in the country at the turn of the century, a weekend filled with all the usual intrigue associated with switching partners. This film proves that Bergman&#8217;s genius extended to far more than the angst-ridden existential films that would occupy him for the rest of his career. <em>In Swedish with English subtitles.</em></p>
+ <p>Wednesday, October 29 &bull; 7:00 &amp; 9:00 PM &bull; 91min<a name="ThroughaGlassDarkly" id="ThroughaGlassDarkly"></a><br />
+    <strong>Through a Glass Darkly<br />
+    </strong><em>Ingmar Bergman, 1961</em> &bull; The first film in the so-called &#8220;Faith Trilogy,&#8221; <em>Through a Glass Darkly</em> is the story of Karin (Harriet Andersson), who returns home from a mental hospital but is still confronted with frequent delusions. While vacationing on a remote island, Karin is drawn deeper into her imagination as she comes closer to an experience with God. But although the title is a quote from the Bible, her God is more akin to Dostoevsky&#8217;s musings on the afterlife, when Svidrigailov asks in Crime and Punishment, &#8220;But what if there are only spiders there, or something like that?&#8221; <em>In Swedish with English subtitles.</em></p>
+  
+<p>Wednesday, November 5 &bull; 7:00 &amp; 9:00 PM &bull; 80min<a name="WinterLight" id="WinterLight"></a><br />
+      <strong>Winter Light</strong><strong><img src="../06_media/2008-04_images/06Week/Bergman_Winter_Light.JPG" width="133" height="100" class="image" /></strong><br />
+      <em>Ingmar Bergman, 1962</em> &bull; Bergman continues his tortured examination of God and faith through the story of a priest (Gunnar Bjornstrand) who in the face of indifference among his congregation suffers a crisis of faith. He continues to faithfully perform his pastoral duties, but when he tries to pray he is greeted only by the sound of his own voice. A local schoolteacher (Maerta Lundberg) offers her love to him in an attempt to fill the void in his life, but he is overwhelmed by the emptiness he sees around him in a world marked by the absence of God. <em>In Swedish with English subtitles.</em></p>
+<p>Wednesday, November 12 &bull; 7:00 &amp; 9:00 PM &bull; 95min<a name="TheSilence" id="TheSilence"></a><strong><img src="../06_media/2008-04_images/07Week/Bergman_Silence.jpg" width="134" height="100" class="image" /></strong><br />
+      <strong>The Silence</strong><br />
+      <em>Ingmar Bergman, 1963</em> &bull; The absence of God provides the context for the conclusion of the &#8220;Faith Trilogy,&#8221; in which Bergman turns his attention away from explicit questions about God&#8217;s existence and focuses on what the world might look like if void of his presence. <em>The Silence</em> is the story of two sisters (Ingrid Thulin and Gunnel Lindblom), one deathly ill with a lung disease and the other more concerned with sexual exploits than caring for her sister. Amidst the ruins of a war-torn country, they stop in a hotel and confront the vast emotional void that exists between them. <em>In Swedish with English subtitles.</em></p>
+<p>Wednesday, November 19 &bull; 7:00 PM &amp; 9:00 &bull; 85min<a name="Persona" id="Persona"></a><strong><img src="../06_media/2008-04_images/08Week/Bergman_Persona.jpg" width="133" height="100" class="image" /></strong><br />
+      <strong>Persona</strong><br />
+      <em>Ingmar Bergman, 1966</em> &bull; Hailed by Susan Sontag as &#8220;an advance, in its emotional power and subtlety, over all his previous work,&#8221; Persona is if nothing else Bergman&#8217;s most enigmatic film. An actress (Liv Ullmann) becomes mute after a performance of Electra and is committed to the care of a young nurse (Bibi Andersson). What follows after the two women retreat to a beach house cannot be accurately described in terms of narrative, as the women&#8217;s identities and personalities are inexplicably split, exchanged, and intertwined, questioning the very nature of identity. <em>In Swedish with English subtitles</em>.</p>
+<p>Thursday, November 20 &bull; 7:00 PM &bull; 99min<a name="UncleMoses" id="UncleMoses"></a><strong><img src="../06_media/2008-04_images/08Week/Yiddish_Uncle_Moses.jpg" width="71" height="100" class="image" /></strong><br />
+	  <p>Wednesday, November 26 &bull; 7:00 &amp; 9:45 PM &bull; 135min<a name="TheMagicFlute" id="TheMagicFlute"></a><strong><img src="../06_media/2008-04_images/09Week/Bergman_The_Magic_Flute.jpg" width="152" height="100" class="image" /></strong><br />
+      <strong>The Magic Flute</strong><br />
+      <em>Ingmar Bergman, 1975</em> &bull; One of the most successful adaptations of opera to the screen, Bergman&#8217;s take on Mozart&#8217;s beloved <em>The Magic Flute</em> is more than just a staid filmed version of the opera. Bergman takes the familiar story of Tamino, Pamina, Papageno, Sarastro, and the Queen of the Night as his starting point, and merges the experience of the audience and the actual mechanics of the theater itself with the staged performance. Directing well over 100 plays, Bergman was even more prolific in theater than in film, but this film marks the only full intersection of the two. <em>In Swedish with English subtitles</em>.</p>
+	  <p>Wednesday, December 3 &bull; 7:00 &amp; 9:00 PM &bull; 92min<a name="AutumnSonata" id="AutumnSonata"></a><strong><img src="../06_media/2008-04_images/10Week/Bergman_Autumn_Sonata.jpg" width="151" height="100" class="image" /></strong><br />
+      <strong>Autumn Sonata</strong><br />
+      <em>Ingmar Bergman, 1978</em> &bull; The two great Bergmans pair up for the only time in their prolific careers in this film about an aging concert pianist (Ingrid Bergman) who after years of strain visits her daughter Eva (Liv Ullmann) in her home. Against the backdrop of Sven Nykvist&#8217;s gorgeous use of color, the mother and daughter attempt to resolve the pain that has separated them for so long. Autumn Sonata is the culmination of a decade long examination of the intricacies of pain and regret in relationships after putting the question of God to rest in <em>The Silence</em>. <em>In Swedish with English subtitles</em>.</p>
+  </div>
+<div id="midbar"> </div>
+<div id="footer"> </div> 
+</div>
+</body>
+</html>
+

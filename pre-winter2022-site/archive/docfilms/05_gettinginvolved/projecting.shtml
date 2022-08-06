@@ -1,0 +1,172 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>Doc Films</title>
+<link href="../layout/layout.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_nbGroup(event, grpName) { //v6.0
+  var i,img,nbArr,args=MM_nbGroup.arguments;
+  if (event == "init" && args.length > 2) {
+    if ((img = MM_findObj(args[2])) != null && !img.MM_init) {
+      img.MM_init = true; img.MM_up = args[3]; img.MM_dn = img.src;
+      if ((nbArr = document[grpName]) == null) nbArr = document[grpName] = new Array();
+      nbArr[nbArr.length] = img;
+      for (i=4; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
+        if (!img.MM_up) img.MM_up = img.src;
+        img.src = img.MM_dn = args[i+1];
+        nbArr[nbArr.length] = img;
+    } }
+  } else if (event == "over") {
+    document.MM_nbOver = nbArr = new Array();
+    for (i=1; i < args.length-1; i+=3) if ((img = MM_findObj(args[i])) != null) {
+      if (!img.MM_up) img.MM_up = img.src;
+      img.src = (img.MM_dn && args[i+2]) ? args[i+2] : ((args[i+1])? args[i+1] : img.MM_up);
+      nbArr[nbArr.length] = img;
+    }
+  } else if (event == "out" ) {
+    for (i=0; i < document.MM_nbOver.length; i++) {
+      img = document.MM_nbOver[i]; img.src = (img.MM_dn) ? img.MM_dn : img.MM_up; }
+  } else if (event == "down") {
+    nbArr = document[grpName];
+    if (nbArr)
+      for (i=0; i < nbArr.length; i++) { img=nbArr[i]; img.src = img.MM_up; img.MM_dn = 0; }
+    document[grpName] = nbArr = new Array();
+    for (i=2; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
+      if (!img.MM_up) img.MM_up = img.src;
+      img.src = img.MM_dn = (args[i+1])? args[i+1] : img.MM_up;
+      nbArr[nbArr.length] = img;
+  } }
+}
+//-->
+</script>
+<style type="text/css">
+<!--
+.white_font {color: #FFFFFF}
+-->
+</style>
+</head>
+<body>
+<div id="wrapper">
+<div id="header"> </div>
+<div id="navbar"><table border="0" align="right" cellpadding="0" cellspacing="0">
+    <tr>
+      <td><a href="http://docfilms.uchicago.edu/index.shtml" target="_top" onclick="MM_nbGroup('down','group1','Home','',1)" onmouseover="MM_nbGroup('over','Home','../layout/navbar/HomeOver.gif','',1)" onmouseout="MM_nbGroup('out')"><img src="../layout/navbar/HomeUp.gif" alt="" name="Home" width="58" height="22" border="0" id="Home" onload="" /></a></td> <td><img src="../layout/navbar/Dot.gif" width="14" height="22"></td>
+      <td><a href="../02_calendar/2009-02.html" target="_top" onclick="MM_nbGroup('down','group1','Calendar','',1)" onmouseover="MM_nbGroup('over','Calendar','../layout/navbar/CalendarOver.gif','',1)" onmouseout="MM_nbGroup('out')"><img src="../layout/navbar/CalendarUp.gif" alt="" name="Calendar" width="86" height="22" border="0" id="Calendar" onload="" /></a></td> <td><img src="../layout/navbar/Dot.gif" width="14" height="22"></td>
+      <td><a href="../03_visitingdoc/visitors.shtml" target="_top" onclick="MM_nbGroup('down','group1','Visiting','',1)" onmouseover="MM_nbGroup('over','Visiting','../layout/navbar/VisitingOver.gif','',1)" onmouseout="MM_nbGroup('out')"><strong><img src="../layout/navbar/VisitingUp.gif" alt="" name="Visiting" width="112" height="22" border="0" id="Visiting" onload="" /></strong></a></td> 
+      <td><img src="../layout/navbar/Dot.gif" width="14" height="22"></td>
+      <td><a href="../04_aboutdoc/about.shtml" target="_top" onclick="MM_nbGroup('down','group1','About','',1)" onmouseover="MM_nbGroup('over','About','../layout/navbar/AboutOver.gif','',1)" onmouseout="MM_nbGroup('out')"><img src="../layout/navbar/AboutUp.gif" alt="" name="About" width="98" height="22" border="0" id="About" onload="" /></a></td> <td><img src="../layout/navbar/Dot.gif" width="14" height="22"></td>
+      <td><a href="../05_gettinginvolved/volunteers.shtml" target="_top" onclick="MM_nbGroup('down','group1','Involved','',1)" onmouseover="MM_nbGroup('over','Involved','../layout/navbar/InvolvedOver.gif','',1)" onmouseout="MM_nbGroup('out')"><img src="../layout/navbar/InvolvedUp.gif" alt="" name="Involved" width="156" height="22" border="0" id="Involved" onload="" /></a></td> <td><img src="../layout/navbar/Dot.gif" width="14" height="22"></td>      
+      <td><a href="../06_media/mediainfo_2009_01.shtml" target="_top" onclick="MM_nbGroup('down','group1','Media','',1)" onmouseover="MM_nbGroup('over','Media','../layout/navbar/MediaOver.gif','',1)" onmouseout="MM_nbGroup('out')"><img src="../layout/navbar/MediaUp.gif" alt="" name="Media" width="63" height="22" border="0" id="Media" onload="" /></a></td> <td><img src="../layout/navbar/Dot.gif" width="14" height="22"></td>
+      <td><a href="../07_contact/contact.shtml" target="_top" onclick="MM_nbGroup('down','group1','Contact','',1)" onmouseover="MM_nbGroup('over','Contact','../layout/navbar/ContactOver.gif','',1)" onmouseout="MM_nbGroup('out')"><img src="../layout/navbar/ContactUp.gif" alt="" name="Contact" width="76" height="22" border="0" id="Contact" onload="" /></a></td>
+    </tr>
+  </table>
+</div>
+<div id="midbar"> </div>
+<div id="content"> 
+ <h1>
+   Projectionist Guides </h1>
+ <p>Unfortunately, not all materials are currently accessible. Please bear with us while we are working on making them available again. </p>
+ <img src="images/projectingcollage.jpg" width="150" height="743" class="image" />
+ <p><strong>16mm</strong><br />
+   <a href="PJ_materials/16mmManual.pdf" target="_blank">16mm
+   Projection Manual</a>* (.pdf)
+   
+   <br />
+   Service Instructions for the Eastman 16mm Projector </p>
+ <p><strong>35mm
+   
+   </strong><br />
+   <a href="PJ_35mm.pdf" target="_blank">35mm Projection Manual</a>* (.pdf)
+   
+   <br />
+   Film Head
+   
+   Simplex 35 Projector Mechanism Instruction Book <br />
+   Simplex X-L Projector Mechanism Instruction Manual <br />
+   Simplex X-L Projector Mechanism Parts Catalog <br />
+   Sound Head
+   
+   Simplex Soundhead Operating Instructions and Parts List <br />
+   Digital/Analog Sound Reader for Simplex Projectors <br />
+   Simplex 5 Star Soundhead Operating Instructions and Parts List <br />
+   The Simplex Projector, researched by John Cannon <br />
+   Kelmar Change Over System </p>
+ <p><strong>Digital Projector</strong><br />
+   <a href="PJ_DVD.pdf" target="_blank">Digital Projection Manual</a>* (.pdf) <br />
+   HIGHlite Super High Brightness Digital Video Projector User's Manual </p>
+ <p> <strong>Sound</strong><a href="PJ_materials/DTS_procedure.pdf" target="_blank"><br />
+Procedure for threading DTS films</a><a href="PJ_materials/DTS_procedure.pdf"></a> (.pdf) <br />
+Sound
+   
+   DTS
+   
+   DTS System Testing and Troubleshooting <br />
+DTS Installation and Operation Manual<br />
+ Slow Switching to Dolby Digital Sound<br />
+SRD
+   
+   Dolby Digital FAQ <br />
+Dolby Digital: The Sound of the Future - Here Today <br />
+&quot;Are Movies Too Loud?&quot;<br />
+Dolby Digital - Surround EX: The Next Step in Film Sound<br />
+The Evolution of Dolby Film Sound <br />
+Dolby CP500
+   
+   Installation and Alignment <br />
+Film Sound Glossary</p>
+ <p><strong>Kelmar Rewind Table </strong><br />
+   Kelmar RTV-8900 Rewind and Inspection System Instructions <br />
+   Kelmar 7000 Series Reel Support Systems Instruction Manual  </p>
+ <p><strong>Splicers</strong><br />
+   Splicers
+   
+   CIR-Catozzo Splicer (35mm) Instructions for Use <br />
+   Neutaper Film Splicer Instructions for Use </p> 
+ 
+ <p><strong>Miscellaneous</strong>   <br />
+   Projectionist Study Sheet <br />
+Useful Advice for the Projectionist <br />
+Projectionist's Trouble-shooting and Maintenance Guide Vol. 4 <br />
+Operating Instructions for the Projectionist <br />
+Reference Diagrams <br />
+Kodak Edge Codes <br />
+Film Mutilation and How to Prevent It <br />
+<br />
+   Power Supplies and Lamp Housings
+   
+   Kni-Tron Series Power Supplies Instructional Manual  <br />
+   Installing TEAC CD-ROM Drives<br />
+   SMPTE Engineering Report: Theater Quality Evaluation Program <br />
+Theater Alignment Program Recommended Guidelines <br />
+   Troubleshooting
+   
+   Cat. No. 661 Optical Preamp Software Upgrade <br />
+   Intermittent Cat. No. 671 Failure <br />
+ </p>
+ <p>For refreshers on how to run a show, we suggest you refer  to the Projection Manuals (*). For technical questions, please contact <a href="mailto: oandm@sbcglobal.net"> Ottilie Young</a> and <a href="mailto: jvidal5929@aol.com">Joe Vidal</a>, Equipment Chairs. <br />
+   <br />
+   Thanks to Ottilie Young, Steve Lucy and Pete Watson for compiling these materials. </p>
+</div>
+<div id="midbar"> </div>
+<div id="footer"> </div> 
+</div>
+</body>
+</html>
+

@@ -1,0 +1,145 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>Doc Films</title>
+<link href="../layout/layout.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript">
+<!--
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_nbGroup(event, grpName) { //v6.0
+  var i,img,nbArr,args=MM_nbGroup.arguments;
+  if (event == "init" && args.length > 2) {
+    if ((img = MM_findObj(args[2])) != null && !img.MM_init) {
+      img.MM_init = true; img.MM_up = args[3]; img.MM_dn = img.src;
+      if ((nbArr = document[grpName]) == null) nbArr = document[grpName] = new Array();
+      nbArr[nbArr.length] = img;
+      for (i=4; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
+        if (!img.MM_up) img.MM_up = img.src;
+        img.src = img.MM_dn = args[i+1];
+        nbArr[nbArr.length] = img;
+    } }
+  } else if (event == "over") {
+    document.MM_nbOver = nbArr = new Array();
+    for (i=1; i < args.length-1; i+=3) if ((img = MM_findObj(args[i])) != null) {
+      if (!img.MM_up) img.MM_up = img.src;
+      img.src = (img.MM_dn && args[i+2]) ? args[i+2] : ((args[i+1])? args[i+1] : img.MM_up);
+      nbArr[nbArr.length] = img;
+    }
+  } else if (event == "out" ) {
+    for (i=0; i < document.MM_nbOver.length; i++) {
+      img = document.MM_nbOver[i]; img.src = (img.MM_dn) ? img.MM_dn : img.MM_up; }
+  } else if (event == "down") {
+    nbArr = document[grpName];
+    if (nbArr)
+      for (i=0; i < nbArr.length; i++) { img=nbArr[i]; img.src = img.MM_up; img.MM_dn = 0; }
+    document[grpName] = nbArr = new Array();
+    for (i=2; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
+      if (!img.MM_up) img.MM_up = img.src;
+      img.src = img.MM_dn = (args[i+1])? args[i+1] : img.MM_up;
+      nbArr[nbArr.length] = img;
+  } }
+}
+//-->
+</script></head>
+<body onload="MM_preloadImages('../layout/navbar/HomeOver.gif','../layout/navbar/CalendarOver.gif','../layout/navbar/VisitingOver.gif','../layout/navbar/AboutOver.gif','../layout/navbar/InvolvedOver.gif','../layout/navbar/MediaOver.gif','../layout/navbar/ContactOver.gif')">
+<div id="wrapper">
+<div id="header"> </div>
+<div id="navbar">
+  <table border="0" align="right" cellpadding="0" cellspacing="0">
+    <tr>
+      <td><a href="../index.shtml" target="_top" onclick="MM_nbGroup('down','group1','Home','',1)" onmouseover="MM_nbGroup('over','Home','../layout/navbar/HomeOver.gif','',1)" onmouseout="MM_nbGroup('out')"><img src="../layout/navbar/HomeUp.gif" alt="" name="Home" width="58" height="22" border="0" id="Home" onload="" /></a></td>
+      <td><img src="../layout/navbar/Dot.gif" width="14" height="22" /></td>
+      <td><a href="../02_calendar/2008-03.shtml" target="_top" onclick="MM_nbGroup('down','group1','Calendar','',1)" onmouseover="MM_nbGroup('over','Calendar','../layout/navbar/CalendarOver.gif','',1)" onmouseout="MM_nbGroup('out')"><img src="../layout/navbar/CalendarUp.gif" alt="" name="Calendar" width="86" height="22" border="0" id="Calendar" onload="" /></a></td>
+      <td><img src="../layout/navbar/Dot.gif" width="14" height="22" /></td>
+      <td><a href="../03_visitingdoc/visitors.shtml" target="_top" onclick="MM_nbGroup('down','group1','Visiting','',1)" onmouseover="MM_nbGroup('over','Visiting','../layout/navbar/VisitingOver.gif','',1)" onmouseout="MM_nbGroup('out')"><img src="../layout/navbar/VisitingUp.gif" alt="" name="Visiting" width="112" height="22" border="0" id="Visiting" onload="" /></a></td>
+      <td><img src="../layout/navbar/Dot.gif" width="14" height="22" /></td>
+      <td><a href="../04_aboutdoc/about.shtml" target="_top" onclick="MM_nbGroup('down','group1','About','',1)" onmouseover="MM_nbGroup('over','About','../layout/navbar/AboutOver.gif','',1)" onmouseout="MM_nbGroup('out')"><img src="../layout/navbar/AboutUp.gif" alt="" name="About" width="98" height="22" border="0" id="About" onload="" /></a></td>
+      <td><img src="../layout/navbar/Dot.gif" width="14" height="22" /></td>
+      <td><a href="../05_gettinginvolved/volunteers.shtml" target="_top" onclick="MM_nbGroup('down','group1','Involved','',1)" onmouseover="MM_nbGroup('over','Involved','../layout/navbar/InvolvedOver.gif','',1)" onmouseout="MM_nbGroup('out')"><img src="../layout/navbar/InvolvedUp.gif" alt="" name="Involved" width="156" height="22" border="0" id="Involved" onload="" /></a></td>
+      <td><img src="../layout/navbar/Dot.gif" width="14" height="22" /></td>
+      <td><a href="../06_media/mediainfo.shtml" target="_top" onclick="MM_nbGroup('down','group1','Media','',1)" onmouseover="MM_nbGroup('over','Media','../layout/navbar/MediaOver.gif','',1)" onmouseout="MM_nbGroup('out')"><img src="../layout/navbar/MediaUp.gif" alt="" name="Media" width="63" height="22" border="0" id="Media" onload="" /></a></td>
+      <td><img src="../layout/navbar/Dot.gif" width="14" height="22" /></td>
+      <td><a href="../07_contact/contact.shtml" target="_top" onclick="MM_nbGroup('down','group1','Contact','',1)" onmouseover="MM_nbGroup('over','Contact','../layout/navbar/ContactOver.gif','',1)" onmouseout="MM_nbGroup('out')"><img src="../layout/navbar/ContactUp.gif" alt="" name="Contact" width="76" height="22" border="0" id="Contact" onload="" /></a></td>
+    </tr>
+  </table>
+</div>
+<div id="midbar"> </div>
+<div id="content">
+<SCRIPT type="text/javascript"><!--
+function toggle_visibility(id) {
+var e = document.getElementById(id);
+if(e.style.display == 'none')
+e.style.display = 'block';
+else
+e.style.display = 'none';
+}
+//--></SCRIPT>
+<h1> Fall 2008, Monday Series &bull; Omnibus Omnibus</h1> 
+
+<p><em>Tales told through separate vignettes rather than a single narrative </em></p>
+
+Rather than explore the work of a particular filmmaker, nation, time period, or genre, this series aims instead to celebrate an underappreciated film structure &#8211; the omnibus film, also known as the anthology or portmanteau film. In an omnibus film, the action is divided into a series of independent vignettes rather than retaining a single narrative. Sometimes the sections are united by a framing device or theme, while on other occasions they remain entirely unrelated. One director may film the entirety of an omnibus film, but sometimes a whole host of filmmakers may contribute their own vignettes. As there only a few venues outside of the festival circuit to exhibit short films, anthologies provide a much-needed opportunity for directors to work in a shorter format. The great risk in making an omnibus, of course, is the proverbial bad apple that can spoil the equally proverbial bunch, yet we believe the ten films presented here are more consistent examples of the varied applications of the portmanteau film. <strong><A href="#essay" onclick="toggle_visibility('essay');">more</a></strong></p>
+
+<div id="essay" style="display:none;">
+
+<p>For much of the twentieth century, Europe was the center for the production of omnibus films. One important entry into the genre is Max Ophuls&#8217;s <strong><em><a href="#LePlaisir">Le Plaisir</a></em></strong> (10/27), a meditation on three different types of pleasure as represented by a trio of short stories adapted from the popular French writer Guy de Maupassant. Following Ophuls&#8217;s lead, omnibus films truly flourished in European art-houses in the 1960s. Seemingly every important filmmaker produced a contribution to a portmanteau, including Jacques Demy, Claude Chabrol, Eric Rohmer, and others. <strong><em><a href="#RoGoPaG">Ro.Go.Pa.G.</a></em></strong> (11/3), named after its four directors Roberto Rossellini, Jean-Luc Godard, Pier Paolo Pasolini, and Ugo Gregoretti, is one of the more noteworthy examples produced during this period. A far more stylistically eclectic and topical omnibus film is <strong><em><a href="#GermanyinAutumn">Germany in Autumn</a></em></strong> (11/24), whose eleven directors explore the mood of the titular nation during the period in late 1977 when the Baader-Meinhof terrorist organization was perpetrating their crimes.</p> 
+
+<p>Although D.W. Griffith&#8217;s <em>Intolerance</em> was the inspiration for several European anthology films like Carl Theodor Dreyer&#8217;s <strong><em><a href="#LeavesfromSatansBook">Leaves From Satan&#8217;s Book</a></em></strong> (10/6), Hollywood ultimately produced far fewer portmanteau films than its counterparts across the Atlantic. Julien Duvivier, the French director of films like <em>P&eacute;p&eacute; le Moko</em>, came to America to direct a pair of anthology films with star-studded casts: the supernatural Flesh and Fantasy and 1942’s <strong><em><a href="#TalesofManhattan">Tales of Manhattan</a></em></strong> (10/13). Ten years later, 20th Century Fox produced a charming adaptation of short stories by O. Henry called <strong><em><a href="#OHenrysFullHouse">O. Henry’s Full House</a></em></strong> (10/20), which even features ohn Steinbeck as a host and narrator. Beyond these films, the major American movie studios have contributed little to the body of omnibus movies.</p>
+
+<p>Horror is the genre in which omnibus films are seen most frequently. The most influential of these was <em>Dead of Night</em>, an eerie British production from 1945 that screened in Doc&#8217;s Ealing Studios series last year. The horror anthology became a mainstay of British B-cinema for decades, exemplified by the many omnibus films put out by the Amicus production company in the &#8216;60s and &#8216;70s. Freddie Francis, an Oscar-winning cinematographer who shot films for David Lynch and Martin Scorcese, is the director most associated with Amicus, responsible for collections like <em>Torture Garden</em> and <em>Dr. Terror&#8217;s House of Horrors</em>. His campy fright-fest <strong><em><a href="#TalesfromtheCrypt">Tales From the Crypt</a></em></strong> (11/10) is perhaps the classic Amicus film, featuring many of the staples of British horror cinema like Peter Cushing, Joan Collins, and Ralph Richardson.</p> 
+
+<p>In recent years, the omnibus format has faded a bit, although new ones do appear from time to time. This series features omnibus works from two contemporary filmmakers &#8211; the American director Jim Jarmusch and Taiwan’s Hou Hsiao-hsien. Jarmusch is perhaps the contemporary director most devoted to the portmanteau format, having used it for <em>Night on Earth</em>, <em>Coffee and Cigarettes</em>, and <strong><em><a href="#MysteryTrain">Mystery Train</a></em></strong> (9/29). Subdivision into vignettes seems a natural stylistic fit for Jarmusch, who punctuates even his more traditional narratives with episodic fades-to-black. Hou’s <strong><em><a href="#ThreeTimes">Three Times</a></em></strong> (12/1), which expands on themes developed in previous films like <em>Millennium Mambo</em> and <em>Flowers of Shanghai</em>, may be the finest example of an omnibus film produced this decade. Not surprisingly, one of the movie&#8217;s many champions is Jarmusch, who declared its first segment &#8220;one of the most perfect pieces of cinema I&#8217;ve ever seen.&#8221; We can only hope that these films, and the recent success of anthologies like Paris, je t&#8217;aime, will inspire a resurgence of the omnibus film. <em>EC</em> <strong><a href="#" onclick="toggle_visibility('essay');">close</a></strong></p></div>
+
+  <p>Monday, September 29 &bull; 7:00 PM &bull; 110m<strong></strong><a name="MysteryTrain" id="MysteryTrain"></a><img src="../06_media/2008-04_images/01Week/Omnibus_Mystery_Train.jpg" width="180" height="100" class="image" /><br />
+    <strong>Mystery Train</strong><br />
+    <em>Jim Jarmusch</em>, 1989 &bull; The first of Jim Jarmusch&#8217;s omnibus films presents three stories in non-linear chronology, set around a rundown Memphis hotel where the night clerk is Screamin&#8217; Jay Hawkins. Hawkins&#8217;s music was the unseen star of Jarmusch&#8217;s Stranger Than Paradise; here it is the spirit of Elvis Presley that permeates the film. The first segment concerns a pair of Elvis-obsessed Japanese tourists, the second an Italian widow who receives a visit from The King, and the third Joe Strummer as a would-be robber nicknamed Elvis. Watch for a cameo by singer Rufus Thomas and listen for Tom Waits&#8217;s voice as a radio DJ.</p>
+	  
+  <p>Monday, October 6 &bull; 7:00 PM &bull; 116min<a name="LeavesfromSatansBook" id="LeavesfromSatansBook"></a><img src="../06_media/2008-04_images/02Week/Omnibus_Leaves_from_Satans_Book.jpg" width="124" height="100" class="image" /><br />
+    <strong>Leaves from Satan&#8217;s Book<br />
+    </strong><em>Carl Dreyer, 1921</em> &bull; The breakthrough film by one of the masters of cinema is a loose play on Intolerance, following the theme of temptation by the Devil, played by Helge Nissen, through four stories spanning nearly 2,000 years. The first story depicts Judas’s decision to betray Jesus, while Satan appears as the Grand Inquisitor in 16th century Spain in the second. The third vignette takes us to the French Revolution and the final story follows a Finnish woman in 1918 whose husband is away fighting the war. Dreyer&#8217;s incredible sense for composition and masterful use of close-ups are on display here in what was only his second feature. <em>Silent.</em></p>
+  
+  <p>Monday, October 13 &bull; 7:00 PM &bull; 118m<a name="TalesofManhattan" id="TalesofManhattan"></a><br />
+      <strong>Tales of Manhattan</strong><img src="../06_media/2008-04_images/03Week/Omnibus_Tales_of_Manhattan.jpg" width="127" height="100" class="image" /><br />
+      <em>Julien Duviver, 1942</em> &bull; One of just a handful of American films made by Julien Duvivier (P&eacute;p&eacute; le Moko), Tales of Manhattan follows a cursed tailcoat as it circulates among various New Yorkers – the working title was, in fact, Tails of Manhattan. Some of Hollywood&#8217;s top screenwriters penned the script, including Ben Hecht and Lamar Trotti, while the all-star cast features Rita Hayworth, Edward G. Robinson, Ginger Rogers, and Henry Fonda, just to name a few. Paul Robeson makes his final film appearance in the last story, though he publicly denounced the film&#8217;s portrayal of blacks upon its release.</p>
+  
+  <p>Monday, October 20 &bull; 7:00 PM &bull; 117min<a name="OHenrysFullHouse" id="OHenrysFullHouse"></a><br />
+      <strong>O. Henry&#8217;s Full House</strong><strong><img src="../06_media/2008-04_images/04Week/Omnibus_O_Henry.jpg" width="685" height="100" class="image" /></strong><br />
+      <em>Howard Hawks, Henry Koster, Henry King, Henry Hathaway &amp; Jean Negulesco, 1952</em> &bull; John Steinbeck narrates these adaptationsof five classic stories by the short story expert O. Henry, including &#8220;The Ransom of Red Chief&#8221; and &#8220;The Gift of the Magi.&#8221; Fox was inspired to make this after the success of similar British adaptations of W. Somerset Maugham stories. While the studio&#8217;s previous omnibus efforts like <em>Tales of Manhattan</em> and <em>Flesh &amp; Fantasy</em> only featured one director, here a different filmmaker is at the helm for each story. The cast features Charles Laughton, Richard Widmark, Anne Baxter, and Marilyn Monroe.</p>
+  <p>Monday, October 27 &bull; 7:00 PM &bull; 97min<strong></strong><a name="LePlaisir" id="LePlaisir"></a><strong><img src="../06_media/2008-04_images/05Week/Omnibus_Le_Plaisir.jpg" width="71" height="100" class="image" /></strong><br />
+  <strong>Le Plaisir</strong><br />
+	<em>Max Ophuls, 1952</em> &bull; Ophuls&#8217;s melancholy follow-up to the stylistically similar La ronde is a rumination on the idea of pleasure adapted from three short stories by du Maupassant. Jean Galland plays an old man hiding behind a mask at a ball in the first vignette, while the second follows a brothel madame (Madeleine Renaud) and her girls on their outing to her niece&#8217;s first communion. The final segment tells the story of the deteriorating love between an artist (Daniel Gelin) and his model (Simone Simon). Upon its release, Jean-Luc Godard proclaimed <em>Le Plaisir</em> &#8220;the greatest film made in France since the Liberation.&#8221; <em>In French with English subtitles.</em></p>
+<p>Monday, November 3 &bull; 7:00 PM &bull; 122min<a name="RoGoPaG" id="RoGoPaG"></a><br />
+      <strong>Ro.Go.Pa.G</strong><br />
+      <em>Roberto Rossellini, Jean-Luc Godard, Pier Paolo Pasolini, Ugo Gregoretti, 1962</em> &bull; The 1960s saw a wave of anthology films made by European art-house directors. One of the most notable is this Italian production featuring four short films by some of the masters of world cinema. Critical opinion appears to be divided over which segment is the strongest. Orson Welles gives a strong performance as the arrogant director of a biblical epic in Pasolini&#8217;s section, while Godard offers a preview of both the apartment scene from <em>Contempt</em> and of <em>Alphaville</em> as a whole in his. Rossellini and Gregoretti&#8217;s segments are similarly noteworthy.</p>
+<p>Monday, November 10 &bull; 7:00 PM &bull; 92min<a name="TalesfromtheCrypt" id="TalesfromtheCrypt"></a><br />
+      <strong>Tales from the Crypt</strong><br />
+      <em>Freddie Francis</em> &bull; The British pioneered the use of the omnibus format for horror films with the masterful Ealing production <em>Dead of Night</em>. In the mid-&#8216;60s, a company called Amicus Productions began to specialize in creating gory portmanteau films, sharing a great deal in common with Hammer Films in terms of its style and stars. As the Crypt Keeper, Ralph Richardson narrates five stories adapted from the <em>Tales From the Crypt</em> series by EC Comics. Other stars include Joan Collins and Peter Cushing. The film would later inspire an HBO series with the same name that aired in the 1990s.</p>
+	  <p>Monday, November 24 &bull; 7:00 PM &bull; 126min<a name="GermanyinAutumn" id="GermanyinAutumn"></a><strong><img src="../06_media/2008-04_images/09Week/Omnibus_Deutschland_im_Herbst.jpg" width="145" height="100" class="image" /></strong><br />
+      <strong>Germany in Autumn</strong><br />
+      <em>Rainer Werner Fassbinder, Alexander Kluge, et. al., 1978</em> &bull; In the fall of 1977, a German leftist group known as the RAF murdered an industrialist named Hanns-Martin Schleyer. Released with events still fresh on people&#8217;s minds, this film collage, which features a mix of documentary footage, fictionalized dramatizations, and news-report-style narration, attempts to capture both the political and social climate within the country at this tumultuous point in history. The movie&#8217;s many filmmakers include Alexander Kluge and Nobel laureate Heinrich B&ouml;ll, but arguably the candid contribution by Fassbinder is of the most interest.</p>
+	  <p>Monday, December 1 &bull; 7:00 PM &bull; 130min<a name="ThreeTimes" id="ThreeTimes"></a><strong><img src="../06_media/2008-04_images/10Week/Omnibus_Three_Times.jpg" width="149" height="100" class="image" /></strong><br />
+      <strong>Three Times</strong><br />
+      <em>Hou Hsiao-hsien, 2005</em> &bull; Chang Chen and Shu Qi star in three separate love stories set in Taiwan in different periods. The first segment, &#8221;A Time For Love,&#8220; about a soldier in 1966 searching for a pool hall hostess, is considered by some to be Hou Hsiao-hsien&#8217;s masterpiece to date in a filmography full of masterpieces. In the second story, &#8220;A Time For Freedom,&#8221; Shu and Chang play a courtesan and her client in a 1911 brothel. &#8220;A Time For Youth,&#8221; the final segment, finds the two actors as a photographer and an epileptic singer in modern Taipei. Three Times is gorgeously photographed by frequent Hou collaborator Mark Lee Ping-bin. <em>In Mandarin and Taiwanese with English subtitles</em>.</p>
+  </div>
+<div id="midbar"> </div>
+<div id="footer"> </div> 
+</div>
+</body>
+</html>
+

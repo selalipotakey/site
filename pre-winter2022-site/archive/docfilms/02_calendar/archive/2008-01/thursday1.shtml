@@ -1,0 +1,121 @@
+﻿<!--#include virtual="../layout/header_top.html"-->
+<TITLE>Doc Films: Calendar</TITLE>
+
+<SCRIPT type="text/javascript"><!--
+function toggle_visibility(id) {
+var e = document.getElementById(id);
+if(e.style.display == 'none')
+e.style.display = 'block';
+else
+e.style.display = 'none';
+}
+//--></SCRIPT>
+
+<!--#include virtual="../layout/header_bottom.html"-->
+
+<H2>Calendar: Thursday (1st Show)</H2>
+
+<H3>Film Noir of the 1950s</H3>
+
+<P><I>Sex, drugs and violence – in gritty shades of gray – courtesy of the Eisenhower years.</I></P>
+
+
+<IMG src="thursday1b.jpg" height="255" width="193" align="left" hspace="10">
+
+<P>In the American collective consciousness, the 1950s represent the most pristine era of the past century, in which the social disruption of the Great Depression and World War II were overcome through the solidification of the nuclear family, reinvigoration of the economy, the elimination of the country's internal leftist enemies, and their replacement with the monolithic enemy of Communism.</P>
+
+<P>It is therefore interesting that this period of apparent stabilization produced many films far more challenging to faith in American institutions than their counterparts of the '30s and '40s. The genre that would later be known as film noir developed and matured in the '40s, and received popularity and disdain for its portrayal of crime, sex, and other deviations from the ideals of bourgeois American life. <A href="#essay" onclick="toggle_visibility('essay');">more</A></P>
+
+<DIV id="essay" style="display:none;">
+
+<IMG src="thursday1c.jpg" height="298" width="217" align="right" hspace="10" vspace="15">
+
+<P>However, the supposedly subversive films of the '40s often merely reasserted the fundamental worth of institutions such as marriage, the family, the law, and the capitalist economy. The protagonists of '40s noir were generally single men without family, whose presence in the American underworld resulted from their failure to reject violence and debauchery, find a nice girl and a clean job, and settle down. In '50s noir, this pattern was reversed, notably in Fritz Lang's <B><I>The Big Heat</I></B> (1/24), and later in <B><I>Touch of Evil</I></B> (2/28). In these films, the protagonists are married and working on the side of the law, but their wives and occupations now function as points of vulnerability rather than security. The characters' middle-class positions do not protect them when confronted with the world of crime, which is no longer subterranean or restricted to a certain part of town. Such questioning of the American conception of the good life develops to an extreme point in <B><I>The Sniper</I></B> (1/17) and <B><I>Murder by Contract</I></B> (3/6), in both of which a man abandons the mainstream to become a serial killer, with pathological motivations in the former, but more chillingly rational intent in the latter.</P>
+
+<P>The change in the content of film noir during the '50s was accompanied by a growing self-consciousness of noir style. While at the beginning of the decade Nicholas Ray could still make a film like <B><I>In a Lonely Place</I></B> (1/10), which remains subtle in its use of noir's visual and dramatic hallmarks, later films were more deliberately modeled after, and in response to, the films of the '40s. Displays of violence, previously restrained and suggested, became more graphic and dominant. <I>The Big Heat</I>, with multiple instances of strangulation and scalding with coffee, and <B><I>The Big Combo</I></B> (1/31), in which the villain employs a hearing aid as an implement of torture, do more than merely imply the potential for human brutality.</P>
+
+<IMG src="thursday1a.jpg" height="298" width="367" align="left" hspace="10">
+
+<P>Noir's dark lighting, disorienting camera angles, and lurid plots - born as much from financial necessity as the influence of European filmmakers - were retained in the films of the '50s, often ostentatiously. <B><I>Nightfall</I></B> (2/14) and <B><I>The Lineup</I></B> (2/21) both employ extensive outdoor location shooting, abandoning the confined interiors of cheap stage sets while appropriating previous conventions. Directors increasingly exaggerated their use of noir's visual techniques, as in Kubrick's <B><I>The Killing</I></B> (2/7), and most significantly in <I>Touch of Evil</I>, in which Welles adds his own creativity to the book of noir tricks, inverting the conventions and contradictions of classic noir to create a sense of profound disorientation.</P>
+
+<P>Whereas <I>The Big Combo</I> exists as a dream, <I>Touch of Evil</I> is a nightmare, full of ugliness and confusion. The film's theme - the transgression of social boundaries and the demonstration of their fragility - fits its setting in the border-town of Tijuana, where American culture, freed from legal and moral constraints present on its native soil, can expose its true self, a pile of human garbage as ever-present as the physical refuse that appears in nearly every frame of the film. The tendency for late noir to critique America's self-perception is evident in the character of Vargas. While Charlton Heston may not make the most convincing Mexican, it is notable that the lone warrior for justice and truth in the film is not American, and his U.S. counterpart is the very personification of hypocrisy. </P>
+
+<P>Another director to achieve mastery - albeit differently - in the appropriation and exaggeration of film noir style was Samuel Fuller. While <B><I>The Crimson Kimono</I></B>(3/13) shares <I>Touch of Evil</I>'s concern for taboo issues like interracial sex, it is <I>Underworld, U.S.A.</I> that perhaps deserves to eclipse Welles' film as the capstone of the film noir genre. While arriving after the end of the '50s, the film nevertheless presents and confronts the nihilistic vision that the genre had achieved through its development in the preceding decade, and conveniently appears in this 
+quarter's <A href="monday.shtml">Samuel Fuller series</A>. In that film, crime remains pervasive, constant across generations, and synonymous with the nation. The only individual who can alter this dismal state is a deceitful, violent, and ruthless man, driven on toward his self-consuming end by a 
+vengeful thirst for blood. <B>AS</B> <A href="#" onclick="toggle_visibility('essay');">close</A></P></DIV>
+
+<TABLE>
+<TR><TD align="center" height="23"><IMG src="../layout/line.gif" height="4" width="729"></TD></TR>
+</TABLE>
+<BR>
+
+
+Thursday, January 10 - 7:00 
+<BLOCKQUOTE><STRONG class="title">In a Lonely Place</STRONG><BR>
+<I>Nicholas Ray, 1950 - 94 min.</I>
+<DIV class="gray">Humphrey Bogart plays misanthropic screenwriter Dixon Steele, who finds himself being questioned by the police after a hat-check girl he'd picked up is found murdered. His lovely neighbor Laurel Gray (Gloria Grahame) manages to provide him with an alibi, and the two quickly fall 
+for each other. But Steele's violent past continues to raise questions about his possible involvement in the murder, and Gray finds herself loving an outcast. Grahame and director Ray were married, but separated during the shooting of the film, rendering it one of the greatest and most eloquent works of confessional art. <I>35mm.</I></DIV></BLOCKQUOTE>
+
+
+Thursday, January 17 - 7:00 
+<BLOCKQUOTE><STRONG class="title">The Sniper</STRONG><BR> 
+<I>Edward Dmytryk, 1952 - 87 min.</I>
+<DIV class="gray">The young Eddie Miller (Arthur Franz) possesses a deep hatred of women, and begins terrorizing San Francisco by targeting girls who get on his bad side with his high-powered rifle. Two 
+cops assigned to crack the case must work with a psychologist who has his own agenda for dealing with serial offenders. Despite the presence of the pseudo-psychology common to the noir genre, the killer's motive remains unclear. The highlight of the film is Franz's portrayal of the tormented Eddie, which places The Sniper up with Fritz Lang's <I>M</I> as one of the most subtle and probing films about a serial killer. <I>35mm.</I></DIV></BLOCKQUOTE>
+
+
+Thursday, January 24 - 7:00
+<BLOCKQUOTE><STRONG class="title">The Big Heat</STRONG><BR> 
+<I>Fritz Lang, 1953 - 89 min.</I>
+<DIV class="gray">Lang, the grandfather of film noir, initiated a shift in the genre with this hard-hitting story of Detective Sergeant Dave Bannion (Glenn Ford), who's investigating the suicide of a police sergeant and the murder of a barfly. He quickly gets in over his head, and the mobsters he's after begin targeting his family. His quest for justice leads him to the bruised Debby Marsh (Gloria Grahame), escaping from ultra-violent Vince Stone (Lee Marvin). The film includes a great script written by a former crime reporter, Ford's best performance, and scalding coffee as a weapon. <I>35mm.</I></DIV></BLOCKQUOTE>
+
+
+Thursday, January 31 - 7:00
+<BLOCKQUOTE><STRONG class="title">The Big Combo</STRONG><BR> 
+<I>Joseph H. Lewis, 1955 - 84 min.</I>
+<DIV class="gray">A police detective trying to take down vicious mobster Mr. Brown (Richard Conte) becomes obsessed with saving his target's girlfriend. The film is carried not only by its plot, but also by its developed characters and its cinematography, which produces a dreamlike setting surpassing most other films of the genre. The classic closing shoot-out, following the film's controlled but sadistic violence (includes use of a hearing aid as implement of torture), make this one of the great late noirs. <I>35mm.</I><BR>
+<I>Print courtesy of UCLA Film & Television Archive. Preservation Funded by the Film Foundation.</I></DIV></BLOCKQUOTE>
+
+
+Thursday, February 7 - 7:00 
+<BLOCKQUOTE><STRONG class="title">The Killing</STRONG><BR> 
+<I>Stanley Kubrick, 1956 - 85 min.</I>
+<DIV class="gray">Kubrick's first hit and a foundational work of the "heist" genre, this film tells the story of ex-con Johnny Clay (Sterling Hayden), who thinks he has the perfect plan to steal two million dollars from a racetrack. The meticulous planning of the job is told from each member of the 
+gang's perspective, but the bodies pile up after a conniving girlfriend tips her lover off about the deal. Film executives balked at the film's non-linear narrative structure, and relegated it to a B-movie. However, the film's superb construction prompted Orson Welles to hail Kubrick as a great director and later influenced Tarantino. <I>35mm.</I></DIV></BLOCKQUOTE>
+
+
+Thursday, February 14 - 7:00
+<BLOCKQUOTE><STRONG class="title">Nightfall</STRONG><BR> 
+<I>Jacques Tourneur, 1957 - 78 min.</I>
+<DIV class="gray">Aldo Ray plays a man running from a private detective who's after some money. He meets Marie Gardner (Anne Bancroft) at a bar, and recounts his story to her through flashbacks, which reveal how Ray's character snatched the money from two crooks, who - along with allegations that he murdered his best friend - are following him around the country. Cruel violence and dark humor mark the story, which ends in snowy Wyoming. Tourneur combines exceptional outdoor shooting with his infatuation with wild fate to craft a unique, yet rarely seen film. <I>35mm.</I></DIV></BLOCKQUOTE>
+
+
+Thursday, February 21 - 7:00 
+<BLOCKQUOTE><STRONG class="title">The Lineup</STRONG><BR> 
+<I>Don Siegel, 1958 - 86 min.</I>
+<DIV class="gray">Director Don Siegel (<I>Invasion of the Body Snatchers</I>, <I>Dirty Harry</I>) demonstrates his mastery over the action film in this adaptation of a 1950s police procedural TV series. Three criminals in the employ of the mafia are intercepting heroin shipments from travelers who are unknowingly acting as mules. The police become privy to the scheme, and begin tracking down the trio of murderers. While deliberately using some noir conventions, the film is notable for its outdoor location shooting in San Francisco, featuring a car chase over an unfinished freeway. <I>35mm.</I></DIV></BLOCKQUOTE>
+
+
+Thursday, February 28 - 7:00
+<BLOCKQUOTE><STRONG class="title">Touch of Evil</STRONG><BR> 
+<I>Orson Welles, 1958 - 108 min.</I>
+<DIV class="gray">The lurid story begins when a car explodes on the Mexican-American border. Grossly overweight Sheriff Hank Quinlan (a grossly overweight Welles) must defend his turf against Mexican narcotics officer Ramon Vargas (Charlton Heston), who takes issue with Quinlan's dubious police work and respect for law. Vargas, his wife, and a diverse cast of characters find themselves engulfed in the struggle that ensues. Welles took advantage of all the technology and resources at his disposal in his last Hollywood film, and created a cinematic masterpiece, often considered a demarcation of 
+the end of the noir era. <I>35mm.</I></DIV></BLOCKQUOTE>
+
+
+Thursday, March 6 - 7:00 
+<BLOCKQUOTE><STRONG class="title">Murder By Contract</STRONG><BR> 
+<I>Irving Lerner, 1958 - 81 min.</I>
+<DIV class="gray">Claude (Vince Edwards) decides to abandon his mundane life in order to become a well-paid contract killer. He pursues his new profession with "business is business" detachment, until he's assigned to assassinate a woman set to testify against a mob boss. The film's combination of dialogue, character acting, and a simple guitar score render it possibly the best hired gun movie ever. It's credited as a direct inspiration for Jim Jarmusch's <I>Ghost Dog</I>, as well as for the films <I>Mean Streets</I> and <I>Taxi Driver</I> by Martin Scorsese, who's said: "This is the film that has influenced me the most." <I>35mm.</I></DIV></BLOCKQUOTE>
+
+
+Thursday, March 13 - 7:00 
+<BLOCKQUOTE><STRONG class="title">The Crimson Kimono</STRONG><BR> 
+<I>Sam Fuller, 1959 - 82 min.</I>
+<DIV class="gray">Two Los Angeles detectives - one Caucasian and one Japanese - try to unravel the baffling case of the murder of Sugar Torch, a stripper. They acquire some good leads from characters in Little Tokyo, but the case threatens to fall apart when both detectives, also roommates and army buddies, fall in love with the key witness. Filmed in a sur-documentary style, this is one of Sam Fuller’s lesser-seen works. Detective Joe Kojaku was one of the first three-dimensional Asian characters in a Hollywood film, and the sexually suggestive portrayal of his relationship with a white woman shocked audiences. <I>35mm.</I></DIV></BLOCKQUOTE>
+
+
+<A href="../calendar.shtml">Back to Winter 2008 Calendar</A>
+
+
+<!--#include virtual="../layout/footer.html"-->

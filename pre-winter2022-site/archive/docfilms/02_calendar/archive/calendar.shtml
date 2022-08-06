@@ -1,0 +1,74 @@
+﻿<!--#include virtual="layout/header_top.html"-->
+<TITLE>Doc Films: Calendar</TITLE>
+
+<SCRIPT language="JavaScript">
+<!-- 
+ function surfto(form) {
+        var myindex=form.select.selectedIndex
+        if (form.select.options[myindex].value != "0") {
+        window.open(form.select.options[myindex].value, target="calendar");}
+}
+//-->
+</SCRIPT>
+
+<!--#include virtual="layout/header_bottom.html"-->
+
+<TABLE width=100%><TR><TD><H2>The Doc Films Calendar: Spring 2008</H2></TD><TD><DIV align="right">
+
+<FORM name="form">
+  <SELECT name="select" onChange="surfto(this.form)" size=1>
+    <OPTION selected value="0"> Calendar View</OPTION>
+    <OPTION value="http://docfilms.uchicago.edu/spring2008.html">&nbsp;&nbsp;&nbsp; Spring 2008 At A Glance</OPTION>
+	<OPTION value="http://www.google.com/calendar/embed?src=docinfo%40cs.uchicago.edu&amp;title=Doc%20Films%20Winter%202007&amp;chrome=NAVIGATION&amp;height=500"epr=3&amp;wkst=1&amp;hl=en">&nbsp;&nbsp;&nbsp; Google Calendar
+  </SELECT>
+</FORM>
+
+</DIV></TD></TR></TABLE>
+
+<CENTER><IFRAME src="spring2008.html" style=" border-width:0;" width="675" frameborder="0" height="470" scrolling="no" name="calendar"></IFRAME></CENTER>
+
+
+<P align="center"><FONT style="font-size:8pt;">Last-minute <A href="events.shtml">schedule changes and sneak previews</A> may not be reflected on the "At A Glance" calendar.<BR>
+In order to view the Doc Films schedule correctly, please set your Google Calendar time zone settings to Central Time.</FONT></P>
+
+
+<TABLE cellspacing=0 cellpadding=0 width=100%><TR><TD valign="top">
+
+<H3 align="left">View By Series</H3>
+	<P align="left">Sunday: <A href="calendar/sunday.shtml">James Whale: Beyond Gods and Monsters</A><BR>
+	Monday: <A href="calendar/monday.shtml">Impossible Adaptations</A><BR>
+	Tuesday: <A href="calendar/tuesday.shtml">Children of Paradise</A><BR>
+	Wednesday: <A href="calendar/wednesday.shtml">1960s Thrillers</A><BR>
+	Thursday:<BR>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<A href="calendar/thursday1.shtml">The Golden Age of Mexican Cinema: 1933-1943</A><BR>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<A href="calendar/thursday2.shtml">Cinemasaurus!</A><BR>
+	Weekends:<BR>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<A href="calendar/weekend.shtml">New Releases</A><BR>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<A href="calendar/weekend.shtml#matinee">Sunday Matinees</A><BR></P>	
+
+</TD><TD valign="top">
+	
+<H3 align="left">View By Week</H3>
+<P align="left">
+	<A href="calendar/week1.shtml">Week 1:</A> March 31 - April 5 <BR>
+	<A href="calendar/week2.shtml">Week 2:</A> April 6 - April 12 <BR>
+	<A href="calendar/week3.shtml">Week 3:</A> April 13 - April 19 <BR>
+	<A href="calendar/week4.shtml">Week 4:</A> April 20 - April 26 <BR>
+	<A href="calendar/week5.shtml">Week 5:</A> April 27 - May 3 <BR>
+	<A href="calendar/week6.shtml">Week 6:</A> May 4 - May 10 <BR>
+	<A href="calendar/week7.shtml">Week 7:</A> May 11 - May 17<BR>
+	<A href="calendar/week8.shtml">Week 8:</A> May 18 - May 24 <BR>
+	<A href="calendar/week9.shtml">Week 9:</A> May 25 - May 31 <BR>
+	<A href="calendar/week10.shtml">Week 10:</A> June 1 - June 7 <BR>
+	<A href="calendar/week11.shtml">Week 11:</A> June 8 <BR></P>
+
+</TD></TR></TABLE>
+
+
+
+<P align="left"><FONT style="font-size:10pt;">Series curated by Kian Bergstrom, Evan Chung, Steve Coates, Kathy Geier, Anna Parlato Gunderson, Andrew Stecker, and Kyle Westphal.</FONT></P>
+
+<P align="left"><FONT style="font-size:10pt;">Special thanks this quarter to Brian Belovarac, Janus Films; Brian Block, Criterion Pictures USA; Julio Chavesmontes and Beatriz Margain, Mexican Consulate of Chicago; Denise Chong, Universal Pictures; Dennis Doros, Milestone Films; Jessica Rosner, Kino International; Jared Sapolin, Sony Pictures Repertory; Delphine Selles and Diane Eberhardt, French Cultural Services; Cecile Starr, Todd Wiener and Joe Hunsberger, UCLA Film and Television Archive; Caroline Yeager, George Eastman House. </FONT></P>
+
+
+<!--#include virtual="layout/footer.html"-->

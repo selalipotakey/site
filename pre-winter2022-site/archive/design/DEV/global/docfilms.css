@@ -1,0 +1,107 @@
+body {
+color: #E4E4E4;
+background-color: black;
+font-family: Arial, Helvetica, sans-serif;
+margin: 0 0 15px 0; padding: 0;
+}
+
+.title {color: #93c4f9}
+strong.title {color: #93c4f9; font-weight: normal;}
+
+h1 {font-size: 2em;}
+h2 {font-size: 1.5em;}
+h3, .series {font-size: 1.3em; color: #cab168; font-size: larger}
+h4 {font-size: larger}
+
+.special {color: red}
+a:link {color: #93C4F9}
+a:visited {color: #4DB9E1}
+a:hover, a:active {color: #CAB168}
+
+ul.pagenav {
+list-style-type: none;
+margin: 0; padding: 0;
+}
+
+ul.pagenav li {
+padding: 2px 0;
+}
+
+p {
+margin-top: 0; padding-top: 0;
+}
+
+img {
+border: 0;
+}
+
+div {
+margin: 0; padding: 0;
+}
+
+#container {
+width: 735px;
+position: relative;
+}
+
+#header img {
+padding-left: 20px; padding-top: 15px;
+}
+
+/*right navigation*/
+#nav {
+position: absolute;
+right: 0;
+top: 10px;
+}
+
+#nav ul {
+list-style-type: none;
+background: url("/images/nav.gif") black 0 repeat-x;
+width: 180px;
+height: 468px;
+margin: 0; padding: 0;
+position: relative;
+}
+
+#nav li, #nav a {
+height: 78px; width: 180px; display: block; float: left;}
+/*float is to avoid extra height in IE*/
+
+#nav span {
+display: none; visibility: hidden;
+}
+
+#cal a:hover {background: url("/images/nav.gif") black 180px 468px;}
+#eve a:hover {background: url("/images/nav.gif") black 180px 390px;}
+#dir a:hover {background: url("/images/nav.gif") black 180px 312px;}
+#vol a:hover {background: url("/images/nav.gif") black 180px 234px;}
+#abo a:hover {background: url("/images/nav.gif") black 180px 156px;}
+#hom a:hover {background: url("/images/nav.gif") black 180px 78px;}
+
+#content {
+margin: 0 200px 30px 65px;
+}
+
+#season {
+background: url("/images/season.gif") black 0 no-repeat;
+position: absolute; top: 150px; left: 23px; width: 30px; height: 200px;
+}
+
+#footer, #footer p {
+font-size: x-small;
+margin-left: 35px;
+}
+
+/* stylize front page ONLY*/
+#front ul li{
+margin: 5px 0 15px 0;
+/*margin: 15px 0;*/
+}
+
+#front ul ul {
+list-style-type: none;
+}
+#front ul ul li{
+margin: 2px 0;
+}

@@ -1,0 +1,168 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>Doc Films</title>
+<link href="../layout/layout.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript">
+<!--
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_nbGroup(event, grpName) { //v6.0
+  var i,img,nbArr,args=MM_nbGroup.arguments;
+  if (event == "init" && args.length > 2) {
+    if ((img = MM_findObj(args[2])) != null && !img.MM_init) {
+      img.MM_init = true; img.MM_up = args[3]; img.MM_dn = img.src;
+      if ((nbArr = document[grpName]) == null) nbArr = document[grpName] = new Array();
+      nbArr[nbArr.length] = img;
+      for (i=4; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
+        if (!img.MM_up) img.MM_up = img.src;
+        img.src = img.MM_dn = args[i+1];
+        nbArr[nbArr.length] = img;
+    } }
+  } else if (event == "over") {
+    document.MM_nbOver = nbArr = new Array();
+    for (i=1; i < args.length-1; i+=3) if ((img = MM_findObj(args[i])) != null) {
+      if (!img.MM_up) img.MM_up = img.src;
+      img.src = (img.MM_dn && args[i+2]) ? args[i+2] : ((args[i+1])? args[i+1] : img.MM_up);
+      nbArr[nbArr.length] = img;
+    }
+  } else if (event == "out" ) {
+    for (i=0; i < document.MM_nbOver.length; i++) {
+      img = document.MM_nbOver[i]; img.src = (img.MM_dn) ? img.MM_dn : img.MM_up; }
+  } else if (event == "down") {
+    nbArr = document[grpName];
+    if (nbArr)
+      for (i=0; i < nbArr.length; i++) { img=nbArr[i]; img.src = img.MM_up; img.MM_dn = 0; }
+    document[grpName] = nbArr = new Array();
+    for (i=2; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
+      if (!img.MM_up) img.MM_up = img.src;
+      img.src = img.MM_dn = (args[i+1])? args[i+1] : img.MM_up;
+      nbArr[nbArr.length] = img;
+  } }
+}
+//-->
+</script>
+</head>
+<body onload="MM_preloadImages('../layout/navbar/HomeOver.gif','../layout/navbar/CalendarOver.gif','../layout/navbar/VisitingOver.gif','../layout/navbar/AboutOver.gif','../layout/navbar/InvolvedOver.gif','../layout/navbar/MediaOver.gif','../layout/navbar/ContactOver.gif')">
+<div id="wrapper">
+<div id="header"> </div>
+<div id="navbar">
+  <table border="0" align="right" cellpadding="0" cellspacing="0">
+    <tr>
+      <td><a href="http://docfilms.uchicago.edu/" target="_top" onclick="MM_nbGroup('down','group1','Home','',1)" onmouseover="MM_nbGroup('over','Home','../layout/navbar/HomeOver.gif','',1)" onmouseout="MM_nbGroup('out')"><img src="../layout/navbar/HomeUp.gif" alt="" name="Home" width="58" height="22" border="0" id="Home" onload="" /></a></td>
+      <td><img src="../layout/navbar/Dot.gif" width="14" height="22" /></td>
+      <td><a href="../02_calendar/2009-01.shtml" target="_top" onclick="MM_nbGroup('down','group1','Calendar','',1)" onmouseover="MM_nbGroup('over','Calendar','../layout/navbar/CalendarOver.gif','',1)" onmouseout="MM_nbGroup('out')"><img src="../layout/navbar/CalendarUp.gif" alt="" name="Calendar" width="86" height="22" border="0" id="Calendar" onload="" /></a></td>
+      <td><img src="../layout/navbar/Dot.gif" width="14" height="22" /></td>
+      <td><a href="../03_visitingdoc/visitors.shtml" target="_top" onclick="MM_nbGroup('down','group1','Visiting','',1)" onmouseover="MM_nbGroup('over','Visiting','../layout/navbar/VisitingOver.gif','',1)" onmouseout="MM_nbGroup('out')"><img src="../layout/navbar/VisitingUp.gif" alt="" name="Visiting" width="112" height="22" border="0" id="Visiting" onload="" /></a></td>
+      <td><img src="../layout/navbar/Dot.gif" width="14" height="22" /></td>
+      <td><a href="../04_aboutdoc/about.shtml" target="_top" onclick="MM_nbGroup('down','group1','About','',1)" onmouseover="MM_nbGroup('over','About','../layout/navbar/AboutOver.gif','',1)" onmouseout="MM_nbGroup('out')"><img src="../layout/navbar/AboutUp.gif" alt="" name="About" width="98" height="22" border="0" id="About" onload="" /></a></td>
+      <td><img src="../layout/navbar/Dot.gif" width="14" height="22" /></td>
+      <td><a href="../05_gettinginvolved/volunteers.shtml" target="_top" onclick="MM_nbGroup('down','group1','Involved','',1)" onmouseover="MM_nbGroup('over','Involved','../layout/navbar/InvolvedOver.gif','',1)" onmouseout="MM_nbGroup('out')"><img src="../layout/navbar/InvolvedUp.gif" alt="" name="Involved" width="156" height="22" border="0" id="Involved" onload="" /></a></td>
+      <td><img src="../layout/navbar/Dot.gif" width="14" height="22" /></td>
+      <td><a href="../06_media/mediainfo_2009_01.shtml" target="_top" onclick="MM_nbGroup('down','group1','Media','',1)" onmouseover="MM_nbGroup('over','Media','../layout/navbar/MediaOver.gif','',1)" onmouseout="MM_nbGroup('out')"><img src="../layout/navbar/MediaUp.gif" alt="" name="Media" width="63" height="22" border="0" id="Media" onload="" /></a></td>
+      <td><img src="../layout/navbar/Dot.gif" width="14" height="22" /></td>
+      <td><a href="../07_contact/contact.shtml" target="_top" onclick="MM_nbGroup('down','group1','Contact','',1)" onmouseover="MM_nbGroup('over','Contact','../layout/navbar/ContactOver.gif','',1)" onmouseout="MM_nbGroup('out')"><img src="../layout/navbar/ContactUp.gif" alt="" name="Contact" width="76" height="22" border="0" id="Contact" onload="" /></a></td>
+    </tr>
+  </table>
+</div>
+<div id="midbar"> </div>
+<div id="content">
+<SCRIPT type="text/javascript"><!--
+function toggle_visibility(id) {
+var e = document.getElementById(id);
+if(e.style.display == 'none')
+e.style.display = 'block';
+else
+e.style.display = 'none';
+}
+//--></SCRIPT>
+<h1> Winter 2009, Monday Series &bull; Stan Brakhage</h1> 
+
+<p><em>The first 30 years of cinema&#8217;s poet laureate. </em></p>
+
+<p><em>&#8220;I am the most documentary film maker in the world because I document the act of seeing as well as everything the light brings me&#8230;. I have added nothing. I&#8217;ve just been trying to see and make a place for my seeing in the world at large.</em>&nbsp;&nbsp;&nbsp;&nbsp;– Stan Brakhage, 1933-2003<strong><A href="#essay" onclick="toggle_visibility('essay');"> more</a></strong></p>
+
+<div id="essay" style="display:none;">
+
+<p><strong><em>Films From 1952-1957</em></strong> (1/5)</br>
+Nine films charting Brakhage&#8217;s rapid artistic development. <strong><em>Interim</em></strong> (1953, 26m), Brakhage&#8217;s first film, was made when he was only 19 years old, and is a collaboration with then-neophyte composer James Tenney. <strong><em>The Wonder Ring</em></strong> (1955, 6m), commissioned by Joseph Cornell, discovers hidden poetry within an elevated train. <strong><em>Desistfilm</em></strong> (1954, 7m) was named by Willard Maas as &#8220;the best film in the 1950s.&#8221; Also in program: <strong><em>The Way to Shadow Garden</em></strong> (1955, 10m), <strong><em>In Between</em></strong> (1955, 10m), <strong><em>Reflections on Black</em></strong> (1955, 12m), <strong><em>Nightcats</em></strong> (1956, 8m), <strong><em>Daybreak</em></strong>, <strong><em>Whiteye</em></strong> (1957, both total 8m), <strong><em>Loving</em></strong> (1956, 6m).</p>
+
+<p><strong><em>Films From 1958-1962</em></strong> (1/12)</br>
+Six of Brakhage&#8217;s most influential and greatest films. <strong><em>Anticipation of the Night</em></strong> (1958, 42m) is a moving exploration of mortality within a world suffused with a tragic and indifferent beauty. <strong><em>Window Water Baby Moving</em></strong> (1959, 12m) is at once a document of his daughter&#8217;s birth and a testament to the generative powers of light and love. <strong><em>Blue Moses</em></strong> (1962, 11m) grapples with the conflicts between how the camera and the eye perceive. Also in program: <strong><em>Sirius Remembered</em></strong> (1959, 12m), <strong><em>The Dead</em></strong> (1960, 11m), <strong><em>Thigh Line Lyre Triangular</em></strong> (1961, 5m).</p>
+
+<p><strong><em>Films From 1963-1970</em></strong> (1/19)</br>
+<strong><em>Mothlight</em></strong> (1963, 4m) is a collage of found material taped to clear splicing tape; insect wings, leaves of grass, the detritus of the natural world flash past the viewer in a flurry of dissections. The rigor and cruelty of the cinematic frame is here celebrated and condemned as powerfully and importantly as Kubelka&#8127;s <em>Arnulf Rainer</em>. The intricate handcrafting of <strong><em>Eye Myth</em></strong> (1967, 2m) took Brakhage a year to plan and execute. Though his shortest film, he considered it his version of an epic. With each frame handpainted, he hoped to capture the peculiarities of hypnagogia, the mysterious intermediate state between wakefulness and sleep. <strong><em>The Weir&#8211;Falcon Saga</em></strong> (1970, 30m) renders indeterminate whether its imagery is objective or subjective, dream or memory, fear or fact. Also in program: <strong><em>Fire of Waters</em></strong> (1965, 10m), <strong><em>Pasht</em></strong> (1965, 5m), <strong><em>The Horseman, the Woman, and the Moth</strong></em> (1968, 26m), <strong><em>The Machine of Eden</em></strong> (1970, 14m).</p>
+
+<p><strong><em>23<sup>rd</sup> Psalm Branch</strong></em> (1/26)</br>
+When Brakhage and his family acquired a television set in the mid&#8211;1960s, he was appalled by the prosthetic, vicarious experience of the evils and violence of war that the device transmitted. For Brakhage, television&#8217;s pixel&#8211;and&#8211;scan imagery mirrored the structure of remembered vision. The viewer, he argued, &#8216;comes en&#8211;meshed, or made&#8211;up&#8211;of, the television&#8211;scanning &#8220;dots&#8221; which closely approximate his most private vision &#8211; his sense of his own optic nerve&#8211;end activity, seen as a grainy field of &#8220;light&#8221;&#8211;particles when his eyes are closed, particles which seem to cluster into shapes in the act of memory.&#8217; In <strong><em>23<sup>rd</sup> Psalm Branch</em></strong> (1966-7, 60m), he adopts the strategy, then, of film&#8217;s enemy to combat it. &#8216;TELEVISION,&#8217; he wrote, &#8216;dumped the implication of monstrous war guilt into my living room,&#8217; and from that technological culpability he created what might be the most powerful anti&#8211;war film ever made.</p>
+
+<p><strong><em>Scenes From Under Childhood</em></strong> (2/2)</br>
+A four&#8211;part film, <strong><em>Scenes from Under Childhood</em></strong> (1967-70, 135m) examines, in stages, the differences in perception between children and adults. Brakhage&#8217;s aim, he said, was to &#8216;express something of this world that&#8217;s so alive to children: of closing the eyes and seeing explosions and dots and so on.&#8217; Elaborating, he noted, &#8216;the strangest world I think we have available to any sense is the world that occurs when the eyes are closed. And this whole work could be considered as moving in that direction, not just where I&#8217;m using dots and specks and patterns, but in fact the memory process.&#8217; As adults, Brakhage believed, our sense of sight has been tutored away from the wonder and magic the world actually contains. The sight of children, as this film tries to capture it, has yet to learn such limiting discipline.</p>
+
+<p><strong><em>The &#8216;Pittsburgh&#8217; trilogy</em></strong> (2/9)</br>
+Along with <em>23<sup>rd</sup> Psalm Branch</em>, these three films constitute Brakhage&#8217;s most direct engagement with politics and social interactions. In comparison to his introspective films, he said of the trilogy, &#8216;I&#8217;m dealing with a social crisis, so I am suggesting more on an outerscape,&#8216; depicting in each a different one of what he thought of as &#8216;mystical occupations,&#8217; those social functions we depend upon but rarely consider as lived experiences. The first, <strong><em>eyes</em></strong> (1971, 35m), considers policemen as society&#8217;s ocular specialists, whose trained visual facility keeps us both safe and under surveillance. <strong><em>Deus Ex</em></strong> (1971, 35m) looks at the hospital as a site for modern miracles. <strong><em>The Act of Seeing With One&#8217;s Own Eyes</strong></em> (1971, 32m) enters a morgue, where the disassembling of human bodies reveals constellations of sublime possibilities curtailed by death.</p>
+
+<p><strong><em>Films From 1972-1976</em></strong> (2/16)</br>
+Fred Camper, noting that <strong><em>The Riddle of Lumen</em></strong> (1972, 17m) can be accurately described &#8216;as an inventory of different varieties of light that exist in the world,&#8217; has argued that the film rejects corporeal, haptic stimulation, instead generating a sense of detachment in us necessary &#8216;to understand that each image represents a unique and miraculous form of light.&#8217; <strong><em>The Wold&#8211;Shadow</strong></em> (1972, 3m) imposes a sheet of clear glass between the camera and its object, a shot of woodlands. Shooting in single frames, Brakhage applies stunning layers of paint to the glass. In contrast to Lumen, this film is then a catalogue of all the colors that did not exist in that moment. <strong><em>Star Garden</em></strong> (1974, 22m) is a celebration of the sun as a source of true beauty on earth, possibly the only one. Also in program: <strong><em>The Process</em></strong> (1972, 13.5m), <strong><em>The Shores of Phos: A Fable</em></strong> (1972, 10m), <strong><em>Aquarien</em></strong> (1974, 2m), <strong><em>Dominion</em></strong> (1974, 4m), <strong><em>Flight</em></strong> (1974, 5.5m), <strong><em>&#8220;he was born, he suffered, he died&#8221;</strong></em> (1974, 7.5m), <strong><em>Hymn to Her</em></strong> (1974, 2.5m), <strong><em>Skein</em></strong> (1974, 5m), <strong><em>Sol</em></strong> (1974, 4m), <strong><em>Airs</em></strong> (1976, 24m).</p>
+
+<p><strong><em>The Text of Light</em></strong> (2/23)</br>
+One of Brakhage&#8217;s first abstract films, <strong><em>The Text of Light</em></strong> (1974, 71m) was laboriously filmed in single frame exposures as beams of light play through a crystal ashtray. Shooting with a macro lens, the camera was so close to the object that no shapes or clues were left that the viewers could use to orient themselves. &#8216;That light travels over the ground, that it pools &#8211; that there is a pool of luminescence which is very ephemeral, and which takes a relaxing of Western muscles in the eyes in order to be aware of. That light&#8211;streaks come down previous to rain &#8211; splitting the air &#8211; light&#8211;like phosphorescent streaks of &#8230; something! That I call light!&#8217;</p>
+
+<p><strong><em>Sincerity</em></strong> &amp; <strong><em>Duplicity</em></strong> (3/2)</br>
+The two series <strong><em>Sincerity</em></strong> (1973&#8211;1980, 221m) and <strong><em>Duplicity</em></strong> (1978, 23m) constitute Brakhage&#8217;s most sustained attempt at a purely cinematic autobiography. As he spools through his personal archives of previously unused footage for these films, it is as though he is discovering a cinematic equivalent not to memory but to dendrochronology, literally &#8216;tree time.&#8217; For Brakhage, a crucial difference between autobiography and history is that the former is not, can not, be linear but associational. In deeply honest, self&#8211;critical gestures of celluloid, <strong><em>Sincerity</em></strong> and <strong><em>Duplicity</em></strong> are, in his words, &#8216;what home movies could be if they were stripped of sentimentality.&#8217;</p>
+
+<p><strong><em>1977-1981</em></strong> (3/9)</br>
+David Sterritt describes Brakhage&#8217;s nine&#8211;part <strong><em>Roman Numeral Series</em></strong> (1979&#8211;81, 46m) as &#8216;exercises in pure color, motion, and shape,&#8217; noting that the films &#8216;search for the &#8220;original vision&#8221; or ur&#8211;perception we are born with, and can still recapture if we keep &#8220;looking&#8221; when we close our eyes or go to sleep.&#8217; Rather than purely celebrating that untutored vision, as his earlier films did, <em>Romans</em> views it as well with horror, however, seeing in it the risk of seeing too much, a fright that what we’ve lost the will and ability to see might be more than we can handle. Also in program: <strong><em>The Domain of the Moment</em></strong> (1977, 18m), <strong><em>@</em></strong> (1979, 17m), <strong><em>Creation</em></strong> (1979, 17m). <strong>KB</strong> <strong><a href="#" onclick="toggle_visibility('essay');">close</a></strong></p></div>
+
+  <p>Monday, January 5 &bull; 7:00 PM &bull; 93m<strong></strong><a name="Brakhage1" id="Brakhage1"></a><br />
+    <strong>Brakhage: Films from 1952&#8211;1957</strong><br />
+    <em>Stan Brakhage, 1958&#8211;62 &bull; </em>Nine films charting Brakhage&#8217;s rapid artistic development. Interim, Brakhage&#8217;s first film, was made when he was only 19 years old, and is a collaboration with then&#8211;neophyte composer James Tenney. <strong><em>The Wonder Ring</em></strong>, commissioned by Joseph Cornell, discovers hidden poetry within an elevated train. <strong><em>Desistfilm</em></strong> was named by Willard Maas as &#8220;the best film in the 1950s.&#8221; <strong><em>Reflections on Black</em></strong> recovers the lost vision of a blind man as he experiences modern urban life. Also in the program: <strong><em>The Way to Shadow Garden</em></strong>, <strong><em>In Between</em></strong>, <strong><em>Nightcats</em></strong>, <strong><em>Daybreak</em></strong>, <strong><em>Whiteye</em></strong>, and <strong><em>Loving</em></strong>. <em>16mm  - not available on DVD.</em></p>
+  <p>Monday, January 12 &bull; 7:00 PM &bull; 93min<a name="Brakhage2" id="Brakhage2"></a><br />
+    <strong>Brakhage: Films from 1958&#8211;1962<br />
+    </strong><em>Stan Brakhage, 1958&#8211;62</em> &bull; Six of Brakhage&#8217;s most influential and greatest films. <strong><em>Anticipation of the Night</em></strong> is a moving exploration of mortality within a world suffused with a tragic and indifferent beauty. <strong><em>Window Water Baby Moving</em></strong> is at once a document of his daughter&#8217;s birth and a testament to the generative powers of light and love. <strong><em>Blue Moses</em></strong> grapples with the conflicts between how the camera and the eye perceive. <strong><em>Sirius Remembered</em></strong> is a loving and gruesome tribute to his beloved pet dog, left to decay over the course of three seasons. As Sirius rots, Brakhage never flinches. Also in program: <strong><em>The Dead</em></strong>, <strong><em>Thigh Line Lyre Triangular</em></strong>. <em>16mm</em> <em> - not available on DVD.</em></p>
+  <p>Monday, January 19 &bull; 7:00 PM &bull; 89m<a name="Brakhage3" id="Brakhage3"></a><br />
+      <strong>Brakhage: Films from 1963&#8211;1970</strong><br />
+      <em>Stan Brakhage, 1963&#8211;70</em> &bull; <strong><em>Mothlight</em></strong> is a collage of found material taped to clear leader. The rigor and cruelty of the cinematic frame is here celebrated and condemned as powerfully and importantly as Kubelka&#8217;s <strong><em>Arnulf Rainer</em></strong>. Though his shortest film, Brakhage considered <strong><em>Eye Myth</em></strong> his version of an epic. With each frame handpainted, he hoped to capture the intermediate state between wakefulness and sleep. <strong><em>The Weir&#8211;Falcon Saga</em></strong> renders indeterminate whether its imagery is objective or subjective, dream or memory, fear or fact. Also in program: <strong><em>Fire of Waters</em></strong>, <strong><em>Pasht</em></strong>, <strong><em>The Horseman, the Woman, and the Moth</em></strong>, and <em><strong>The Machine of Eden</strong></em> <em>16mm</em> <em> - not available on DVD.</em></p>
+  <p>Monday, January 26 &bull; 7:00 PM &bull; 60min<a name="Brakhage4" id="Brakhage4"></a><br />
+      <strong>23<sup>rd</sup> Psalm Branch</strong><strong></strong><br />
+      <em>Stan Brakhage, 1966&#8211;67</em> &bull; When Brakhage and his family acquired a television set in the mid&#8211;1960s, he was appalled by the prosthetic, vicarious experience of the evils and violence of war that the device transmitted. For Brakhage, television&#8217;s pixel&#8211;and&#8211;scan imagery mirrored the structure of remembered vision. In <em>23<sup>rd</sup> Psalm Branch</em>, he adopts the strategy of film&#8217;s enemy to combat it. &#8217;TELEVISION,&#8217; he wrote, &#8220;dumped the implication of monstrous war guilt into my living room,&#8221; and from that technological culpability he created what might be the most powerful anti&#8211;war film ever made. <em>16mm</em> <em> - not available on DVD.</em></p>
+  <p>Monday, February 2 &bull; 7:00 PM &bull; 135min<strong></strong><a name="Brakhage5" id="Brakhage5"></a><strong></strong><br />
+  <strong>Scenes from under Childhood</strong><br />
+	<em>Stan Brakhage, 1967&#8211;70</em> &bull; A four&#8211;part film that examines, in stages, the differences in perception between children and adults. Brakhage&#8217;s aim, he said, was to &#8220;express something of this world that&#8217;s so alive to children: of closing the eyes and seeing explosions and dots and so on.&#8221; As adults, Brakhage believed, our sense of sight as been tutored away from the wonder and magic the world actually contains. The sight of children, as this film tries to capture that sight, is freer, and has yet to learn such limiting discipline. <em>16mm</em> <em> - not available on DVD.</em></p>
+  <p>Monday, February 9 &bull; 7:00 PM &bull; 102min<a name="Brakhage6" id="Brakhage7"></a><br />
+      <strong>1971&#8211;1972: The Pittsburgh Trilogy</strong><br />
+      <em>Stan Brakhage, 1971&#8211;72</em> &bull; In each of these films Brakhage depicts a different one of what he thought of as &#8216;mystical occupations,&#8217; those social functions we depend upon but rarely consider as lived experiences. The first, <strong><em>eyes</em></strong>, considers policemen as society&#8217;s ocular specialists, whose trained visual facility keeps us both safe and under surveillance. <strong><em>Deus Ex</em></strong> looks at the hospital as a site for modern miracles. <strong><em>The Act of Seeing With One&#8217;s Own Eyes</em></strong> enters a morgue, where the disassembling of human bodies reveals constellations of sublime possibilities curtailed by death. <em>16mm</em> <em> - not available on DVD.</em></p>
+<p>Monday, February 16 &bull; 7:00 PM &bull; 107min<a name="Brakhage7" id="Brakhage7"></a><br />
+      <strong>Brakhage: Films from 1972&#8211;1976</strong><br />
+      <em>Stan Brakhage, 1972&#8211;76</em> &bull; Fred Camper has argued that in <em><strong>The Riddle of Lumen</strong></em> &#8220;each image represents a unique and miraculous form of light.&#8221; <em><strong>The Wold-Shadow</strong></em> imposes a sheet of clear glass between the camera and its object, a shot of woodlands. Shooting in single frames, Brakhage applies stunning layers of paint to the glass. <em><strong>Star Garden</strong></em> is a celebration of the sun as possibly the only source of true beauty on earth. Also in program: <strong><em>The Process</em></strong>, <strong><em>The Shores of Phos: A Fable</em></strong>, <strong><em>Aquarien</em></strong>, <strong><em>Dominion</em></strong>, <strong><em>Flight</em></strong>, <strong><em>&#8220;he was born, he suffered, he died&#8221;</em></strong>, <strong><em>Hymn to Her</em></strong>, <strong><em>Skein</em></strong>, <strong><em>Sol</em></strong>, and <strong><em>Airs</em></strong>. <em>16mm</em> <em> - not available on DVD.</em></p>
+<p>Monday, February 23 &bull; 7:00 PM &bull; 71min <a name="Brakhage8" id="Brakhage8"></a><br />
+      <strong>The Text of Light</strong><br />
+      <em>Stan Brakhage, 1974</em> &bull; Brakhage&#8217;s first wholly abstract film, laboriously filmed in single frame exposures as beams of light play through a crystal ashtray. Shooting with a macro lens, the camera was so close to the object that no shapes or clues were left that the viewers could use to orient themselves. Instead of an ashtray, then, the flashes of illumination seem to emanate from the mechanisms of Brakhage&#8217;s camera itself. &#8216;That light travels over the ground, that it pools &#8211; that there is a pool of luminescence which is very ephemeral, and which takes a relaxing of Western muscles in the eyes in order to be aware of.&#8217; <em>16mm</em> <em> - not available on DVD.</em></p>
+<p>Monday, March 2 &bull; 7:00 PM &bull; 244min<a name="Brakhage9" id="Brakhage9"></a><br />
+      <strong>Sincerity</strong> &amp; <strong>Duplicity</strong><br />
+      <em>Stan Brakhage, 1973&#8211;80</em> &bull; These paired film series constitute Brakhage&#8217;s most sustained attempt at a purely cinematic autobiography. As he spools through his personal archives of previously unused footage for these films, it is as though he is discovering a cinematic equivalent not to memory but to dendrochronology, literally &#8216;tree time.&#8217; For Brakhage, a crucial difference between autobiography and history is that the former is not, can not, be linear but associational. In deeply honest, self&#8211;critical gestures of celluloid, <strong><em>Sincerity</em></strong> and <strong><em>Duplicity</em></strong> are, in his words, &#8220;what home movies could be if they were stripped of sentimentality.&#8221; <em>16mm</em> <em> - not available on DVD.</em></p>
+<p>Monday, March 9 &bull; 7:00 PM &bull; 98min<a name="Brakhage10" id="Brakhage10"></a><br />
+      <strong>Brakhage: Films from 1977&#8211;1981</strong><br />
+      <em>Stan Brakhage, 1977&#8211;81</em> &bull; David Sterritt describes Brakhage&#8217;s nine&#8211;part <strong><em>Roman Numeral Series</em></strong> as &#8220;exercises in pure color, motion, and shape,&#8221; noting that the films &#8220;search for the &#8216;original vision&#8217; or ur&#8211;perception we are born with, and can still recapture if we keep &#8216;looking&#8217; when we close our eyes or go to sleep.&#8221; Rather than purely celebrating that untutored vision, as his earlier films did, <strong><em>Romans</em></strong> views it as well with horror, however, seeing in it the risk of seeing too much, a fright that what we&#8217;ve lost the will and ability to see might be more than we can handle. Also in program: <strong><em>The Domain of the Moment</em></strong>, <strong><em>@</em></strong>, and <strong><em>Creation</em></strong>. <em>16mm</em> <em> - not available on DVD.</em></p>
+  </div>
+<div id="midbar"> </div>
+<div id="footer"> </div> 
+</div>
+</body>
+</html>
+

@@ -1,0 +1,26 @@
+<!--#include virtual="global/header_top.html"-->
+<title>Doc Films / Events</title>
+<!--#include virtual="global/header_bottom.html"-->
+
+<h2>Events: Changes and Sneak Previews </h2>
+
+<ul style="margin-bottom: 90px ">
+    
+<li><p>January 18 9:30<br />
+<strong class="title">Fresh Cinema from Fire Escape's Newest Members</strong><br />
+120m</p></li>
+
+<li><p>February 1 9:30 <br />
+<strong class="title">Fire Escape Films and Order of the C present Reality-TV at the U of C</strong><br />
+60m</p></li>
+
+<li><p>February 22 9:30<br />
+Fire Escape Films presents<br />
+<strong class="title">Lego Movie 2<br />
+And the Pursuit of Happiness<br />
+Escape From Hyde Park</strong><br />
+90m</p></li>
+
+</ul>
+
+<!--#include virtual="global/footer.html"-->

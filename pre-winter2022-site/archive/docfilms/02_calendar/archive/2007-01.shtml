@@ -1,0 +1,46 @@
+<!--#include virtual="layout/header_top.html"-->
+<TITLE>Doc Films: Calendar</TITLE>
+<!--#include virtual="layout/header_bottom.html"-->
+
+<TABLE width=100%><TR><TD><H2>The Doc Films Calendar: Winter 2007</H2></TD><TD><DIV align="right"><A href="http://www.google.com/calendar/render?cid=docinfo%40cs.uchicago.edu" target="_win"><IMG src="http://www.google.com/calendar/images/ext/gc_button1_en.gif" border=0 alt="Subscribe to the Doc Films calendar!"></A></DIV></TD></TR></TABLE>
+
+<IFRAME src="http://www.google.com/calendar/embed?src=docinfo%40cs.uchicago.edu&amp;title=Doc%20Films%20Winter%202007&amp;chrome=NAVIGATION&amp;height=560"epr=3&amp;wkst=1&amp;hl=en" style=" border-width:0 " width="730" frameborder="0" height="480" scrolling="no"></IFRAME>
+
+<P align="center"><FONT style="font-size:8pt;">In order to view the Doc Films schedule correctly, please set your Google Calendar time zone settings to Central Time.</FONT></P>
+
+<TABLE cellspacing=0 cellpadding=0 width=100%><TR><TD valign="top">
+
+<H3>View By Series</H3>
+	Sunday: <A href="calendar/sunday.shtml">Maurice Tourneur</A><BR>
+	Monday: <A href="calendar/monday.shtml">L'Age d'or: French Film in the 1930s</A><BR>
+	Tuesday: <A href="calendar/tuesday.shtml">Los Angeles Plays Itself</A><BR>
+	Wednesday: <A href="calendar/wednesday.shtml">Classic Hitchcock</A><BR>
+	Thursday:<BR>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<A href="calendar/thursday1.shtml">Conscious Comedy</A><BR>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<A href="calendar/thursday2.shtml">Cinematic Sexualities</A><BR>
+	Weekends:<BR>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<A href="calendar/weekend.shtml">New Releases</A><BR>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<A href="calendar/weekend.shtml#matinee">Sunday Matinees</A><BR>	
+
+</TD><TD valign="top">
+	
+<H3>View By Week</H3>
+	<A href="calendar/week1.shtml">Week 1:</A> January 2 - January 6<BR>
+	<A href="calendar/week2.shtml">Week 2:</A> January 7 - January 13<BR>
+	<A href="calendar/week3.shtml">Week 3:</A> January 14 - January 20<BR>
+	<A href="calendar/week4.shtml">Week 4:</A> January 21 - January 27<BR>
+	<A href="calendar/week5.shtml">Week 5:</A> January 28 - February 3<BR>
+	<A href="calendar/week6.shtml">Week 6:</A> February 4 - February 10<BR>
+	<A href="calendar/week7.shtml">Week 7:</A> February 11 - February 17<BR>
+	<A href="calendar/week8.shtml">Week 8:</A> February 18 - February 24<BR>
+	<A href="calendar/week9.shtml">Week 9:</A> February 25 - March 3<BR>
+	<A href="calendar/week10.shtml">Week 10:</A> March 4 - March 10<BR>
+
+</TD></TR></TABLE>
+
+<P>The Winter 2007 <A href="files/calendar.pdf">calendar</a>, and our brand new Winter 2007 <A href="files/newsletter.pdf">newsletter</A>, are now available in PDF form.  We generally deliver the print calendars around Hyde Park, and to as many film and art hotspots around the rest of Chicago as we can. If you'd like us to deliver to a location we may not have thought about, especially in the Hyde Park/Kenwood/Woodlawn neighborhoods, please <A href="contact.shtml">let us know</A>.</P>
+
+<P>A list of past films shown at Doc Films can be found <A href="http://docfilms.uchicago.edu/files/filmsshown.html">here</A>.</P>
+
+
+<!--#include virtual="layout/footer.html"-->
