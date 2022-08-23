@@ -443,11 +443,11 @@ main {
 
 @font-face {
     font-family: GeneralSans-Semibold;
-    src: url('http://localhost/film-archive/fonts/GeneralSans-OTF/GeneralSans-Semibold.otf') format('opentype');
+    src: url('/fonts/GeneralSans-OTF/GeneralSans-Semibold.otf') format('opentype');
 }
 @font-face {
     font-family: Khand-Medium;
-    src: url('http://localhost/film-archive/fonts/Khand-OTF/Khand-Medium.otf') format('opentype');
+    src: url('/fonts/Khand-OTF/Khand-Medium.otf') format('opentype');
 }
 
 
@@ -528,52 +528,3 @@ main {
 
 }
 
-
-
-
-
-
-
-
-
-/* @font-face {
-    font-family: BarlowBlack;
-    src: url('http://localhost/film-archive/fonts/barlow/woff2/Barlow-Black.woff2') format('woff2'), 
-      url('http://localhost/film-archive/fonts/barlow/woff/Barlow-Black.woff') format('woff');
-}
-
-@font-face {
-    font-family: BarlowReg;
-    src: url('http://localhost/film-archive/fonts/barlow/woff2/Barlow-Regular.woff2') format('woff2'), 
-      url('http://localhost/film-archive/fonts/barlow/woff/Barlow-Regular.woff') format('woff');
-}
-
-@font-face {
-    font-family: QuebecBold;
-    src: url('http://localhost/film-archive/fonts/Quebec-Bold.otf') format('opentype');
-}
-
-@font-face {
-    font-family: JostBlack;
-    src: url('http://localhost/film-archive/fonts/Jost-900-Black.otf') format('opentype');
-}
-
-@font-face {
-    font-family: RubikBlack;
-    src: url('http://localhost/film-archive/fonts/Rubik-Black.otf') format('opentype');
-}
-
-@font-face {
-    font-family: Canarina;
-    src: url('http://localhost/film-archive/fonts/Canarina-Regular.otf') format('opentype');
-}
-
-@font-face {
-    font-family: Knewave;
-    src: url('http://localhost/film-archive/fonts/knewave-outline.otf') format('opentype');
-}
-
-@font-face {
-    font-family: RobotoBlack;
-    src: url('http://localhost/film-archive/fonts/Roboto-Regular.ttf') format('truetype');
-} */
