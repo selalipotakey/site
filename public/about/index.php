@@ -45,7 +45,7 @@
         <br>
         <p><b>By snail mail:</b> </p>
         <p>Doc Films</p>
-        <p>Univesrity of Chicago</p>
+        <p>University of Chicago</p>
         <p>Ida Noyes Hall</p>
         <p>1212 E. 59th St.</p>
         <p>Chicago, IL 60637</p>
