@@ -1,0 +1,579 @@
+/* general stuff */
+* {
+    margin: 0;               /* sets the space around any element to 0 */
+    padding: 0;              /* sets the space between content inside an element and the element's border to 0 */
+    box-sizing: border-box;     /* makes arranging css boxes easier. makes it so width/height include content AND padding+border */
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+:root {
+    --header-height: 9rem;
+    --footer-height: 8.5rem;
+    --overlay-footer-height: 6.5rem;
+}
+
+h1 {
+    font-size: 3rem;
+    padding-bottom: .5rem;
+    font-family: "GeneralSans-Semibold", Helvetica, Arial, sans-serif;
+}
+h2 {
+    padding-top: .5rem;
+    font-size: 2.7rem;
+}
+h3 {
+    font-size: 2rem;
+}
+p {
+    line-height: 1.5;
+    font-size: 1.8rem;
+}
+
+a {
+    color: #000000;
+    text-decoration: none;
+}
+a:hover {
+    color: #b4b4b4;
+}
+
+
+html {
+    min-height: 100vh;
+    font-size: 62.5%;
+}   
+
+body {
+    position: relative;
+    min-height: 100vh;
+}
+
+/* for nav bar */
+header {
+    display: flex;
+    position: fixed;
+    top: 0;
+    height: var(--header-height);
+    padding-top: .75rem;
+    padding-bottom: .75rem;
+    width: 100%;
+    background-color: white;
+    color: #000000;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 10;
+}
+
+header:before {
+    /* code for partial borders */
+    content: '';
+    border-bottom: .3rem solid #000000;
+    position: absolute;
+    left: 3rem;
+    right: 3rem;
+    bottom: 0;
+  }
+
+.logo-link {
+    display: flex;
+    align-items: center;
+    /* height: 100%; */
+    height: min(100%, 20vw);
+    text-decoration: none;
+    color: #000000;
+}
+
+.logo {
+    margin-left: 1rem;
+    margin-right: 1rem;
+    height: 80%;
+}
+
+/* .logo-text {
+    display: inline-block;
+    font-size: 5rem;
+    font-family: 'Knewave', Helvetica, Arial, sans-serif
+} */
+
+.navbar-ul {
+    display: none;
+}
+
+
+
+/* for the actual menu button */
+header .hamburger {
+    display: flex;
+    align-items: center;
+}
+
+header .menu-btn {
+    display: none;
+}
+
+header .menu-icon {
+    position: relative;
+    margin-right: 1rem;
+    padding: 2rem 1rem;
+    cursor: pointer;
+}
+
+header .menu-icon .nav-icon {
+    background: #000000;
+    display: block;
+    height: .3rem;
+    width: 3.1rem;
+    position: relative;
+    transition: background .2s ease-out;
+}
+
+header .menu-icon .nav-icon:before,
+header .menu-icon .nav-icon:after {
+    background: #000000;
+    content: "";
+    display: block;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    transition: all .2s ease-out;
+    top: 1rem;
+}
+
+header .menu-icon .nav-icon:after {
+    top: -1rem;
+}
+
+header .menu-btn:checked ~ .menu-icon .nav-icon {
+    background: transparent;
+}
+
+header .menu-btn:checked ~ .menu-icon .nav-icon:before {
+    transform: rotate(45deg);
+    top: 0;
+}
+
+header .menu-btn:checked ~ .menu-icon .nav-icon:after {
+    transform: rotate(-45deg);
+    top: 0;
+}
+
+
+
+/* for the overlay menu when menu button clicked */
+.overlay {
+    position: relative;
+    display: flex;
+    width: 100%;
+    position: fixed;
+    z-index: 1;
+    right: 0;
+    top: var(--header-height);
+    bottom: 0;
+    background-color: white;
+    color: #000000;
+    visibility: hidden;
+    opacity: 0;
+    transition: all .15s ease-out 0s;
+}
+
+.overlay-main {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    top: 0;
+    bottom: var(--overlay-footer-height);
+    width: 100%;
+    overflow: hidden;
+}
+
+.overlay-main .trim {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: min(13rem, 15vh);
+    width: 100%;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.reverse-img {
+    transform: scaleX(-1);
+    top: 0;
+}
+
+.overlay-main img.trim-element {
+    height: 100%;
+}
+
+.overlay ul.menu {
+    min-height: 40vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    list-style-type: none;
+}
+
+.overlay ul.menu li {
+    margin-top: .6rem;
+    margin-bottom: .6rem;
+}
+
+.overlay ul.menu li a {
+    color: inherit;
+    text-decoration: none;
+    font-size: min(3.5rem, 3.5vh);
+    font-family: "GeneralSans-Semibold", Helvetica, Arial, sans-serif;
+}
+
+.overlay ul.menu li a:hover {
+    color: #b4b4b4;
+}
+
+.overlay footer {
+    display: flex;
+    flex-direction: row;
+    padding: 0 8rem 0 8rem;
+    justify-content: space-around;
+    align-items: center;
+    position: fixed;
+    right: 0;
+    width: inherit;
+    bottom: 0;
+    height: var(--overlay-footer-height);
+}
+.overlay footer:before {
+    content: '';
+    border-top: .3rem solid #000000;
+    position: absolute;
+    left: 3rem;
+    right: 3rem;
+    top: 0;
+}
+.overlay footer a {
+    height: 55%;
+    color: #000000;
+    text-decoration: none;
+}
+.overlay footer a img {
+    height: 100%;
+}
+
+
+
+
+
+/* for the main body of a page */
+main {
+    position: relative;
+    display: block;
+    width: 100%;
+    padding-top: var(--header-height);
+    padding-bottom: var(--footer-height);
+}
+
+/* for screening carosel */
+
+/* for contents on a series page */
+.screenings-list {
+    padding-top: 2rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+.screenings-title {
+    font-size: 4.5rem;
+    font-weight: 700;
+    font-family: 'GeneralSans-Semibold', Helvetica, Arial, sans-serif;
+}
+
+.screenings-intro {
+    padding-top: 2rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    padding-bottom: 4rem;
+}
+.screenings-intro p {
+    font-size: 1.8rem;
+}
+
+.screening {
+    display: block;
+    width: 100%;
+    padding-bottom: 4rem;
+}
+.screening h1 {
+    font-size: 2.8rem;
+}
+.screening h2 {
+    font-family: "Khand-Medium", Helvetica, Arial, sans-serif;
+    font-size: 3.6rem;
+}
+.screening img {
+    width: 100%;
+}
+
+/* for non-screening pages */
+.information {
+    padding-top: 1.5rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    text-align: left;
+}
+.information .page-title {
+    font-size: 3.5rem;
+    font-weight: 600;
+    font-family: "GeneralSans-Semibold", Helvetica, Arial, sans-serif;
+}
+.information img {
+    width: 100%;
+}
+.information ol {
+    display: block;
+    list-style-type: decimal;
+    font-size: 1.8rem;
+}
+.information ul.prices {
+    max-width: 65rem;
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin: 0 2rem 0 2rem;
+}
+.information .small-note {
+    font-size: 1.5rem;
+}
+.information .board {
+    text-align: center;
+}
+
+
+/* for the about page splash */
+.splash {
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+    top: 0;
+    height: 50%;
+    width: 100%;
+    padding: 2rem 1.5rem 2rem 1.5rem;
+    color: #ffffff;
+    background-color: #000000;
+    justify-content: space-around;
+    align-items: flex-end;
+}
+.splash img {
+    max-width: 100%;
+    max-height: 40rem;
+
+}
+.splash-title {
+    font-size: min(3rem, 7vw);
+    max-width: 50rem;
+    line-height: 1.2;
+    text-align: right;
+    font-family: "GeneralSans-Semibold", Helvetica, Arial, sans-serif;
+}
+
+
+
+
+
+
+/* for main footer */
+.footer {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    bottom: 0;
+    background-color: #ffffff;
+    height: var(--footer-height);
+    padding: 0 0 .5rem 0;
+
+}
+.footer:before {
+    /* code for partial borders */
+    content: '';
+    border-top: .3rem solid #000000;
+    position: absolute;
+    left: 3rem;
+    right: 3rem;
+    margin-top: 0;
+}
+.footer p {
+    margin: 0;
+    font-size: min(1.5rem, 5vw)
+}
+.footer .socials {
+    display: flex;
+    height: min(2.5rem, 10vw);
+    justify-content: space-between;
+    align-items: center;
+}
+.footer a {
+    height: 100%;
+    color: #000000;
+    text-decoration: none;
+}
+.footer a:hover {
+    color: #b4b4b4;
+}
+.footer .socials a img {
+    margin: 0 1rem 0 1rem;
+    height: 100%;
+}
+#contact {
+    scroll-margin-top: var(--header-height);
+}
+
+
+
+
+@font-face {
+    font-family: GeneralSans-Semibold;
+    src: url('http://localhost/film-archive/fonts/GeneralSans-OTF/GeneralSans-Semibold.otf') format('opentype');
+}
+@font-face {
+    font-family: Khand-Medium;
+    src: url('http://localhost/film-archive/fonts/Khand-OTF/Khand-Medium.otf') format('opentype');
+}
+
+
+@media (min-width: 650px) {
+    .navbar-ul {
+        display: flex;
+        list-style-type: none;
+        font-size: 2.5rem;
+    }
+    .navbar-ul li {
+        margin-left: 1rem;
+        margin-right: 1rem;
+    }
+    .navbar-ul a {
+        color: #000000;
+        text-decoration: none;
+        font-family: "GeneralSans-Semibold", Helvetica, Arial, sans-serif;
+    }
+    .navbar-ul a:hover {
+        color: #b4b4b4;
+    }
+
+    .overlay {
+        top: var(--header-height);
+        height: calc(var(--header-height) * .7);
+    }
+    .overlay ul.menu li a {
+        font-size: 2.5rem;
+    }
+    .overlay:before {
+        content: '';
+        border-bottom: .3rem solid #000000;
+        position: absolute;
+        left: 3rem;
+        right: 3rem;
+        bottom: 0;
+    }
+    .overlay-main {
+        height: 100%;
+        flex-direction: row;
+        padding-right: 6.6rem;
+    }
+    .overlay-main .trim {
+        display: none;
+    }
+    .overlay-main ul.menu {
+        min-height: unset;
+        width: 100%;
+        flex-direction: row-reverse;
+        justify-content: unset;
+        align-items: center;
+    }
+    .overlay-main ul li {
+        margin: 0 1rem 0 1rem;
+    }
+    .overlay ul.menu li.desktop {
+        display: none;
+    }
+    .overlay footer, .overlay footer:before {
+        display: none;
+    }
+    
+
+    .screenings-list, .information {
+        width: 65%;
+    }
+}
+
+@media (min-width: 850px) {
+    .splash {
+        flex-direction: row;
+        flex-wrap: unset;
+    }
+    .splash-title {
+        margin-left: 1rem;
+        font-size: min(3.5vw, 3.5rem);
+    }
+
+}
+
+
+
+
+
+
+
+
+
+/* @font-face {
+    font-family: BarlowBlack;
+    src: url('http://localhost/film-archive/fonts/barlow/woff2/Barlow-Black.woff2') format('woff2'), 
+      url('http://localhost/film-archive/fonts/barlow/woff/Barlow-Black.woff') format('woff');
+}
+
+@font-face {
+    font-family: BarlowReg;
+    src: url('http://localhost/film-archive/fonts/barlow/woff2/Barlow-Regular.woff2') format('woff2'), 
+      url('http://localhost/film-archive/fonts/barlow/woff/Barlow-Regular.woff') format('woff');
+}
+
+@font-face {
+    font-family: QuebecBold;
+    src: url('http://localhost/film-archive/fonts/Quebec-Bold.otf') format('opentype');
+}
+
+@font-face {
+    font-family: JostBlack;
+    src: url('http://localhost/film-archive/fonts/Jost-900-Black.otf') format('opentype');
+}
+
+@font-face {
+    font-family: RubikBlack;
+    src: url('http://localhost/film-archive/fonts/Rubik-Black.otf') format('opentype');
+}
+
+@font-face {
+    font-family: Canarina;
+    src: url('http://localhost/film-archive/fonts/Canarina-Regular.otf') format('opentype');
+}
+
+@font-face {
+    font-family: Knewave;
+    src: url('http://localhost/film-archive/fonts/knewave-outline.otf') format('opentype');
+}
+
+@font-face {
+    font-family: RobotoBlack;
+    src: url('http://localhost/film-archive/fonts/Roboto-Regular.ttf') format('truetype');
+} */

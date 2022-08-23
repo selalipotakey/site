@@ -1,0 +1,31 @@
+<header>
+
+    <a class="logo-link" href="/">
+      <img class="logo" src="/images/site/doc90.png" alt="home page icon">
+      <img style="height: 35%;" src="/images/site/doc-title.png" alt="doc films">
+    </a>
+
+    <div class="hamburger">
+      <ul class="navbar-ul">
+        <li><a href="/tsai/">tsai</a></li>
+        <!-- <li><a href="#">90th</a></li> -->
+        <li class="desktop"><a href="/visit.php">visiting</a></li>
+        <li><a href="/calendar/">calendar</a></li>
+      </ul>
+      <input class="menu-btn" type="checkbox" id="menu-btn" onclick="toggleOverlay()"/>
+      <label class="menu-icon" for="menu-btn"><span class="nav-icon"></span></label>  
+      <script type="text/javascript">
+        function toggleOverlay() {
+          var x = document.querySelector('.overlay')
+          if (document.getElementById("menu-btn").checked === true) {
+            x.style.visibility = "visible";
+            x.style.opacity = 1;
+          } else {
+            x.style.visibility = "hidden";
+            x.style.opacity = 0;
+          }
+        }
+      </script>   
+    </div>
+
+  </header>
