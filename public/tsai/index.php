@@ -26,7 +26,7 @@
         <br>
         <p>Please join Doc at the Max Palevsky Cinema for the Chicago premiere screenings of <i>Light</i> (光) and <i>Your Face</i> (你的臉) to be followed by a panel discussion with director Tsai Ming-Liang and actor Lee Kang-Sheng and an audience Q&A moderated by University of Chicago Professor Paola Iovene.</p>
         <br>
-        <p>For information about the Siskel's screenings, please visit their webpage <u><a href="https://www.siskelfilmcenter.org/tsai" target="_blank">here</a></u>.</p>
+        <p>For information about Tsai's tour in Chicago, please visit the Tsai 2020-2 website <u><a href="https://www.tsai2020.com/" target="_blank">here</a></u>.</p>
         <br>
         <p><i>This event is sponsored by Doc Films, the Taipei Economic and Cultural Office in Chicago, the Ministry of Culture-Taipei Cultural Center in New York, and the Center for East Asian Studies at the University of Chicago with generous support from a Title VI National Resource Center Grant from the U.S. Department of Education. Programmed with support from J. Michael Eugenio.</i></p>
         
