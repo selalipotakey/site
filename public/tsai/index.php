@@ -49,7 +49,7 @@
         </div>
 
         <div class="screening">
-          <h1>7:00PM August 4th</h1>
+          <h1>6:00PM October 1st (following LIGHT)</h1>
           <img src="/images/2022fall/your-face-2018.jpg" alt="image">
           <h2>Your Face 你的臉 (2018)</h2>
           <h3>Tsai Ming-Liang &middot; 76min &middot; DCP</h3>
