@@ -37,6 +37,11 @@
 
         <br><br>
 
+        <h1>Tickets</h1>
+        <p>Doc will be selling up to 200 tickets online in advance for this event. Please check back soon for the ticketing link!</p>
+
+        <br><br>
+
         <div class="screening">
             <h1>6:00PM October 1st</h1>
             <img src="/images/2022fall/light-2018.png" alt="light-2018">
