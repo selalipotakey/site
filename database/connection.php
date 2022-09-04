@@ -1,14 +1,13 @@
 <?php
-    require_once("/home/docfilmsgroup/vendor/autoload.php");
+    
+    require('../../vendor/autoload.php');
 
-    $dotenv = Dotenv\Dotenv::createImmutable(__DIR__);
-    $dotenv->safeLoad();
+    $dotenv = Dotenv\Dotenv::createImmutable('../../ext_includes/');
+    $dotenv->safeload();
 
-    $server = $_ENV['SERVER'];
-    $db = $_ENV['DATABASE'];
-    $user = $_ENV['USER'];
-    $pass = $_ENV['PASS'];
+    $db = $_ENV['DB'];
+    $server = $_ENV['DB_SERVER'];
+    $user = $_ENV['DB_USER'];
+    $pass = $_ENV['DB_PASS'];
 
-    echo "test\n";
-    echo $pass . "\n";
 ?>
