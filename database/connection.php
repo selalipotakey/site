@@ -1,5 +1,5 @@
 <?php
-    require_once('/home/docfilmsgroup/vendor/autoload.php');
+    require_once("/home/docfilmsgroup/vendor/autoload.php");
 
     $dotenv = Dotenv\Dotenv::createImmutable(__DIR__);
     $dotenv->safeLoad();
@@ -9,5 +9,6 @@
     $user = $_ENV['USER'];
     $pass = $_ENV['PASS'];
 
-    echo $pass;
+    echo "test\n";
+    echo $pass . "\n";
 ?>
