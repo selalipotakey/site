@@ -8,4 +8,6 @@
     $db = $_ENV['DATABASE'];
     $user = $_ENV['USER'];
     $pass = $_ENV['PASS'];
+
+    echo $pass;
 ?>
