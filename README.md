@@ -34,3 +34,5 @@ From the command line, edit files locally and push/pull to the repo by:
 8. To pull any changes from the repo use `get pull`
 
 By using a text editor:
+
+test to see if deleting stuff didn't mess anything up
