@@ -22,7 +22,7 @@
 
         <br><br>
         <h1>About the Event</h1>
-        <p>Doc Films is pleased to partner with the Gene Siskel Film Center and the Block Museum of Art at Northwestern University to present the Chicago leg of Tsai Ming-Liang's 2022 U.S. tour.</p>
+        <p>Doc Films is pleased to partner with the University of Chicago Center for East Asian Studies, the Gene Siskel Film Center, and the Block Museum of Art at Northwestern University to present the Chicago leg of Tsai Ming-Liang's 2022 U.S. tour.</p>
         <br>
         <p>Please join Doc at the Max Palevsky Cinema for the Chicago premiere screenings of <i>Light</i> (光) and <i>Your Face</i> (你的臉) to be followed by a panel discussion with director Tsai Ming-Liang and actor Lee Kang-Sheng and an audience Q&A moderated by University of Chicago Professor Paola Iovene.</p>
         <br>
