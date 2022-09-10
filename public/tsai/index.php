@@ -38,7 +38,7 @@
         <br><br>
 
         <h1>Tickets</h1>
-        <p>Doc will be selling up to 200 tickets online in advance for this event. Please check back soon for the ticketing link!</p>
+        <p>Doc will be selling up to 200 tickets online in advance for this event. More will be available at the door. Please check back soon for the ticketing link!</p>
 
         <br><br>
 
