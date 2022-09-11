@@ -40,7 +40,7 @@ function enableScroll() {
     window.removeEventListener('keydown', preventDefaultForScrollKeys, false);
 }
 
-$(document).ready(function() {
+$(function() {
     $('.hamburger').on('click', '#menu-btn', function() {
         if($('.overlay').css('visibility') == 'hidden' && $('.overlay').css('opacity') == '0') {
             $('.overlay').css('visibility', 'visible');
