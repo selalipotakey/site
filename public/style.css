@@ -41,6 +41,7 @@ a:hover {
 html {
     min-height: 100vh;
     font-size: 62.5%;
+    overflow-y: scroll;
 }   
 
 body {
@@ -384,9 +385,11 @@ main {
     font-family: "GeneralSans-Semibold", Helvetica, Arial, sans-serif;
 }
 
-
-
-
+/* for calendar page  */
+iframe {
+    width: 100%;
+    min-height: 500px;
+}
 
 
 /* for main footer */

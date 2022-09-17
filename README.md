@@ -1,18 +1,16 @@
 # site
 
-Monorepo for Doc Films' website and archival database.
+Monorepo for Doc Films' website and screening database.
 
 ## Maintained by Doc Films' web chairs:
 
-Colby Lundak, 2022-
-
-Cameron Poe, Lindsey Qian, 2021-2022
+Cameron Poe, Lindsey Qian, 2021-
 
 ## Contents of the repo
 
-### website
+### public
 
-This is the directory that contains all relevant files needed to build the website docfilms.org. This repo is linked to Netlify, which automatically deploys any changes from `website/` found in `main`. Changes in other directories in `main` does not affect Netlify or docfilms.org.
+This is the root directory `/` of the website, so all files outside of this directory cannot be viewed by web visitors.
 
 ### database
 
@@ -20,8 +18,10 @@ This directory contains all the relevant files for insertion of new entries into
 
 
 
-## How to set up the Doc Films github on your local machine:
-`git` is a document control package available in the command line.
+## How to set up the Doc Films repo on your local machine:
+pre-reqs:
+`git`
+`gh` - github cli
 
 
 pick directory you want the repo to be in
@@ -59,3 +59,5 @@ From the command line, edit files locally and push/pull to the repo by:
 8. To pull any changes from the repo use `git pull`
 
 By using a text editor:
+
+test to see if deleting stuff didn't mess anything up

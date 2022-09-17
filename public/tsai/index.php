@@ -22,13 +22,13 @@
 
         <br><br>
         <h1>About the Event</h1>
-        <p>Doc Films is pleased to partner with the Gene Siskel Film Center and the Block Museum of Art at Northwestern University to present the Chicago leg of Tsai Ming-Liang's 2022 U.S. tour.</p>
+        <p>Doc Films is pleased to partner with the University of Chicago Center for East Asian Studies, the Gene Siskel Film Center, and the Block Museum of Art at Northwestern University to present the Chicago leg of Tsai Ming-Liang's 2022 U.S. tour.</p>
         <br>
         <p>Please join Doc at the Max Palevsky Cinema for the Chicago premiere screenings of <i>Light</i> (光) and <i>Your Face</i> (你的臉) to be followed by a panel discussion with director Tsai Ming-Liang and actor Lee Kang-Sheng and an audience Q&A moderated by University of Chicago Professor Paola Iovene.</p>
         <br>
         <p>For information about Tsai's tour in Chicago, please visit the Tsai 2020-2 website <u><a href="https://www.tsai2020.com/" target="_blank">here</a></u>.</p>
         <br>
-        <p><i>This event is sponsored by Doc Films, the Taipei Economic and Cultural Office in Chicago, the Ministry of Culture-Taipei Cultural Center in New York, and the Center for East Asian Studies at the University of Chicago with generous support from a Title VI National Resource Center Grant from the U.S. Department of Education. Programmed with support from J. Michael Eugenio.</i></p>
+        <p><i>Sponsored by Doc Films, the Taipei Economic and Cultural Office in Chicago, the Ministry of Culture-Taipei Cultural Center in New York, and the Center for East Asian Studies at the University of Chicago with generous support from a Title VI National Resource Center Grant from the U.S. Department of Education. Program presented in partnership with the Gene Siskel Film Center and the Block Museum of Art at Northwestern University. Programmed with support from J. Michael Eugenio.</i></p>
         
         <br><br>
 
@@ -38,7 +38,7 @@
         <br><br>
 
         <h1>Tickets</h1>
-        <p>Doc will be selling up to 200 tickets online in advance for this event. Please check back soon for the ticketing link!</p>
+        <p>Doc will be selling up to 200 tickets online in advance for this event. More will be available at the door. Please check back soon for the ticketing link!</p>
 
         <br><br>
 
