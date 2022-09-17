@@ -21,7 +21,7 @@
 
         <br><br>
 
-        <h1>Tickets</h1>
+        <h1 id="tickets">Tickets</h1>
         <p>Single tickets and passes can be bought at the theater 30 minutes before each screening. Quarterly membership passes grant holders free entry to all general admission films for the quarter.</p>
         <br>
         <i><ul class="prices">
@@ -74,6 +74,7 @@
     </main>
     
     <?php include "./includes/footer.html" ?>
+    <script src="/js/resize-menu.js"></script>
 
   </body>
 </html>

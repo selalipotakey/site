@@ -20,27 +20,26 @@
           Chicago Premiere: <i>Light</i> and <i>Your Face</i> by Tsai Ming-Liang
         </div>
 
-        <br><br>
-        <h1>About the Event</h1>
-        <p>Doc Films is pleased to partner with the University of Chicago Center for East Asian Studies, the Gene Siskel Film Center, and the Block Museum of Art at Northwestern University to present the Chicago leg of Tsai Ming-Liang's 2022 U.S. tour.</p>
-        <br>
-        <p>Please join Doc at the Max Palevsky Cinema for the Chicago premiere screenings of <i>Light</i> (光) and <i>Your Face</i> (你的臉) to be followed by a panel discussion with director Tsai Ming-Liang and actor Lee Kang-Sheng and an audience Q&A moderated by University of Chicago Professor Paola Iovene.</p>
-        <br>
-        <p>For information about Tsai's tour in Chicago, please visit the Tsai 2020-2 website <u><a href="https://www.tsai2020.com/" target="_blank">here</a></u>.</p>
-        <br>
-        <p><i>Sponsored by Doc Films, the Taipei Economic and Cultural Office in Chicago, the Ministry of Culture-Taipei Cultural Center in New York, and the Center for East Asian Studies at the University of Chicago with generous support from a Title VI National Resource Center Grant from the U.S. Department of Education. Program presented in partnership with the Gene Siskel Film Center and the Block Museum of Art at Northwestern University. Programmed with support from J. Michael Eugenio.</i></p>
-        
-        <br><br>
+        <div class="text-section">
+          <h1>About the Event</h1>
+          <p>Doc Films is pleased to partner with the University of Chicago Center for East Asian Studies, the Gene Siskel Film Center, and the Block Museum of Art at Northwestern University to present the Chicago leg of Tsai Ming-Liang's 2022 U.S. tour.</p>
+          
+          <p>Please join Doc at the Max Palevsky Cinema for the Chicago premiere screenings of <i>Light</i> (光) and <i>Your Face</i> (你的臉) to be followed by a panel discussion with director Tsai Ming-Liang and actor Lee Kang-Sheng and an audience Q&A moderated by University of Chicago Professor Paola Iovene.</p>
+          
+          <p>For information about Tsai's tour in Chicago, please visit the Tsai 2020-2 website <u><a href="https://www.tsai2020.com/" target="_blank">here</a></u>.</p>
+          
+          <p><i>Sponsored by Doc Films, the Taipei Economic and Cultural Office in Chicago, the Ministry of Culture-Taipei Cultural Center in New York, and the Center for East Asian Studies at the University of Chicago with generous support from a Title VI National Resource Center Grant from the U.S. Department of Education. Program presented in partnership with the Gene Siskel Film Center and the Block Museum of Art at Northwestern University. Programmed with support from J. Michael Eugenio.</i></p>
+        </div>
 
-        <h1>About Tsai Ming-Liang</h1>
-        <p>Born in Malaysia in 1957, Tsai Ming-Liang is one of the most prominent film directors of the new cinema movement in Taiwan. In 1994, his film <i>Vive L' amour</i> was awarded the Golden Lion award at the Venice Film Festival, and this helped establish a place for him in the world of international film. In 2009, <i>Face</i> became the first film to be included in the collection of the Louvre Museum's “Le Louvre s'offre aux cineastes.” It has since become the benchmark for films venturing into the world of art galleries. In recent years, Tsai Ming-Liang has also moved on to installation art. His works have been well-received in Venice, Shanghai, and Nagoya. Since 2012, he has been working on a long project to film Lee Kang-Sheng's slow walk, cooperating with various cities and organizations. To date, he has completed seven short works. His 10th full-length feature <i>Stray Dogs</i> (2013) was awarded the Grand Jury Prize at the 70th Venice Film Festival. In 2014, he presented the critically acclaimed theater work <i>The Monk from Tang Dynasty</i> in arts festivals in Brussels, Vienna, Gwangju, and Taipei. That same year, Tsai made history by bringing <i>Stray Dogs</i> to the Museum at MoNTUE, the Museum of National Taipei University of Education.</p>
+        <div class="text-section">
+          <h1>About Tsai Ming-Liang</h1>
+          <p>Born in Malaysia in 1957, Tsai Ming-Liang is one of the most prominent film directors of the new cinema movement in Taiwan. In 1994, his film <i>Vive L' amour</i> was awarded the Golden Lion award at the Venice Film Festival, and this helped establish a place for him in the world of international film. In 2009, <i>Face</i> became the first film to be included in the collection of the Louvre Museum's “Le Louvre s'offre aux cineastes.” It has since become the benchmark for films venturing into the world of art galleries. In recent years, Tsai Ming-Liang has also moved on to installation art. His works have been well-received in Venice, Shanghai, and Nagoya. Since 2012, he has been working on a long project to film Lee Kang-Sheng's slow walk, cooperating with various cities and organizations. To date, he has completed seven short works. His 10th full-length feature <i>Stray Dogs</i> (2013) was awarded the Grand Jury Prize at the 70th Venice Film Festival. In 2014, he presented the critically acclaimed theater work <i>The Monk from Tang Dynasty</i> in arts festivals in Brussels, Vienna, Gwangju, and Taipei. That same year, Tsai made history by bringing <i>Stray Dogs</i> to the Museum at MoNTUE, the Museum of National Taipei University of Education.</p>
+        </div>
 
-        <br><br>
-
-        <h1>Tickets</h1>
-        <p>Doc will be selling up to 200 tickets online in advance for this event. More will be available at the door. Please check back soon for the ticketing link!</p>
-
-        <br><br>
+        <div class="text-section">
+          <h1>Tickets</h1>
+          <p>Doc will be selling up to 200 tickets online in advance for this event. More will be available at the door. Please check back soon for the ticketing link!</p>
+        </div>
 
         <div class="screening">
             <h1>6:00PM October 1st</h1>
@@ -151,24 +150,26 @@
 
           <br><br>
 
-          <p><b>The Center for East Asian Studies at the University of Chicago</b> (CEAS) serves as an interdisciplinary nexus and clearinghouse for East Asian studies and an important resource for faculty and students across the University. CEAS supports academic activities, research, outreach, and public events to promote greater understanding of China, Japan and Korea. CEAS has been designated a National Resource Center by the U.S. Department of Education. For more information and to sign up for our weekly e-Bulletin, please visit <u><a href="http://ceas.uchicago.edu" target="_blank">their webpage</a></u> or contact eastasia@uchicago.edu.</p>
-
-          <br><br>
-          
-          <p><b>The Ministry of Culture-Taipei Cultural Center in New York</b> is primarily responsible for planning, promoting, and implementing a variety of arts activities, as well as supervising the operation of Taipei Gallery and Taipei Theater. The Cultural Center has played a significant role in enhancing Taiwan's cultural image and promoting international cultural exchanges. To cope with the new trend of global cultural competition, the Taipei Cultural Center, expanding beyond just New York City, has been actively bringing Taiwan's cultures to North America. The Taipei Cultural Center provided generous funding for Tsai Ming-Liang's visit. For more information, please visit <u><a href="https://ny.us.taiwan.culture.tw/" target="_blank">their webpage</a></u>.</p>
-
-          <br><br>
-
-          <p><b>The Taipei Economic and Cultural Office in Chicago</b> (TECO in Chicago) provides consular services, news about Taiwan, economics/trade and cultural information. TECO in Chicago's jurisdiction include seven states in the Midwest which are Illinois, Indiana, Iowa, Michigan, Minnesota, Ohio, and Wisconsin. There are multiple divisions providing services in TECO in Chicago which include the Consular Division, Education Division, Economic Division, Press Division, and the Cultural Center of TECO. For more information, please visit <u><a href="https://origin-www.roc-taiwan.org/uschi_en/index.html" target="_blank">their webpage</a></u>.</p>
-
-          <br><br>
-
         </div>
+
+        <div class="text-section">
+          <p><b>The Center for East Asian Studies at the University of Chicago</b> (CEAS) serves as an interdisciplinary nexus and clearinghouse for East Asian studies and an important resource for faculty and students across the University. CEAS supports academic activities, research, outreach, and public events to promote greater understanding of China, Japan and Korea. CEAS has been designated a National Resource Center by the U.S. Department of Education. For more information and to sign up for our weekly e-Bulletin, please visit <u><a href="http://ceas.uchicago.edu" target="_blank">their webpage</a></u> or contact eastasia@uchicago.edu.</p>
+        </div>
+        
+        <div class="text-section">
+          <p><b>The Ministry of Culture-Taipei Cultural Center in New York</b> is primarily responsible for planning, promoting, and implementing a variety of arts activities, as well as supervising the operation of Taipei Gallery and Taipei Theater. The Cultural Center has played a significant role in enhancing Taiwan's cultural image and promoting international cultural exchanges. To cope with the new trend of global cultural competition, the Taipei Cultural Center, expanding beyond just New York City, has been actively bringing Taiwan's cultures to North America. The Taipei Cultural Center provided generous funding for Tsai Ming-Liang's visit. For more information, please visit <u><a href="https://ny.us.taiwan.culture.tw/" target="_blank">their webpage</a></u>.</p>
+        </div>
+
+        <div class="text-section">
+          <p><b>The Taipei Economic and Cultural Office in Chicago</b> (TECO in Chicago) provides consular services, news about Taiwan, economics/trade and cultural information. TECO in Chicago's jurisdiction include seven states in the Midwest which are Illinois, Indiana, Iowa, Michigan, Minnesota, Ohio, and Wisconsin. There are multiple divisions providing services in TECO in Chicago which include the Consular Division, Education Division, Economic Division, Press Division, and the Cultural Center of TECO. For more information, please visit <u><a href="https://origin-www.roc-taiwan.org/uschi_en/index.html" target="_blank">their webpage</a></u>.</p>
+        </div>        
+
       </div>
       
     </main>
     
     <?php include "../includes/footer.html" ?>
+    <script src="/js/resize-menu.js"></script>
 
   </body>
 </html>

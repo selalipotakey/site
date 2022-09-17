@@ -1,6 +1,7 @@
 # I had to install pandas by using miniconda, then
 # I installed pandas using `conda install pandas` in the command line
 # also had to install openpyxl with `conda instsall openpyxl` in the command line
+from platform import release
 import pandas as pd                             # allows excel imports
 import numpy as np
 import os                                       # together with ROOT_DIR, easy way to construct file paths
@@ -120,6 +121,18 @@ class connection:
             series_id = self.cursor.lastrowid
             
             return series_id
+
+def make_df(sheetpath):
+    try:
+        df = pd.read_excel(sheetpath)
+        return df
+    except FileNotFoundError:
+        print('FileNotFoundError: \'' + sheetpath + '\' is not a valid file path. Please try again.')
+        exit()
+    except ValueError:
+        print('TypeError: \'' + sheetpath + '\' is not a valid Excel (.xls, .xlsx, .xlsm, .xlsb, .odf, .ods, .odt) file. Please try again.')
+        exit()
+    
 
 def addtables():
     # checks user wants to add tables to database
@@ -379,14 +392,7 @@ def inputcaps_historic(sheetpath, quarter, year, exrows):
     # Attempts to turn a pre-Summer 2022 capsules spreadsheet located at sheetpath
     # into a pandas dataframe. Handles exceptions if errors are raised.
     # A pre-Summer 2022 spreadsheet is one without a separate sheet for series essays
-    try:
-        caps_df = pd.read_excel(sheetpath)
-    except FileNotFoundError:
-        print('FileNotFoundError: \'' + sheetpath + '\' is not a valid file path. Please try again.')
-        exit()
-    except ValueError:
-        print('TypeError: \'' + sheetpath + '\' is not a valid Excel (.xls, .xlsx, .xlsm, .xlsb, .odf, .ods, .odt) file. Please try again.')
-        exit()
+    caps_df = make_df(sheetpath)
 
     #initializes dictionary containing each series
     series_dict = {}
@@ -579,6 +585,63 @@ def extra():
     # closes connection
     db.close()
 
+
+
+
+# formats archived screenings spreadsheet for database input
+def format_archived_screenings(sheetpath):
+    
+    # turns archival excel into pandas dataframe
+    archive = make_df(sheetpath)
+
+    # sorts screenings chronologically
+    archive.sort_values(by=['Series', 'Date'], inplace=True)
+
+    # defines the formatted object to return
+    screenings_dict = {
+        "with_series": [],
+        "without_series": []
+    }
+
+    # defines variable short-cuts
+    series_list = screenings_dict["with_series"]
+    sans_series_list = screenings_dict["without_series"]
+
+    # iterates over all rows in the dataframe
+    for index, row in archive.iterrows():
+
+        # puts row information into readable variables
+        screening_title = row['Title']
+        series_title = row['Series']
+        director = row['Director']
+        release_year = row['Year']
+        screening_date = row['Date']
+        notes = row['Notes']
+
+        # formats director
+        if not pd.isna(director) and not len(str(director).strip()) < 1:
+            director = str(director).strip()
+
+        # formats release_year
+        if not pd.isna(release_year) and not len(str(release_year).strip()) < 1:
+            release_year = int(str(release_year)[0:4])
+
+        # formats screening_date, handles blank dates
+        try:
+            screening_date = screening_date.strftime('%Y-%m-%d')
+        except ValueError:
+            print('ERROR: a value in the \'Date\' column around row %s is blank. Please try again'%index)
+            
+
+        # checks if given row has series or not
+        if not pd.isna(series_title) and not len(str(series_title).strip()) < 1:
+            continue
+        elif pd.isna(series_title) or len(str(series_title).strip()) < 1:
+            sans_series_list.append([screening_title, director, release_year, screening_date, notes])
+    
+    print(sans_series_list)
+    return screenings_dict
+
 def main():
     parser = argparse.ArgumentParser(description='A command line program that communicates to Doc\'s filmsdb database to modify existing tables, add new series, mass-input prior screenings, and more.')
 
@@ -587,4 +650,6 @@ def main():
 
 if __name__ == "__main__":
     main()
-    inputcaps_historic(r'C:\Users\camer\docfilms-github\site\database\capsules_spreadsheets\Spring-2022-Capsules.xlsx', 'Spring', 2022, 2)
+    # inputcaps_historic(r'C:\Users\camer\docfilms-github\site\database\capsules_spreadsheets\Spring-2022-Capsules.xlsx', 'Spring', 2022, 2)
+
+    format_archived_screenings(r'C:\Users\camer\docfilms-github\site\database\2022-09-05-archive-screenings-for-database.xlsx')

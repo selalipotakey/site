@@ -122,6 +122,7 @@
     </main>
     
     <?php include "../includes/footer.html" ?>
+    <script src="/js/resize-menu.js"></script>
 
   </body>
 </html>

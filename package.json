@@ -1,0 +1,26 @@
+{
+  "name": "site",
+  "version": "1.0.0",
+  "description": "to give website use of custom js packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/docfilms/site.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/docfilms/site/issues"
+  },
+  "homepage": "https://github.com/docfilms/site#readme",
+  "dependencies": {
+    "textfill": "^1.0.2",
+    "textfit": "^2.4.0"
+  },
+  "devDependencies": {
+    "@types/textfit": "^2.4.2"
+  }
+}
