@@ -58,11 +58,11 @@
               </li>
 
               <li class="carousel__slide">
-                <a href="#">
+                <a href="/calendar/special-events#nosferatu">
                   <img class="carousel__image" src="/images/2022fall/nosferatu-1922.jpg" alt="nosferatu still">
                 </a>
                   <div class="description">
-                    <a href="#">
+                    <a href="/calendar/special-events#nosferatu">
                       <p class="event-title fittext">
                       Sunday 10/30 @ 7:00PM: Nosferatu at 100, in Rockefeller Chapel!
                       </p>

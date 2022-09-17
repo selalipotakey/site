@@ -39,18 +39,18 @@
         </div>
 
         <div class="screening">
+            <h1>October 21st-23rd</h1>
+            <img src="/images/2022fall/funeral-parade-of-roses-1969.jpeg" alt="Funeral Parade of Roses still">
+            <a href="../90th"><h2>Doc Films 90th Anniversary Weekend</h2></a>
+            <p>Doc is a nonanegarian! What better way to celebrate than a blowout weekend packed full of our favorite films? See the whole lineup on our <u><a href="../90th">90th anniversary page.</a></u></p>
+        </div>
+
+        <div class="screening" id="nosferatu" style="scroll-margin-top: var(--header-height);">
             <h1>7:00PM October 30th</h1>
             <img src="/images/2022fall/nosferatu-1922.jpg" alt="Nosferatu still">
             <h2>Doc Films & Rockefeller Chapel Presents: Nosferatu (1922)</h2>
             <h3>F. W. Murnau &middot; 81m &middot; Digital</h3>
             <p>Rockefeller Chapel celebrates the 100th anniversary of <i>Nosferatu</i>, welcoming back celebrated organist Dennis James to provide the silent film score. Come experience this cinematic classic, in which mysterious Count Orlok summons Thomas Hutter to his remote Transylvanian castle in the mountains. After Orlok reveals his vampiric nature, Hutter struggles to escape the castle. Join us inside one of UChicago's most iconic spaces to see how the story ends… </p>
-        </div>
-
-        <div class="screening">
-            <h1>October 21st-23rd</h1>
-            <img src="/images/2022fall/funeral-parade-of-roses-1969.jpeg" alt="Funeral Parade of Roses still">
-            <a href="../90th"><h2>Doc Films 90th Anniversary Weekend</h2></a>
-            <p>Doc is a nonanegarian! What better way to celebrate than a blowout weekend packed full of our favorite films? See the whole lineup on our <u><a href="../90th">90th anniversary page.</a></u></p>
         </div>
 
       </div>
