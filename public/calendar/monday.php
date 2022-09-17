@@ -20,15 +20,13 @@
         <div class="text-section">
           <h1>MONDAY: Wonderfully Loathsome: Screwball Romance Through the Ages</h1>
           <p>Programmed by Liam Flanigan</p>
-             <br>
+
           <p>
           Does it get any better than a screwball comedy? One of Classic Hollywood’s foundational genres, these whip-smart movies are typically marked by mile-a-minute dialogue, class conflict, and—as this series will highlight—powerful romances. Although screwball partnerships are often distinguished by verbal sparring and clever comebacks, these films are all ultimately celebrations of love. Characters suffer through divorces, broken engagements, and endless bickering, but they also wind up with their destined partner. What’s wrong with believing in love?</p>  
-            <br>  
+              
           <p>But enough about romance; these are comedies, after all, and ones that are meant to be seen in a theater. There is a particular magic to laughing your head off with strangers in a dark room, and such an experience has been all too rare the last few years. Whatever your comedic preferences, from the unmitigated zaniness of <i>Bringing Up Baby</i> to the wry urbanity of <i>Ninotchka</i>, there is sure to be a film for you in this lineup.</p>
-            <br>  
+            
           <p>“Wonderfully Loathsome” is also, implicitly, a tribute to the luminous stars and extraordinary directors who have contributed their talents to the genre. Some featured artists are repeat masters of the form (Howard Hawks, Cary Grant, Katherine Hepburn), while others have made their mark with only one or two screwballs to their credit (Barbra Streisand, the Coen Brothers, Greta Garbo). We hope you enjoy all of their work.</p>  
-            <br>  
-
         </div>
 
         <div class="screening">
