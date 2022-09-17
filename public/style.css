@@ -326,6 +326,9 @@ main {
 .screenings-list .text-section p {
     padding-bottom: 1.5rem;
 }
+.screenings-list .text-section h3 {
+    padding-bottom: 1.5rem;
+}
 
 /* for non-screening pages */
 .information {

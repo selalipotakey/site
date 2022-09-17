@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Monday Series</title>
+    <title>Monday</title>
     <link rel="stylesheet" type="text/css" href="/style.css">
   </head>
 
@@ -19,7 +19,7 @@
 
         <div class="text-section">
           <h1>MONDAY: Wonderfully Loathsome: Screwball Romance Through the Ages</h1>
-          <p>Programmed by Liam Flanigan</p>
+          <h3>Programmed by Liam Flanigan</h3>
 
           <p>
           Does it get any better than a screwball comedy? One of Classic Hollywood’s foundational genres, these whip-smart movies are typically marked by mile-a-minute dialogue, class conflict, and—as this series will highlight—powerful romances. Although screwball partnerships are often distinguished by verbal sparring and clever comebacks, these films are all ultimately celebrations of love. Characters suffer through divorces, broken engagements, and endless bickering, but they also wind up with their destined partner. What’s wrong with believing in love?</p>  

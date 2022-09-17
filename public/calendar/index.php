@@ -83,7 +83,8 @@
             <a href="/calendar/friday"><img src="/images/2022fall/series_stills/dogtooth-2009.jpg" alt="Dogtooth still"></a>
             <div class="series-text">
               <a href="/calendar/friday">
-                <p class="day">Programmers' Picks:</p>
+                <p class="day">Friday:</p>
+                <p class="title">Programmers' Picks</p>
               </a>
               <p class="programmer">Programmed by: Addison Wood, Ian Resnick, and Hannah Halpern</p>
             </div>
