@@ -1,5 +1,5 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN"
-"http://www.w3.org/TR/html4/strict.dtd">
+"https://www.w3.org/TR/html4/strict.dtd">
 
 <!-- this is all ripped from html source for embedded google calendars -->
 
@@ -14,17 +14,17 @@
         </script>
         <style type="text/css">body{margin:0;padding:0;overflow-y:hidden;}
                 html{overflow-y:hidden;}</style>
-        <link type="text/css" rel="stylesheet" href="http://calendar.google.com/calendar/static/55bfe2a5c7047a56bc9e175e693c53dfembedcompiled_fastui.css">
+        <link type="text/css" rel="stylesheet" href="https://calendar.google.com/calendar/static/55bfe2a5c7047a56bc9e175e693c53dfembedcompiled_fastui.css">
 
         <script type="text/javascript" nonce="">
         function _DumpException(e) { throw e; }
             var baseModuleLoaded_ = false;
         </script>
-        <script type="text/javascript" src="http://calendar.google.com/calendar/_/web/calendar-static/_/js/k=calendar-web.embed.en.3iqZS67q1qI.es5.O/d=1/rs=ABFko3_vdSNj2s7rw2dpTCtVQLD70NGAXA/m=embed" nonce=""></script>
+        <script type="text/javascript" src="https://calendar.google.com/calendar/_/web/calendar-static/_/js/k=calendar-web.embed.en.3iqZS67q1qI.es5.O/d=1/rs=ABFko3_vdSNj2s7rw2dpTCtVQLD70NGAXA/m=embed" nonce=""></script>
         <script type="text/javascript" nonce="">
             if (!baseModuleLoaded_) {
             var loadErrorXhr = new XMLHttpRequest();
-            loadErrorXhr.open('POST', "http://calendar.google.com/calendar/u/0/bmlf");
+            loadErrorXhr.open('POST', "https://calendar.google.com/calendar/u/0/bmlf");
             loadErrorXhr.send();
             }
         </script>
@@ -88,14 +88,14 @@
                     <tr>
                       <td class="date-nav-buttons">
                         <button class="today-button" id="todayButton1">Today</button>
-                        <img id="navBack1" role="button" tabindex="0" title="Previous period" src="http://calendar.google.com/googlecalendar/images/blank.gif" width="22" height="17" class="navbutton navBack">
-                        <img id="navForward1" role="button" tabindex="0" title="Next period" src="http://calendar.google.com/googlecalendar/images/blank.gif" width="22" height="17" class="navbutton navForward">
+                        <img id="navBack1" role="button" tabindex="0" title="Previous period" src="https://calendar.google.com/googlecalendar/images/blank.gif" width="22" height="17" class="navbutton navBack">
+                        <img id="navForward1" role="button" tabindex="0" title="Next period" src="https://calendar.google.com/googlecalendar/images/blank.gif" width="22" height="17" class="navbutton navForward">
                       </td>
                       <td id="dateEditableBox1" class="date-picker-off">
                         <div class="date-top" id="currentDate1">September 2022</div>
                       </td>
                       <td id="dateMenuArrow1" class="date-picker-off">
-                        <img src="http://calendar.google.com/googlecalendar/images/menu_arrow_open.gif" id="arrowImg1" class="arrowImg" width="9" height="9" alt=""></td><td class="navSpacer">&nbsp;
+                        <img src="https://calendar.google.com/googlecalendar/images/menu_arrow_open.gif" id="arrowImg1" class="arrowImg" width="9" height="9" alt=""></td><td class="navSpacer">&nbsp;
                       </td>
                       <td id="td-print-image-id">
                         <img src="//calendar.google.com/googlecalendar/images/icon_print.gif" style="cursor: pointer;" width="16" height="16" title="Print my calendar (shows preview)">
@@ -127,7 +127,7 @@
                         </table>
                       </td>
                       <td class="calendar-nav">
-                        <img id="calendarListButton1" src="http://calendar.google.com/googlecalendar/images/btn_menu6.gif" alt="" title="" width="15" height="14">
+                        <img id="calendarListButton1" src="https://calendar.google.com/googlecalendar/images/btn_menu6.gif" alt="" title="" width="15" height="14">
                       </td>
                     </tr>
                   </tbody>
