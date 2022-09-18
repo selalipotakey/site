@@ -26,7 +26,7 @@
       <?php include "./includes/dropdown.html" ?>
 
       <div class="splash">
-        <img style="padding-bottom: .5rem;" src="/images/about/projecting-who-framed-roger.jpg" alt="projecting WHO FRAMED ROGER RABBIT">
+        <img style="padding-bottom: .5rem;" src="/images/2022fall/series_stills/hitchcock-at-doc.jpg" alt="Hitchcock at Doc Films">
         <div class="splash-title">
           "Whether pulled in by a scheming friend or coaxed not by promises of money or fame but by the allure of a rare celluloid print, the volunteers who stumble into Doc become the unwitting guardians of its history."
         </div>
