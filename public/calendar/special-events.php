@@ -28,6 +28,7 @@
             <h3>Steven Spielberg &middot; 127m &middot; DCP</h3>
             <p>Despite being set on a fictional island, <i>Jurassic Park</i> is anything but a tranquil beach vacation. Steven Spielberg transports us to an amusement park of prehistoric dinosaurs restored from extinction by a wealthy entrepreneur. But the paleontological pet project is doomed from the start; even before the grand opening, security systems fail, setting the dinosaurs loose and forcing those touring the park to run—and hide—for their lives.</p>
             <p>With post-film discussion hosted by Professors Dan Morgan & Agnes Callard.</p>
+            <p><i>Note: all patrons that show a UChicagoID (UCID) get in for free!</i></p>
         </div>
 
         <div class="screening">

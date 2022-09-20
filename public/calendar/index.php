@@ -24,6 +24,15 @@
 
         <div class="series-list">
 
+          <div class="series-tile reverse">
+            <a href="/calendar/special-events"><img src="/images/2022fall/nosferatu-1922.jpg" alt="NOSFERATU still"></a>
+            <div class="series-text">
+              <a href="/calendar/special-events">
+                <p class="title">Special Events</p>
+              </a>
+            </div>
+          </div>
+
           <div class="series-tile">
             <a href="/calendar/monday"><img src="/images/2022fall/series_stills/whats-up-doc-1972.jpeg" alt="Whats Up Doc still"></a>
             <div class="series-text">
