@@ -32,7 +32,7 @@
         <br>
         <p>At our weekly programming meetings we discuss potential series for the next calendar. One need not be a Doc volunteer or affiliated with the University to take part in this dialogue, or to propose a series.</p>
         <br>   
-        <p><b>Programming meeting times for Autumn 2022 are TBD.</b></p>
+        <p><b>Programming meeting times for Autumn 2022 are 5:30PM on Thursdays.</b></p>
 
         <br><br>
 
@@ -43,7 +43,7 @@
         <br>
         <p>At our weekly volunteer meetings, board members report on and discuss their work managing Doc. All volunteers who want to get more involved or just want to learn more about how Doc is run are welcome and encouraged to attend. Volunteer meetings generally take place every Sunday at 4:30 pm in the cinema lobby.</p>
         <br>
-        <p><b>General meeting times for Autumn 2022 are TBD.</b></p>
+        <p><b>General meeting times for Autumn 2022 are 2:00PM on Sundays.</b></p>
         <br>
 
         <h3>A short summary of roles:</h3>
