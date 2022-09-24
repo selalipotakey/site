@@ -29,7 +29,7 @@
         </div>
 
         <div class="screening">
-            <h1>7:00PM September 28th</h1>
+            <h1>7:00PM Wednesday, September 28th</h1>
             <img src="/images/2022fall/police-story-1985.jpeg" alt="Police Story still">
             <h2>Police Story (1985)</h2>
             <h3>Jackie Chan &middot; 100m &middot; DCP</h3>
@@ -37,7 +37,7 @@
         </div>
 
         <div class="screening">
-            <h1>7:00PM October 5th</h1>
+            <h1>7:00PM Wednesday, October 5th</h1>
             <img src="/images/2022fall/police-story-2-1988.jpg" alt="Police Story 2 still">
             <h2>Police Story 2 (1988)</h2>
             <h3>Jackie Chan &middot; 122m &middot; DCP</h3>
@@ -45,7 +45,7 @@
         </div>
 
         <div class="screening">
-            <h1>7:00PM October 12th</h1>
+            <h1>7:00PM Wednesday, October 12th</h1>
             <img src="/images/2022fall/center-stage-1991.jpg" alt="Center Stage still">
             <h2>Center Stage (1991)</h2>
             <h3>Stanley Kwan &middot; 126m &middot; DCP</h3>
@@ -53,7 +53,7 @@
         </div>
 
         <div class="screening">
-            <h1>7:00PM October 19th</h1>
+            <h1>7:00PM Wednesday, October 19th</h1>
             <img src="/images/2022fall/the-eagle-shooting-heroes-1993.jpg" alt="The Eagle Shooting Heroes still">
             <h2>The Eagle Shooting Heroes (1993)</h2>
             <h3>Jeffrey Lau &middot; 103m &middot; Digital</h3>
@@ -61,7 +61,7 @@
         </div>
 
         <div class="screening">
-            <h1>7:00PM October 26th</h1>
+            <h1>7:00PM Wednesday, October 26th</h1>
             <img src="/images/2022fall/the-heroic-trio-1993.jpg" alt="The Heroic Trio still">
             <h2>The Heroic Trio (1993)</h2>
             <h3>Johnnie To &middot; 83m &middot; DCP</h3>
@@ -69,7 +69,7 @@
         </div>
 
         <div class="screening">
-            <h1>7:00PM November 2nd</h1>
+            <h1>7:00PM Wednesday, November 2nd</h1>
             <img src="/images/2022fall/irma-vep-1996.jpg" alt="Irma Vep still">
             <h2>Irma Vep (1996)</h2>
             <h3>Olivier Assayas &middot; 99m &middot; DCP</h3>
@@ -77,7 +77,7 @@
         </div>
 
         <div class="screening">
-            <h1>7:00PM November 9th</h1>
+            <h1>7:00PM Wednesday, November 9th</h1>
             <img src="/images/2022fall/comrades-almost-a-love-story-1996.jpg" alt="Comrades: Almost a Love Story still">
             <h2>Comrades: Almost a Love Story (1996)</h2>
             <h3>Peter Chan &middot; 118m &middot; 35mm</h3>
@@ -85,7 +85,7 @@
         </div>
 
         <div class="screening">
-            <h1>7:00PM November 16th</h1>
+            <h1>7:00PM Wednesday, November 16th</h1>
             <img src="/images/2022fall/hero-2002.jpg" alt="Hero still">
             <h2>Hero (2002)</h2>
             <h3>Yimou Zhang &middot; 99m &middot; DCP</h3>
@@ -93,7 +93,7 @@
         </div>
 
         <div class="screening">
-            <h1>7:00PM November 30th</h1>
+            <h1>7:00PM Wednesday, November 30th</h1>
             <img src="/images/2022fall/executioners-1993.png" alt="Executioners still">
             <h2>Executioners (1993)</h2>
             <h3>Siu-Tung Ching, Johnnie To &middot; 97m &middot; DCP</h3>

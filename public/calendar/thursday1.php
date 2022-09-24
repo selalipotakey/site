@@ -27,7 +27,7 @@
         </div>
 
         <div class="screening">
-            <h1>7:00PM September 29th</h1>
+            <h1>7:00PM Thursday, September 29th</h1>
             <img src="/images/2022fall/10-things-i-hate-about-you-1999.jpg" alt="10 Things I Hate About You still">
             <h2>10 Things I Hate About You (1999)</h2>
             <h3>Gil Junger &middot; 97m &middot; DCP</h3>
@@ -35,7 +35,7 @@
         </div>
 
         <div class="screening">
-            <h1>7:00PM October 6th</h1>
+            <h1>7:00PM Thursday, October 6th</h1>
             <img src="/images/2022fall/ran-1985.png" alt="Ran still">
             <h2>Ran (1985)</h2>
             <h3>Akira Kurosawa &middot; 162m &middot; DCP</h3>
@@ -43,7 +43,7 @@
         </div>
 
         <div class="screening">
-            <h1>7:00PM October 13th</h1>
+            <h1>7:00PM Thursday, October 13th</h1>
             <img src="/images/2022fall/my-own-private-idaho-1999 (1).jpeg" alt="My Own Private Idaho still">
             <h2>My Own Private Idaho (1991)</h2>
             <h3>Gus Van Sant &middot; 102m &middot; DCP</h3>
@@ -51,7 +51,7 @@
         </div>
 
         <div class="screening">
-            <h1>7:00PM October 20th</h1>
+            <h1>7:00PM Thursday, October 20th</h1>
             <img src="/images/2022fall/forbidden-planet-1956.jpg" alt="Forbidden Planet still">
             <h2>Forbidden Planet (1956)</h2>
             <h3>Fred M. Wilcox &middot; 98m &middot; DCP</h3>
@@ -59,7 +59,7 @@
         </div>
 
         <div class="screening">
-            <h1>7:00PM October 27th</h1>
+            <h1>7:00PM Thursday, October 27th</h1>
             <img src="/images/2022fall/caesar-must-die-2012.jpg" alt="Caesar Must Die still">
             <h2>Caesar Must Die (2012)</h2>
             <h3>Vittorio Taviani & Paolo Taviani &middot; 76m &middot; Digital</h3>
@@ -67,7 +67,7 @@
         </div>
 
         <div class="screening">
-            <h1>7:00PM November 3rd</h1>
+            <h1>7:00PM Thursday, November 3rd</h1>
             <img src="/images/2022fall/chimes-at-midnight-1966.jpg" alt="Chimes at Midnight still">
             <h2>Chimes at Midnight (1966)</h2>
             <h3>Orson Welles &middot; 115m &middot; 35mm</h3>
@@ -75,7 +75,7 @@
         </div>
 
         <div class="screening">
-            <h1>7:00PM November 10th</h1>
+            <h1>7:00PM Thursday, November 10th</h1>
             <img src="/images/2022fall/rosencrantz-and-guildenstern-are-dead-1990.jpg" alt="Rosencrantz and Guildenstern Are Dead still">
             <h2>Rosencrantz and Guildenstern Are Dead (1990)</h2>
             <h3>Tom Stoppard &middot; 117m &middot; Digital</h3>
@@ -83,7 +83,7 @@
         </div>
 
         <div class="screening">
-            <h1>7:00PM November 17th</h1>
+            <h1>7:00PM Thursday, November 17th</h1>
             <img src="/images/2022fall/strange-illusion-1945.jpg" alt="Strange Illusion still">
             <h2>Strange Illusion (1945)</h2>
             <h3>Edgar G. Ulmer &middot; 87m &middot; 35mm</h3>
@@ -91,7 +91,7 @@
         </div>
 
         <div class="screening">
-            <h1>7:00PM December 1st</h1>
+            <h1>7:00PM Thursday, December 1st</h1>
             <img src="/images/2022fall/shes-the-man-2006.jpeg" alt="She's The Man still">
             <h2>She's The Man (2006)</h2>
             <h3>Andy Fickman &middot; 105m &middot; DCP</h3>

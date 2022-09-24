@@ -30,7 +30,7 @@
         </div>
 
         <div class="screening">
-            <h1>7:00PM September 30th</h1>
+            <h1>7:00PM Friday, September 30th</h1>
             <img src="/images/2022fall/perfect-blue-1997.png" alt="Perfect Blue still">
             <h2>Perfect Blue (1997)</h2>
             <h3>Satoshi Kon &middot; 81m &middot; DCP</h3>
@@ -38,7 +38,7 @@
         </div>
 
         <div class="screening">
-            <h1>7:00PM October 7th</h1>
+            <h1>7:00PM Friday, October 7th</h1>
             <img src="/images/2022fall/train-to-busan-2016.jpeg" alt="Train to Busan still">
             <h2>Train to Busan (2016)</h2>
             <h3>Yeon Sang-ho &middot; 118m &middot; DCP</h3>
@@ -46,7 +46,7 @@
         </div>
 
         <div class="screening">
-            <h1>7:00PM October 14th</h1>
+            <h1>7:00PM Friday, October 14th</h1>
             <img src="/images/2022fall/a-girl-walks-home-alone-at-night-2014.jpg" alt="A Girl Walks Home Alone at Night still">
             <h2>A Girl Walks Home Alone at Night (2014)</h2>
             <h3>Ana Lily Amirpour &middot; 101m &middot; DCP</h3>
@@ -54,7 +54,7 @@
         </div>
 
         <div class="screening">
-            <h1>7:00PM October 28th</h1>
+            <h1>7:00PM Friday, October 28th</h1>
             <img src="/images/2022fall/get-out-2017.jpeg" alt="Get Out still">
             <h2>Get Out (2017)</h2>
             <h3>Jordan Peele &middot; 2017 &middot; DCP</h3>
@@ -62,7 +62,7 @@
         </div>
 
         <div class="screening">
-            <h1>7:00PM November 4th</h1>
+            <h1>7:00PM Friday, November 4th</h1>
             <img src="/images/2022fall/dogtooth-2009.jpg" alt="Dogtooth still">
             <h2>Dogtooth (2009)</h2>
             <h3>Yorgos Lanthimos &middot; 97m &middot; 35mm</h3>
@@ -70,7 +70,7 @@
         </div>
 
         <div class="screening">
-            <h1>8:30PM November 11th</h1>
+            <h1><u>8:30PM</u> Friday, November 11th</h1>
             <img src="/images/2022fall/the-funhouse-1981.jpeg" alt="The Funhouse still">
             <h2>The Funhouse (1981)</h2>
             <h3>Tobe Hooper &middot; 96m &middot; DCP</h3>
@@ -78,7 +78,7 @@
         </div>
 
         <div class="screening">
-            <h1>7:00PM November 18th</h1>
+            <h1>7:00PM Friday, November 18th</h1>
             <img src="/images/2022fall/enter-the-void-2009.jpeg" alt="Enter the Void still">
             <h2>Enter the Void (2009)</h2>
             <h3>Gaspar Noé &middot; 143m &middot; 35mm</h3>
@@ -86,7 +86,7 @@
         </div>
 
         <div class="screening">
-            <h1>7:00PM December 2nd</h1>
+            <h1>7:00PM Friday, December 2nd</h1>
             <img src="/images/2022fall/tetsuo-the-iron-man-1989.jpeg" alt="Tetsuo: The Iron Man still">
             <h2>Tetsuo: The Iron Man (1989)</h2>
             <h3>Shinya Tsukamoto &middot; 67m &middot; DCP</h3>

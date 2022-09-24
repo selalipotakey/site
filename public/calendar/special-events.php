@@ -22,7 +22,7 @@
         </div>
         
         <div class="screening">
-            <h1>6:30PM September 25th</h1>
+            <h1>6:30PM Sunday, September 25th</h1>
             <img src="/images/2022fall/jurassic-park-1993.jpeg" alt="Jurassic Park still">
             <h2>Doc Films & Night Owls Presents: Jurassic Park (1993)</h2>
             <h3>Steven Spielberg &middot; 127m &middot; DCP</h3>
@@ -32,7 +32,7 @@
         </div>
 
         <div class="screening">
-            <h1>6:00PM October 1st</h1>
+            <h1>6:00PM Saturday, October 1st</h1>
             <img src="/images/2022fall/your-face-2018.jpg" alt="Your Face still">
             <a href="../tsai"><h2>Chicago Premiere: Light (光) and Your Face (你的臉) with Director Q&A</h2></a>
             <h3>Tsai Ming-Liang &middot; 94min &middot; DCP</h3>
@@ -40,14 +40,14 @@
         </div>
 
         <div class="screening">
-            <h1>October 21st-23rd</h1>
+            <h1>Friday, October 21st - Sunday, October 23rd</h1>
             <img src="/images/2022fall/funeral-parade-of-roses-1969.jpeg" alt="Funeral Parade of Roses still">
             <a href="../90th"><h2>Doc Films 90th Anniversary Weekend</h2></a>
             <p>Doc is a nonanegarian! What better way to celebrate than a blowout weekend packed full of our favorite films? See the whole lineup on our <u><a href="../90th">90th anniversary page.</a></u></p>
         </div>
 
         <div class="screening" id="nosferatu" style="scroll-margin-top: var(--header-height);">
-            <h1>7:00PM October 30th</h1>
+            <h1>7:00PM Sunday, October 30th</h1>
             <img src="/images/2022fall/nosferatu-1922.jpg" alt="Nosferatu still">
             <h2>Doc Films & Rockefeller Chapel Presents: Nosferatu (1922)</h2>
             <h3>F. W. Murnau &middot; 81m &middot; Digital</h3>

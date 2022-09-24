@@ -29,7 +29,7 @@
         </div>
 
         <div class="screening">
-            <h1>5:00PM October 2nd</h1>
+            <h1>5:00PM Sunday, October 2nd</h1>
             <img src="/images/2022fall/the-nun-1966.jpg" alt="THE NUN still">
             <h2>The Nun (1966)</h2>
             <h3>Jacques Rivette &middot; 140m &middot; DCP</h3>
@@ -37,7 +37,7 @@
         </div>
 
         <div class="screening">
-            <h1>5:00PM October 9th</h1>
+            <h1>5:00PM Sunday, October 9th</h1>
             <img src="/images/2022fall/celine-and-julie-go-boating-1974.jpg" alt="CELINE AND JULIE GO BOATING still">
             <h2>Céline and Julie Go Boating (1974)</h2>
             <h3>Jacques Rivette &middot; 193min &middot; Digital</h3>
@@ -45,7 +45,7 @@
         </div>
 
         <div class="screening">
-            <h1>5:00PM October 16th</h1>
+            <h1>5:00PM Sunday, October 16th</h1>
             <img src="/images/2022fall/duelle-1976.jpg" alt="DUELLE still">
             <h2>Duelle (1976)</h2>
             <h3>Jacques Rivette &middot; 121m &middot; DCP</h3>
@@ -53,7 +53,7 @@
         </div>
 
         <div class="screening">
-            <h1>5:00PM October 30th</h1>
+            <h1>5:00PM Sunday, October 30th</h1>
             <img src="/images/2022fall/out-1-spectre-1972.jpg" alt="OUT 1: SPECTRE still">
             <h2>Out 1: Spectre (1972)</h2>
             <h3>Jacques Rivette &middot; 264min &middot; Digital</h3>
@@ -61,7 +61,7 @@
         </div>
 
         <div class="screening">
-            <h1>5:00PM November 6th</h1>
+            <h1>5:00PM Sunday, November 6th</h1>
             <img src="/images/2022fall/the-gang-of-four-1988.jpeg" alt="THE GANG OF FOUR still">
             <h2>The Gang of Four (1989)</h2>
             <h3>Jacques Rivette &middot; 160min &middot; DCP</h3>
@@ -69,7 +69,7 @@
         </div>
 
         <div class="screening">
-            <h1>5:00PM November 13th</h1>
+            <h1>5:00PM Sunday, November 13th</h1>
             <img src="/images/2022fall/la-belle-noiseuse-1991.jpg" alt="LA BELLE NOISEUSE still">
             <h2>La Belle Noiseuse (1991)</h2>
             <h3>Jacques Rivette &middot; 238min &middot; DCP</h3>
@@ -77,7 +77,7 @@
         </div>
 
         <div class="screening">
-            <h1>5:00PM November 20th</h1>
+            <h1>5:00PM Sunday, November 20th</h1>
             <img src="/images/2022fall/joan-the-maid-the-battles-1994.jpg" alt="JOAN THE MAID: THE BATTLES still">
             <h2>Joan the Maid: The Battles (1994)</h2>
             <h3>Jacques Rivette &middot; 160m &middot; DCP</h3>
@@ -85,7 +85,7 @@
         </div>
 
         <div class="screening">
-            <h1>5:00PM December 4th</h1>
+            <h1>5:00PM Sunday, December 4th</h1>
             <img src="/images/2022fall/joan-the-maid-the-prisons-1994.jpg" alt="JOAN THE MAID: THE PRISONS still">
             <h2>Joan the Maid: The Prisons (1994)</h2>
             <h3>Jacques Rivette &middot; 177min &middot; DCP</h3>

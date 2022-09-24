@@ -28,7 +28,7 @@
         </div>
 
         <div class="screening">
-            <h1>9:30PM September 29th</h1>
+            <h1>9:30PM Thursday, September 29th</h1>
             <img src="/images/2022fall/the-adventures-of-prince-achmed-1926.jpg" alt="The Adventures of Prince Achmed still">
             <h2>The Adventures of Prince Achmed (1926)</h2>
             <h3>Lotte Reiniger &middot; 65m &middot; 35mm</h3>
@@ -36,7 +36,7 @@
         </div>
 
         <div class="screening">
-            <h1>10:00PM October 6th</h1>
+            <h1><u>10:00PM</u> Thursday, October 6th</h1>
             <img src="/images/2022fall/belladonna-of-sadness-1973.jpg" alt="Belladonna of Sadness still">
             <h2>Belladonna of Sadness (1973)</h2>
             <h3>Eiichi Yamamoto &middot; 86m &middot; DCP</h3>
@@ -44,7 +44,7 @@
         </div>
 
         <div class="screening">
-            <h1>9:30PM October 13th</h1>
+            <h1>9:30PM Thursday, October 13th</h1>
             <img src="/images/2022fall/son-of-the-white-mare-1981.jpg" alt="Son of the White Mare still">
             <h2>Son of the White Mare (1981)</h2>
             <h3>Marcell Jankovics &middot; 90m &middot; DCP</h3>
@@ -52,7 +52,7 @@
         </div>
 
         <div class="screening">
-            <h1>9:30PM October 20th</h1>
+            <h1>9:30PM Thursday, October 20th</h1>
             <img src="/images/2022fall/the-thief-and-the-cobbler-1992.png" alt="The Thief and the Cobbler: A Moment in Time still">
             <h2>The Thief and the Cobbler: A Moment in Time (1992)</h2>
             <h3>Richard Williams &middot; 89m &middot; DCP</h3>
@@ -60,7 +60,7 @@
         </div>
 
         <div class="screening">
-            <h1>9:30PM October 27th</h1>
+            <h1>9:30PM Thursday, October 27th</h1>
             <img src="/images/2022fall/persepolis-2007.jpg" alt="Persepolis still">
             <h2>Persepolis (2007)</h2>
             <h3>Marjane Satrapi & Vincent Paronnaud &middot; 96m &middot; 35mm</h3>
@@ -68,7 +68,7 @@
         </div>
 
         <div class="screening">
-            <h1>9:30PM November 3rd</h1>
+            <h1>9:30PM Thursday, November 3rd</h1>
             <img src="/images/2022fall/la-casa-lobo-2018.jpg" alt="La casa lobo still">
             <h2>La casa lobo (2018)</h2>
             <h3>Cristobal León & Joaquín Cociña &middot; 73m &middot; DCP</h3>
@@ -76,7 +76,7 @@
         </div>
 
         <div class="screening">
-            <h1>9:30PM November 10th</h1>
+            <h1>9:30PM Thursday, November 10th</h1>
             <img src="/images/2022fall/coraline-2009.jpg" alt="Coraline still">
             <h2>Coraline (2009)</h2>
             <h3>Henry Selick &middot; 100m &middot; DCP</h3>
@@ -84,7 +84,7 @@
         </div>
 
         <div class="screening">
-            <h1>9:30PM November 17th</h1>
+            <h1>9:30PM Thursday, November 17th</h1>
             <img src="/images/2022fall/night-is-short-walk-on-girl-2017.jpg" alt="The Night Is Short, Walk on Girl still">
             <h2>The Night Is Short, Walk on Girl (2017)</h2>
             <h3>Masaaki Yuasa &middot; 93m &middot; DCP</h3>
@@ -92,7 +92,7 @@
         </div>
 
         <div class="screening">
-            <h1>9:30PM December 1st</h1>
+            <h1>9:30PM Thursday, December 1st</h1>
             <img src="/images/2022fall/wolfwalkers-2020.jpg" alt="Wolfwalkers still">
             <h2>Wolfwalkers (2020)</h2>
             <h3>Tomm Moore & Ross Stewart &middot; 103m &middot; DCP</h3>

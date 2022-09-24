@@ -27,7 +27,7 @@
         </div>
 
         <div class="screening">
-            <h1>7:00PM September 27th</h1>
+            <h1>7:00PM Tuesday, September 27th</h1>
             <img src="/images/2022fall/black-coal-thin-ice-2014.jpg" alt="Black Coal, Thin Ice still">
             <h2>Black Coal, Thin Ice (2014)</h2>
             <h3>Diao Yinan &middot; 110m &middot; Digital</h3>
@@ -35,7 +35,7 @@
         </div>
 
         <div class="screening">
-            <h1>7:00PM October 4th</h1>
+            <h1>7:00PM Tuesday, October 4th</h1>
             <img src="/images/2022fall/wolf-warrior-2-2017.jpg" alt="Wolf Warrior 2 still">
             <h2>Wolf Warrior 2 (2017)</h2>
             <h3>Wu Jing &middot; 123m &middot; DCP</h3>
@@ -43,7 +43,7 @@
         </div>
 
         <div class="screening">
-            <h1>7:00PM October 11th</h1>
+            <h1>7:00PM Tuesday, October 11th</h1>
             <img src="/images/2022fall/city-of-life-and-death-2009.jpg" alt="City of Life and Death still">
             <h2>City of Life and Death (2009)</h2>
             <h3>Lu Chuan &middot; 133m &middot; 35mm</h3>
@@ -51,7 +51,7 @@
         </div>
 
         <div class="screening">
-            <h1>7:00PM October 18th</h1>
+            <h1>7:00PM Tuesday, October 18th</h1>
             <img src="/images/2022fall/dead-pigs-2018.jpg" alt="Dead Pigs still">
             <h2>Dead Pigs (2018)</h2>
             <h3>Cathy Yan &middot; 130min &middot; DCP</h3>
@@ -59,7 +59,7 @@
         </div>
 
         <div class="screening">
-            <h1>7:00MPM October 25th</h1>
+            <h1>7:00MPM Tuesday, October 25th</h1>
             <img src="/images/2022fall/girls-always-happy-2018.jpg" alt="Girls Always Happy still">
             <h2>Girls Always Happy (2018)</h2>
             <h3>Yang Mingming &middot; 116min &middot; Digital</h3>
@@ -67,7 +67,7 @@
         </div>
 
         <div class="screening">
-            <h1>7:00PM November 1st</h1>
+            <h1>7:00PM Tuesday, November 1st</h1>
             <img src="/images/2022fall/house-of-flying-daggers-2004.jpeg" alt="House of Flying Daggers still">
             <h2>House of Flying Daggers (2004)</h2>
             <h3>Zhang Yimou &middot; 119min &middot; 35mm</h3>
@@ -75,7 +75,7 @@
         </div>
 
         <div class="screening">
-            <h1>7:00MPM November 8th</h1>
+            <h1>7:00MPM Tuesday, November 8th</h1>
             <img src="/images/2022fall/still-life-2006.jpg" alt="Still Life still">
             <h2>Still Life (2006)</h2>
             <h3>Jia Zhangke &middot; 111min &middot; 35mm</h3>
@@ -83,7 +83,7 @@
         </div>
 
         <div class="screening">
-            <h1>7:00MPM November 11th</h1>
+            <h1>7:00MPM <u>Saturday</u>, November 11th</h1>
             <img src="/images/2022fall/long-days-journey-into-night-2018.jpg" alt="Long Day's Journey Into Night still">
             <h2>Long Day's Journey Into Night (2018) — at the Logan Center 201 in 3D!</h2>
             <h3>Bi Gan &middot; 138m &middot; 3D DCP</h3>
@@ -91,7 +91,7 @@
         </div>
 
         <div class="screening">
-            <h1>7:00PM November 15th</h1>
+            <h1>7:00PM Tuesday, November 15th</h1>
             <img src="/images/2022fall/bitter-money-2016.jpg" alt="Bitter Money still">
             <h2>Bitter Money (2016)</h2>
             <h3>Wang Bing &middot; 163m &middot; DCP</h3>
@@ -99,7 +99,7 @@
         </div>
 
         <div class="screening">
-            <h1>7:00PM November 29th</h1>
+            <h1>7:00PM Tuesday, November 29th</h1>
             <img src="/images/2022fall/up-the-yangtze-2007.jpg" alt="Up the Yangtze still">
             <h2>Up the Yangtze (2007)</h2>
             <h3>Yung Chang &middot; 93m &middot; 35mm</h3>
