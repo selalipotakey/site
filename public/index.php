@@ -128,6 +128,7 @@
           <h2>Black Coal, Thin Ice (2014)</h2>
           <h3>Diao Yinan &middot; 110m &middot; Digital</h3>
           <p>Stomach-turning, erotic, isolating, and comic, all in equal measure. <i>Black Coal, Thin Ice</i> centers Zhang, a drunken former police officer, trapped in a game of cat-and-mouse after attempting to hunt down a serial killer who has dismembered and scattered bodies across Heilongjiang’s industrial landscape. What results is a masterful whodunit that melds neo-noir genre fare with biting social commentary. NOTE: Uncensored, international version.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=D8138BBA-0699-4ECA-A2DA-A74576AE0D2C" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div class="screening">
@@ -136,6 +137,7 @@
           <h2>Police Story (1985)</h2>
           <h3>Jackie Chan &middot; 100m &middot; DCP</h3>
           <p>Featuring Maggie Cheung in one of her earliest roles as his put-upon girlfriend, Jackie Chan’s <i>Police Story </i>is widely considered one of the greatest action movies ever made. Chan himself plays super-cop Ka-kui, who must protect star witness Salina Fong (Brigitte Lin) before she testifies against the drug cartel she works for. With reams of broken glass and death-defying stunts galore, this is one of the purest slices of entertainment ever put to film.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=B8A75D91-2745-4CE9-9A93-406E763F39AA" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div class="screening">
@@ -144,6 +146,7 @@
           <h2>10 Things I Hate About You (1999)</h2>
           <h3>Gil Junger &middot; 97m &middot; DCP</h3>
           <p>Julia Stiles and Heath Ledger co-star as the icy Kat Stratford and impish bad-boy Patrick Verona in this charming teen rom-com set in a '90s Seattle high school, based on "The Taming of the Shrew." New student Cameron (Joseph Gordon-Levitt) falls for Kat’s younger sister Bianca (Larisa Oleynik), but her protective father forbids Bianca from dating until her anti-social older sister does. Accordingly, Cameron hires Patrick to seduce Kat.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=37B1DAAB-F73A-4A27-9ED7-9771A68B4510" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div class="screening">
@@ -152,6 +155,7 @@
           <h2>The Adventures of Prince Achmed (1926)</h2>
           <h3>Lotte Reiniger &middot; 65m &middot; 35mm</h3>
           <p>Considered by many to be the oldest surviving animated film in the world, <i>The Adventures of Prince Achmed</i> is a masterful work of cutout, silhouette animation by German director Lotte Reiniger. Drawing from Hanna Diyab's contributions to the "Arabian Nights," the film focuses on the many adventures of its titular character, who embarks on a demon-slaying, princess-wooing escapade after a wicked sorcerer tricks him into riding a magical, flying horse.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=CEB2435B-B355-44D8-9720-7EF1A7CBADE4" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div class="screening">
@@ -160,6 +164,7 @@
           <h2>Perfect Blue (1997)</h2>
           <h3>Satoshi Kon &middot; 81m &middot; DCP</h3>
           <p>She’s the real thing! Mima’s about ready to give up her idol career; she’s spent too long being the good girl, and acting’s her way out. But Mima quickly realizes she’s got more than she ever asked for. Satoshi Kon’s brain-melting anime thriller is a film wholly of its own, a brutally violent fever dream of stalkers, psychosis, serial murders, and dissociation. Nevertheless, we’re sure Mima will figure it out. Question is: Who’s the real Mima?</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=9866C09F-DD73-41B2-943D-F7BA7E4412E5" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div class="screening">
@@ -176,6 +181,7 @@
           <h2>The Nun (1966)</h2>
           <h3>Jacques Rivette &middot; 140m &middot; DCP</h3>
           <p>Rivette’s second feature is an incendiary feminist masterpiece banned in France and condemned by the Catholic Church. It tells the story of a young woman (a radiant Anna Karina) forced to enter a convent. She fights for her freedom, but finds tyranny and brutality at every turn. The intensity and formal rigor of Rivette’s technique and the striking contemporary score make <i>The Nun</i> one of the most exhilarating and essential films of the French New Wave.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=66D6651B-3914-445C-B09E-A82A44A8D844" target="_blank">here</a></u>.</b></p>
         </div>
 
       </div>

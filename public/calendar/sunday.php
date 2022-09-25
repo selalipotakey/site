@@ -34,6 +34,7 @@
             <h2>The Nun (1966)</h2>
             <h3>Jacques Rivette &middot; 140m &middot; DCP</h3>
             <p>Rivette’s second feature is an incendiary feminist masterpiece banned in France and condemned by the Catholic Church. It tells the story of a young woman (a radiant Anna Karina) forced to enter a convent. She fights for her freedom, but finds tyranny and brutality at every turn. The intensity and formal rigor of Rivette’s technique and the striking contemporary score make <i>The Nun</i> one of the most exhilarating and essential films of the French New Wave.</p>
+            <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=66D6651B-3914-445C-B09E-A82A44A8D844" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div class="screening">
@@ -42,6 +43,7 @@
             <h2>Céline and Julie Go Boating (1974)</h2>
             <h3>Jacques Rivette &middot; 193min &middot; Digital</h3>
             <p>Rivette’s best-known film is an exuberant, freewheeling fantasy about the power of female camaraderie, the delights of narrative, and the fluid boundaries between life and art. After magician Céline (Juliet Berto) and librarian Julie (Dominique Labourier) meet, they move in together, swap identities, and time travel to a mansion with a gothic murder mystery. Co-written by the film's actresses, the film is one of Rivette's most enjoyable and enduring works.</p>
+            <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=59407132-E70F-4B59-B0E9-5A28FFA0C836" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div class="screening">
@@ -50,6 +52,7 @@
             <h2>Duelle (1976)</h2>
             <h3>Jacques Rivette &middot; 121m &middot; DCP</h3>
             <p>In the shadowy demimonde of contemporary Paris, the Sun and Moon Goddesses do battle over a magic diamond that will allow the winner to remain on Earth. At the time of its release, this ravishing, daringly experimental, noir-stained fantasy divided critics. But it has since come to be regarded as one of Rivette's most striking and inventive films. It was part of a projected tetralogy of which only one other episode (1976’s <i>Noroît</i>) was ever completed.</p>
+            <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=1C42381A-4519-4DA4-BDC2-B927751C6561" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div class="screening">
@@ -58,6 +61,7 @@
             <h2>Out 1: Spectre (1972)</h2>
             <h3>Jacques Rivette &middot; 264min &middot; Digital</h3>
             <p>This condensed version of Rivette’s 13-hour magnum opus, <i>Out 1: Noli Me Tangere</i>, has been hailed as a masterpiece in its own right. Entirely improvised, it tells the story of two outsiders investigating a conspiracy involving avant-garde theater troupes and an Illuminati-like secret society. In the words of critic Jonathan Romney, the film is “about things, people, and communal causes falling apart, arguably a lament for France’s failed utopia of 1968.”</p>
+            <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=3A4A806F-BDD4-48BC-9A28-310667177248" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div class="screening">
@@ -66,6 +70,7 @@
             <h2>The Gang of Four (1989)</h2>
             <h3>Jacques Rivette &middot; 160min &middot; DCP</h3>
             <p>Four young women are sharing a home and studying at a drama school run by a notoriously demanding grande dame. As they rehearse a play, one of the group mysteriously disappears, an enigmatic stranger arrives on the scene, and the lines between theater and “real life” become increasingly blurred. Gorgeously lensed by the great Caroline Champetier, <i>Gang of Four</i> is an engrossing exploration of Rivette’s classic themes and one of his most thoughtful works.</p>
+            <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=DC0546AC-82E3-42D3-AFCF-E8B95810FF02" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div class="screening">
@@ -74,6 +79,7 @@
             <h2>La Belle Noiseuse (1991)</h2>
             <h3>Jacques Rivette &middot; 238min &middot; DCP</h3>
             <p>Rivette’s biggest box office hit and the most acclaimed film of his later career was this mesmerizing drama of artistic obsession. It stars an aging painter, his reluctant muse, and their struggle to finish a long-abandoned portrait. Jonathan Rosenbaum wrote, “rarely has Rivette’s use of duration to look at process been as spellbinding as it is here . . . Rivette’s superb sense of rhythm and mise en scene never falters, and the plot has plenty of twists.”</p>
+            <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=2FD8CC29-340F-461D-AE6C-AA204AE6AAF1" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div class="screening">
@@ -82,6 +88,7 @@
             <h2>Joan the Maid: The Battles (1994)</h2>
             <h3>Jacques Rivette &middot; 160m &middot; DCP</h3>
             <p>Countless films have been about Joan of Arc, but as critic Jonathan Rosenbaum noted, Rivette’s rigorously materialist version is “perhaps the only movie that offers a plausible portrait of what the 15th-century teenager who led the French into battle was actually like." In part one of this epic, young Joan (an extraordinary Sandrine Bonnaire) leaves her childhood home and persuades Charles VII to allow her to lead his troops in the war against the English.</p>
+            <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=5AC926DC-9713-4662-B367-CF12BF89A3D3" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div class="screening">
@@ -90,6 +97,7 @@
             <h2>Joan the Maid: The Prisons (1994)</h2>
             <h3>Jacques Rivette &middot; 177min &middot; DCP</h3>
             <p>Part two of Rivette’s epic chronicles Joan’s imprisonment and interrogation by the British, but notably omits her trial, which features prominently in other cinematic accounts of her life. As in part one, Rivette’s focus on quotidian details and the spaces between the great events of Joan's life humanizes her in ways that are profoundly moving. Rivette’s long takes and the beauty and austerity of his images illuminate the saint’s inner and outer lives..</p>
+            <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=37F01F9F-16C3-4DD3-8E9E-B8DA1A042611" target="_blank">here</a></u>.</b></p>
         </div>
 
       </div>
