@@ -22,7 +22,7 @@
         </div>
 
         <div class="screening">
-            <h1>7:00PM October 8th</h1>
+            <h1>7:00PM Saturday, October 8th</h1>
             <img src="/images/2022fall/elvis-2022.jpg" alt="Elvis still">
             <h2>Elvis (2022)</h2>
             <h3>Baz Luhrmann &middot; 159m &middot; DCP</h3>
@@ -31,7 +31,7 @@
         </div>
 
         <div class="screening">
-            <h1>7:00PM October 15th</h1>
+            <h1>7:00PM Saturday, October 15th</h1>
             <img src="/images/2022fall/top-gun-maverick-2022.jpg" alt="Top Gun: Maverick still">
             <h2>Top Gun: Maverick (2022)</h2>
             <h3>Joseph Kosinski &middot; 130m &middot; DCP</h3>
@@ -40,7 +40,7 @@
         </div>
 
         <div class="screening">
-            <h1>7:00PM October 29th</h1>
+            <h1>7:00PM Saturday, October 29th</h1>
             <img src="/images/2022fall/apples-2020.jpeg" alt="Apples still">
             <h2>Apples (2020)</h2>
             <h3>Christos Nikou &middot; 91m &middot; DCP</h3>
@@ -49,7 +49,7 @@
         </div>
 
         <div class="screening">
-            <h1>7:00 November 5th</h1>
+            <h1>7:00 Saturday, November 5th</h1>
             <img src="/images/2022fall/bullet-train-2022.jpg" alt="Bullet Train still">
             <h2>Bullet Train (2022)</h2>
             <h3>David Leitch &middot; 126m &middot; DCP</h3>
@@ -58,7 +58,7 @@
         </div>
 
         <div class="screening">
-            <h1>7:00 November 19th</h1>
+            <h1>7:00 Saturday, November 19th</h1>
             <img src="/images/2022fall/rrr-2022.jpg" alt="RRR still">
             <h2>RRR (2022)</h2>
             <h3>S. S. Rajamouli &middot; 181m &middot; DCP</h3>
@@ -67,7 +67,7 @@
         </div>
 
         <div class="screening">
-            <h1>7:00PM December 3rd</h1>
+            <h1>7:00PM Saturday, December 3rd</h1>
             <img src="/images/2022fall/autoerotica-2021.jpg" alt="AUTOEROTICA still">
             <h2>Autoerótica (2021) — US Premiere</h2>
             <h3>Andrea Hoyos &middot; 92m &middot; Digital</h3>

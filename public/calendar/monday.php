@@ -30,7 +30,7 @@
         </div>
 
         <div class="screening">
-            <h1>7:00PM October 3rd</h1>
+            <h1>7:00PM Monday, October 3rd</h1>
             <img src="/images/2022fall/it-happened-one-night-1934.jpeg" alt="It Happened One Night still">
             <h2>It Happened One Night (1934)</h2>
             <h3>Frank Capra &middot; 105m &middot; 35mm</h3>
@@ -39,7 +39,7 @@
         </div>
 
         <div class="screening">
-            <h1>7:00PM October 10th</h1>
+            <h1>7:00PM Monday, October 10th</h1>
             <img src="/images/2022fall/bringing-up-baby-1938.jpeg" alt="Bringing Up Baby still">
             <h2>Bringing Up Baby (1938)</h2>
             <h3>Howard Hawks &middot; 102min &middot; DCP</h3>
@@ -48,7 +48,7 @@
         </div>
 
         <div class="screening">
-            <h1>7:00PM October 17th</h1>
+            <h1>7:00PM Monday, October 17th</h1>
             <img src="/images/2022fall/nintochka-1938.jpeg" alt="Ninotchka still">
             <h2>Ninotchka (1939)</h2>
             <h3>Ernst Lubitsch &middot; 110m &middot; 35mm</h3>
@@ -57,7 +57,7 @@
         </div>
 
         <div class="screening">
-            <h1>7:00PM October 24th</h1>
+            <h1>7:00PM Monday, October 24th</h1>
             <img src="/images/2022fall/the-awful-truth-1937.jpeg" alt="The Awful Truth still">
             <h2>The Awful Truth (1937)</h2>
             <h3>Leo McCarey &middot; 90min &middot; DCP</h3>
@@ -66,7 +66,7 @@
         </div>
 
         <div class="screening">
-            <h1>7:00PM November 1st</h1>
+            <h1>7:00PM Monday, October 31st</h1>
             <img src="/images/2022fall/whats-up-doc-1972.jpeg" alt="What's Up, Doc? still">
             <h2>What's Up, Doc? (1972)</h2>
             <h3>Peter Bogdanovich &middot; 94min &middot; 35mm</h3>
@@ -75,7 +75,7 @@
         </div>
 
         <div class="screening">
-            <h1>7:00PM November 7th</h1>
+            <h1>7:00PM Monday, November 7th</h1>
             <img src="/images/2022fall/intolerable-cruelty-2003.jpg" alt="Intolerable Cruelty still">
             <h2>Intolerable Cruelty (2003)</h2>
             <h3>Joel Coen & Ethan Coen &middot; 100min &middot; 35mm</h3>
@@ -84,7 +84,7 @@
         </div>
 
         <div class="screening">
-            <h1>7:00PM November 14th</h1>
+            <h1>7:00PM Monday, November 14th</h1>
             <img src="/images/2022fall/the-philadelphia-story-1940.jpeg" alt="The Philadelphia Story still">
             <h2>The Philadelphia Story (1940)</h2>
             <h3>George Cukor &middot; 112m &middot; 35mm</h3>
@@ -93,7 +93,7 @@
         </div>
 
         <div class="screening">
-            <h1>7:00PM November 28th</h1>
+            <h1>7:00PM Monday, November 28th</h1>
             <img src="/images/2022fall/his-girl-friday-1940.jpg" alt="His Girl Friday still">
             <h2>His Girl Friday (1940)</h2>
             <h3>Howard Hawks &middot; 92min &middot; 35mm</h3>
