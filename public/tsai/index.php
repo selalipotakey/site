@@ -38,7 +38,7 @@
 
         <div class="text-section">
           <h1>Tickets</h1>
-          <p>Doc will be selling up to 200 tickets online in advance for this event. A limited number will be available at the door. You can find tickets available through the Logan Center Box Office online <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=52A06841-6FB3-4403-9339-CC844BD168C5" target="_blank">here</a></u>.</p>
+          <p>Thanks to your tremendous enthusiasm, we have sold out all of our online tickets! We will be selling a select number at the cinema starting one hour before the screening (at 5:00PM).</p>
         </div>
 
         <div class="screening">
