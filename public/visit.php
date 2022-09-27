@@ -22,6 +22,7 @@
         <br><br>
 
         <h1 id="tickets">Tickets</h1>
+        <h3>In-Person</h3>
         <p>Single tickets and passes can be bought at the theater 30 minutes before each screening. Quarterly membership passes grant holders free entry to all general admission films for the quarter.</p>
         <br>
         <i><ul class="prices">
@@ -55,10 +56,14 @@
         </ul></i>
         <br>
         <p><b>Group discounts:</b> We also sell single tickets at a <u>$5/ticket</u> discount for parties of 8 or more, but you must <u><a href="/about/#contact">send us an email or voicemail</a></u> ahead of time. </p>
-        <br>
-        <!-- <p style="font-size: 1.5rem;"><i>Note: discounts cannot be applied to online purchases.</i></p> -->
-
+        
         <br><br>
+
+        <h3>Online</h3>
+        <p>Doc sells tickets and quarter passes online <u><a href="https://tickets.uchicago.edu/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=F5602A6B-6B4D-4AC2-A9CF-9B1A03B4BDBA" target="_blank">here through the Logan Box Office</a></u>. Tickets links can also be found beneath the description of each film on this website.</p>
+        <p style="font-size: 1.5rem;"><i>Note: discounts cannot be applied to online purchases.</i></p>
+
+        <br><br><br>
 
         <h1>Directions</h1>
         <p>Doc Films is located in the Max Palevsky Cinema in Ida Noyes Hall at The University of Chicago (1212 East 59th Street, Chicago, IL 60637). Persons with a disability who may need assistance can <u><a href="/about/#contact">contact us by email or phone</a></u>.</p>
