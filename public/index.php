@@ -29,7 +29,7 @@
           <div class="carousel__track-container">
             <ul class="carousel__track">
 
-              <li class="carousel__slide current-slide">
+              <!-- <li class="carousel__slide current-slide">
                 <a href="/tsai/">
                   <img class="carousel__image" src="/images/2022fall/light-2018.png" alt="">
                 </a>
@@ -41,9 +41,9 @@
                   </a>
                     <p class="capsule fittext"><i>Light</i> captures changes in the natural light streaming through Taipei’s Zhongshan Hall, where Japanese forces in Taiwan surrendered at the end of WWII, and where Tsai volunteered, won a film award, ran a café, held screenings of classic films, and shot his feature-length film <i>Your Face</i>. <i>Your Face</i> is composed of thirteen portraits of citizens of Taipei, including actor Lee Kang-Sheng, and explores the depth of lit faces, and the stories they convey.</p>
                 </div>
-              </li>
+              </li> -->
               
-              <li class="carousel__slide">
+              <li class="carousel__slide current-slide">
                 <a href="/90th">
                   <img class="carousel__image" src="/images/2022fall/funeral-parade-of-roses-1969.jpeg" alt="FUNERAL PARADE OF ROSES still">
                 </a>
@@ -95,7 +95,7 @@
           <div class="carousel__nav">
             <button class="carousel__indicator current-slide"></button>
             <button class="carousel__indicator"></button>
-            <button class="carousel__indicator"></button>
+            <!-- <button class="carousel__indicator"></button> -->
             <!-- <button class="carousel__indicator"></button> -->
           </div>
           
