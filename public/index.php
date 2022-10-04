@@ -112,76 +112,77 @@
           <h3><i>$7 tickets, theater opens 30 minutes before the screening.</i></h3>
         </div>
 
+
         <div class="screening">
-          <h1>6:30PM Sunday, September 25th</h1>
-          <img src="/images/2022fall/jurassic-park-1993.jpeg" alt="Jurassic Park still">
-          <h2>Doc Films & Night Owls Presents: Jurassic Park (1993)</h2>
-          <h3>Steven Spielberg &middot; 127m &middot; DCP</h3>
-          <p>Despite being set on a fictional island, <i>Jurassic Park</i> is anything but a tranquil beach vacation. Steven Spielberg transports us to an amusement park of prehistoric dinosaurs restored from extinction by a wealthy entrepreneur. But the paleontological pet project is doomed from the start; even before the grand opening, security systems fail, setting the dinosaurs loose and forcing those touring the park to run—and hide—for their lives.</p>
-          <p>With post-film discussion hosted by Professors Dan Morgan & Agnes Callard.</p>
-          <p><i>Note: all patrons that show a UChicagoID (UCID) get in for free!</i></p>
+          <h1>7:00PM Monday, October 3rd</h1>
+          <img src="/images/2022fall/it-happened-one-night-1934.jpeg" alt="It Happened One Night still">
+          <h2>It Happened One Night (1934)</h2>
+          <h3>Frank Capra &middot; 105m &middot; 35mm</h3>
+          <p>Winner of five Oscars—Best Picture, Director, Actor, Actress, and Adapted Screenplay—<i>It Happened One Night</i> is a triumph of pre-Code comedy and a key antecedent to the screwball form. Claudette Colbert and Clark Gable are both magnetic as a runaway heiress and a struggling reporter who bond over the course of a trip from Florida to New York City. The palpable chemistry of Colbert and Gable—romantic, sexual, and comedic—makes this a must-see.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=8DDA9F28-7A84-48CE-956C-0F01CF27172F" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div class="screening">
-          <h1>7:00PM Tuesday, September 27th</h1>
-          <img src="/images/2022fall/black-coal-thin-ice-2014.jpg" alt="Black Coal, Thin Ice still">
-          <h2>Black Coal, Thin Ice (2014)</h2>
-          <h3>Diao Yinan &middot; 110m &middot; Digital</h3>
-          <p>Stomach-turning, erotic, isolating, and comic, all in equal measure. <i>Black Coal, Thin Ice</i> centers Zhang, a drunken former police officer, trapped in a game of cat-and-mouse after attempting to hunt down a serial killer who has dismembered and scattered bodies across Heilongjiang’s industrial landscape. What results is a masterful whodunit that melds neo-noir genre fare with biting social commentary. NOTE: Uncensored, international version.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=D8138BBA-0699-4ECA-A2DA-A74576AE0D2C" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Tuesday, October 4th</h1>
+          <img src="/images/2022fall/wolf-warrior-2-2017.jpg" alt="Wolf Warrior 2 still">
+          <h2>Wolf Warrior 2 (2017)</h2>
+          <h3>Wu Jing &middot; 123m &middot; DCP</h3>
+          <p><i>Wolf Warrior 2</i> is the ultimate spectacle of Chinese propaganda filmmaking; yet it remains an enigma in the American cultural zeitgeist, despite standing as the highest-grossing non-English language film of all time for nearly four years, raking in the equivalent of $874 million. It’s the story of heroic Chinese military involvement in an unnamed African nation, but it's also a look at what the Chinese military apparatus sees as its future in geopolitics.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=95469340-FBBC-4011-8AA5-DCAB07DC91B7" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div class="screening">
-          <h1>7:00PM Wednesday, September 28th</h1>
-          <img src="/images/2022fall/police-story-1985.jpeg" alt="Police Story still">
-          <h2>Police Story (1985)</h2>
-          <h3>Jackie Chan &middot; 100m &middot; DCP</h3>
-          <p>Featuring Maggie Cheung in one of her earliest roles as his put-upon girlfriend, Jackie Chan’s <i>Police Story </i>is widely considered one of the greatest action movies ever made. Chan himself plays super-cop Ka-kui, who must protect star witness Salina Fong (Brigitte Lin) before she testifies against the drug cartel she works for. With reams of broken glass and death-defying stunts galore, this is one of the purest slices of entertainment ever put to film.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=B8A75D91-2745-4CE9-9A93-406E763F39AA" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Wednesday, October 5th</h1>
+          <img src="/images/2022fall/police-story-2-1988.jpg" alt="Police Story 2 still">
+          <h2>Police Story 2 (1988)</h2>
+          <h3>Jackie Chan &middot; 122m &middot; DCP</h3>
+          <p>Maggie Cheung returns as longsuffering girlfriend May in the rip-roaring second installment of Jackie Chan’s vaunted <i>Police Story</i> series, this time getting roped into the action in a bigger way as part of a kidnapping plot that draws Chan’s Ka-kui back into the thick of things after the events of the first film saw him bumped down to highway patrol. <i>Police Story 2 </i>is an action showcase as rollicking as (if less glass-filled than) the first.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=C00596E7-B8FA-4658-83F4-5A3600C6F1F9" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div class="screening">
-          <h1>7:00PM Thursday, September 29th</h1>
-          <img src="/images/2022fall/10-things-i-hate-about-you-1999.jpg" alt="10 Things I Hate About You still">
-          <h2>10 Things I Hate About You (1999)</h2>
-          <h3>Gil Junger &middot; 97m &middot; DCP</h3>
-          <p>Julia Stiles and Heath Ledger co-star as the icy Kat Stratford and impish bad-boy Patrick Verona in this charming teen rom-com set in a '90s Seattle high school, based on "The Taming of the Shrew." New student Cameron (Joseph Gordon-Levitt) falls for Kat’s younger sister Bianca (Larisa Oleynik), but her protective father forbids Bianca from dating until her anti-social older sister does. Accordingly, Cameron hires Patrick to seduce Kat.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=37B1DAAB-F73A-4A27-9ED7-9771A68B4510" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Thursday, October 6th</h1>
+          <img src="/images/2022fall/ran-1985.png" alt="Ran still">
+          <h2>Ran (1985)</h2>
+          <h3>Akira Kurosawa &middot; 162m &middot; DCP</h3>
+          <p>In his last epic film and final Shakespeare adaptation, Kurosawa imports "King Lear" to Sengoku-era Japan in the story of the aging warlord Hidetora (Tatsuya Nakadai) and the three sons set to inherit his kingdom. An extravagant production, <i>Ran</i> was the most expensive Japanese film ever made at the time, requiring a decade of planning during which Kurosawa hand-painted every shot of the film. <i>Ran</i> is a gorgeous masterpiece of betrayal and destruction.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=73BE440C-54B9-436A-97D0-6C1036D4DC32" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div class="screening">
-          <h1>9:30PM Thursday, September 29th</h1>
-          <img src="/images/2022fall/the-adventures-of-prince-achmed-1926.jpg" alt="The Adventures of Prince Achmed still">
-          <h2>The Adventures of Prince Achmed (1926)</h2>
-          <h3>Lotte Reiniger &middot; 65m &middot; 35mm</h3>
-          <p>Considered by many to be the oldest surviving animated film in the world, <i>The Adventures of Prince Achmed</i> is a masterful work of cutout, silhouette animation by German director Lotte Reiniger. Drawing from Hanna Diyab's contributions to the "Arabian Nights," the film focuses on the many adventures of its titular character, who embarks on a demon-slaying, princess-wooing escapade after a wicked sorcerer tricks him into riding a magical, flying horse.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=CEB2435B-B355-44D8-9720-7EF1A7CBADE4" target="_blank">here</a></u>.</b></p>
+          <h1><u>10:00PM</u> Thursday, October 6th</h1>
+          <img src="/images/2022fall/belladonna-of-sadness-1973.jpg" alt="Belladonna of Sadness still">
+          <h2>Belladonna of Sadness (1973)</h2>
+          <h3>Eiichi Yamamoto &middot; 86m &middot; DCP</h3>
+          <p>An extremely violent, graphic, and disturbing cult film that has recently gained in popularity, <i>Belladonna of Sadness</i> is a 1973 Japanese film by Eiichi Yamamoto. It follows Jeanne, a French peasant woman who is raped on her wedding night. In a series of Faustian pacts with a phallic devil, Jeanne simultaneously grows in power amongst the villagers and brings misery to those around her, all shown in psychedelically beautiful watercolor.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=CFF20EC0-25F6-46B3-8B42-F52A20ADFD09" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div class="screening">
-          <h1>7:00PM Friday, September 30th</h1>
-          <img src="/images/2022fall/perfect-blue-1997.png" alt="Perfect Blue still">
-          <h2>Perfect Blue (1997)</h2>
-          <h3>Satoshi Kon &middot; 81m &middot; DCP</h3>
-          <p>She’s the real thing! Mima’s about ready to give up her idol career; she’s spent too long being the good girl, and acting’s her way out. But Mima quickly realizes she’s got more than she ever asked for. Satoshi Kon’s brain-melting anime thriller is a film wholly of its own, a brutally violent fever dream of stalkers, psychosis, serial murders, and dissociation. Nevertheless, we’re sure Mima will figure it out. Question is: Who’s the real Mima?</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=9866C09F-DD73-41B2-943D-F7BA7E4412E5" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Friday, October 7th</h1>
+          <img src="/images/2022fall/train-to-busan-2016.jpeg" alt="Train to Busan still">
+          <h2>Train to Busan (2016)</h2>
+          <h3>Yeon Sang-ho &middot; 118m &middot; DCP</h3>
+          <p>Passengers riding a train from Seoul to Busan have their journey transformed into a fight for survival when an outbreak turns those infected into zombies. Faster than a speeding bullet (train), the epidemic rips through the coaches, with no relief in sight at already-infected stations. The only hope is reaching the end of the line in Busan, where a military quarantine awaits—but will the survivors reach it in time before the zombies reach them?</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=4EA3C317-F301-4826-B19A-57CDF927B0BC" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div class="screening">
-          <h1>6:00PM Saturday, October 1st</h1>
-          <img src="/images/2022fall/your-face-2018.jpg" alt="Your Face still">
-          <a href="../tsai"><h2>Chicago Premiere: Light (光) and Your Face (你的臉) with Director Q&A</h2></a>
-          <h3>Tsai Ming-Liang &middot; 94min &middot; DCP</h3>
-          <p>For more information about this event, please visit our dedicated <a href="../tsai"><u>Tsai 2022 event page!</u></a></p>
+          <h1>7:00PM Saturday, October 8th</h1>
+          <img src="/images/2022fall/elvis-2022.jpg" alt="Elvis still">
+          <h2>Elvis (2022)</h2>
+          <h3>Baz Luhrmann &middot; 159m &middot; DCP</h3>
+          <p>Directed by Baz Luhrmann, <i>Elvis</i> explores the life of the iconic Elvis Presley. As a biographical musical drama, it displays the complexities of Elvis' character and his relationships, as well as containing an all-star soundtrack contributed to by Doja Cat, Eminem and Stevie Nicks, among others. Not only does this film capture the life of Elvis and the music he gained fame for, it also captures the social and political landscape of the time.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=515C10EC-7CC9-4554-8A3B-59868E211E6E" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div class="screening">
-          <h1>5:00PM Sunday, October 2nd</h1>
-          <img src="/images/2022fall/the-nun-1966.jpg" alt="THE NUN still">
-          <h2>The Nun (1966)</h2>
-          <h3>Jacques Rivette &middot; 140m &middot; DCP</h3>
-          <p>Rivette’s second feature is an incendiary feminist masterpiece banned in France and condemned by the Catholic Church. It tells the story of a young woman (a radiant Anna Karina) forced to enter a convent. She fights for her freedom, but finds tyranny and brutality at every turn. The intensity and formal rigor of Rivette’s technique and the striking contemporary score make <i>The Nun</i> one of the most exhilarating and essential films of the French New Wave.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=66D6651B-3914-445C-B09E-A82A44A8D844" target="_blank">here</a></u>.</b></p>
+          <h1>5:00PM Sunday, October 9th</h1>
+          <img src="/images/2022fall/celine-and-julie-go-boating-1974.jpg" alt="CELINE AND JULIE GO BOATING still">
+          <h2>Céline and Julie Go Boating (1974)</h2>
+          <h3>Jacques Rivette &middot; 193min &middot; Digital</h3>
+          <p>Rivette’s best-known film is an exuberant, freewheeling fantasy about the power of female camaraderie, the delights of narrative, and the fluid boundaries between life and art. After magician Céline (Juliet Berto) and librarian Julie (Dominique Labourier) meet, they move in together, swap identities, and time travel to a mansion with a gothic murder mystery. Co-written by the film's actresses, the film is one of Rivette's most enjoyable and enduring works.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=59407132-E70F-4B59-B0E9-5A28FFA0C836" target="_blank">here</a></u>.</b></p>
         </div>
 
       </div>
