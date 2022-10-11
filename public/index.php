@@ -112,77 +112,76 @@
           <h3><i>$7 tickets, theater opens 30 minutes before the screening.</i></h3>
         </div>
 
-
         <div class="screening">
-          <h1>7:00PM Monday, October 3rd</h1>
-          <img src="/images/2022fall/it-happened-one-night-1934.jpeg" alt="It Happened One Night still">
-          <h2>It Happened One Night (1934)</h2>
-          <h3>Frank Capra &middot; 105m &middot; 35mm</h3>
-          <p>Winner of five Oscars—Best Picture, Director, Actor, Actress, and Adapted Screenplay—<i>It Happened One Night</i> is a triumph of pre-Code comedy and a key antecedent to the screwball form. Claudette Colbert and Clark Gable are both magnetic as a runaway heiress and a struggling reporter who bond over the course of a trip from Florida to New York City. The palpable chemistry of Colbert and Gable—romantic, sexual, and comedic—makes this a must-see.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=8DDA9F28-7A84-48CE-956C-0F01CF27172F" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Monday, October 10th</h1>
+          <img src="/images/2022fall/bringing-up-baby-1938.jpeg" alt="Bringing Up Baby still">
+          <h2>Bringing Up Baby (1938)</h2>
+          <h3>Howard Hawks &middot; 102min &middot; DCP</h3>
+          <p>Directed by Howard Hawks with performances from Cary Grant and Katherine Hepburn, <i>Bringing Up Baby</i> unites three screwball icons for a wacky, romantic romp through the Northeast. Meek palaeontologist David Huxley encounters the charmingly chaotic Susan Vance and is pulled into a weekend of wild adventure featuring a disobedient dog, a precious dinosaur bone, and a pet leopard. A true romp in the best sense, <i>Baby</i> is an undeniable screwball classic.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=0FFB88FC-6962-4B4D-B01D-8CDE34FA2AB8" target="_blank">here</a></u></b>.</p>
         </div>
 
         <div class="screening">
-          <h1>7:00PM Tuesday, October 4th</h1>
-          <img src="/images/2022fall/wolf-warrior-2-2017.jpg" alt="Wolf Warrior 2 still">
-          <h2>Wolf Warrior 2 (2017)</h2>
-          <h3>Wu Jing &middot; 123m &middot; DCP</h3>
-          <p><i>Wolf Warrior 2</i> is the ultimate spectacle of Chinese propaganda filmmaking; yet it remains an enigma in the American cultural zeitgeist, despite standing as the highest-grossing non-English language film of all time for nearly four years, raking in the equivalent of $874 million. It’s the story of heroic Chinese military involvement in an unnamed African nation, but it's also a look at what the Chinese military apparatus sees as its future in geopolitics.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=95469340-FBBC-4011-8AA5-DCAB07DC91B7" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Tuesday, October 11th</h1>
+          <img src="/images/2022fall/city-of-life-and-death-2009.jpg" alt="City of Life and Death still">
+          <h2>City of Life and Death (2009)</h2>
+          <h3>Lu Chuan &middot; 133m &middot; 35mm</h3>
+          <p>Both a maximalist war epic and a harrowing look at the effects of genocide and mass violence, <i>City of Life and Death</i> recounts the Nanking Massacre with a stark realism that refuses to pull any punches. Shot in crisp black and white, the film evokes the horrific images of war-torn China seared into the world’s collective consciousness. It is a beautiful tapestry and shocking testament to the unlimited cruelty men are capable of inflicting upon others.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=72F6250A-138A-4ABC-939C-C6311DEEC231" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div class="screening">
-          <h1>7:00PM Wednesday, October 5th</h1>
-          <img src="/images/2022fall/police-story-2-1988.jpg" alt="Police Story 2 still">
-          <h2>Police Story 2 (1988)</h2>
-          <h3>Jackie Chan &middot; 122m &middot; DCP</h3>
-          <p>Maggie Cheung returns as longsuffering girlfriend May in the rip-roaring second installment of Jackie Chan’s vaunted <i>Police Story</i> series, this time getting roped into the action in a bigger way as part of a kidnapping plot that draws Chan’s Ka-kui back into the thick of things after the events of the first film saw him bumped down to highway patrol. <i>Police Story 2 </i>is an action showcase as rollicking as (if less glass-filled than) the first.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=C00596E7-B8FA-4658-83F4-5A3600C6F1F9" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Wednesday, October 12th</h1>
+          <img src="/images/2022fall/center-stage-1991.jpg" alt="Center Stage still">
+          <h2>Center Stage (1991)</h2>
+          <h3>Stanley Kwan &middot; 126m &middot; DCP</h3>
+          <p><i>Center Stage</i> is a biopic on the tragically short life of 1930s screen legend Ruan Lingyu that doubles as a meta meditation on film and celebrity, both back then and now. Director Stanley Kwan weaves past and present together in a time-jumping tapestry that embodies Chinese cinema's remembrance of itself, tied together by Cheung in one of her very best performances—or at the very least, in one that demanded the largest number of her gifts. </p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=6EE44AF5-C62A-4075-BAE9-D15C088A5D2F" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div class="screening">
-          <h1>7:00PM Thursday, October 6th</h1>
-          <img src="/images/2022fall/ran-1985.png" alt="Ran still">
-          <h2>Ran (1985)</h2>
-          <h3>Akira Kurosawa &middot; 162m &middot; DCP</h3>
-          <p>In his last epic film and final Shakespeare adaptation, Kurosawa imports "King Lear" to Sengoku-era Japan in the story of the aging warlord Hidetora (Tatsuya Nakadai) and the three sons set to inherit his kingdom. An extravagant production, <i>Ran</i> was the most expensive Japanese film ever made at the time, requiring a decade of planning during which Kurosawa hand-painted every shot of the film. <i>Ran</i> is a gorgeous masterpiece of betrayal and destruction.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=73BE440C-54B9-436A-97D0-6C1036D4DC32" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Thursday, October 13th</h1>
+          <img src="/images/2022fall/my-own-private-idaho-1999 (1).jpeg" alt="My Own Private Idaho still">
+          <h2>My Own Private Idaho (1991)</h2>
+          <h3>Gus Van Sant &middot; 102m &middot; DCP</h3>
+          <p>This iconic film of New Queer Cinema takes the Henriad on the road, with River Phoenix and Keanu Reeves as a floating pair of young hustlers. Phoenix plays a wistful narcoleptic, Mike Waters, searching for his mother; Reeves accompanies him as Scott Favor, the wealthy son of Portland’s mayor, killing time on the streets until his inheritance kicks in. A dreamlike jewel of unrequited love, tenderness, and a distinctly queer longing for home.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=6788F6F4-7667-40D2-9CCC-FC4DAF506F75" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div class="screening">
-          <h1><u>10:00PM</u> Thursday, October 6th</h1>
-          <img src="/images/2022fall/belladonna-of-sadness-1973.jpg" alt="Belladonna of Sadness still">
-          <h2>Belladonna of Sadness (1973)</h2>
-          <h3>Eiichi Yamamoto &middot; 86m &middot; DCP</h3>
-          <p>An extremely violent, graphic, and disturbing cult film that has recently gained in popularity, <i>Belladonna of Sadness</i> is a 1973 Japanese film by Eiichi Yamamoto. It follows Jeanne, a French peasant woman who is raped on her wedding night. In a series of Faustian pacts with a phallic devil, Jeanne simultaneously grows in power amongst the villagers and brings misery to those around her, all shown in psychedelically beautiful watercolor.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=CFF20EC0-25F6-46B3-8B42-F52A20ADFD09" target="_blank">here</a></u>.</b></p>
+          <h1>9:30PM Thursday, October 13th</h1>
+          <img src="/images/2022fall/son-of-the-white-mare-1981.jpg" alt="Son of the White Mare still">
+          <h2>Son of the White Mare (1981)</h2>
+          <h3>Marcell Jankovics &middot; 90m &middot; DCP</h3>
+          <p>Directed by famous Hungarian director Marcell Jankovics, <i>Son of the White Mare</i> is based on Hungarian narrative poetry and legends. The main story follows Fehérlófia, meaning "Son of the White Mare," who is the youngest son of a magical horse. As he grows older and gains powers from his mother, he listens to her ancient tales of dragons prophesied to destroy his world. With the help of his brothers, Fehérlófia sets out to slay the dragons.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=1C9FCA11-2F8E-4E05-AB8C-5A45F1CD3C8F" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div class="screening">
-          <h1>7:00PM Friday, October 7th</h1>
-          <img src="/images/2022fall/train-to-busan-2016.jpeg" alt="Train to Busan still">
-          <h2>Train to Busan (2016)</h2>
-          <h3>Yeon Sang-ho &middot; 118m &middot; DCP</h3>
-          <p>Passengers riding a train from Seoul to Busan have their journey transformed into a fight for survival when an outbreak turns those infected into zombies. Faster than a speeding bullet (train), the epidemic rips through the coaches, with no relief in sight at already-infected stations. The only hope is reaching the end of the line in Busan, where a military quarantine awaits—but will the survivors reach it in time before the zombies reach them?</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=4EA3C317-F301-4826-B19A-57CDF927B0BC" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Friday, October 14th</h1>
+          <img src="/images/2022fall/a-girl-walks-home-alone-at-night-2014.jpg" alt="A Girl Walks Home Alone at Night still">
+          <h2>A Girl Walks Home Alone at Night (2014)</h2>
+          <h3>Ana Lily Amirpour &middot; 101m &middot; DCP</h3>
+          <p>Is this the only Iranian feminist skateboard revenge vampire suburban Expressionist Western out there? Even if it’s not, it’s certainly the best. Ana Lily Amirpour's œuvre chronicles the interactions of a series of characters in the fictional Bad City including drug dealers, junkies, partiers, and a mysterious vampiric woman. With gorgeous black and white cinematography and elegant direction, this is a film that demands to be seen on the big screen.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=47101944-0093-4031-80B6-7553B252F8D8" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div class="screening">
-          <h1>7:00PM Saturday, October 8th</h1>
-          <img src="/images/2022fall/elvis-2022.jpg" alt="Elvis still">
-          <h2>Elvis (2022)</h2>
-          <h3>Baz Luhrmann &middot; 159m &middot; DCP</h3>
-          <p>Directed by Baz Luhrmann, <i>Elvis</i> explores the life of the iconic Elvis Presley. As a biographical musical drama, it displays the complexities of Elvis' character and his relationships, as well as containing an all-star soundtrack contributed to by Doja Cat, Eminem and Stevie Nicks, among others. Not only does this film capture the life of Elvis and the music he gained fame for, it also captures the social and political landscape of the time.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=515C10EC-7CC9-4554-8A3B-59868E211E6E" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Saturday, October 15th</h1>
+          <img src="/images/2022fall/top-gun-maverick-2022.jpg" alt="Top Gun: Maverick still">
+          <h2>Top Gun: Maverick (2022)</h2>
+          <h3>Joseph Kosinski &middot; 130m &middot; DCP</h3>
+          <p>A feature-length Navy recruitment ad that also doubles as one of the best movies of the year, <i>Top Gun: Maverick</i> is Tom Cruise saving the box office like he said he would. Cruise returns as Pete “Maverick” Mitchell, now confronting mortality as he trains a new crop of cocky fighter pilots to carry out a mission against a conspicuously unnamed enemy. The result is a marriage of cinema and propaganda so glorious, Zhang Yimou probably shed a tear.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=B8086C1E-0B27-4494-B73F-F449FC84A6A2" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div class="screening">
-          <h1>5:00PM Sunday, October 9th</h1>
-          <img src="/images/2022fall/celine-and-julie-go-boating-1974.jpg" alt="CELINE AND JULIE GO BOATING still">
-          <h2>Céline and Julie Go Boating (1974)</h2>
-          <h3>Jacques Rivette &middot; 193min &middot; Digital</h3>
-          <p>Rivette’s best-known film is an exuberant, freewheeling fantasy about the power of female camaraderie, the delights of narrative, and the fluid boundaries between life and art. After magician Céline (Juliet Berto) and librarian Julie (Dominique Labourier) meet, they move in together, swap identities, and time travel to a mansion with a gothic murder mystery. Co-written by the film's actresses, the film is one of Rivette's most enjoyable and enduring works.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=59407132-E70F-4B59-B0E9-5A28FFA0C836" target="_blank">here</a></u>.</b></p>
+          <h1>5:00PM Sunday, October 16th</h1>
+          <img src="/images/2022fall/duelle-1976.jpg" alt="DUELLE still">
+          <h2>Duelle (1976)</h2>
+          <h3>Jacques Rivette &middot; 121m &middot; DCP</h3>
+          <p>In the shadowy demimonde of contemporary Paris, the Sun and Moon Goddesses do battle over a magic diamond that will allow the winner to remain on Earth. At the time of its release, this ravishing, daringly experimental, noir-stained fantasy divided critics. But it has since come to be regarded as one of Rivette's most striking and inventive films. It was part of a projected tetralogy of which only one other episode (1976’s <i>Noroît</i>) was ever completed.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=1C42381A-4519-4DA4-BDC2-B927751C6561" target="_blank">here</a></u>.</b></p>
         </div>
 
       </div>
