@@ -107,6 +107,7 @@
           <h2>Daughter Rite (1978)  // What You Take For Granted (1983)</h2>
           <h3>Michelle Citron &middot; 53min // 73min &middot; 16mm</h3>
           <p>In her pseudo-documentary <i>Daughter Rite</i>, famed Chicago filmmaker Michelle Citron sets the precedent for the documentary genre that some stories become more truthful through narrative retelling. <i>What You Take For Granted</i> combines the real accounts of 40 working women into a fictive narrative about the friendship between two women in traditionally male jobs. A bona fide meta-film, Citron then splices in fictionalized interviews of other working women. </p>
+          <p><i style="color: red">With introduction and Q&A by director Michelle Citron!</i></p>
         </div>
 
         <div class="screening">

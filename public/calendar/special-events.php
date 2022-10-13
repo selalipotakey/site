@@ -51,8 +51,9 @@
             <img src="/images/2022fall/nosferatu-1922.jpg" alt="Nosferatu still">
             <h2>Doc Films & Rockefeller Chapel Presents: Nosferatu (1922)</h2>
             <h3>F. W. Murnau &middot; 81m &middot; Digital</h3>
-            <p>Rockefeller Chapel celebrates the 100th anniversary of <i>Nosferatu</i>, welcoming back celebrated organist Dennis James to provide the silent film score. Come experience this cinematic classic, in which mysterious Count Orlok summons Thomas Hutter to his remote Transylvanian castle in the mountains. After Orlok reveals his vampiric nature, Hutter struggles to escape the castle. Join us inside one of UChicago's most iconic spaces to see how the story ends… </p>
-            <p><i>Note: admission is free for all UCID and quarter pass holders! $10 admission in cash otherwise.</i></p>
+            <p>Rockefeller Chapel celebrates the 100th anniversary of <i>Nosferatu</i>, welcoming back celebrated organist Jay Warren to provide the silent film score. Come experience this cinematic classic, in which mysterious Count Orlok summons Thomas Hutter to his remote Transylvanian castle in the mountains. After Orlok reveals his vampiric nature, Hutter struggles to escape the castle. Join us inside one of UChicago's most iconic spaces to see how the story ends… </p>
+            <p><i>Note: admission is free for all UCID and quarter pass holders! Otherwise, $10 admission at the doors, $8 online.</i></p>
+            <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=35936887-68BB-4CDC-B9CD-E3EF472304D8" target="_blank">here</a></u>.</b></p>
         </div>
 
       </div>

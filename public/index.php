@@ -53,7 +53,7 @@
                       Friday 10/21 - Sunday 10/23: Celebrating 90 Years of Doc
                       </p>
                     </a>
-                    <p class="capsule fittext">Rockefeller Chapel celebrates the 100th anniversary of <i>Nosferatu</i>, welcoming back celebrated organist Dennis James to provide the silent film score. Come experience this cinematic classic, in which mysterious Count Orlok summons Thomas Hutter to his remote Transylvanian castle in the mountains. After Orlok reveals his vampiric nature, Hutter struggles to escape the castle. Join us inside one of UChicago's most iconic spaces to see how the story ends… </p>
+                    <p class="capsule fittext">Join Doc Films as we celebrate 90 years of being Chicago's snobbiest cinephiles! From October 21st to the 23rd, stop by the Max P Cinema for the late-night zombie masterpiece <i>Night of the Living Dead</i>, hear director Michelle Citron discuss her works <i>Daughter Rite</i> and <i>What You Take For Granted</i>, or find out how current University President Paul Alivisatos feels about his days in Doc Films. We hope to see you there!</p>
                   </div>
               </li>
 
@@ -67,7 +67,10 @@
                       Sunday 10/30 @ 7:00PM: Nosferatu at 100, in Rockefeller Chapel!
                       </p>
                     </a>
-                    <p class="capsule fittext">Rockefeller Chapel celebrates the 100th anniversary of <i>Nosferatu</i>, welcoming back celebrated organist Dennis James to provide the silent film score. Come experience this cinematic classic, in which mysterious Count Orlok summons Thomas Hutter to his remote Transylvanian castle in the mountains. After Orlok reveals his vampiric nature, Hutter struggles to escape the castle. Join us inside one of UChicago's most iconic spaces to see how the story ends… </p>
+                    <p class="capsule fittext">Rockefeller Chapel celebrates the 100th anniversary of <i>Nosferatu</i>, welcoming back celebrated organist Jay Warren to provide the silent film score. Come experience this cinematic classic, in which mysterious Count Orlok summons Thomas Hutter to his remote Transylvanian castle in the mountains. After Orlok reveals his vampiric nature, Hutter struggles to escape the castle. Join us inside one of UChicago's most iconic spaces to see how the story ends… 
+                    <br>
+                    <i>Click <u><a href="/calendar/special-events#nosferatu">here</a></u> for more info!</i>
+                    </p>
                   </div>
               </li>
 
