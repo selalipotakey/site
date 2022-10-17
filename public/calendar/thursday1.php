@@ -59,6 +59,7 @@
           <h2>Forbidden Planet (1956)</h2>
           <h3>Fred M. Wilcox &middot; 98m &middot; DCP</h3>
           <p>A hugely influential space opera that draws inspiration from "The Tempest," <i>Forbidden Planet</i> is a classic that lays claim to many sci-fi firsts. With its vivid Cinemascope color and all-electronic score, the film follows Commander Adams (Leslie Nielsen) and his starship as they travel to a distant planet to discover what happened to the members of a previous expedition, but find only one scientist, his daughter, and a robot—who warn them not to approach.</p>
+          <p style="color: red"><b>Followed by a discussion with Professor Ellen Mackay from the Dept. of English Language and Literature!</b></p>
           <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=F63808B5-A78F-4D45-B240-6367E30E33C6" target="_blank">here</a></u>.</b></p>
         </div>
 

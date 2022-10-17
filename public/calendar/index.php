@@ -9,18 +9,17 @@
 
   <body>
     
-    <?php include "../includes/header.html" ?>
+    <?php $version='1.1'; include "../includes/header.html";?>
   
     <main>
 
-      <?php include "../includes/dropdown.html" ?>
+      <?php $version='1.1'; include "../includes/dropdown.html";?>
 
       <div class="information">
 
         <h1>Now playing:</h1>
         <iframe src="/calendar/custom_calendar.php?ver=2.0" style="border: 0; padding-bottom: 0rem;" frameborder="0" scrolling="no"></iframe>
         <h3 style="padding: 1rem 0rem;"><i>Stylized Autumn 2022 calendar <u><a href="https://drive.google.com/file/d/19elwu7IqFMl_H6dt23jEnD0N2hcyJln_/view?usp=sharing" target="_blank">here</a></u>; stylized Autumn 2022 booklet <u><a href="https://drive.google.com/file/d/1rozP_gZuFfShgQqe6dZt0IdqCNf8_ghY/view?usp=sharing" target="_blank">here</a></u>.</i></h3>
-
 
 
         <h1>Weekly series this quarter:</h1>

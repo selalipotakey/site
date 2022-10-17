@@ -19,11 +19,11 @@
 
   <body>
     
-    <?php include "./includes/header.html" ?>
+    <?php $version='1.1'; include "./includes/header.html";?>
   
     <main>
 
-      <?php include "./includes/dropdown.html" ?>
+      <?php $version='1.1'; include "./includes/dropdown.html";?>
 
       <div class="splash">
         <img style="padding-bottom: .5rem;" src="/images/2022fall/series_stills/hitchcock-at-doc.jpg" alt="Hitchcock at Doc Films">

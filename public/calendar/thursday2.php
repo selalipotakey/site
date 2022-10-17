@@ -55,7 +55,7 @@
         </div>
 
         <div class="screening">
-          <h1>9:30PM Thursday, October 20th</h1>
+          <h1><b><u>10:00PM</u></b> Thursday, October 20th</h1>
           <img src="/images/2022fall/the-thief-and-the-cobbler-1992.png" alt="The Thief and the Cobbler: A Moment in Time still">
           <h2>The Thief and the Cobbler: A Moment in Time (1992)</h2>
           <h3>Richard Williams &middot; 89m &middot; DCP</h3>

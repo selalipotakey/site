@@ -9,11 +9,11 @@
 
   <body>
     
-    <?php include "./includes/header.html" ?>
+    <?php $version='1.1'; include "./includes/header.html";?>
   
     <main>
 
-      <?php include "./includes/dropdown.html" ?>
+      <?php $version='1.1'; include "./includes/dropdown.html";?>
       
       <div class="information">
         <h1>
@@ -28,20 +28,6 @@
 
           <div class="carousel__track-container">
             <ul class="carousel__track">
-
-              <!-- <li class="carousel__slide current-slide">
-                <a href="/tsai/">
-                  <img class="carousel__image" src="/images/2022fall/light-2018.png" alt="">
-                </a>
-                <div class="description">
-                  <a href="/tsai/">
-                    <p class="event-title fittext">
-                    Friday 10/1 @ 6:00PM: LIGHT (光), YOUR FACE (你的臉) and Q+A with director Tsai Ming-Liang!
-                    </p>
-                  </a>
-                    <p class="capsule fittext"><i>Light</i> captures changes in the natural light streaming through Taipei’s Zhongshan Hall, where Japanese forces in Taiwan surrendered at the end of WWII, and where Tsai volunteered, won a film award, ran a café, held screenings of classic films, and shot his feature-length film <i>Your Face</i>. <i>Your Face</i> is composed of thirteen portraits of citizens of Taipei, including actor Lee Kang-Sheng, and explores the depth of lit faces, and the stories they convey.</p>
-                </div>
-              </li> -->
               
               <li class="carousel__slide current-slide">
                 <a href="/90th">
@@ -99,7 +85,6 @@
             <button class="carousel__indicator current-slide"></button>
             <button class="carousel__indicator"></button>
             <!-- <button class="carousel__indicator"></button> -->
-            <!-- <button class="carousel__indicator"></button> -->
           </div>
           
         </div>
@@ -116,75 +101,58 @@
         </div>
 
         <div class="screening">
-          <h1>7:00PM Monday, October 10th</h1>
-          <img src="/images/2022fall/bringing-up-baby-1938.jpeg" alt="Bringing Up Baby still">
-          <h2>Bringing Up Baby (1938)</h2>
-          <h3>Howard Hawks &middot; 102min &middot; DCP</h3>
-          <p>Directed by Howard Hawks with performances from Cary Grant and Katherine Hepburn, <i>Bringing Up Baby</i> unites three screwball icons for a wacky, romantic romp through the Northeast. Meek palaeontologist David Huxley encounters the charmingly chaotic Susan Vance and is pulled into a weekend of wild adventure featuring a disobedient dog, a precious dinosaur bone, and a pet leopard. A true romp in the best sense, <i>Baby</i> is an undeniable screwball classic.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=0FFB88FC-6962-4B4D-B01D-8CDE34FA2AB8" target="_blank">here</a></u></b>.</p>
+          <h1>7:00PM Monday, October 17th</h1>
+          <img src="/images/2022fall/nintochka-1938.jpeg" alt="Ninotchka still">
+          <h2>Ninotchka (1939)</h2>
+          <h3>Ernst Lubitsch &middot; 110m &middot; 35mm</h3>
+          <p>Greta Garbo shines as the titular Soviet envoy who is summoned to interbellum Paris to finalize the sale of jewelry confiscated in the Russian Revolution. While there, she must resist the charms of both capitalism and Melvyn Douglas, playing an aristocrat who is trying to retrieve the jewelry himself. Directed by Ernst Lubitsch from a script co-written by Billy Wilder, <i>Ninotchka</i> is a warm-hearted love story with a sharp satirical edge.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=E4DB3648-D3E3-4664-80D3-46B0DFEBB2AB" target="_blank">here</a></u></b>.</p>
         </div>
 
         <div class="screening">
-          <h1>7:00PM Tuesday, October 11th</h1>
-          <img src="/images/2022fall/city-of-life-and-death-2009.jpg" alt="City of Life and Death still">
-          <h2>City of Life and Death (2009)</h2>
-          <h3>Lu Chuan &middot; 133m &middot; 35mm</h3>
-          <p>Both a maximalist war epic and a harrowing look at the effects of genocide and mass violence, <i>City of Life and Death</i> recounts the Nanking Massacre with a stark realism that refuses to pull any punches. Shot in crisp black and white, the film evokes the horrific images of war-torn China seared into the world’s collective consciousness. It is a beautiful tapestry and shocking testament to the unlimited cruelty men are capable of inflicting upon others.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=72F6250A-138A-4ABC-939C-C6311DEEC231" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Tuesday, October 18th</h1>
+          <img src="/images/2022fall/dead-pigs-2018.jpg" alt="Dead Pigs still">
+          <h2>Dead Pigs (2018)</h2>
+          <h3>Cathy Yan &middot; 130min &middot; DCP</h3>
+          <p>After last week’s screening, we need a little levity. Based on an actual incident involving 16,000 dead pigs, Cathy Yan’s (<i>Succession</i>, <i>Birds of Prey</i>) directorial debut is a kaleidoscopic tale of Shanghai in an era of breakneck development and increasing Western influence. Featuring a mix of Mandarin, English, and Shanghainese, <i>Dead Pigs</i> is a darkly hilarious social satire of humanity’s inability to find peace in an ever-changing world.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=76ECF22D-5462-4BDA-B2B4-BD18DD32B283" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div class="screening">
-          <h1>7:00PM Wednesday, October 12th</h1>
-          <img src="/images/2022fall/center-stage-1991.jpg" alt="Center Stage still">
-          <h2>Center Stage (1991)</h2>
-          <h3>Stanley Kwan &middot; 126m &middot; DCP</h3>
-          <p><i>Center Stage</i> is a biopic on the tragically short life of 1930s screen legend Ruan Lingyu that doubles as a meta meditation on film and celebrity, both back then and now. Director Stanley Kwan weaves past and present together in a time-jumping tapestry that embodies Chinese cinema's remembrance of itself, tied together by Cheung in one of her very best performances—or at the very least, in one that demanded the largest number of her gifts. </p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=6EE44AF5-C62A-4075-BAE9-D15C088A5D2F" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Wednesday, October 19th</h1>
+          <img src="/images/2022fall/the-eagle-shooting-heroes-1993.jpg" alt="The Eagle Shooting Heroes still">
+          <h2>The Eagle Shooting Heroes (1993)</h2>
+          <h3>Jeffrey Lau &middot; 103m &middot; Digital</h3>
+          <p>Rumored to have been born, like <i>Chungking Express</i>, from the long editing process of Wong Kar-wai’s <i>Ashes of Time</i>, Jeffrey Lau’s <i>The Eagle Shooting Heroes</i> features a veritable all-star cast of Hong Kong’s finest—Maggie Cheung, Brigitte Lin, and not one but both Tony Leungs, among others—clowning it up exquisitely. Featuring more slapstick, musical numbers, and wire-fu than you can shake a stick at, it is the gold standard for star-studded cash-grabs.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=4F3A86B1-A429-40D8-9285-5BFE93C3BEC1" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div class="screening">
-          <h1>7:00PM Thursday, October 13th</h1>
-          <img src="/images/2022fall/my-own-private-idaho-1999 (1).jpeg" alt="My Own Private Idaho still">
-          <h2>My Own Private Idaho (1991)</h2>
-          <h3>Gus Van Sant &middot; 102m &middot; DCP</h3>
-          <p>This iconic film of New Queer Cinema takes the Henriad on the road, with River Phoenix and Keanu Reeves as a floating pair of young hustlers. Phoenix plays a wistful narcoleptic, Mike Waters, searching for his mother; Reeves accompanies him as Scott Favor, the wealthy son of Portland’s mayor, killing time on the streets until his inheritance kicks in. A dreamlike jewel of unrequited love, tenderness, and a distinctly queer longing for home.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=6788F6F4-7667-40D2-9CCC-FC4DAF506F75" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Thursday, October 20th</h1>
+          <img src="/images/2022fall/forbidden-planet-1956.jpg" alt="Forbidden Planet still">
+          <h2>Forbidden Planet (1956)</h2>
+          <h3>Fred M. Wilcox &middot; 98m &middot; DCP</h3>
+          <p>A hugely influential space opera that draws inspiration from "The Tempest," <i>Forbidden Planet</i> is a classic that lays claim to many sci-fi firsts. With its vivid Cinemascope color and all-electronic score, the film follows Commander Adams (Leslie Nielsen) and his starship as they travel to a distant planet to discover what happened to the members of a previous expedition, but find only one scientist, his daughter, and a robot—who warn them not to approach.</p>
+          <p style="color: red"><b>Followed by a discussion with Professor Ellen Mackay from the Dept. of English Language and Literature!</b></p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=F63808B5-A78F-4D45-B240-6367E30E33C6" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div class="screening">
-          <h1>9:30PM Thursday, October 13th</h1>
-          <img src="/images/2022fall/son-of-the-white-mare-1981.jpg" alt="Son of the White Mare still">
-          <h2>Son of the White Mare (1981)</h2>
-          <h3>Marcell Jankovics &middot; 90m &middot; DCP</h3>
-          <p>Directed by famous Hungarian director Marcell Jankovics, <i>Son of the White Mare</i> is based on Hungarian narrative poetry and legends. The main story follows Fehérlófia, meaning "Son of the White Mare," who is the youngest son of a magical horse. As he grows older and gains powers from his mother, he listens to her ancient tales of dragons prophesied to destroy his world. With the help of his brothers, Fehérlófia sets out to slay the dragons.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=1C9FCA11-2F8E-4E05-AB8C-5A45F1CD3C8F" target="_blank">here</a></u>.</b></p>
+          <h1><u>10:00PM</u> Thursday, October 20th</h1>
+          <img src="/images/2022fall/the-thief-and-the-cobbler-1992.png" alt="The Thief and the Cobbler: A Moment in Time still">
+          <h2>The Thief and the Cobbler: A Moment in Time (1992)</h2>
+          <h3>Richard Williams &middot; 89m &middot; DCP</h3>
+          <p>Directed by Richard Williams, <i>The Thief and the Cobbler</i> is infamous for its nearly thirty year production cycle that left it incomplete. While grossly over budget and meeting critical and commercial failure upon release, the film would later become revered by critics and fans. Doc is proud to present the <i>A Moment in Time</i> Academy restoration, the closest to Williams' intended 1992 version, saved before the studios radically altered it for release.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=B89A8450-EB75-4A9A-9BD9-6332A66F7319" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div class="screening">
-          <h1>7:00PM Friday, October 14th</h1>
-          <img src="/images/2022fall/a-girl-walks-home-alone-at-night-2014.jpg" alt="A Girl Walks Home Alone at Night still">
-          <h2>A Girl Walks Home Alone at Night (2014)</h2>
-          <h3>Ana Lily Amirpour &middot; 101m &middot; DCP</h3>
-          <p>Is this the only Iranian feminist skateboard revenge vampire suburban Expressionist Western out there? Even if it’s not, it’s certainly the best. Ana Lily Amirpour's œuvre chronicles the interactions of a series of characters in the fictional Bad City including drug dealers, junkies, partiers, and a mysterious vampiric woman. With gorgeous black and white cinematography and elegant direction, this is a film that demands to be seen on the big screen.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=47101944-0093-4031-80B6-7553B252F8D8" target="_blank">here</a></u>.</b></p>
-        </div>
-
-        <div class="screening">
-          <h1>7:00PM Saturday, October 15th</h1>
-          <img src="/images/2022fall/top-gun-maverick-2022.jpg" alt="Top Gun: Maverick still">
-          <h2>Top Gun: Maverick (2022)</h2>
-          <h3>Joseph Kosinski &middot; 130m &middot; DCP</h3>
-          <p>A feature-length Navy recruitment ad that also doubles as one of the best movies of the year, <i>Top Gun: Maverick</i> is Tom Cruise saving the box office like he said he would. Cruise returns as Pete “Maverick” Mitchell, now confronting mortality as he trains a new crop of cocky fighter pilots to carry out a mission against a conspicuously unnamed enemy. The result is a marriage of cinema and propaganda so glorious, Zhang Yimou probably shed a tear.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=B8086C1E-0B27-4494-B73F-F449FC84A6A2" target="_blank">here</a></u>.</b></p>
-        </div>
-
-        <div class="screening">
-          <h1>5:00PM Sunday, October 16th</h1>
-          <img src="/images/2022fall/duelle-1976.jpg" alt="DUELLE still">
-          <h2>Duelle (1976)</h2>
-          <h3>Jacques Rivette &middot; 121m &middot; DCP</h3>
-          <p>In the shadowy demimonde of contemporary Paris, the Sun and Moon Goddesses do battle over a magic diamond that will allow the winner to remain on Earth. At the time of its release, this ravishing, daringly experimental, noir-stained fantasy divided critics. But it has since come to be regarded as one of Rivette's most striking and inventive films. It was part of a projected tetralogy of which only one other episode (1976’s <i>Noroît</i>) was ever completed.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=1C42381A-4519-4DA4-BDC2-B927751C6561" target="_blank">here</a></u>.</b></p>
+          <h1>This Weekend:</h1>
+          <img src="/images/2022fall/funeral-parade-of-roses-1969.jpeg" alt="FUNERAL PARADE OF ROSES still">
+          <h2>Doc90: Celebrating 90 Years of Doc</h2>
+          <h3>Friday 10/21 through Sunday 10/23</h3>
+          <p>Join Doc Films as we celebrate 90 years of being Chicago's snobbiest cinephiles! From October 21st to the 23rd, stop by the Max P Cinema for the late-night zombie masterpiece <i>Night of the Living Dead</i>, hear director Michelle Citron discuss her works <i>Daughter Rite</i> and <i>What You Take For Granted</i>, or find out how current University President Paul Alivisatos feels about his days in Doc Films. We hope to see you there!</p>
+          <p>Find out more information <b><u><a href="/90th">here</a></u></b>.</p>
         </div>
 
       </div>
