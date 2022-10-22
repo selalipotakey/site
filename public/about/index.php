@@ -34,7 +34,7 @@
 
       <div class="information">
         <h1>About Doc</h1>
-        <p>We're Doc Films, a student-led, volunteer-run movie theater and film society at the University of Chicago. With roots going back to 1932, Doc is the oldest student film society in the nation (per the MOMA) and perhaps the oldest continuously running theater in Chicago.</p>
+        <p>We're Doc Films, a student-led, volunteer-run movie theater and film society at the University of Chicago. With roots going back to 1932, Doc is the oldest student film society in the nation (per the MoMA) and perhaps the oldest continuously running theater in Chicago.</p>
         
         <br><br>
 
@@ -76,7 +76,7 @@
         <p class="board">finance@docfilms.org</p>
         <br>
         <p class="board"><b>Publicity Chairs</b></p>
-        <p class="board">Colby Lundak, Glen McGuire, and Hannah Yang</p>
+        <p class="board">Colby Lundak and Hannah Yang</p>
         <p class="board">publicity@docfilms.org</p>
         <br>
         <p class="board"><b>Design Chair</b></p>
