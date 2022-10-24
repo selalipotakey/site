@@ -61,6 +61,7 @@
           <h2>Out 1: Spectre (1972)</h2>
           <h3>Jacques Rivette &middot; 264min &middot; Digital</h3>
           <p>This condensed version of Rivette’s 13-hour magnum opus, <i>Out 1: Noli Me Tangere</i>, has been hailed as a masterpiece in its own right. Entirely improvised, it tells the story of two outsiders investigating a conspiracy involving avant-garde theater troupes and an Illuminati-like secret society. In the words of critic Jonathan Romney, the film is “about things, people, and communal causes falling apart, arguably a lament for France’s failed utopia of 1968.”</p>
+          <p><i>Note: print calendars incorrectly list the format as 35mm and not digital.</i></p>
           <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=3A4A806F-BDD4-48BC-9A28-310667177248" target="_blank">here</a></u>.</b></p>
         </div>
 

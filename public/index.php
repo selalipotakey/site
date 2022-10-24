@@ -29,7 +29,7 @@
           <div class="carousel__track-container">
             <ul class="carousel__track">
               
-              <li class="carousel__slide current-slide">
+              <!-- <li class="carousel__slide current-slide">
                 <a href="/90th">
                   <img class="carousel__image" src="/images/2022fall/funeral-parade-of-roses-1969.jpeg" alt="FUNERAL PARADE OF ROSES still">
                 </a>
@@ -41,9 +41,9 @@
                     </a>
                     <p class="capsule fittext">Join Doc Films as we celebrate 90 years of being Chicago's snobbiest cinephiles! From October 21st to the 23rd, stop by the Max P Cinema for the late-night zombie masterpiece <i>Night of the Living Dead</i>, hear director Michelle Citron discuss her works <i>Daughter Rite</i> and <i>What You Take For Granted</i>, or find out how current University President Paul Alivisatos feels about his days in Doc Films. We hope to see you there!</p>
                   </div>
-              </li>
+              </li> -->
 
-              <li class="carousel__slide">
+              <li class="carousel__slide current-slide">
                 <a href="/calendar/special-events#nosferatu">
                   <img class="carousel__image" src="/images/2022fall/nosferatu-1922.jpg" alt="nosferatu still">
                 </a>
@@ -82,8 +82,8 @@
           </button>
 
           <div class="carousel__nav">
+            <!-- <button class="carousel__indicator"></button> -->
             <button class="carousel__indicator current-slide"></button>
-            <button class="carousel__indicator"></button>
             <!-- <button class="carousel__indicator"></button> -->
           </div>
           
@@ -96,91 +96,82 @@
       <div class="screenings-list">
 
         <div class="text-section">
-          <h1>Playing this weekend:</h1>
+          <h1>Playing this week:</h1>
           <h3><i>$7 tickets, theater opens 30 minutes before the screening.</i></h3>
         </div>
 
         <div class="screening">
-          <h1>7:00PM October 21st</h1>
-          <img src="/images/2022fall/akira-1988.jpg" alt="AKIRA still">
-          <h2>Akira (1988)</h2>
-          <h3>Katsuhiro Otomo &middot; 124min &middot; DCP</h3>
-          <p>In a post-WWIII Tokyo, a secret military project causes biker gang member Tetsuo to develop telekinetic powers—the same powers used by Akira, a mysterious figure from the past, to annihilate Tokyo 31 years prior. His childhood friend Kaneda infiltrates the military complex to find him, but the Tetsuo he knew is already gone. Haunting, frenetic, and masterfully animated, <i>Akira</i> pioneered cyberpunk and resonated deeply in Japanese pop culture and beyond.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=54D0FD07-B203-479E-9BE3-6A7139EBDCF6" target="_blank">here</a></u></b>.
+          <h1>7:00PM Monday, October 24th</h1>
+          <img src="/images/2022fall/the-awful-truth-1937.jpeg" alt="The Awful Truth still">
+          <h2>The Awful Truth (1937)</h2>
+          <h3>Leo McCarey &middot; 90min &middot; DCP</h3>
+          <p>Suspecting each other of infidelity, Jerry (Cary Grant) and Lucy (Irene Dunne) file for divorce, which takes effect after 90 days. Soon after, each spouse realizes they still love the other, and both begin sabotaging each other’s new romances. Leo McCarey won an Oscar for his direction, and screwball stalwarts Ralph Bellamy and Skippy the Dog round out the cast. Earnest and hilarious, <i>The Awful Truth</i> is a celebration of love in all its messy glory.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=50D2C4EF-012F-4CC9-B1F3-0AB3A2721B57" target="_blank">here</a></u></b>.</p>
         </div>
 
         <div class="screening">
-          <h1>9:30PM October 21st</h1>
-          <img src="/images/2022fall/the-queen-1968.jpg" alt="THE QUEEN still">
-          <h2>Lives:Visible (2018) // The Queen (1968)</h2>
-          <h3>Michelle Citron // Frank Simon &middot; 35min // 68min &middot; Digital // DCP</h3>
-          <p>Welcome to the 1967 Miss All-America Camp Beauty Contest! Featuring drag performances by the likes of Crystal LaBeija and a cameo from Andy Warhol, <i>The Queen</i> is one of the earliest looks at what would later become New York City ball culture. Sampled by Frank Ocean, reenacted on <i>Drag Race</i>, this documentary is only beginning to re-emerge as an essential piece of American queer culture. Screening will be preceded by Michelle Citron's <i>Lives:Visible</i>, documenting butch/fem life in mid-century Chicago. <b>NOTE: Free admission to all attendees who come in drag.</b></p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=1F333E92-4962-4464-A4AD-EEFCFEF65FEB" target="_blank">here</a></u></b>.
+          <h1>7:00MPM Tuesday, October 25th</h1>
+          <img src="/images/2022fall/girls-always-happy-2018.jpg" alt="Girls Always Happy still">
+          <h2>Girls Always Happy (2018)</h2>
+          <h3>Yang Mingming &middot; 116min &middot; Digital</h3>
+          <p>Yang Mingming's <i>Girls Always Happy</i> is a revelation in 21st century Chinese cinema. Blending comedy and drama in equal measure and featuring a toxic familial relationship that rivals the chaos of <i>Ladybird</i> and early Xavier Dolan, simultaneous writer/actor/director Yang Mingming's debut is a criminally underrated glimpse at a particularly fucked up Beijing duo of a mid-twenties daughter living with her mother in a cramped house.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=63509644-5A14-4713-A2D6-B743898D53A2" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div class="screening">
-          <h1>1:00PM October 22nd</h1>
-          <img src="/images/2022fall/twin-peaks-fire-walk-with-me-1992.png" alt="FIRE WALK WITH ME still">
-          <h2>Twin Peaks: Fire Walk with Me (1992)</h2>
-          <h3>David Lynch &middot; 135min &middot; DCP</h3>
-          <p>The prequel to Lynch's acclaimed TV series <i>Twin Peaks</i>, <i>Fire Walk With Me</i> chronicles the fateful last seven days of Laura Palmer's life. What could have led to the death of the beautiful homecoming queen and nightshift waitress in the strange town of Twin Peaks? Agent Dale Cooper (Kyle MacLachlan) uncovers the horrid, chilling details. Torn apart by critics at release, this twisted tragedy is now considered by some to be Lynch's underrated masterpiece.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=EFEB89AE-2E9A-4D2D-8FAF-17BD252BCBAB" target="_blank">here</a></u></b>.
+          <h1>7:00PM Wednesday, October 26th</h1>
+          <img src="/images/2022fall/the-heroic-trio-1993.jpg" alt="The Heroic Trio still">
+          <h2>The Heroic Trio (1993)</h2>
+          <h3>Johnnie To &middot; 83m &middot; DCP</h3>
+          <p>A leather jacket-wearing, shotgun-toting, motorbike-riding Maggie Cheung teams up with fellow legends Anita Mui and Michelle Yeoh in this action-packed romp from underrated auteur Johnnie To. When Hong Kong is threatened by a subterranean villain kidnapping babies for nefarious ends, the trio must set their differences aside, band together to form the titular <i>Heroic Trio</i>, and save the city. Superhero movies have never been so gloriously unhinged since.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=D906FA0A-9854-4984-A2DF-7E2FF8F6BFCB" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div class="screening">
-          <h1>4:00PM October 22nd</h1>
-          <img src="/images/2022fall/marnie-1964.png" alt="MARNIE still">
-          <h2>Marnie (1964)</h2>
-          <h3>Alfred Hitchcock &middot; 130min &middot; DCP</h3>
-          <p>While answers may differ to which is the best Hitchcock movie, it’s difficult to argue against <i>Marnie</i> being the <i>most</i> Hitchcock movie. Tippi Hedren stars as the titular kleptomaniac, whose ruse is found out by her outwardly dashing but controlling boss (Sean Connery). Filled with striking visuals, chilling performances, and sexual perversion hidden under a high-class veneer, <i>Marnie</i> is the Master of Suspense’s bag of tricks at its deepest.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=C33F3AF2-F412-42D5-B617-3ED643DE504B" target="_blank">here</a></u></b>.
+          <h1>7:00PM Thursday, October 27th</h1>
+          <img src="/images/2022fall/caesar-must-die-2012.jpg" alt="Caesar Must Die still">
+          <h2>Caesar Must Die (2012)</h2>
+          <h3>Vittorio Taviani & Paolo Taviani &middot; 76m &middot; Digital</h3>
+          <p>In a high-security Roman prison, inmates prepare to put on a production of "Julius Caesar." With current and former inmates as actors and shot in stark black and white, <i>Caesar Must Die</i> follows the thorny road of the production from audition to performance, shrouding the seam between documentary and fiction. Director Paolo Taviani hoped the film would show that "even a prisoner with a dreadful sentence, even a life sentence, is and remains a human being."</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=6759EEE0-BDE7-4815-967A-6127DFA5D3DA" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div class="screening">
-          <h1>7:30PM October 22nd</h1>
-          <img src="/images/2022fall/funeral-parade-of-roses-1969.jpeg" alt="FUNERAL PARADE OF ROSES still">
-          <h2>Funeral Parade of Roses (1969)</h2>
-          <h3>Toshio Matsumoto &middot; 105min &middot; DCP</h3>
-          <p>Arthouse, documentary, and '60s Avant-garde come together in Tokyo's queer underworld in this loose adaptation of "Oedipus Rex." <i>Funeral Parade of Roses</i> follows Eddie, a transgender woman (played by Japanese gay entertainer Peter—no last name) through a scrambled timeline and a mounting rivalry at one of Tokyo's gay bars. Both ahead of its time and a product of it, the film is a heady, wild, beautiful, and sometimes grisly gay cinematic experience.</p>
-          <p><i style="color: red">With introduction by former Doc Films President and current University of Chicago President Paul Alivisatos!</i></p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=A2B2E8A9-CD6B-42DB-8A01-1BF8088E7C79" target="_blank">here</a></u></b>.
+          <h1>9:30PM Thursday, October 27th</h1>
+          <img src="/images/2022fall/persepolis-2007.jpg" alt="Persepolis still">
+          <h2>Persepolis (2007)</h2>
+          <h3>Marjane Satrapi & Vincent Paronnaud &middot; 96m &middot; 35mm</h3>
+          <p>Based on the graphic novel of the same name, <i>Persepolis</i> tells French-Iranian cartoonist Marjane Satrapi's life story growing up in revolutionary Iran. After the Shah is deposed, Marji must navigate her interests in counter-culture, education, and boys in the face of the Islamic fundamentalist government. <i>Persepolis</i> is simultaneously a film about coming-of-age, politics, and womanhood, all told through Satrapi's signature graphic novel style.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=C8A24F76-9BBA-4350-A01F-58CFA8BD008B" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div class="screening">
-          <h1>10:00PM October 22nd</h1>
-          <img src="/images/2022fall/night-of-the-living-dead-1968.jpeg" alt="NIGHT OF THE LIVING DEAD still">
-          <h2>Night of the Living Dead (1968)</h2>
-          <h3>George Romero &middot; 97min &middot; DCP</h3>
-          <p>THEY WON'T STAY DEAD! Much like Doc Films, George Romero's gruesome ghouls have reanimated to plague the living. In this revolutionary film that brought us the modern zombie flick, a group of strangers are marooned in an isolated farmhouse where they must fend for their lives against the undead. Derided by critics at its release, the film has since become a classic, alongside Duane Jones' role as a hero—a rare casting choice for a Black actor at the time.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=05B8EF0A-E74C-4E69-936F-2C6D300A9AFD" target="_blank">here</a></u></b>.
+          <h1>7:00PM Friday, October 28th</h1>
+          <img src="/images/2022fall/get-out-2017.jpeg" alt="Get Out still">
+          <h2>Get Out (2017)</h2>
+          <h3>Jordan Peele &middot; 2017 &middot; DCP</h3>
+          <p>We would’ve programmed it a third time if we could. Come see Jordan Peele’s breakout 2017 hit <i>Get Out</i>, the official film of Doc 2022 Halloween-eve-eve-eve (listen, scheduling is hard). Scary, cringy, funny, and infinitely quotable, <i>Get Out</i> has quickly become one of the best American films of the millennium. Chris, a Black Brooklyn-based photographer, visits his white girlfriend’s family only to discover that beneath their smiles lurks a dark secret…</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=FF46670A-3B99-4E77-ABDC-AE3AA6181B8B" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div class="screening">
-          <h1>1:00PM October 23rd</h1>
-          <img src="/images/2022fall/to-sleep-with-anger-1990.jpeg" alt="TO SLEEP WITH ANGER still">
-          <h2>To Sleep With Anger (1990)</h2>
-          <h3>Charles Burnett &middot; 102min &middot; DCP</h3>
-          <p>Charming drifter Harry (Danny Glover) drops in to visit his old friend Gideon (Paul Butler) at his home in South-Central LA. His genteel manner, however, belies a corrupting influence which brings Gideon's family tensions to a rolling boil. Set to a gospel- and blues-infused soundtrack, <i>To Sleep With Anger</i> is an intimate, evocative family drama, painting its themes of religion, family, and duty with both sensitive realism and a deft comedic hand.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=55AD2F1B-3ED6-45E0-B225-2AAD1C597820" target="_blank">here</a></u></b>.
+          <h1>5:00PM Sunday, October 30th</h1>
+          <img src="/images/2022fall/out-1-spectre-1972.jpg" alt="OUT 1: SPECTRE still">
+          <h2>Out 1: Spectre (1972)</h2>
+          <h3>Jacques Rivette &middot; 264min &middot; Digital</h3>
+          <p>This condensed version of Rivette’s 13-hour magnum opus, <i>Out 1: Noli Me Tangere</i>, has been hailed as a masterpiece in its own right. Entirely improvised, it tells the story of two outsiders investigating a conspiracy involving avant-garde theater troupes and an Illuminati-like secret society. In the words of critic Jonathan Romney, the film is “about things, people, and communal causes falling apart, arguably a lament for France’s failed utopia of 1968.”</p>
+          <p><i>Note: print calendars incorrectly list the format as 35mm and not digital.</i></p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=3A4A806F-BDD4-48BC-9A28-310667177248" target="_blank">here</a></u>.</b></p>
         </div>
 
-        <div class="screening">
-          <h1>4:00PM October 23rd</h1>
-          <img src="/images/2022fall/daughter-rite-1978.jpeg" alt="DAUGHTER RITE still">
-          <h2>Daughter Rite (1978)  // What You Take For Granted (1983)</h2>
-          <h3>Michelle Citron &middot; 53min // 73min &middot; 16mm</h3>
-          <p>In her pseudo-documentary <i>Daughter Rite</i>, famed Chicago filmmaker Michelle Citron sets the precedent for the documentary genre that some stories become more truthful through narrative retelling. <i>What You Take For Granted</i> combines the real accounts of 40 working women into a fictive narrative about the friendship between two women in traditionally male jobs. A bona fide meta-film, Citron then splices in fictionalized interviews of other working women. </p>
-          <p><i style="color: red">With introduction and Q&A by director Michelle Citron!</i></p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=2D9FC525-F170-4497-8907-F976A976F66D" target="_blank">here</a></u></b>.
-        </div>
-
-        <div class="screening">
-          <h1>8:00PM October 23rd</h1>
-          <img src="/images/2022fall/au-hasard-balthazar-1966.jpeg" alt="AU HASARD BALTHAZAR still">
-          <h2>Au Hasard Balthazar (1966)</h2>
-          <h3>Robert Bresson &middot; 95min &middot; 35mm</h3>
-          <p>Impossible as it is to name one film as Robert Bresson’s masterpiece, a compelling case can be made that the title should go to this monument of empathetic filmmaking. Following the titular donkey as he is passed from owner to owner, Bresson turns an unflinching eye to cruelties both big and small. Of all the wonders in this beautifully unadorned film, perhaps the most impressive is the “performance” of Balthazar—never has such a donkey seemed so human.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=0BB68652-4251-475F-B0C9-59BFBAD99FA3" target="_blank">here</a></u></b>.
+        <div class="screening" id="nosferatu" style="scroll-margin-top: var(--header-height);">
+          <h1>7:00PM Sunday, October 30th</h1>
+          <img src="/images/2022fall/nosferatu-1922.jpg" alt="Nosferatu still">
+          <h2>Doc Films & Rockefeller Chapel Presents: Nosferatu (1922)</h2>
+          <h3>F. W. Murnau &middot; 81m &middot; Digital</h3>
+          <p>Rockefeller Chapel celebrates the 100th anniversary of <i>Nosferatu</i>, welcoming back celebrated organist Jay Warren to provide the silent film score. Come experience this cinematic classic, in which mysterious Count Orlok summons Thomas Hutter to his remote Transylvanian castle in the mountains. After Orlok reveals his vampiric nature, Hutter struggles to escape the castle. Join us inside one of UChicago's most iconic spaces to see how the story ends… </p>
+          <p><i>Note: <b>at Rockefeller Chapel!</b> Admission is free for all UCID and quarter pass holders! Otherwise, $10 admission at the doors, $8 online.</i></p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=35936887-68BB-4CDC-B9CD-E3EF472304D8" target="_blank">here</a></u>.</b></p>
         </div>
 
       </div>
