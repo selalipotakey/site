@@ -60,7 +60,7 @@
           <h1>7:00PM Friday, October 28th</h1>
           <img src="/images/2022fall/get-out-2017.jpeg" alt="Get Out still">
           <h2>Get Out (2017)</h2>
-          <h3>Jordan Peele &middot; 2017 &middot; DCP</h3>
+          <h3>Jordan Peele &middot; 104min &middot; DCP</h3>
           <p>We would’ve programmed it a third time if we could. Come see Jordan Peele’s breakout 2017 hit <i>Get Out</i>, the official film of Doc 2022 Halloween-eve-eve-eve (listen, scheduling is hard). Scary, cringy, funny, and infinitely quotable, <i>Get Out</i> has quickly become one of the best American films of the millennium. Chris, a Black Brooklyn-based photographer, visits his white girlfriend’s family only to discover that beneath their smiles lurks a dark secret…</p>
           <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=FF46670A-3B99-4E77-ABDC-AE3AA6181B8B" target="_blank">here</a></u>.</b></p>
         </div>
