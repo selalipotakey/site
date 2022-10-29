@@ -69,8 +69,9 @@
           <h1>7:00PM Monday, October 31st</h1>
           <img src="/images/2022fall/whats-up-doc-1972.jpeg" alt="What's Up, Doc? still">
           <h2>What's Up, Doc? (1972)</h2>
-          <h3>Peter Bogdanovich &middot; 94min &middot; 35mm</h3>
+          <h3>Peter Bogdanovich &middot; 94min &middot; Digital*</h3>
           <p>Peter Bogdanovich borrowed the set-up of <i>Bringing Up Baby</i>— “daffy girl, square professor”—for this free-spirited comedy. Barbra Streisand runs wild across San Francisco as Judy Maxwell, an eccentric bohemian who takes a shine to musicologist Howard Bannister (Ryan O’Neale). If that’s not enough, throw in four identical bags containing various valuables, Madeline Kahn’s feature film debut, and a car chase to put <i>Bullitt</i> to shame.</p>
+          <p><i>*Note: previously billed as 35mm, but now digital.</i></p>
           <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=D6BD9590-6BF8-40F2-B96C-94B82E6744C1" target="_blank">here</a></u></b>.</p>
         </div>
 
