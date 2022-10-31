@@ -101,77 +101,76 @@
         </div>
 
         <div class="screening">
-          <h1>7:00PM Monday, October 24th</h1>
-          <img src="/images/2022fall/the-awful-truth-1937.jpeg" alt="The Awful Truth still">
-          <h2>The Awful Truth (1937)</h2>
-          <h3>Leo McCarey &middot; 90min &middot; DCP</h3>
-          <p>Suspecting each other of infidelity, Jerry (Cary Grant) and Lucy (Irene Dunne) file for divorce, which takes effect after 90 days. Soon after, each spouse realizes they still love the other, and both begin sabotaging each other’s new romances. Leo McCarey won an Oscar for his direction, and screwball stalwarts Ralph Bellamy and Skippy the Dog round out the cast. Earnest and hilarious, <i>The Awful Truth</i> is a celebration of love in all its messy glory.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=50D2C4EF-012F-4CC9-B1F3-0AB3A2721B57" target="_blank">here</a></u></b>.</p>
+          <h1>7:00PM Monday, October 31st</h1>
+          <img src="/images/2022fall/whats-up-doc-1972.jpeg" alt="What's Up, Doc? still">
+          <h2>What's Up, Doc? (1972)</h2>
+          <h3>Peter Bogdanovich &middot; 94min &middot; Digital*</h3>
+          <p>Peter Bogdanovich borrowed the set-up of <i>Bringing Up Baby</i>— “daffy girl, square professor”—for this free-spirited comedy. Barbra Streisand runs wild across San Francisco as Judy Maxwell, an eccentric bohemian who takes a shine to musicologist Howard Bannister (Ryan O’Neale). If that’s not enough, throw in four identical bags containing various valuables, Madeline Kahn’s feature film debut, and a car chase to put <i>Bullitt</i> to shame.</p>
+          <p><i>*Note: previously billed as 35mm, but now digital.</i></p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=D6BD9590-6BF8-40F2-B96C-94B82E6744C1" target="_blank">here</a></u></b>.</p>
         </div>
 
         <div class="screening">
-          <h1>7:00MPM Tuesday, October 25th</h1>
-          <img src="/images/2022fall/girls-always-happy-2018.jpg" alt="Girls Always Happy still">
-          <h2>Girls Always Happy (2018)</h2>
-          <h3>Yang Mingming &middot; 116min &middot; Digital</h3>
-          <p>Yang Mingming's <i>Girls Always Happy</i> is a revelation in 21st century Chinese cinema. Blending comedy and drama in equal measure and featuring a toxic familial relationship that rivals the chaos of <i>Ladybird</i> and early Xavier Dolan, simultaneous writer/actor/director Yang Mingming's debut is a criminally underrated glimpse at a particularly fucked up Beijing duo of a mid-twenties daughter living with her mother in a cramped house.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=63509644-5A14-4713-A2D6-B743898D53A2" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Tuesday, November 1st</h1>
+          <img src="/images/2022fall/house-of-flying-daggers-2004.jpeg" alt="House of Flying Daggers still">
+          <h2>House of Flying Daggers (2004)</h2>
+          <h3>Zhang Yimou &middot; 119min &middot; 35mm</h3>
+          <p>Zhang Yimou’s Oscar-nominated follow-up to 2002’s <i>Hero</i> is the spellbinding history of a doomed love-triangle set in the final years of the Tang Dynasty. Steeped in literary romantic tradition, while simultaneously paying homage to the legacy of wuxia filmmaking’s golden age, <i>House of Flying Daggers</i> is a staggeringly gorgeous work of martial arts crafted chaos that only the mind of Zhang Yimou, a true master of the medium, could create.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=FD7F390E-AD7B-4E8E-BAF9-40C87B86FFE6" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div class="screening">
-          <h1>7:00PM Wednesday, October 26th</h1>
-          <img src="/images/2022fall/the-heroic-trio-1993.jpg" alt="The Heroic Trio still">
-          <h2>The Heroic Trio (1993)</h2>
-          <h3>Johnnie To &middot; 83m &middot; DCP</h3>
-          <p>A leather jacket-wearing, shotgun-toting, motorbike-riding Maggie Cheung teams up with fellow legends Anita Mui and Michelle Yeoh in this action-packed romp from underrated auteur Johnnie To. When Hong Kong is threatened by a subterranean villain kidnapping babies for nefarious ends, the trio must set their differences aside, band together to form the titular <i>Heroic Trio</i>, and save the city. Superhero movies have never been so gloriously unhinged since.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=D906FA0A-9854-4984-A2DF-7E2FF8F6BFCB" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Wednesday, November 2nd</h1>
+          <img src="/images/2022fall/irma-vep-1996.jpg" alt="Irma Vep still">
+          <h2>Irma Vep (1996)</h2>
+          <h3>Olivier Assayas &middot; 99m &middot; DCP</h3>
+          <p>The first of Maggie Cheung’s two collaborations with filmmaker and erstwhile husband Olivier Assayas, <i>Irma Vep</i> burnished her bonafides as a global art-house icon. Playing a version of herself brought in to star in an increasingly troubled remake of the classic French serial <i>Les Vampires</i>, Cheung is the vessel through which Assayas is able to both discuss art’s complex relationship with commerce and depict its ability to nonetheless transcend the noise.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=BC21AB65-A12B-43A2-990F-8DB6E5CF1E0E" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div class="screening">
-          <h1>7:00PM Thursday, October 27th</h1>
-          <img src="/images/2022fall/caesar-must-die-2012.jpg" alt="Caesar Must Die still">
-          <h2>Caesar Must Die (2012)</h2>
-          <h3>Vittorio Taviani & Paolo Taviani &middot; 76m &middot; Digital</h3>
-          <p>In a high-security Roman prison, inmates prepare to put on a production of "Julius Caesar." With current and former inmates as actors and shot in stark black and white, <i>Caesar Must Die</i> follows the thorny road of the production from audition to performance, shrouding the seam between documentary and fiction. Director Paolo Taviani hoped the film would show that "even a prisoner with a dreadful sentence, even a life sentence, is and remains a human being."</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=6759EEE0-BDE7-4815-967A-6127DFA5D3DA" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Thursday, November 3rd</h1>
+          <img src="/images/2022fall/chimes-at-midnight-1966.jpg" alt="Chimes at Midnight still">
+          <h2>Chimes at Midnight (1966)</h2>
+          <h3>Orson Welles &middot; 115m &middot; 35mm</h3>
+          <p>Directed by and starring Orson Welles, <i>Chimes at Midnight</i> pulls liberally from the "Henry IV"s, "Richard II," "Henry V," and "The Merry Wives of Windsor" to spotlight the disreputable knight Sir John Falstaff and his relationship with Prince Hal, the rebellious son of King Henry IV. The film, Welles’ personal favorite, splices the Shakespearean source material to draw a profound, tragic underbelly out of the merry humor of its antihero.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=0AACAAA0-BED0-466E-94D1-8DC108D1DC55" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div class="screening">
-          <h1>9:30PM Thursday, October 27th</h1>
-          <img src="/images/2022fall/persepolis-2007.jpg" alt="Persepolis still">
-          <h2>Persepolis (2007)</h2>
-          <h3>Marjane Satrapi & Vincent Paronnaud &middot; 96m &middot; 35mm</h3>
-          <p>Based on the graphic novel of the same name, <i>Persepolis</i> tells French-Iranian cartoonist Marjane Satrapi's life story growing up in revolutionary Iran. After the Shah is deposed, Marji must navigate her interests in counter-culture, education, and boys in the face of the Islamic fundamentalist government. <i>Persepolis</i> is simultaneously a film about coming-of-age, politics, and womanhood, all told through Satrapi's signature graphic novel style.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=C8A24F76-9BBA-4350-A01F-58CFA8BD008B" target="_blank">here</a></u>.</b></p>
+          <h1>9:30PM Thursday, November 3rd</h1>
+          <img src="/images/2022fall/la-casa-lobo-2018.jpg" alt="La casa lobo still">
+          <h2>La casa lobo (2018)</h2>
+          <h3>Cristobal León & Joaquín Cociña &middot; 73m &middot; DCP</h3>
+          <p>Directed by Cristobal León and Joaquín Cociña, <i>La casa lobo</i> is a horror stop-motion animated film that follows María, who attempts to find refuge after leaving a religious fanatic cult. Eventually, she finds a home inhabited by two pigs, but the longer María stays in the house, the more unsettling it becomes. Though this film uses fairy-tale-like imagery at times, the film is inspired by the real Colonia Dignidad, a post-WWII German cult in Chile.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=5A1BF000-4AD0-4BF4-925D-BFF9FA55CE69" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div class="screening">
-          <h1>7:00PM Friday, October 28th</h1>
-          <img src="/images/2022fall/get-out-2017.jpeg" alt="Get Out still">
-          <h2>Get Out (2017)</h2>
-          <h3>Jordan Peele &middot; 104min &middot; DCP</h3>
-          <p>We would’ve programmed it a third time if we could. Come see Jordan Peele’s breakout 2017 hit <i>Get Out</i>, the official film of Doc 2022 Halloween-eve-eve-eve (listen, scheduling is hard). Scary, cringy, funny, and infinitely quotable, <i>Get Out</i> has quickly become one of the best American films of the millennium. Chris, a Black Brooklyn-based photographer, visits his white girlfriend’s family only to discover that beneath their smiles lurks a dark secret…</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=FF46670A-3B99-4E77-ABDC-AE3AA6181B8B" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Friday, November 4th</h1>
+          <img src="/images/2022fall/dogtooth-2009.jpg" alt="Dogtooth still">
+          <h2>Dogtooth (2009)</h2>
+          <h3>Yorgos Lanthimos &middot; 97m &middot; 35mm</h3>
+          <p>Unequivocally disturbing to the nth degree, <i>Dogtooth</i> is quarantined homeschooling from hell. Three teenagers, a son and two daughters, are raised wholly in a compound, knowing of the outside world only the dangers of man-eating cats and the possible existence of another brother. To quell the son's sexual frustrations, the father hires a woman to come to the home, but this outsider soon threatens to undo the perverted world the kids' parents have created.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=A2213CF9-167B-4988-9F5B-02E18AEDA411" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div class="screening">
-          <h1>5:00PM Sunday, October 30th</h1>
-          <img src="/images/2022fall/out-1-spectre-1972.jpg" alt="OUT 1: SPECTRE still">
-          <h2>Out 1: Spectre (1972)</h2>
-          <h3>Jacques Rivette &middot; 264min &middot; Digital</h3>
-          <p>This condensed version of Rivette’s 13-hour magnum opus, <i>Out 1: Noli Me Tangere</i>, has been hailed as a masterpiece in its own right. Entirely improvised, it tells the story of two outsiders investigating a conspiracy involving avant-garde theater troupes and an Illuminati-like secret society. In the words of critic Jonathan Romney, the film is “about things, people, and communal causes falling apart, arguably a lament for France’s failed utopia of 1968.”</p>
-          <p><i>Note: print calendars incorrectly list the format as 35mm and not digital.</i></p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=3A4A806F-BDD4-48BC-9A28-310667177248" target="_blank">here</a></u>.</b></p>
+          <h1>7:00 Saturday, November 5th</h1>
+          <img src="/images/2022fall/bullet-train-2022.jpg" alt="Bullet Train still">
+          <h2>Bullet Train (2022)</h2>
+          <h3>David Leitch &middot; 126m &middot; DCP</h3>
+          <p>A good, old-fashioned star vehicle for Brad Pitt and a motley assortment of beloved cinema himbos, <i>Bullet Train</i> crams together yakuza gangs, international hitmen, and a rogue Channing Tatum cameo onto a high-speed imagination of the Tokaido Shinkansen. David Leitch of <i>John Wick</i> fame directs as Pitt’s reformed bagman finds a simple grab-and-go job going horribly off the rails. If anything, this film dares to ask: How much is <i>too</i> much movie?</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=C2D05566-F6C9-4002-9740-CD0360A696C8" target="_blank">here</a></u>.</b></p>
         </div>
 
-        <div class="screening" id="nosferatu" style="scroll-margin-top: var(--header-height);">
-          <h1>7:00PM Sunday, October 30th</h1>
-          <img src="/images/2022fall/nosferatu-1922.jpg" alt="Nosferatu still">
-          <h2>Doc Films & Rockefeller Chapel Presents: Nosferatu (1922)</h2>
-          <h3>F. W. Murnau &middot; 81m &middot; Digital</h3>
-          <p>Rockefeller Chapel celebrates the 100th anniversary of <i>Nosferatu</i>, welcoming back celebrated organist Jay Warren to provide the silent film score. Come experience this cinematic classic, in which mysterious Count Orlok summons Thomas Hutter to his remote Transylvanian castle in the mountains. After Orlok reveals his vampiric nature, Hutter struggles to escape the castle. Join us inside one of UChicago's most iconic spaces to see how the story ends… </p>
-          <p><i>Note: <b>at Rockefeller Chapel!</b> Admission is free for all UCID and quarter pass holders! Otherwise, $10 admission at the doors, $8 online.</i></p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=35936887-68BB-4CDC-B9CD-E3EF472304D8" target="_blank">here</a></u>.</b></p>
+        <div class="screening">
+          <h1>5:00PM Sunday, November 6th</h1>
+          <img src="/images/2022fall/the-gang-of-four-1988.jpeg" alt="THE GANG OF FOUR still">
+          <h2>The Gang of Four (1989)</h2>
+          <h3>Jacques Rivette &middot; 160min &middot; DCP</h3>
+          <p>Four young women are sharing a home and studying at a drama school run by a notoriously demanding grande dame. As they rehearse a play, one of the group mysteriously disappears, an enigmatic stranger arrives on the scene, and the lines between theater and “real life” become increasingly blurred. Gorgeously lensed by the great Caroline Champetier, <i>Gang of Four</i> is an engrossing exploration of Rivette’s classic themes and one of his most thoughtful works.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=DC0546AC-82E3-42D3-AFCF-E8B95810FF02" target="_blank">here</a></u>.</b></p>
         </div>
 
       </div>
