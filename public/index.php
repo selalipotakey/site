@@ -29,21 +29,22 @@
           <div class="carousel__track-container">
             <ul class="carousel__track">
               
-              <!-- <li class="carousel__slide current-slide">
-                <a href="/90th">
-                  <img class="carousel__image" src="/images/2022fall/funeral-parade-of-roses-1969.jpeg" alt="FUNERAL PARADE OF ROSES still">
+              <li class="carousel__slide current-slide">
+                <a href="/calendar/tuesday#long-days-journey-into-night">
+                  <img class="carousel__image" src="/images/2022fall/long-days-journey-into-night-2018.jpg" alt="LONG DAYS JOURNEY INTO NIGHT still">
                 </a>
                   <div class="description">
-                    <a href="/90th">
+                    <a href="/calendar/tuesday#long-days-journey-into-night">
                       <p class="event-title fittext">
-                      Friday 10/21 - Sunday 10/23: Celebrating 90 Years of Doc
+                      LONG DAY'S JOURNEY INTO NIGHT... in 3D! (11/11 @ 7:00PM)
                       </p>
                     </a>
-                    <p class="capsule fittext">Join Doc Films as we celebrate 90 years of being Chicago's snobbiest cinephiles! From October 21st to the 23rd, stop by the Max P Cinema for the late-night zombie masterpiece <i>Night of the Living Dead</i>, hear director Michelle Citron discuss her works <i>Daughter Rite</i> and <i>What You Take For Granted</i>, or find out how current University President Paul Alivisatos feels about his days in Doc Films. We hope to see you there!</p>
+                    <p class="capsule fittext">Join Doc Films <b>at the Logan Center 201</b> for Bi Gan's 2018 film of the ethereal city of Kaili. While narratively minimalist, the film’s rich style, which includes a mind-bending unbroken hour-long final shot, is some of the best visual storytelling contemporary Chinese film has to offer.
+                    <i>Co-sponsored by the <u><a href="https://filmstudiescenter.uchicago.edu/" target="_blank">Film Studies Cente</a>r</u>!</i></p>
                   </div>
-              </li> -->
+              </li>
 
-              <li class="carousel__slide current-slide">
+              <!-- <li class="carousel__slide">
                 <a href="/calendar/special-events#nosferatu">
                   <img class="carousel__image" src="/images/2022fall/nosferatu-1922.jpg" alt="nosferatu still">
                 </a>
@@ -58,7 +59,7 @@
                     <i>Click <u><a href="/calendar/special-events#nosferatu">here</a></u> for more info!</i>
                     </p>
                   </div>
-              </li>
+              </li> -->
 
               <!-- <li class="carousel__slide">
                 <a href="#">
@@ -82,14 +83,14 @@
           </button>
 
           <div class="carousel__nav">
-            <!-- <button class="carousel__indicator"></button> -->
             <button class="carousel__indicator current-slide"></button>
+            <!-- <button class="carousel__indicator"></button> -->
             <!-- <button class="carousel__indicator"></button> -->
           </div>
           
         </div>
 
-        <br><br><br><br><br><br>
+        <br><br><br><br><br>
 
       </div>
 

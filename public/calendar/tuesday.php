@@ -89,12 +89,13 @@
           <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=0F4DB5FD-BD1A-4E36-8253-8F2D7D48ACEF" target="_blank">here</a></u>.</b></p>
         </div>
 
-        <div class="screening">
+        <div class="screening" id="long-days-journey-into-night" style="scroll-margin-top: var(--header-height);">
           <h1>7:00MPM <u>Saturday</u>, November 11th</h1>
           <img src="/images/2022fall/long-days-journey-into-night-2018.jpg" alt="Long Day's Journey Into Night still">
           <h2>Long Day's Journey Into Night (2018) — at the Logan Center 201 in 3D!</h2>
           <h3>Bi Gan &middot; 138m &middot; 3D DCP</h3>
           <p>Despite the English-language title taking its name from the play by Eugene O’Neill, <i>Long Day’s Journey Into Night</i> is a work wholly its own. A dreamy vision of nocturnal Kaili, Bi Gan’s 2018 feature follows the wayward Luo in search of an elusive former lover. While narratively minimalist, the film’s rich style, which includes a mind-bending unbroken hour-long final shot, is some of the best visual storytelling contemporary Chinese film has to offer.</p>
+          <p><i>Co-sponsored by the <u><a href="https://filmstudiescenter.uchicago.edu/" target="_blank">Film Studies Center</a></u>!</i></p>
           <p><b>Tickets can be bought <u><a href=" https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=DFE9B0DA-E494-41F8-A53A-B9C49BADAD4B" target="_blank">here</a></u>.</b></p>
         </div>
 
