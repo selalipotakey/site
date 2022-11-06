@@ -90,7 +90,7 @@
         </div>
 
         <div class="screening" id="long-days-journey-into-night" style="scroll-margin-top: var(--header-height);">
-          <h1>7:00MPM <u>Saturday</u>, November 11th</h1>
+          <h1>7:00MPM <u>Saturday</u>, November 12th</h1>
           <img src="/images/2022fall/long-days-journey-into-night-2018.jpg" alt="Long Day's Journey Into Night still">
           <h2>Long Day's Journey Into Night (2018) — at the Logan Center 201 in 3D!</h2>
           <h3>Bi Gan &middot; 138m &middot; 3D DCP</h3>

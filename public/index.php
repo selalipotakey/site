@@ -36,7 +36,7 @@
                   <div class="description">
                     <a href="/calendar/tuesday#long-days-journey-into-night">
                       <p class="event-title fittext">
-                      LONG DAY'S JOURNEY INTO NIGHT... in 3D! (11/11 @ 7:00PM)
+                      LONG DAY'S JOURNEY INTO NIGHT... in 3D! (Sat. 11/12 @ 7:00PM)
                       </p>
                     </a>
                     <p class="capsule fittext">Join Doc Films <b>at the Logan Center 201</b> for Bi Gan's 2018 film of the ethereal city of Kaili. While narratively minimalist, the film’s rich style, which includes a mind-bending unbroken hour-long final shot, is some of the best visual storytelling contemporary Chinese film has to offer.
