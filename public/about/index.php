@@ -67,12 +67,12 @@
         <p class="board">Lindsey Qian</p>
         <p class="board">volunteer@docfilms.org</p>
         <br>
-        <p class="board"><b>Shipping Chair</b></p>
-        <p class="board">Su Dedehayir</p>
+        <p class="board"><b>Shipping Chairs</b></p>
+        <p class="board">Su Dedehayir and Iris Yahi</p>
         <p class="board">shipping@docfilms.org</p>
         <br>
         <p class="board"><b>Finance Chair</b></p>
-        <p class="board">Khalid Goraish</p>
+        <p class="board"><b></b></p>
         <p class="board">finance@docfilms.org</p>
         <br>
         <p class="board"><b>Publicity Chairs</b></p>
