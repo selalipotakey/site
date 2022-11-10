@@ -102,76 +102,77 @@
         </div>
 
         <div class="screening">
-          <h1>7:00PM Monday, October 31st</h1>
-          <img src="/images/2022fall/whats-up-doc-1972.jpeg" alt="What's Up, Doc? still">
-          <h2>What's Up, Doc? (1972)</h2>
-          <h3>Peter Bogdanovich &middot; 94min &middot; Digital*</h3>
-          <p>Peter Bogdanovich borrowed the set-up of <i>Bringing Up Baby</i>— “daffy girl, square professor”—for this free-spirited comedy. Barbra Streisand runs wild across San Francisco as Judy Maxwell, an eccentric bohemian who takes a shine to musicologist Howard Bannister (Ryan O’Neale). If that’s not enough, throw in four identical bags containing various valuables, Madeline Kahn’s feature film debut, and a car chase to put <i>Bullitt</i> to shame.</p>
-          <p><i>*Note: previously billed as 35mm, but now digital.</i></p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=D6BD9590-6BF8-40F2-B96C-94B82E6744C1" target="_blank">here</a></u></b>.</p>
+          <h1>7:00PM Monday, November 7th</h1>
+          <img src="/images/2022fall/intolerable-cruelty-2003.jpg" alt="Intolerable Cruelty still">
+          <h2>Intolerable Cruelty (2003)</h2>
+          <h3>Joel Coen & Ethan Coen &middot; 100min &middot; 35mm</h3>
+          <p>The Coen Brothers’ <i>Intolerable Cruelty</i> is one of the purest (and funniest) screwballs of the modern age. Elite divorce attorney Miles Massey (George Clooney) and serial divorcée Marilyn Rexroth (Catherine Zeta-Jones) match wits in this loopy, fast-paced tale of love and deception. With Roger Deakins' elegant cinematography and an endlessly hummable Carter Burwell score, <i>Intolerable Cruelty</i> stands out even amid the Coens’ remarkable filmography.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=8199BF27-FA77-4610-87FE-02FAA1D8E9FF" target="_blank">here</a></u></b>.</p>
+        </div>
+
+
+        <div class="screening">
+          <h1>7:00MPM Tuesday, November 8th</h1>
+          <img src="/images/2022fall/still-life-2006.jpg" alt="Still Life still">
+          <h2>Still Life (2006)</h2>
+          <h3>Jia Zhangke &middot; 111min &middot; 35mm</h3>
+          <p>Jia Zhangke’s first film to take home Venice’s Golden Lion is the diptych narrative of two strangers in search of their respective partners set against the background of the destruction of Yangtze River communities brought on by the Three Gorges Dam. Featuring Jia's cousin Han Sanming playing a fictionalized version of himself working as a coal miner in Shanxi, <i>Still Life</i> toes the line between a documentary and a social-realist drama.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=0F4DB5FD-BD1A-4E36-8253-8F2D7D48ACEF" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div class="screening">
-          <h1>7:00PM Tuesday, November 1st</h1>
-          <img src="/images/2022fall/house-of-flying-daggers-2004.jpeg" alt="House of Flying Daggers still">
-          <h2>House of Flying Daggers (2004)</h2>
-          <h3>Zhang Yimou &middot; 119min &middot; 35mm</h3>
-          <p>Zhang Yimou’s Oscar-nominated follow-up to 2002’s <i>Hero</i> is the spellbinding history of a doomed love-triangle set in the final years of the Tang Dynasty. Steeped in literary romantic tradition, while simultaneously paying homage to the legacy of wuxia filmmaking’s golden age, <i>House of Flying Daggers</i> is a staggeringly gorgeous work of martial arts crafted chaos that only the mind of Zhang Yimou, a true master of the medium, could create.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=FD7F390E-AD7B-4E8E-BAF9-40C87B86FFE6" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Wednesday, November 9th</h1>
+          <img src="/images/2022fall/comrades-almost-a-love-story-1996.jpg" alt="Comrades: Almost a Love Story still">
+          <h2>Comrades: Almost a Love Story (1996)</h2>
+          <h3>Peter Chan &middot; 118m &middot; 35mm</h3>
+          <p>Criminally underseen in the West, <i>Comrades</i> is a trenchant and affecting document of Chinese diaspora disguised as a sweet romantic dramedy. Starkly different from her more iconic roles because of how conventional it is, Maggie Cheung here plays a snarky and street-smart city girl opposite Leon Lai’s dopey transplant as they navigate both a changing Hong Kong and their burgeoning feelings for each other, all set to the dulcet tones of Teresa Teng.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=BB35CEE6-58D0-4785-B507-63FBAD3EE971" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div class="screening">
-          <h1>7:00PM Wednesday, November 2nd</h1>
-          <img src="/images/2022fall/irma-vep-1996.jpg" alt="Irma Vep still">
-          <h2>Irma Vep (1996)</h2>
-          <h3>Olivier Assayas &middot; 99m &middot; DCP</h3>
-          <p>The first of Maggie Cheung’s two collaborations with filmmaker and erstwhile husband Olivier Assayas, <i>Irma Vep</i> burnished her bonafides as a global art-house icon. Playing a version of herself brought in to star in an increasingly troubled remake of the classic French serial <i>Les Vampires</i>, Cheung is the vessel through which Assayas is able to both discuss art’s complex relationship with commerce and depict its ability to nonetheless transcend the noise.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=BC21AB65-A12B-43A2-990F-8DB6E5CF1E0E" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Thursday, November 10th</h1>
+          <img src="/images/2022fall/rosencrantz-and-guildenstern-are-dead-1990.jpg" alt="Rosencrantz and Guildenstern Are Dead still">
+          <h2>Rosencrantz and Guildenstern Are Dead (1990)</h2>
+          <h3>Tom Stoppard &middot; 117m &middot; Digital</h3>
+          <p>An absurdist riff on "Hamlet" that focuses on his childhood friends Rosencrantz and Guildenstern, played by Gary Oldman and Tim Roth respectively. In Shakespeare’s version, the two are conniving but ineffectual spies for Hamlet’s uncle Claudius. In this adaptation, they bumble in and out of the action of "Hamlet," mixing up their own names, flipping coins, digressing on the nature of theatre, being generally confused, and, of course, dying.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=D0D055CE-67EF-48EF-B8FD-35007A46D368" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div class="screening">
-          <h1>7:00PM Thursday, November 3rd</h1>
-          <img src="/images/2022fall/chimes-at-midnight-1966.jpg" alt="Chimes at Midnight still">
-          <h2>Chimes at Midnight (1966)</h2>
-          <h3>Orson Welles &middot; 115m &middot; 35mm</h3>
-          <p>Directed by and starring Orson Welles, <i>Chimes at Midnight</i> pulls liberally from the "Henry IV"s, "Richard II," "Henry V," and "The Merry Wives of Windsor" to spotlight the disreputable knight Sir John Falstaff and his relationship with Prince Hal, the rebellious son of King Henry IV. The film, Welles’ personal favorite, splices the Shakespearean source material to draw a profound, tragic underbelly out of the merry humor of its antihero.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=0AACAAA0-BED0-466E-94D1-8DC108D1DC55" target="_blank">here</a></u>.</b></p>
+          <h1>9:30PM Thursday, November 10th</h1>
+          <img src="/images/2022fall/coraline-2009.jpg" alt="Coraline still">
+          <h2>Coraline (2009)</h2>
+          <h3>Henry Selick &middot; 100m &middot; DCP</h3>
+          <p>One of the most-well known stop-motion animation films of all time, <i>Coraline</i> follows the story of young Coraline Jones who moves to a new town with her parents. Neglected by her parents, she struggles to adjust to her new surroundings until she finds an alternate world that, though perfect, is not all it seems. With the help of a stray black cat, Coraline not only needs to find a way home, but to unravel the mysteries of this other world.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=91EB624E-64B5-450B-89FA-29CABA9AA099" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div class="screening">
-          <h1>9:30PM Thursday, November 3rd</h1>
-          <img src="/images/2022fall/la-casa-lobo-2018.jpg" alt="La casa lobo still">
-          <h2>La casa lobo (2018)</h2>
-          <h3>Cristobal León & Joaquín Cociña &middot; 73m &middot; DCP</h3>
-          <p>Directed by Cristobal León and Joaquín Cociña, <i>La casa lobo</i> is a horror stop-motion animated film that follows María, who attempts to find refuge after leaving a religious fanatic cult. Eventually, she finds a home inhabited by two pigs, but the longer María stays in the house, the more unsettling it becomes. Though this film uses fairy-tale-like imagery at times, the film is inspired by the real Colonia Dignidad, a post-WWII German cult in Chile.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=5A1BF000-4AD0-4BF4-925D-BFF9FA55CE69" target="_blank">here</a></u>.</b></p>
+          <h1><u>8:30PM</u> Friday, November 11th</h1>
+          <img src="/images/2022fall/the-funhouse-1981.jpeg" alt="The Funhouse still">
+          <h2>The Funhouse (1981)</h2>
+          <h3>Tobe Hooper &middot; 96m &middot; DCP</h3>
+          <p>A criminally underrated piece of horror from the master of slashers, Tobe Hooper, <i>The Funhouse</i> is the quintessential 1980s teen slasher flick. When four Iowa teens take a trip to a rundown travelling carnival, they never expected to meet their end at the hands of a grusome serial killer. What begins as a night of pot-smoking, strip-teasing, and general crass '80s humor takes a turn for the worse when the true nature of the funhouse is revealed...</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=11F855C0-4CAE-4BB2-83D6-4374D6FD6B08" target="_blank">here</a></u>.</b></p>
+        </div>
+
+        <div class="screening" id="long-days-journey-into-night" style="scroll-margin-top: var(--header-height);">
+          <h1>7:00PM <u>Saturday</u>, November 12th</h1>
+          <img src="/images/2022fall/long-days-journey-into-night-2018.jpg" alt="Long Day's Journey Into Night still">
+          <h2>Long Day's Journey Into Night (2018) — at the Logan Center 201 in 3D!</h2>
+          <h3>Bi Gan &middot; 138m &middot; 3D DCP</h3>
+          <p>Despite the English-language title taking its name from the play by Eugene O’Neill, <i>Long Day’s Journey Into Night</i> is a work wholly its own. A dreamy vision of nocturnal Kaili, Bi Gan’s 2018 feature follows the wayward Luo in search of an elusive former lover. While narratively minimalist, the film’s rich style, which includes a mind-bending unbroken hour-long final shot, is some of the best visual storytelling contemporary Chinese film has to offer.</p>
+          <p><i>Co-sponsored by the <u><a href="https://filmstudiescenter.uchicago.edu/" target="_blank">Film Studies Center</a></u>!</i></p>
+          <p><b>Tickets can be bought <u><a href=" https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=DFE9B0DA-E494-41F8-A53A-B9C49BADAD4B" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div class="screening">
-          <h1>7:00PM Friday, November 4th</h1>
-          <img src="/images/2022fall/dogtooth-2009.jpg" alt="Dogtooth still">
-          <h2>Dogtooth (2009)</h2>
-          <h3>Yorgos Lanthimos &middot; 97m &middot; 35mm</h3>
-          <p>Unequivocally disturbing to the nth degree, <i>Dogtooth</i> is quarantined homeschooling from hell. Three teenagers, a son and two daughters, are raised wholly in a compound, knowing of the outside world only the dangers of man-eating cats and the possible existence of another brother. To quell the son's sexual frustrations, the father hires a woman to come to the home, but this outsider soon threatens to undo the perverted world the kids' parents have created.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=A2213CF9-167B-4988-9F5B-02E18AEDA411" target="_blank">here</a></u>.</b></p>
-        </div>
-
-        <div class="screening">
-          <h1>7:00 Saturday, November 5th</h1>
-          <img src="/images/2022fall/bullet-train-2022.jpg" alt="Bullet Train still">
-          <h2>Bullet Train (2022)</h2>
-          <h3>David Leitch &middot; 126m &middot; DCP</h3>
-          <p>A good, old-fashioned star vehicle for Brad Pitt and a motley assortment of beloved cinema himbos, <i>Bullet Train</i> crams together yakuza gangs, international hitmen, and a rogue Channing Tatum cameo onto a high-speed imagination of the Tokaido Shinkansen. David Leitch of <i>John Wick</i> fame directs as Pitt’s reformed bagman finds a simple grab-and-go job going horribly off the rails. If anything, this film dares to ask: How much is <i>too</i> much movie?</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=C2D05566-F6C9-4002-9740-CD0360A696C8" target="_blank">here</a></u>.</b></p>
-        </div>
-
-        <div class="screening">
-          <h1>5:00PM Sunday, November 6th</h1>
-          <img src="/images/2022fall/the-gang-of-four-1988.jpeg" alt="THE GANG OF FOUR still">
-          <h2>The Gang of Four (1989)</h2>
-          <h3>Jacques Rivette &middot; 160min &middot; DCP</h3>
-          <p>Four young women are sharing a home and studying at a drama school run by a notoriously demanding grande dame. As they rehearse a play, one of the group mysteriously disappears, an enigmatic stranger arrives on the scene, and the lines between theater and “real life” become increasingly blurred. Gorgeously lensed by the great Caroline Champetier, <i>Gang of Four</i> is an engrossing exploration of Rivette’s classic themes and one of his most thoughtful works.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=DC0546AC-82E3-42D3-AFCF-E8B95810FF02" target="_blank">here</a></u>.</b></p>
+          <h1>5:00PM Sunday, November 13th</h1>
+          <img src="/images/2022fall/la-belle-noiseuse-1991.jpg" alt="LA BELLE NOISEUSE still">
+          <h2>La Belle Noiseuse (1991)</h2>
+          <h3>Jacques Rivette &middot; 238min &middot; DCP</h3>
+          <p>Rivette’s biggest box office hit and the most acclaimed film of his later career was this mesmerizing drama of artistic obsession. It stars an aging painter, his reluctant muse, and their struggle to finish a long-abandoned portrait. Jonathan Rosenbaum wrote, “rarely has Rivette’s use of duration to look at process been as spellbinding as it is here . . . Rivette’s superb sense of rhythm and mise en scene never falters, and the plot has plenty of twists.”</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=2FD8CC29-340F-461D-AE6C-AA204AE6AAF1" target="_blank">here</a></u>.</b></p>
         </div>
 
       </div>
