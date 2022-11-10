@@ -17,10 +17,8 @@
 
       <div class="information">
         <h1>Getting Involved</h1>
-        <p>Doc is exclusively run by volunteers who manage every aspect from programming to projecting. Get involved with Doc by programming a film series or by becoming a volunteer in one of the capacities outlined below.</p>
-        <br>
-        <p>If you're interested, please contact our Volunteer Chair at volunteer@docfilms.org.</p>
-        
+        <p>Doc is exclusively run by volunteers who manage every aspect from programming to projecting. Read on for information on how to program or how to get involved.</p>
+                
         <br><br>
 
         <h1>How to program a series</h1>
@@ -28,23 +26,22 @@
         <br>
         <p>As a general rule, films can only be shown once as part of a weekday series within a four year period. Every film series proposal must consist of nine titles in addition to three alternates should any of the other titles prove unavailable. Any film series proposal must include film distribution as well as an accurate cost estimate for renting and shipping.</p>
         <br>
-        <p>If you are interested in the programming at Doc, please subscribe to our programming mailing list <a href="">here</a>. Contact our Programming Chair at programming@docfilms.org if you have any questions.</p>
-        <br>
         <p>At our weekly programming meetings we discuss potential series for the next calendar. One need not be a Doc volunteer or affiliated with the University to take part in this dialogue, or to propose a series.</p>
         <br>   
         <p><b>Programming meeting times for Autumn 2022 are 5:30PM on Thursdays.</b></p>
+        <i><p>If you are interested in the programming at Doc, please subscribe to our programming mailing list <a href="https://lists.uchicago.edu/web/info/docprog" target="_blank"><u>here</u></a>. Contact our Programming Chair(s) at programming@docfilms.org if you have any questions.</p></i>
 
         <br><br>
 
         <h1>How to become a volunteer</h1>
         <p>Anyone can volunteer at Doc Films, though priority will be given to University of Chicago students. Volunteers are asked to commit to working one screening per week for the duration of the quarter in one of the capacities listed below. In exchange, each volunteer receives a pass that admits them and a guest to every Doc Films screening that quarter. We do not ask that volunteers spend much time at Doc, but it is very important that they respect whatever commitment they do make.</p>
         <br>
-        <p>Volunteer applications are sent out a few weeks before the beginning of every quarter. Contact our Volunteer Chair(s) at volunteer@docfilms.org for more information, or subscribe to our volunteering mailing list.</p>
-        <br>
-        <p>At our weekly volunteer meetings, board members report on and discuss their work managing Doc. All volunteers who want to get more involved or just want to learn more about how Doc is run are welcome and encouraged to attend. Volunteer meetings generally take place every Sunday at 4:30 pm in the cinema lobby.</p>
+        <p>At our weekly volunteer meetings, board members report on and discuss their work managing Doc. All volunteers who want to see what goes on behind the scenes are welcome and encouraged to attend.</p>
         <br>
         <p><b>General meeting times for Autumn 2022 are 2:00PM on Sundays.</b></p>
-        <br>
+        <i><p>Volunteer applications are sent out a few weeks before the beginning of every quarter. For updates, subscribe to our volunteering mailing list <a href="https://lists.uchicago.edu/web/info/docvol" target="_blank"><u>here</u></a>, or contact our Volunteer Chair(s) at volunteer@docfilms.org for more information.</p></i>
+        
+        <br><br>
 
         <h3>A short summary of roles:</h3>
         <p><u>Ticket sellers</u> are in charge of selling tickets before the movie. This is probably the easiest volunteer position and requires the smallest time commitment, about 45 minutes a week. Ticket sellers should be at Doc and ready to sell tickets at least thirty minutes before the beginning of the show, and are needed until 15 minutes after the show has begun.</p>
