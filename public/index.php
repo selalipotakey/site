@@ -102,77 +102,77 @@
         </div>
 
         <div class="screening">
-          <h1>7:00PM Monday, November 7th</h1>
-          <img src="/images/2022fall/intolerable-cruelty-2003.jpg" alt="Intolerable Cruelty still">
-          <h2>Intolerable Cruelty (2003)</h2>
-          <h3>Joel Coen & Ethan Coen &middot; 100min &middot; 35mm</h3>
-          <p>The Coen Brothers’ <i>Intolerable Cruelty</i> is one of the purest (and funniest) screwballs of the modern age. Elite divorce attorney Miles Massey (George Clooney) and serial divorcée Marilyn Rexroth (Catherine Zeta-Jones) match wits in this loopy, fast-paced tale of love and deception. With Roger Deakins' elegant cinematography and an endlessly hummable Carter Burwell score, <i>Intolerable Cruelty</i> stands out even amid the Coens’ remarkable filmography.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=8199BF27-FA77-4610-87FE-02FAA1D8E9FF" target="_blank">here</a></u></b>.</p>
+          <h1>7:00PM Monday, November 14th</h1>
+          <img src="/images/2022fall/the-philadelphia-story-1940.jpeg" alt="The Philadelphia Story still">
+          <h2>The Philadelphia Story (1940)</h2>
+          <h3>George Cukor &middot; 112m &middot; Digital*</h3>
+          <p>After a string of unsuccessful films labeled her “box office poison,” Katherine Hepburn developed <i>The Philadelphia Story</i> as a comeback vehicle and was vindicated with a critical and commercial hit. Hepburn plays Tracy Lord, a Philadelphia socialite whose upcoming second marriage is drawing national attention. Jimmy Stewart and Cary Grant co-star as a tabloid journalist and Tracy’s first husband, each of whose arrival complicates her wedding plans.</p>
+          <p><i>*Note: previously billed as 35mm, but now digital due to print condition.</i></p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=D78E4E2C-671B-42BE-BD85-3E6FF654A3F8" target="_blank">here</a></u></b>.</p>
         </div>
 
 
         <div class="screening">
-          <h1>7:00MPM Tuesday, November 8th</h1>
-          <img src="/images/2022fall/still-life-2006.jpg" alt="Still Life still">
-          <h2>Still Life (2006)</h2>
-          <h3>Jia Zhangke &middot; 111min &middot; 35mm</h3>
-          <p>Jia Zhangke’s first film to take home Venice’s Golden Lion is the diptych narrative of two strangers in search of their respective partners set against the background of the destruction of Yangtze River communities brought on by the Three Gorges Dam. Featuring Jia's cousin Han Sanming playing a fictionalized version of himself working as a coal miner in Shanxi, <i>Still Life</i> toes the line between a documentary and a social-realist drama.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=0F4DB5FD-BD1A-4E36-8253-8F2D7D48ACEF" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Tuesday, November 15th</h1>
+          <img src="/images/2022fall/bitter-money-2016.jpg" alt="Bitter Money still">
+          <h2>Bitter Money (2016)</h2>
+          <h3>Wang Bing &middot; 163m &middot; DCP</h3>
+          <p>Pivoting from the legacy of forced labor in Maoist China, Wang Bing’s gaze now shifts toward present-day Huzhou, to the hundreds of thousands of migrants working 12 hours a day in its textile industry. Unflinching in its portrayal of poverty and the inescapable routines of industrialization, <i>Bitter Money</i> refuses to play into pornographic depictions of suffering. Instead, it is an emphathetic lens into the modern conditions of working-class China.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=676E37E3-A533-4A0B-A9E1-8EF888198FAA" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div class="screening">
-          <h1>7:00PM Wednesday, November 9th</h1>
-          <img src="/images/2022fall/comrades-almost-a-love-story-1996.jpg" alt="Comrades: Almost a Love Story still">
-          <h2>Comrades: Almost a Love Story (1996)</h2>
-          <h3>Peter Chan &middot; 118m &middot; 35mm</h3>
-          <p>Criminally underseen in the West, <i>Comrades</i> is a trenchant and affecting document of Chinese diaspora disguised as a sweet romantic dramedy. Starkly different from her more iconic roles because of how conventional it is, Maggie Cheung here plays a snarky and street-smart city girl opposite Leon Lai’s dopey transplant as they navigate both a changing Hong Kong and their burgeoning feelings for each other, all set to the dulcet tones of Teresa Teng.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=BB35CEE6-58D0-4785-B507-63FBAD3EE971" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Wednesday, November 16th</h1>
+          <img src="/images/2022fall/hero-2002.jpg" alt="Hero still">
+          <h2>Hero (2002)</h2>
+          <h3>Yimou Zhang &middot; 99m &middot; DCP</h3>
+          <p>In one of her last roles before all but retiring from the screen, Maggie Cheung joins a stacked cast of Hong Kong’s most luminous stars—Jet Li, Zhang Ziyi, and frequent co-star Tony Leung—in Zhang Yimou’s balletic, billowing wuxia about the unification of China by Qin Shi Huang. Drenched in rich color and bursting with exquisitely choreographed action sequences, <i>Hero</i> may be the most beautiful piece of nationalist propaganda ever shot.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=6E59C0B4-5EA0-4057-824F-5C4A3DFCD304" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div class="screening">
-          <h1>7:00PM Thursday, November 10th</h1>
-          <img src="/images/2022fall/rosencrantz-and-guildenstern-are-dead-1990.jpg" alt="Rosencrantz and Guildenstern Are Dead still">
-          <h2>Rosencrantz and Guildenstern Are Dead (1990)</h2>
-          <h3>Tom Stoppard &middot; 117m &middot; Digital</h3>
-          <p>An absurdist riff on "Hamlet" that focuses on his childhood friends Rosencrantz and Guildenstern, played by Gary Oldman and Tim Roth respectively. In Shakespeare’s version, the two are conniving but ineffectual spies for Hamlet’s uncle Claudius. In this adaptation, they bumble in and out of the action of "Hamlet," mixing up their own names, flipping coins, digressing on the nature of theatre, being generally confused, and, of course, dying.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=D0D055CE-67EF-48EF-B8FD-35007A46D368" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Thursday, November 17th</h1>
+          <img src="/images/2022fall/strange-illusion-1945.jpg" alt="Strange Illusion still">
+          <h2>Strange Illusion (1945)</h2>
+          <h3>Edgar G. Ulmer &middot; 87m &middot; 35mm</h3>
+          <p>A noir retelling of "Hamlet" in Southern California, <i>Strange Illusion</i> is assuredly odd -- even for the seasoned cinephile. Expert cinematography brings the extended dream sequences to life, blanketing audiences in the eerie confusion of a black-and-white fever dream. Starring Jimmy Lydon, Sally Eilers, and Warren William (the so-called "King of Pre-Code"), <i>Strange Illusion</i> is yet another distinct classic in auteur director Edgar G. Ulmer's world. <u>Preserved by the Library of Congress</u>.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=2DCB2C3D-F6D2-4216-8971-D372317F25C6" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div class="screening">
-          <h1>9:30PM Thursday, November 10th</h1>
-          <img src="/images/2022fall/coraline-2009.jpg" alt="Coraline still">
-          <h2>Coraline (2009)</h2>
-          <h3>Henry Selick &middot; 100m &middot; DCP</h3>
-          <p>One of the most-well known stop-motion animation films of all time, <i>Coraline</i> follows the story of young Coraline Jones who moves to a new town with her parents. Neglected by her parents, she struggles to adjust to her new surroundings until she finds an alternate world that, though perfect, is not all it seems. With the help of a stray black cat, Coraline not only needs to find a way home, but to unravel the mysteries of this other world.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=91EB624E-64B5-450B-89FA-29CABA9AA099" target="_blank">here</a></u>.</b></p>
+          <h1>9:30PM Thursday, November 17th</h1>
+          <img src="/images/2022fall/night-is-short-walk-on-girl-2017.jpg" alt="The Night Is Short, Walk on Girl still">
+          <h2>The Night Is Short, Walk on Girl (2017)</h2>
+          <h3>Masaaki Yuasa &middot; 93m &middot; DCP</h3>
+          <p>With an utterly surrealist style of Japanese animation painting an unforgettable drunken night, <i>The Night is Short, Walk on Girl</i> follows two unnamed students at Kyoto University. While the girl is enjoying a night full of parties, drinking contests, and supernatural beings, the guy is determined to find a successful way to ask her out. But will he be able to as he fights back strange characters, exorbitant drinks, and the common cold?</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=C386E6A3-43D6-4F03-8133-667FD21AFB57" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div class="screening">
-          <h1><u>8:30PM</u> Friday, November 11th</h1>
-          <img src="/images/2022fall/the-funhouse-1981.jpeg" alt="The Funhouse still">
-          <h2>The Funhouse (1981)</h2>
-          <h3>Tobe Hooper &middot; 96m &middot; DCP</h3>
-          <p>A criminally underrated piece of horror from the master of slashers, Tobe Hooper, <i>The Funhouse</i> is the quintessential 1980s teen slasher flick. When four Iowa teens take a trip to a rundown travelling carnival, they never expected to meet their end at the hands of a grusome serial killer. What begins as a night of pot-smoking, strip-teasing, and general crass '80s humor takes a turn for the worse when the true nature of the funhouse is revealed...</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=11F855C0-4CAE-4BB2-83D6-4374D6FD6B08" target="_blank">here</a></u>.</b></p>
-        </div>
-
-        <div class="screening" id="long-days-journey-into-night" style="scroll-margin-top: var(--header-height);">
-          <h1>7:00PM <u>Saturday</u>, November 12th</h1>
-          <img src="/images/2022fall/long-days-journey-into-night-2018.jpg" alt="Long Day's Journey Into Night still">
-          <h2>Long Day's Journey Into Night (2018) — at the Logan Center 201 in 3D!</h2>
-          <h3>Bi Gan &middot; 138m &middot; 3D DCP</h3>
-          <p>Despite the English-language title taking its name from the play by Eugene O’Neill, <i>Long Day’s Journey Into Night</i> is a work wholly its own. A dreamy vision of nocturnal Kaili, Bi Gan’s 2018 feature follows the wayward Luo in search of an elusive former lover. While narratively minimalist, the film’s rich style, which includes a mind-bending unbroken hour-long final shot, is some of the best visual storytelling contemporary Chinese film has to offer.</p>
-          <p><i>Co-sponsored by the <u><a href="https://filmstudiescenter.uchicago.edu/" target="_blank">Film Studies Center</a></u>!</i></p>
-          <p><b>Tickets can be bought <u><a href=" https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=DFE9B0DA-E494-41F8-A53A-B9C49BADAD4B" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Friday, November 18th</h1>
+          <img src="/images/2022fall/enter-the-void-2009.jpeg" alt="Enter the Void still">
+          <h2>Enter the Void (2009)</h2>
+          <h3>Gaspar Noé &middot; 143m &middot; 35mm</h3>
+          <p><i>Enter the Void</i> is Gaspar Noé's psychedelic afterlife movie from hell—a movie you should keep away from the children, the parents, and the dog. Shot entirely from the point of view of Oscar (Nathaniel Brown), an American drug dealer killed by Tokyo police in a drug bust, the film follows Oscar's soul as it journeys through past, present, and future seeking resurrection. An extreme, exhilarating movie, it's guaranteed to leave beads of sweat on your brow.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=EF88A4C0-1C23-4EE0-B5DA-35AC2537A5A0" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div class="screening">
-          <h1>5:00PM Sunday, November 13th</h1>
-          <img src="/images/2022fall/la-belle-noiseuse-1991.jpg" alt="LA BELLE NOISEUSE still">
-          <h2>La Belle Noiseuse (1991)</h2>
-          <h3>Jacques Rivette &middot; 238min &middot; DCP</h3>
-          <p>Rivette’s biggest box office hit and the most acclaimed film of his later career was this mesmerizing drama of artistic obsession. It stars an aging painter, his reluctant muse, and their struggle to finish a long-abandoned portrait. Jonathan Rosenbaum wrote, “rarely has Rivette’s use of duration to look at process been as spellbinding as it is here . . . Rivette’s superb sense of rhythm and mise en scene never falters, and the plot has plenty of twists.”</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=2FD8CC29-340F-461D-AE6C-AA204AE6AAF1" target="_blank">here</a></u>.</b></p>
+          <h1>7:00 Saturday, November 19th</h1>
+          <img src="/images/2022fall/rrr-2022.jpg" alt="RRR still">
+          <h2>RRR (2022)</h2>
+          <h3>S. S. Rajamouli &middot; 181m &middot; DCP</h3>
+          <p><i>RRR</i> is an exhilarating, action-packed spectacular mythologizing two real-life freedom fighters who helped lead India’s fight for independence from the British Raj: village guardian Komaram Bheem and Alluri Sitarama Raju, an ambitious Imperial officer. Set in the 1920s before their fight for India’s independence began, <i>RRR</i> imagines a fictional meeting between them, set into motion when a young Gond girl is stolen from her village by British soldiers. </p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=5BD37CB6-9E8F-4997-84E2-52B3835F480E" target="_blank">here</a></u>.</b></p>
+        </div>
+
+        <div class="screening">
+          <h1>5:00PM Sunday, November 20th</h1>
+          <img src="/images/2022fall/joan-the-maid-the-battles-1994.jpg" alt="JOAN THE MAID: THE BATTLES still">
+          <h2>Joan the Maid: The Battles (1994)</h2>
+          <h3>Jacques Rivette &middot; 160m &middot; DCP</h3>
+          <p>Countless films have been about Joan of Arc, but as critic Jonathan Rosenbaum noted, Rivette’s rigorously materialist version is “perhaps the only movie that offers a plausible portrait of what the 15th-century teenager who led the French into battle was actually like." In part one of this epic, young Joan (an extraordinary Sandrine Bonnaire) leaves her childhood home and persuades Charles VII to allow her to lead his troops in the war against the English.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=5AC926DC-9713-4662-B367-CF12BF89A3D3" target="_blank">here</a></u>.</b></p>
         </div>
 
       </div>

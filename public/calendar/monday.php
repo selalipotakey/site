@@ -88,8 +88,9 @@
           <h1>7:00PM Monday, November 14th</h1>
           <img src="/images/2022fall/the-philadelphia-story-1940.jpeg" alt="The Philadelphia Story still">
           <h2>The Philadelphia Story (1940)</h2>
-          <h3>George Cukor &middot; 112m &middot; 35mm</h3>
+          <h3>George Cukor &middot; 112m &middot; Digital*</h3>
           <p>After a string of unsuccessful films labeled her “box office poison,” Katherine Hepburn developed <i>The Philadelphia Story</i> as a comeback vehicle and was vindicated with a critical and commercial hit. Hepburn plays Tracy Lord, a Philadelphia socialite whose upcoming second marriage is drawing national attention. Jimmy Stewart and Cary Grant co-star as a tabloid journalist and Tracy’s first husband, each of whose arrival complicates her wedding plans.</p>
+          <p><i>*Note: previously billed as 35mm, but now digital due to print condition.</i></p>
           <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=D78E4E2C-671B-42BE-BD85-3E6FF654A3F8" target="_blank">here</a></u></b>.</p>
         </div>
 
