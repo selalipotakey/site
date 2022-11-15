@@ -125,8 +125,9 @@
           <h1>7:00PM Wednesday, November 16th</h1>
           <img src="/images/2022fall/hero-2002.jpg" alt="Hero still">
           <h2>Hero (2002)</h2>
-          <h3>Yimou Zhang &middot; 99m &middot; DCP</h3>
+          <h3>Yimou Zhang &middot; 99m &middot; Digital*</h3>
           <p>In one of her last roles before all but retiring from the screen, Maggie Cheung joins a stacked cast of Hong Kong’s most luminous stars—Jet Li, Zhang Ziyi, and frequent co-star Tony Leung—in Zhang Yimou’s balletic, billowing wuxia about the unification of China by Qin Shi Huang. Drenched in rich color and bursting with exquisitely choreographed action sequences, <i>Hero</i> may be the most beautiful piece of nationalist propaganda ever shot.</p>
+          <p><i>*Note: previously billed as DCP, but now digital.</i></p>
           <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=6E59C0B4-5EA0-4057-824F-5C4A3DFCD304" target="_blank">here</a></u>.</b></p>
         </div>
 
