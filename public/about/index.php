@@ -72,7 +72,7 @@
         <p class="board">shipping@docfilms.org</p>
         <br>
         <p class="board"><b>Finance Chair</b></p>
-        <p class="board"><b></b></p>
+        <p class="board">Rocco Fantini</p>
         <p class="board">finance@docfilms.org</p>
         <br>
         <p class="board"><b>Publicity Chairs</b></p>
@@ -88,7 +88,7 @@
         <p class="board">web@docfilms.org</p>
         <br>
         <p class="board"><b>Librarian</b></p>
-        <p class="board"></p>
+        <p class="board">Honor Torrance</p>
         <p class="board">librarian@docfilms.org</p>
 
         
