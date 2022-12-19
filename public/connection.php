@@ -1,6 +1,6 @@
 <?php
 
-require_once($_SERVER['DOCUMENT_ROOT'] . '/../database/dbcreds.php');
+require_once($_SERVER['DOCUMENT_ROOT'] . '../database/dbcreds.php');
 
 $link = mysqli_connect($db, $server, $user, $pass);
 
