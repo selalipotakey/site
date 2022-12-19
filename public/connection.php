@@ -1,15 +1,15 @@
 <?php
+echo 'hello'
+// require_once($_SERVER['DOCUMENT_ROOT'] . '../database/dbcreds.php');
 
-require_once($_SERVER['DOCUMENT_ROOT'] . '../database/dbcreds.php');
+// $link = mysqli_connect($_ENV['DB_SERVER'], $_ENV['DB_USER'], $_ENV['DB_PASS'], $_ENV['DB']);
 
-$link = mysqli_connect($_ENV['DB_SERVER'], $_ENV['DB_USER'], $_ENV['DB_PASS'], $_ENV['DB']);
+// if (mysqli_connect_errno()) {
+//    die("Connect failed: %s\n" + mysqli_connect_error());
+//    exit();
+// }
 
-if (mysqli_connect_errno()) {
-   die("Connect failed: %s\n" + mysqli_connect_error());
-   exit();
-}
-
-ini_set('display_errors', 1);
-ini_set('display_startup_errors', 1);
-error_reporting(E_ALL);
+// ini_set('display_errors', 1);
+// ini_set('display_startup_errors', 1);
+// error_reporting(E_ALL);
 ?>
