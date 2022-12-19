@@ -1,5 +1,5 @@
 <?php
-echo 'hello'
+echo 'hello';
 require_once $_SERVER['DOCUMENT_ROOT'] . '../database/dbcreds.php';
 
 // $link = mysqli_connect($_ENV['DB_SERVER'], $_ENV['DB_USER'], $_ENV['DB_PASS'], $_ENV['DB']);
