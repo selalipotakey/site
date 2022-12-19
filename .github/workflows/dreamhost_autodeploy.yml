@@ -28,4 +28,9 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2.4.2
       - name: Deploy with rsync
+        # rsync: basically git for unix before git was a thing?
+        # rsync pushes ${{ github.workspace }} (the entire repo) 
+        # to ${{ secrets.DREAMHOST_SSH_USER }}@{{ secrets.DREAMHOST_SSH_HOST }}:~/ (the home directory on the dreamhost server)
+        # -avz is a flag that basically compresses the files
+        # --delete-during is a flag that deletes all files at the destination (the server) that aren't in the source (the repo)
         run: rsync -avz --delete-during ${{ github.workspace }} ${{ secrets.DREAMHOST_SSH_USER }}@${{ secrets.DREAMHOST_SSH_HOST }}:~/
