@@ -1,6 +1,6 @@
 <?php
 
-require_once "/home/docfilmsgroup/database/connection.php";
+require_once($_SERVER['DOCUMENT_ROOT'] . '/../database/dbcreds.php');
 
 $link = mysqli_connect($db, $server, $user, $pass);
 
