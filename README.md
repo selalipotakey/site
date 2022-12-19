@@ -16,7 +16,11 @@ This is the root directory `/` of the website, so all files outside of this dire
 
 This directory contains all the relevant files for insertion of new entries into the database. It contains capsule spreadsheets, python code to render those capsule spreadsheets insertable, and code to insert into the database.
 
+## How the repo works:
 
+### Github Actions
+
+The Doc repo includes a Github action that pushes all changes in the repo to the remote server. Basically, upon any push or pull request to the repo, a script runs on one of Github's virtual machines that sends an `rsync` command to the Doc remote server. This `rsync` command attempts to push the entire repo hosted on Github to the corresponding repo instance on the Doc server. The `rsync` command also checks for any files that are on the Doc server's instance of the repo that aren't in the Github repo, and deletes those. This way, a push from a web chair's machine to the Github will automatically trigger the Action which causes the Doc server to receive any changes.  
 
 ## How to set up the Doc Films repo on your local machine:
 pre-reqs:
