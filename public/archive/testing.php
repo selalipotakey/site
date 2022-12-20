@@ -18,13 +18,13 @@
       <?php require_once $_SERVER['DOCUMENT_ROOT'] . '/connection.php'; ?>
 
       <?php 
-        $sql_query_films = 'SELECT `title` FROM `films`;';
+        $sql_query_films = 'SELECT * FROM `films`;';
         $result_films = mysqli_query($conn, $sql_query_films);
         $result_films_num_rows = mysqli_num_rows($result_films);
 
         if ($result_films_num_rows > 0) {
             while ($row = mysqli_fetch_assoc($result_films)) {
-                echo $row['`title`'] . '<br>';
+                echo $row['title'] . '<br>';
             }
         }
       ?>
