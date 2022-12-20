@@ -24,7 +24,7 @@
 
         if ($result_films_num_rows > 0) {
             while ($row = mysqli_fetch_assoc($result_films)) {
-                echo $row['title'] . '<br>';
+                echo $row['`title`'] . '<br>';
             }
         }
       ?>
