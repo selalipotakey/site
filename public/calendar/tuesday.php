@@ -9,119 +9,113 @@
 
   <body>
     
-    <?php include "../includes/header.html" ?>
+    <?php include $_SERVER['DOCUMENT_ROOT'] . "/includes/header.html" ?>
   
     <main>
 
-      <?php include "../includes/dropdown.html" ?>
+      <?php include $_SERVER['DOCUMENT_ROOT'] . "/includes/dropdown.html" ?>
 
       <div class="screenings-list">
 
         <div class="text-section">
-          <h1>TUESDAY: After the 5th: China and the 21st Century</h1>
-          <h3>Programmed by Addison Wood</h3>
-          
-          <p>This series was destined to fail from the beginning; a task as Herculean as surveying the cinema of China in the 21st century is, frankly, insurmountable. With “After the 5th,” I wanted to lean into this inevitability, to find a way of demonstrating the idiosyncrasies of contemporary Chinese filmmaking rather than reaching for a broad-stroke overview.</p>  
- 
-          <p>Each film in my series holds unique ground within the modern landscape of Chinese culture. Films like <i>Black Coal, Thin Ice</i>, <i>Still Life</i>, and <i>Long Day’s Journey Into Night</i> represent the continuity of arthouse practices of the fifth generation filmmakers, whereas <i>Wolf Warrior 2</i> and <i>House of Flying Daggers</i> demonstrate the viability of mass-marketed commercial filmmaking. While the epic has largely been relegated to superhero franchises and a handful of ultra-popular Netflix-funded directors in the US, China has continued to produce massive works of propaganda and historical epics at an astounding rate. And yet 21st century Chinese film skews our understanding of more “Western” genres such as the indie coming-of-age dramedy (<i>Girls Always Happy</i>) and modern, social documentary (<i>Bitter Money</i>). But Chinese entertainment does not exist in a vacuum; with <i>Up the Yangtze</i> and especially <i>Dead Pigs</i>, we get a glimpse into the way North American and Chinese filmmaking cultures have only just begun to interact with one another.</p>
-        </div>
+          <h1>TUESDAY - Asian American Media</h1>
+          <h3>Programmed by: Carson Wang and Tien-Tien Jong</h3>
 
+            <p>The films and videos in this series forged the first cohesive movement of Asian American media, yet their obscurity belies their historical significance, the movement's radical leftist ethos, and its calls for social justice and solidarity between all colonized peoples. Asian Americans were active in the Black Panther Party, formed part of Fred Hampton’s Rainbow Coalition, and joined with Black and Brown comrades in the 1968 Third World Liberation Front (TWLF). Asian American media was born out of this radicalism, with the first film collective, Visual Communications (VC), founded in the aftermath of the TWLF. This collectivized, anti-capitalist community cinema grew into the National Asian American Telecommunications Association (NAATA), which experimented with film form to provoke social change and maximize solidarity. This series surveys decades of VC and NAATA media and calls for a revival of their radical spirit.</p>
+
+            <p>Most of the films follow what Loni Ding called an "anti-slick" approach, rejecting both Hollywood classicism and art film auteurist modernism for a humble, subjective style in-between fiction and non-fiction. At the same time, this series argues against nostalgically idealizing a dead movement. Several entries act as critical interventions, with sharp stylistic and ideological departures from the main body of films, exposing failures such as the exclusion of Muslim and queer voices, and a dependence on and deference to the settler-colonial state. Beyond problematizing Asian American media, the persistence of an oppositional stance within this series shows that radical Asian American media continues beyond its original institutional boundaries.</p>
+            
+            <p><b>Co-sponsored by the Center for East Asian Studies (CEAS).</b></p>
+        </div>
+        
         <div class="screening">
-          <h1>7:00PM Tuesday, September 27th</h1>
-          <img src="/images/2022fall/black-coal-thin-ice-2014.jpg" alt="Black Coal, Thin Ice still">
-          <h2>Black Coal, Thin Ice (2014)</h2>
-          <h3>Diao Yinan &middot; 110m &middot; Digital</h3>
-          <p>Stomach-turning, erotic, isolating, and comic, all in equal measure. <i>Black Coal, Thin Ice</i> centers Zhang, a drunken former police officer, trapped in a game of cat-and-mouse after attempting to hunt down a serial killer who has dismembered and scattered bodies across Heilongjiang’s industrial landscape. What results is a masterful whodunit that melds neo-noir genre fare with biting social commentary. NOTE: Uncensored, international version.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=D8138BBA-0699-4ECA-A2DA-A74576AE0D2C" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Tuesday, January 3rd</h1>
+          <img src="/images/2023winter/the-chinese-exclusion-act-2018.png" alt="Ancestors in the Americas, Part 1 (2001) // The Chinese Exclusion Act (2017) still">
+          <h2>Ancestors in the Americas, Part 1 (2001) // The Chinese Exclusion Act (2017)</h2>
+          <h3>Loni Ding // Ric Burns and Li-Shin Yu &middot; 62m // 162m &middot; Digital</h3>
+          <p>Loni Ding, founder of what is now known as the Center for Asian American Media (CAAM), is a critical figure in Asian American media history. <i>Ancestors in the Americas</i>, her final film, is an epic of revisionist history that blends fiction and non-fiction. 35 years after its founding, CAAM shows its commitment to countermemory with <i>The Chinese Exclusion Act</i>, a portrait of the seldom-remembered Chinese Americans who redefined what it means to be American.</p>
+          <p><i>Free screening! </i>The Chinese Exclusion Act<i> courtesy of CAAM. Sponsored by CEAS.</i></p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=C655CCA6-48B8-4179-BA03-FCFE6DAA754F" target="_blank">here</a></u>.</b></p>
         </div>
-
+        
         <div class="screening">
-          <h1>7:00PM Tuesday, October 4th</h1>
-          <img src="/images/2022fall/wolf-warrior-2-2017.jpg" alt="Wolf Warrior 2 still">
-          <h2>Wolf Warrior 2 (2017)</h2>
-          <h3>Wu Jing &middot; 123m &middot; DCP</h3>
-          <p><i>Wolf Warrior 2</i> is the ultimate spectacle of Chinese propaganda filmmaking; yet it remains an enigma in the American cultural zeitgeist, despite standing as the highest-grossing non-English language film of all time for nearly four years, raking in the equivalent of $874 million. It’s the story of heroic Chinese military involvement in an unnamed African nation, but it's also a look at what the Chinese military apparatus sees as its future in geopolitics.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=95469340-FBBC-4011-8AA5-DCAB07DC91B7" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Tuesday, January 10th</h1>
+          <img src="/images/2023winter/history-and-memory-1991.png" alt="History and Memory: For Akiko and Takashige (1991) // Fresh Kill (1994) still">
+          <h2>History and Memory: For Akiko and Takashige (1991) // Fresh Kill (1994)</h2>
+          <h3>Rea Tajiri // Shu Lea Cheang &middot; 32m // 80m &middot; DCP</h3>
+          <p>These videos adopt poststructuralist doubts about objective truth, but end up with divergent results. <i>History and Memory</i> layers materials from both found and reconstructed sources to examine Japanese internment and its aftermath on a family. <i>Fresh Kill</i> is a bewilderingly fun "eco cyber noia": there's a South Asian lesbian who lives in garbage, a Chinese hacker and chef who serves radioactive sushi, and a Black "satellite dishwasher" raving about birds.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=5744C407-F8C7-4617-AE3F-9123AAACF50C" target="_blank">here</a></u>.</b></p>
         </div>
-
+        
         <div class="screening">
-          <h1>7:00PM Tuesday, October 11th</h1>
-          <img src="/images/2022fall/city-of-life-and-death-2009.jpg" alt="City of Life and Death still">
-          <h2>City of Life and Death (2009)</h2>
-          <h3>Lu Chuan &middot; 133m &middot; 35mm</h3>
-          <p>Both a maximalist war epic and a harrowing look at the effects of genocide and mass violence, <i>City of Life and Death</i> recounts the Nanking Massacre with a stark realism that refuses to pull any punches. Shot in crisp black and white, the film evokes the horrific images of war-torn China seared into the world’s collective consciousness. It is a beautiful tapestry and shocking testament to the unlimited cruelty men are capable of inflicting upon others.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=72F6250A-138A-4ABC-939C-C6311DEEC231" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Tuesday, January 17th</h1>
+          <img src="/images/2023winter/chan-is-missing-1982.jpg" alt="Chan Is Missing (1982) still">
+          <h2>Chan Is Missing (1982)</h2>
+          <h3>Wayne Wang &middot; 76m &middot; DCP</h3>
+          <p>"<i>Chan is Missing</i> announced that Asian Americans could be artists," remembers scholar Peter Feng. An audacious mix of noir and documentary, it follows a manhunt for Chan Hung, who becomes a stand-in for Chinese American identity itself, as no one can agree who he is, or was. Chan is never found: to be Asian American is not to inhabit a single preexisting identity, but to negotiate a new, unstable one, forging solidarities where they didn't exist before.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=6774F813-F024-4B70-8D38-9DCADB4D5FEC" target="_blank">here</a></u>.</b></p>
         </div>
-
+        
         <div class="screening">
-          <h1>7:00PM Tuesday, October 18th</h1>
-          <img src="/images/2022fall/dead-pigs-2018.jpg" alt="Dead Pigs still">
-          <h2>Dead Pigs (2018)</h2>
-          <h3>Cathy Yan &middot; 130min &middot; DCP</h3>
-          <p>After last week’s screening, we need a little levity. Based on an actual incident involving 16,000 dead pigs, Cathy Yan’s (<i>Succession</i>, <i>Birds of Prey</i>) directorial debut is a kaleidoscopic tale of Shanghai in an era of breakneck development and increasing Western influence. Featuring a mix of Mandarin, English, and Shanghainese, <i>Dead Pigs</i> is a darkly hilarious social satire of humanity’s inability to find peace in an ever-changing world.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=76ECF22D-5462-4BDA-B2B4-BD18DD32B283" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Tuesday, January 24th</h1>
+          <img src="/images/2023winter/surname-viet-given-name-nam-1989.jpg" alt="Surname Viet Given Name Nam (1989) still">
+          <h2>Surname Viet Given Name Nam (1989)</h2>
+          <h3>Trinh T. Minh-ha &middot; 108m &middot; DCP</h3>
+          <p>An ambitious deconstruction of language, translation, and concepts of national and personal identity, this documentary features a collage of Vietnamese women’s voices, challenging the form and politics of traditional filmed ethnography. Weaving testimony with performance, and complex strategies of distanciation with self-conscious representation, <i>Surname</i> expresses “the impossibility of a single truth in witnessing, remembering, recording, forgetting.”</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=3E90AB31-3F41-4B1B-BE52-FE43BE228489" target="_blank">here</a></u>.</b></p>
         </div>
-
+        
         <div class="screening">
-          <h1>7:00MPM Tuesday, October 25th</h1>
-          <img src="/images/2022fall/girls-always-happy-2018.jpg" alt="Girls Always Happy still">
-          <h2>Girls Always Happy (2018)</h2>
-          <h3>Yang Mingming &middot; 116min &middot; Digital</h3>
-          <p>Yang Mingming's <i>Girls Always Happy</i> is a revelation in 21st century Chinese cinema. Blending comedy and drama in equal measure and featuring a toxic familial relationship that rivals the chaos of <i>Ladybird</i> and early Xavier Dolan, simultaneous writer/actor/director Yang Mingming's debut is a criminally underrated glimpse at a particularly fucked up Beijing duo of a mid-twenties daughter living with her mother in a cramped house.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=63509644-5A14-4713-A2D6-B743898D53A2" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Tuesday, January 31st</h1>
+          <img src="/images/2023winter/free-chol-soo-lee-2022.jpg" alt="Fall of the I-Hotel (1983) // Free Chol Soo Lee (2022) still">
+          <h2>Fall of the I-Hotel (1983) // Free Chol Soo Lee (2022)</h2>
+          <h3>Curtis Choy // Julie Ha and Eugene Yi &middot; 58m // 83m &middot; Digital // DCP</h3>
+          <p>We fight back! A pair of flashpoints for Asian American activism are portrayed in this double-feature: the first about the eviction of Filipino residents of the I-Hotel SRO, provoking one of history's most vigorous anti-gentrification organizing efforts; the second on the false imprisonment of Chol Soo Lee, which ignited a pan-Asian movement to free him. Both films see diverse communities drawn together in the shared experience of oppression.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=26AA6A69-DC62-49BB-96E9-F5B5ACA7FDE3" target="_blank">here</a></u>.</b></p>
         </div>
-
+        
         <div class="screening">
-          <h1>7:00PM Tuesday, November 1st</h1>
-          <img src="/images/2022fall/house-of-flying-daggers-2004.jpeg" alt="House of Flying Daggers still">
-          <h2>House of Flying Daggers (2004)</h2>
-          <h3>Zhang Yimou &middot; 119min &middot; 35mm</h3>
-          <p>Zhang Yimou’s Oscar-nominated follow-up to 2002’s <i>Hero</i> is the spellbinding history of a doomed love-triangle set in the final years of the Tang Dynasty. Steeped in literary romantic tradition, while simultaneously paying homage to the legacy of wuxia filmmaking’s golden age, <i>House of Flying Daggers</i> is a staggeringly gorgeous work of martial arts crafted chaos that only the mind of Zhang Yimou, a true master of the medium, could create.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=FD7F390E-AD7B-4E8E-BAF9-40C87B86FFE6" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Tuesday, February 7th</h1>
+          <img src="/images/2023winter/sa-i-gu-1993.png" alt="Sa-I-Gu (1993) // Bontoc Eulogy (1995) still">
+          <h2>Sa-I-Gu (1993) // Bontoc Eulogy (1995)</h2>
+          <h3>Dai Sil Kim-Gibson and Christine Choy // Marlon Fuentes &middot; 41m // 56m &middot; Digital</h3>
+          <p>Tonight, the personal and the political collide in a revolt against the dominant narrative; countermemories from victims of trauma are presented which refuse victimization. <i>Sa-I-Gu</i> portrays the Korean-American women who fought against the brutality of the police after the LA Uprising; <i>Bontoc Eulogy</i> mixes fact, fiction, and performance as the filmmaker interrogates the archival record of his grandfather's exploitation as a human exhibit.</p>
+          <p><i>Free screening! </i>Sa-I-Gu<i> courtesy of CAAM. Sponsored by CEAS.</i></p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=70F58CB3-40E3-4ECD-8FED-B7C5FC7A42E2" target="_blank">here</a></u>.</b></p>
         </div>
-
+        
         <div class="screening">
-          <h1>7:00MPM Tuesday, November 8th</h1>
-          <img src="/images/2022fall/still-life-2006.jpg" alt="Still Life still">
-          <h2>Still Life (2006)</h2>
-          <h3>Jia Zhangke &middot; 111min &middot; 35mm</h3>
-          <p>Jia Zhangke’s first film to take home Venice’s Golden Lion is the diptych narrative of two strangers in search of their respective partners set against the background of the destruction of Yangtze River communities brought on by the Three Gorges Dam. Featuring Jia's cousin Han Sanming playing a fictionalized version of himself working as a coal miner in Shanxi, <i>Still Life</i> toes the line between a documentary and a social-realist drama.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=0F4DB5FD-BD1A-4E36-8253-8F2D7D48ACEF" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Tuesday, February 14th</h1>
+          <img src="/images/2023winter/forbidden-city-usa-1989.jpg" alt="Forbidden City, U.S.A. (1989) // I Remember Dancing (2019) still">
+          <h2>Forbidden City, U.S.A. (1989) // I Remember Dancing (2019)</h2>
+          <h3>Arthur Dong // Nguiyen Tan Hoang &middot; 56m // 5m &middot; DCP // Digital</h3>
+          <p>Rebelling against the model minority myth, <i>Forbidden City, U.S.A.</i> shows generations of Asian Americans clubbing instead of studying, and features delicious archival discoveries like performances by the "Chinese Frank Sinatra." <i>I Remember Dancing</i> adds to the sense of liberation, with images of gaysians erotically recounting their unrepressed sex, emphasizing the value in opposing stereotypes without privileging just masculinity or heterosexuality.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=83F70A8F-F487-43E5-9DDA-FDF664FF487B" target="_blank">here</a></u>.</b></p>
         </div>
-
-        <div class="screening" id="long-days-journey-into-night" style="scroll-margin-top: var(--header-height);">
-          <h1>7:00PM <u>Saturday</u>, November 12th</h1>
-          <img src="/images/2022fall/long-days-journey-into-night-2018.jpg" alt="Long Day's Journey Into Night still">
-          <h2>Long Day's Journey Into Night (2018) — at the Logan Center 201 in 3D!</h2>
-          <h3>Bi Gan &middot; 138m &middot; 3D DCP</h3>
-          <p>Despite the English-language title taking its name from the play by Eugene O’Neill, <i>Long Day’s Journey Into Night</i> is a work wholly its own. A dreamy vision of nocturnal Kaili, Bi Gan’s 2018 feature follows the wayward Luo in search of an elusive former lover. While narratively minimalist, the film’s rich style, which includes a mind-bending unbroken hour-long final shot, is some of the best visual storytelling contemporary Chinese film has to offer.</p>
-          <p><i>Co-sponsored by the <u><a href="https://filmstudiescenter.uchicago.edu/" target="_blank">Film Studies Center</a></u>!</i></p>
-          <p><b>Tickets can be bought <u><a href=" https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=DFE9B0DA-E494-41F8-A53A-B9C49BADAD4B" target="_blank">here</a></u>.</b></p>
-        </div>
-
+        
         <div class="screening">
-          <h1>7:00PM Tuesday, November 15th</h1>
-          <img src="/images/2022fall/bitter-money-2016.jpg" alt="Bitter Money still">
-          <h2>Bitter Money (2016)</h2>
-          <h3>Wang Bing &middot; 163m &middot; DCP</h3>
-          <p>Pivoting from the legacy of forced labor in Maoist China, Wang Bing’s gaze now shifts toward present-day Huzhou, to the hundreds of thousands of migrants working 12 hours a day in its textile industry. Unflinching in its portrayal of poverty and the inescapable routines of industrialization, <i>Bitter Money</i> refuses to play into pornographic depictions of suffering. Instead, it is an emphathetic lens into the modern conditions of working-class China.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=676E37E3-A533-4A0B-A9E1-8EF888198FAA" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Tuesday, February 21st</h1>
+          <img src="/images/2023winter/pieces-of-a-dream-1974.png" alt="Pieces of a Dream (1974) // Cruisin’ J-Town (1975) // Wataridori: Birds of Passage (1976) still">
+          <h2>Pieces of a Dream (1974) // Cruisin’ J-Town (1975) // Wataridori: Birds of Passage (1976)</h2>
+          <h3>Eddie Wong // Duane Kubo // Robert A. Nakamura &middot; 30m // 24m // 37m &middot; DCP</h3>
+          <p>In 1968, the Third World Liberation Front demanded the decolonizing of academia, leading a group of Asian American artists to form the media collective and nonprofit Visual Communications. VC worked in a mode of anticapitalist community cinema, sharing collectivized authorship with their subjects. Tonight's films exemplify VC's unassuming yet passionate style, from the struggles of early immigrants to the polycultural fusion embraced by newer generations.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=A65C8FA0-48EF-4BA2-825C-D82DE4062BCB" target="_blank">here</a></u>.</b></p>
         </div>
-
+        
         <div class="screening">
-          <h1>7:00PM Tuesday, November 29th</h1>
-          <img src="/images/2022fall/up-the-yangtze-2007.jpg" alt="Up the Yangtze still">
-          <h2>Up the Yangtze (2007)</h2>
-          <h3>Yung Chang &middot; 93m &middot; 35mm</h3>
-          <p>A quietly angry depiction of rural China’s shift towards a tourism-based consumer economy, <i>Up the Yangtze</i> serves as a stark reminder of North American complicity in the struggle of everyday Chinese citizens. Centered around a riverboat cruise ship catered towards English-speaking tourists, Yung Chang’s 2007 feature debut maintains a melancholic optimism for the lives of two ordinary people coming to terms with their place in a new China.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=A507A5B2-8E11-4785-B107-574C56975784" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Tuesday, February 28th</h1>
+          <img src="/images/2023winter/terminal-usa-1994.jpg" alt="The Distance from Here (2010) // Terminal USA (1994) still">
+          <h2>The Distance from Here (2010) // Terminal USA (1994)</h2>
+          <h3>Bani Abidi // Jon Moritsugu &middot; 12m // 54m &middot; DCP // 16mm</h3>
+          <p>From embassy waiting rooms to public-access TV, our series concludes with two interventions to the main program, to remind us of all the representations still lacking, and to avoid the construction of grand narratives in the act of programming itself. Abidi’s video is a window into Islamabad visa waiting rooms, while Moritsugu’s anarchic punk vision of a dysfunctional Japanese-American family sitcom is both merry mockery and vital, delightful outsider art.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=6A10362C-CA62-46BC-96FF-668BD7F586AF" target="_blank">here</a></u>.</b></p>
         </div>
-
+        
       </div>
       
     </main>
     
-    <?php include "../includes/footer.html" ?>
+    <?php include $_SERVER['DOCUMENT_ROOT'] . "/includes/footer.html" ?>
     <script src="/js/resize-menu.js"></script>
 
   </body>

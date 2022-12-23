@@ -9,103 +9,111 @@
 
   <body>
     
-    <?php include "../includes/header.html" ?>
+    <?php include $_SERVER['DOCUMENT_ROOT'] . "/includes/header.html" ?>
   
     <main>
 
-      <?php include "../includes/dropdown.html" ?>
+      <?php include $_SERVER['DOCUMENT_ROOT'] . "/includes/dropdown.html" ?>
 
       <div class="screenings-list">
 
         <div class="text-section">
-          <h1>FRIDAY: Programmers' Picks</h1>
-          <h3>Programmed by Addison Wood, Ian Resnick, and Hannah Halpern</h3>
-             
-          <p>
-          You walk through the dreary streets of Hyde Park, pursued by a winter quickly approaching. The mist coats your face with an inescapable dampness, and you wonder to yourself where refuge might lie. Suddenly, a great light slices open the near impenetrable haze, and Ida Noyes Hall stands erect before you. The doors lurch and creak as you pry them open. The hinges feel as though they might rip from the wall. You have escaped for now. Exhaustion having overtaken you, there is no point in resisting: your quarter pass is emerging from your wallet.</p>  
-          
-          <p>But what’s this? It’s Friday. Oh God, anything but Friday! You cannot possibly bear the chilling terror of the programmers’ picks. Ghoulish tales of vampirism, stalkers, a sunken place, cannibalism, and incestuous Greek families (we admit that last one isn’t really that scary but look programming a series can be hard and maybe that’s like a thing for some of y’all).</p>
-             
-          <p>You’re trapped in the confines of the Max Palevsky Cinema. Never before have you seen such horrific sights on celluloid! But there is no escape. You are doomed for the next nine weeks to bear witness to the deepest horrors ever put to film...</p>
-        </div>
+          <h1>FRIDAY - Philip Seymour Hoffman: A Retrospective</h1>
+          <h3>Programmed by: Rocco Fantini</h3>
 
+            <p><i>“I didn’t go out looking for negative characters: I went out looking for people who have a struggle and a fight to tackle. That’s what interests me.” – Philip Seymour Hoffman</i></p>
+
+            <p>In the actor’s obituary, the <i>New York Times</i> described Philip Seymour Hoffman as “perhaps the most ambitious and widely admired American actor of his generation.” Hoffman’s versatility, brilliance, and scene-stealing presence makes his often-troubled characters a joy to watch. Although he lacked the stereotypical “look” of a Hollywood star, Hoffman—thrusted into acting after being inspired by a stage production of Arthur Miller’s <i>All My Sons</i> as a child—never failed to breathe humanity into every on-screen role he took on. Whether playing an empathetic male nurse in <i>Magnolia</i>, a distressed theater professor in <i>The Savages</i>, or a deranged cult leader in <i>The Master</i>, Hoffman always captivated audiences, elevating each film he starred in by virtue of his sheer talent.</p>
+
+            <p>Through this retrospective, Doc Films will present an exciting selection of Hoffman’s filmography, offering a mix of fan-favorites (<i>Synecdoche, New York</i>), blockbusters (<i>Hunger Games</i>), and more subtle works (<i>Love Liza</i>). Whether or not one is a major fan of Philip Seymour Hoffman—although, frankly, who isn’t?—doesn’t change the fact that this series has something for all audiences. And, as we near the tenth anniversary of the actor’s untimely death, these screenings will allow Doc-goers to soak in some truly masterful performances.</p>
+        </div>
+        
         <div class="screening">
-          <h1>7:00PM Friday, September 30th</h1>
-          <img src="/images/2022fall/perfect-blue-1997.png" alt="Perfect Blue still">
-          <h2>Perfect Blue (1997)</h2>
-          <h3>Satoshi Kon &middot; 81m &middot; DCP</h3>
-          <p>She’s the real thing! Mima’s about ready to give up her idol career; she’s spent too long being the good girl, and acting’s her way out. But Mima quickly realizes she’s got more than she ever asked for. Satoshi Kon’s brain-melting anime thriller is a film wholly of its own, a brutally violent fever dream of stalkers, psychosis, serial murders, and dissociation. Nevertheless, we’re sure Mima will figure it out. Question is: Who’s the real Mima?</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=9866C09F-DD73-41B2-943D-F7BA7E4412E5" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Friday, January 6th</h1>
+          <img src="/images/2023winter/synecdoche-new-york-2008.jpeg" alt="Synecdoche, New York (2008) still">
+          <h2>Synecdoche, New York (2008)</h2>
+          <h3>Charlie Kaufman &middot; 123m &middot; 35mm</h3>
+          <p><i>Synecdoche, New York</i> follows Caden Cotard (Philip Seymour Hoffman), an ailing theater director, as he leaves his bleak life in Schenectady, New York to create a mind-bending theater production that seeks to mirror all life in New York City—by literally recreating the city inside a massive warehouse. A film Roger Ebert called the best of the decade, <i>Synecdoche, New York</i> demands multiple viewings to fully appreciate its sheer complexity and surrealism.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=4A209B26-B635-48D9-90C1-6DF89EBD3141" target="_blank">here</a></u>.</b></p>
         </div>
-
+        
         <div class="screening">
-          <h1>7:00PM Friday, October 7th</h1>
-          <img src="/images/2022fall/train-to-busan-2016.jpeg" alt="Train to Busan still">
-          <h2>Train to Busan (2016)</h2>
-          <h3>Yeon Sang-ho &middot; 118m &middot; DCP</h3>
-          <p>Passengers riding a train from Seoul to Busan have their journey transformed into a fight for survival when an outbreak turns those infected into zombies. Faster than a speeding bullet (train), the epidemic rips through the coaches, with no relief in sight at already-infected stations. The only hope is reaching the end of the line in Busan, where a military quarantine awaits—but will the survivors reach it in time before the zombies reach them?</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=4EA3C317-F301-4826-B19A-57CDF927B0BC" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Friday, January 13th</h1>
+          <img src="/images/2023winter/magnolia-1999.jpeg" alt="Magnolia (1999) still">
+          <h2>Magnolia (1999)</h2>
+          <h3>Paul Thomas Anderson &middot; 183m &middot; 35mm</h3>
+          <p>PTA’s <i>Magnolia</i> is a varied tapestry of interwoven stories, each following a different resident of Los Angeles’s San Fernando Valley, and slowly coming together as the story unfolds. A marathon of unearthed secrets, family drama, and unrequited desire—with a final twist that feels almost like divine intervention—this is a film that shines through both the stellar performances of its ensemble cast and the tense relationships that Anderson constructs.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=9FB26EB5-EE19-4458-A256-9E5E5388D8AD" target="_blank">here</a></u>.</b></p>
         </div>
-
+        
         <div class="screening">
-          <h1>7:00PM Friday, October 14th</h1>
-          <img src="/images/2022fall/a-girl-walks-home-alone-at-night-2014.jpg" alt="A Girl Walks Home Alone at Night still">
-          <h2>A Girl Walks Home Alone at Night (2014)</h2>
-          <h3>Ana Lily Amirpour &middot; 101m &middot; DCP</h3>
-          <p>Is this the only Iranian feminist skateboard revenge vampire suburban Expressionist Western out there? Even if it’s not, it’s certainly the best. Ana Lily Amirpour's œuvre chronicles the interactions of a series of characters in the fictional Bad City including drug dealers, junkies, partiers, and a mysterious vampiric woman. With gorgeous black and white cinematography and elegant direction, this is a film that demands to be seen on the big screen.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=47101944-0093-4031-80B6-7553B252F8D8" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Friday, January 20th</h1>
+          <img src="/images/2023winter/love-liza-2002.jpeg" alt="Love Liza (2002) still">
+          <h2>Love Liza (2002)</h2>
+          <h3>Todd Louiso &middot; 90m &middot; 35mm</h3>
+          <p><i>Love Liza</i> centers website designer Wilson Joel (Philip Seymour Hoffman), who turns to gasoline fumes after the unexplained suicide of his wife Liza. Attempting to cope with his deteriorating psyche, he delves deeper and deeper into a spiral of self-destruction in one of this series' most subtle features. Todd Louiso puts Hoffman’s acting chops at the forefront of the film, producing a stunning study of a harrowing miasma of loss and pain.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=2C8B50E9-FFC0-42D6-A9CA-777E35AADBAD" target="_blank">here</a></u>.</b></p>
         </div>
-
+        
         <div class="screening">
-          <h1>7:00PM Friday, October 28th</h1>
-          <img src="/images/2022fall/get-out-2017.jpeg" alt="Get Out still">
-          <h2>Get Out (2017)</h2>
-          <h3>Jordan Peele &middot; 104min &middot; DCP</h3>
-          <p>We would’ve programmed it a third time if we could. Come see Jordan Peele’s breakout 2017 hit <i>Get Out</i>, the official film of Doc 2022 Halloween-eve-eve-eve (listen, scheduling is hard). Scary, cringy, funny, and infinitely quotable, <i>Get Out</i> has quickly become one of the best American films of the millennium. Chris, a Black Brooklyn-based photographer, visits his white girlfriend’s family only to discover that beneath their smiles lurks a dark secret…</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=FF46670A-3B99-4E77-ABDC-AE3AA6181B8B" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Friday, January 27th</h1>
+          <img src="/images/2023winter/the-hunger-games-catching-fire-2013.jpeg" alt="The Hunger Games: Catching Fire (2013) still">
+          <h2>The Hunger Games: Catching Fire (2013)</h2>
+          <h3>Francis Lawrence &middot; 156m &middot; DCP</h3>
+          <p>Set one year after the series’s first installment, <i>The Hunger Games: Catching Fire</i> is a star-studded blockbuster that follows Katniss Everdeen (Jennifer Lawrence) and Peeta Mellark (Josh Hutcherson) amid a tumultuous time across Panem, where rebellion—inspired by their victory in the 74th Hunger Games—is brewing. With a myriad of new characters, such as Gamemaker Plutarch Heavensbee (Philip Seymour Hoffman), this sequel is a fun, gripping watch.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=078C18B2-FE4A-42F0-B1F6-3768F6A81E00" target="_blank">here</a></u>.</b></p>
         </div>
-
+        
         <div class="screening">
-          <h1>7:00PM Friday, November 4th</h1>
-          <img src="/images/2022fall/dogtooth-2009.jpg" alt="Dogtooth still">
-          <h2>Dogtooth (2009)</h2>
-          <h3>Yorgos Lanthimos &middot; 97m &middot; 35mm</h3>
-          <p>Unequivocally disturbing to the nth degree, <i>Dogtooth</i> is quarantined homeschooling from hell. Three teenagers, a son and two daughters, are raised wholly in a compound, knowing of the outside world only the dangers of man-eating cats and the possible existence of another brother. To quell the son's sexual frustrations, the father hires a woman to come to the home, but this outsider soon threatens to undo the perverted world the kids' parents have created.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=A2213CF9-167B-4988-9F5B-02E18AEDA411" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Friday, February 3rd</h1>
+          <img src="/images/2023winter/scent-of-a-woman-1992.jpeg" alt="Scent of a Woman (1992) still">
+          <h2>Scent of a Woman (1992)</h2>
+          <h3>Martin Brest &middot; 157m &middot; 35mm</h3>
+          <p>An Oscar-winning remake of the 1974 Italian original, the 1992 <i>Scent of a Woman</i> stars Al Pacino as a blind, impossible-to-get-along-with former US army Lt. Col., and Chris O’Donnell as a struggling student who agrees to “babysit” Pacino’s character for purported “easy money.” Instead, over the course of a wild weekend in New York City, the rambunctious veteran teaches the mild-mannered student a thing or two about women, tango, and adulthood.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=A0BFC63D-553B-49A5-B0C4-E29BF053162F" target="_blank">here</a></u>.</b></p>
         </div>
-
+        
         <div class="screening">
-          <h1><u>8:30PM</u> Friday, November 11th</h1>
-          <img src="/images/2022fall/the-funhouse-1981.jpeg" alt="The Funhouse still">
-          <h2>The Funhouse (1981)</h2>
-          <h3>Tobe Hooper &middot; 96m &middot; DCP</h3>
-          <p>A criminally underrated piece of horror from the master of slashers, Tobe Hooper, <i>The Funhouse</i> is the quintessential 1980s teen slasher flick. When four Iowa teens take a trip to a rundown travelling carnival, they never expected to meet their end at the hands of a grusome serial killer. What begins as a night of pot-smoking, strip-teasing, and general crass '80s humor takes a turn for the worse when the true nature of the funhouse is revealed...</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=11F855C0-4CAE-4BB2-83D6-4374D6FD6B08" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Friday, February 10th</h1>
+          <img src="/images/2023winter/the-savages-2007.png" alt="The Savages (2007) still">
+          <h2>The Savages (2007)</h2>
+          <h3>Tamara Jenkins &middot; 113m &middot; 35mm</h3>
+          <p>While critically acclaimed, <i>The Savages</i> is still one of this series’ most criminally-underwatched films. In it, playwright Wendy Savage (Laura Linney) and her brother Jon (Philip Seymour Hoffman) care for their estranged, senile father, all the while reckoning with the dysfunctional nature of their familial and personal lives. It is a harrowing depiction of a dreaded but largely universal experience—that of watching a parent age and ultimately die.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=DB20ABFB-5A3A-4105-B95F-E72D24E71BAD" target="_blank">here</a></u>.</b></p>
         </div>
-
+        
         <div class="screening">
-          <h1>7:00PM Friday, November 18th</h1>
-          <img src="/images/2022fall/enter-the-void-2009.jpeg" alt="Enter the Void still">
-          <h2>Enter the Void (2009)</h2>
-          <h3>Gaspar Noé &middot; 143m &middot; 35mm</h3>
-          <p><i>Enter the Void</i> is Gaspar Noé's psychedelic afterlife movie from hell—a movie you should keep away from the children, the parents, and the dog. Shot entirely from the point of view of Oscar (Nathaniel Brown), an American drug dealer killed by Tokyo police in a drug bust, the film follows Oscar's soul as it journeys through past, present, and future seeking resurrection. An extreme, exhilarating movie, it's guaranteed to leave beads of sweat on your brow.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=EF88A4C0-1C23-4EE0-B5DA-35AC2537A5A0" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Friday, February 17th</h1>
+          <img src="/images/2023winter/the-master-2012.jpg" alt="The Master (2012) still">
+          <h2>The Master (2012)</h2>
+          <h3>Paul Thomas Anderson &middot; 137m &middot; 35mm</h3>
+          <p><i>The Master</i> follows traumatized Navy veteran Freddie Quell (Joaquin Phoenix) after he returns from serving in WWII. One fateful night, he stows away on a passing yacht being used by Lancaster Dodd (Philip Seymour Hoffman), the charismatic leader of “The Cause”. Dodd is immediately enamored with Quell, setting off a tempestuous relationship between the two. Phoenix and Hoffman's searing performances in this film are career-defining and unforgettable.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=3A873547-47ED-4950-AD6F-EDBD809C9559" target="_blank">here</a></u>.</b></p>
         </div>
-
+        
         <div class="screening">
-          <h1>7:00PM Friday, December 2nd</h1>
-          <img src="/images/2022fall/tetsuo-the-iron-man-1989.jpeg" alt="Tetsuo: The Iron Man still">
-          <h2>Tetsuo: The Iron Man (1989)</h2>
-          <h3>Shinya Tsukamoto &middot; 67m &middot; DCP</h3>
-          <p>A homoerotic merger of Lynch's <i>Eraserhead</i> and the kaiju genre, director Shinya Tsukamoto's first feature is the epitome of cyberpunk body horror. <i>Tetsuo: The Iron Man</i> follows the "Salaryman" as he is thrust into a carnal, industrial nightmare, slowly turning into a metallic monster after being cursed by the "Metal Fetishist" he accidentally hits with his car. Grimy, grotesque, and grossly phallic, this is the film masochist's cult classic must-see.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=4A4BA023-A9C9-48DD-87A5-445D9799A643" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Friday, February 24th</h1>
+          <img src="/images/2023winter/25th-hour-2002.jpeg" alt="25th Hour (2002) still">
+          <h2>25th Hour (2002)</h2>
+          <h3>Spike Lee &middot; 135m &middot; 35mm</h3>
+          <p>The first studio film to incorporate the 9/11 attacks into its narrative, Spike Lee’s <i>25th Hour</i> matches the funereal, somber tone in NYC at that time. The film follows former drug dealer Monty Brogan (Edward Norton) as he reevaluates his life in the 24 remaining hours before his 7-year prison sentence, spending time with his closest friends (Philip Seymour Hoffman, Barry Pepper) and preparing his girlfriend (Rosario Dawson) for his lengthy absence.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=67A9158B-14F1-4571-ABC2-AD7F2844DCA9" target="_blank">here</a></u>.</b></p>
         </div>
-
+        
+        <div class="screening">
+          <h1>7:00PM Friday, March 3rd</h1>
+          <img src="/images/2023winter/a-most-wanted-man-2014.jpg" alt="A Most Wanted Man (2014) still">
+          <h2>A Most Wanted Man (2014)</h2>
+          <h3>Anton Corbijn &middot; 122m &middot; 35mm</h3>
+          <p>The last film Philip Seymour Hoffman completed before his death, <i>A Most Wanted Man</i> is an espionage thriller about a tortured Chechen migrant (Grigoriy Dobrygin) who settles in Hamburg and becomes a person of interest for a German agent’s (Philip Seymour Hoffman) rogue counterterrorism work. Based on John le Carre’s novel of the same name, this is a tense, cerebral tale of intrigue, rivalry, and politics—right through to its final hair-raising scene.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=B5E2E339-FB39-4D40-B886-1D396FA9C50D" target="_blank">here</a></u>.</b></p>
+        </div>
+        
       </div>
       
     </main>
     
-    <?php include "../includes/footer.html" ?>
+    <?php include $_SERVER['DOCUMENT_ROOT'] . "/includes/footer.html" ?>
     <script src="/js/resize-menu.js"></script>
 
   </body>

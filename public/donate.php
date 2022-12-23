@@ -9,11 +9,11 @@
 
   <body>
     
-    <?php include "./includes/header.html" ?>
+    <?php $version='1.2'; include "./includes/header.html" ?>
   
     <main>
 
-      <?php include "./includes/dropdown.html" ?>
+      <?php $version='1.2'; include "./includes/dropdown.html" ?>
 
       <div class="information">
         <h1>Donating</h1>

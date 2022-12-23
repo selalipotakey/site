@@ -13,6 +13,5 @@ if (w < 650) {
     li_array.forEach(list_element => {
         list_element.style.height = individual_height + "px";
     });
-    console.log('hello')
 }
 

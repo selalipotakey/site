@@ -9,103 +9,112 @@
 
   <body>
     
-    <?php include "../includes/header.html" ?>
+    <?php include $_SERVER['DOCUMENT_ROOT'] . "/includes/header.html" ?>
   
     <main>
 
-      <?php include "../includes/dropdown.html" ?>
+      <?php include $_SERVER['DOCUMENT_ROOT'] . "/includes/dropdown.html" ?>
 
       <div class="screenings-list">
 
         <div class="text-section">
-          <h1>SUNDAY: Jacques Rivette, New Wave Master</h1>
-          <h3>Programmed by Kathleen Geier</h3>
+          <h1>SUNDAY - Facing Life, Meeting Death</h1>
+          <h3>Programmed by: Hannah Halpern</h3>
 
-          <p>Jacques Rivette was one of the greatest directors of his time, an acknowledged inspiration for such contemporary cinematic visionaries as David Lynch and Claire Denis. If his work remains less well known than that of his peers, that is largely because he was, as Martin Scorsese noted, “the most experimental of the French New Wave directors.” His films are distinguished by their tendency to explode cinematic conventions and upend traditional narratives. He strongly emphasized the collective nature of filmmaking and his own methods were heavily collaborative. Many of his films were improvised or co-scripted by the actors.</p>
+            <p>“It completely overwhelmed me. I was shaken to the core.” So said Ingmar Bergman of <i>The Phantom Carriage</i> (1921), which he watched at least once a year. Victor Sjöström’s silent masterpiece and Bergman’s own <i>Seventh Seal</i> (1957) feature as the two Swedish titles in this death-focused lineup, with two Japanese films (<i>Ikiru</i>, 1952; <i>The Ballad of Narayama</i>, 1958), two American (<i>Death Takes a Holiday</i>, 1934; <i>Dead Man</i>, 1995), one Iranian (<i>Taste of Cherry</i>, 1997), one Czech (<i>The Cremator</i>, 1969) and one German title (<i>Destiny</i>, 1921) playing alongside them.</p>
 
-          <p>Frequently, his most important collaborators were women. That’s not surprising, because of all the French New Wave directors, it is Rivette who, along with Agnès Varda, is the most deeply interested in women. His films are notable for their strong female characters and their exploration of feminist themes. During our own era of ferocious antifeminist backlash, a film like his scathing masterpiece <i>The Nun</i> seems timelier than ever.</p>
-
-          <p>There are other reasons why Rivette seems necessary right now. In an era when political paranoia is at a fever pitch, his haunting films, with their conspiracy-obsessed protagonists, feel especially resonant. At a time when Hollywood products are more formulaic than ever, his radical experimentation is all the more thrilling. Finally, his films are greatly benefitted by being seen on the big screen, in the immersive environment of a theater. His films are demanding but also richly rewarding. Rivette is the rare filmmaker who can make you see not just cinema, but the world, in an entirely new way.</p>
+            <p>A trans-continental representation of the ultimate inevitability, “Facing Life, Meeting Death” lends a darkness to your Sunday nights, just as cold and bleak as the Chicago winter demands. The series is inspired by that visceral paralysis, the captivating dread that death elicits; yet its purpose is not, in fact, to induce existential despair. While focused on encounters with death—some with the “person,” others with the prospect—at its core, this series is about living. Accompanying the grim subject matter of each of these films is a certain <i>joie de vivre</i>—an acknowledgment of the end to come, but not without a loving regard for the now. This series, then, is a celebration of life; it is about the way that knowledge of death, and confrontation with it, enriches life while we are still within it.</p>
         </div>
-
+        
         <div class="screening">
-          <h1>5:00PM Sunday, October 2nd</h1>
-          <img src="/images/2022fall/the-nun-1966.jpg" alt="THE NUN still">
-          <h2>The Nun (1966)</h2>
-          <h3>Jacques Rivette &middot; 140m &middot; DCP</h3>
-          <p>Rivette’s second feature is an incendiary feminist masterpiece banned in France and condemned by the Catholic Church. It tells the story of a young woman (a radiant Anna Karina) forced to enter a convent. She fights for her freedom, but finds tyranny and brutality at every turn. The intensity and formal rigor of Rivette’s technique and the striking contemporary score make <i>The Nun</i> one of the most exhilarating and essential films of the French New Wave.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=66D6651B-3914-445C-B09E-A82A44A8D844" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Sunday, January 8th</h1>
+          <img src="/images/2023winter/ikiru-1952.jpeg" alt="Ikiru (1952) still">
+          <h2>Ikiru (1952)</h2>
+          <h3>Akira Kurosawa &middot; 143m &middot; 35mm</h3>
+          <p>When aging bureaucrat Kanji Watanabe (Takashi Shimura) is diagnosed with stomach cancer, he is forced to come to terms with the true trajectory of his life so far—that after 30 years at Tokyo City Hall, he hasn't accomplished a thing. While bleak in subject matter, <i>Ikiru</i> shows Kurosawa at his most sensitive and compassionate, following Mr. Watanabe as, in the face of looming death, he finds the courage to do what he hasn't done before: live (<i>ikiru</i>).</p>
+          <p><i>35mm print courtesy of the Japan Foundation.</i></p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=C45E4DD7-4BFB-4F34-A4F2-2C14E826A89A" target="_blank">here</a></u>.</b></p>
         </div>
-
+        
         <div class="screening">
-          <h1>5:00PM Sunday, October 9th</h1>
-          <img src="/images/2022fall/celine-and-julie-go-boating-1974.jpg" alt="CELINE AND JULIE GO BOATING still">
-          <h2>Céline and Julie Go Boating (1974)</h2>
-          <h3>Jacques Rivette &middot; 193min &middot; Digital</h3>
-          <p>Rivette’s best-known film is an exuberant, freewheeling fantasy about the power of female camaraderie, the delights of narrative, and the fluid boundaries between life and art. After magician Céline (Juliet Berto) and librarian Julie (Dominique Labourier) meet, they move in together, swap identities, and time travel to a mansion with a gothic murder mystery. Co-written by the film's actresses, the film is one of Rivette's most enjoyable and enduring works.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=59407132-E70F-4B59-B0E9-5A28FFA0C836" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Sunday, January 15th</h1>
+          <img src="/images/2023winter/the-seventh-seal-1957.jpeg" alt="The Seventh Seal (1957) still">
+          <h2>The Seventh Seal (1957)</h2>
+          <h3>Ingmar Bergman &middot; 96m &middot; DCP</h3>
+          <p>Having just returned to plague-ridden Sweden after fighting in the Crusades, medieval knight Antonius Block is met suddenly by Death, whom he challenges to a chess match over his very soul. Bergman is uncompromising, placing the silence of God at the very heart of his film; but he weaves glints of human kindness into this macabre tapestry, as Block and his squire Jöns try to accomplish one redemptive act before joining for eternity in the Dance of Death.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=BBDE830C-55CC-4EDE-885D-A7D3311FCD47" target="_blank">here</a></u>.</b></p>
         </div>
-
+        
         <div class="screening">
-          <h1>5:00PM Sunday, October 16th</h1>
-          <img src="/images/2022fall/duelle-1976.jpg" alt="DUELLE still">
-          <h2>Duelle (1976)</h2>
-          <h3>Jacques Rivette &middot; 121m &middot; DCP</h3>
-          <p>In the shadowy demimonde of contemporary Paris, the Sun and Moon Goddesses do battle over a magic diamond that will allow the winner to remain on Earth. At the time of its release, this ravishing, daringly experimental, noir-stained fantasy divided critics. But it has since come to be regarded as one of Rivette's most striking and inventive films. It was part of a projected tetralogy of which only one other episode (1976’s <i>Noroît</i>) was ever completed.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=1C42381A-4519-4DA4-BDC2-B927751C6561" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Sunday, January 22nd</h1>
+          <img src="/images/2023winter/the-phantom-carriage-1921.jpeg" alt="The Phantom Carriage (1921) still">
+          <h2>The Phantom Carriage (1921)</h2>
+          <h3>Victor Sjöström &middot; 106m &middot; Digital</h3>
+          <p>Cited by Ingmar Bergman as a major influence on his own work, <i>The Phantom Carriage</i> is an indisputable classic of ghoulish Swedish cinema. Released itself on New Year's Day, 1921, the film begins on New Year's Eve, as violent alcoholic David Holm and his drinking buddies share the story of the Phantom Carriage. Legend has it that the last great sinner to die each year will have to drive the eponymous chariot, collecting the souls of the dead for a year...</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=C0FB8012-143B-4D22-8BA2-A14858DCEB72" target="_blank">here</a></u>.</b></p>
         </div>
-
+        
         <div class="screening">
-          <h1>5:00PM Sunday, October 30th</h1>
-          <img src="/images/2022fall/out-1-spectre-1972.jpg" alt="OUT 1: SPECTRE still">
-          <h2>Out 1: Spectre (1972)</h2>
-          <h3>Jacques Rivette &middot; 264min &middot; Digital</h3>
-          <p>This condensed version of Rivette’s 13-hour magnum opus, <i>Out 1: Noli Me Tangere</i>, has been hailed as a masterpiece in its own right. Entirely improvised, it tells the story of two outsiders investigating a conspiracy involving avant-garde theater troupes and an Illuminati-like secret society. In the words of critic Jonathan Romney, the film is “about things, people, and communal causes falling apart, arguably a lament for France’s failed utopia of 1968.”</p>
-          <p><i>Note: print calendars incorrectly list the format as 35mm and not digital.</i></p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=3A4A806F-BDD4-48BC-9A28-310667177248" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Sunday, January 29th</h1>
+          <img src="/images/2023winter/taste-of-cherry-1997.jpeg" alt="Taste of Cherry (1997) still">
+          <h2>Taste of Cherry (1997)</h2>
+          <h3>Abbas Kiarostami &middot; 99m &middot; DCP</h3>
+          <p>The first Iranian film to win the Palme d’Or, <i>Taste of Cherry</i> stars Homayoun Ershadi as the middle-aged Mr. Badii, driving through Tehran in search of someone to bury him should he commit suicide. The film centers Mr. Badii and three of his passengers: a young Kurdish soldier, an Afghan seminarian, and an Azeri taxidermist, with whom he discusses mortality, religion, and the little joys of life as he tries successively to recruit them for the job.</p>
+          <p><i>A Night Owls event with Professors Agnes Callard and Daniel Morgan.</i></p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=FA3E5668-94BF-48A3-BBCD-D9EDF73F547D" target="_blank">here</a></u>.</b></p>
         </div>
-
+        
         <div class="screening">
-          <h1>5:00PM Sunday, November 6th</h1>
-          <img src="/images/2022fall/the-gang-of-four-1988.jpeg" alt="THE GANG OF FOUR still">
-          <h2>The Gang of Four (1989)</h2>
-          <h3>Jacques Rivette &middot; 160min &middot; DCP</h3>
-          <p>Four young women are sharing a home and studying at a drama school run by a notoriously demanding grande dame. As they rehearse a play, one of the group mysteriously disappears, an enigmatic stranger arrives on the scene, and the lines between theater and “real life” become increasingly blurred. Gorgeously lensed by the great Caroline Champetier, <i>Gang of Four</i> is an engrossing exploration of Rivette’s classic themes and one of his most thoughtful works.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=DC0546AC-82E3-42D3-AFCF-E8B95810FF02" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Sunday, February 5th</h1>
+          <img src="/images/2023winter/death-takes-a-holiday-1934.jpg" alt="Death Takes a Holiday (1934) still">
+          <h2>Death Takes a Holiday (1934)</h2>
+          <h3>Mitchell Leisen &middot; 79m &middot; 35mm</h3>
+          <p>In some ways, <i>Death Takes a Holiday</i> presents a standard romantic dilemma for its protagonist: a choice between love and death. The only catch? Here, the protagonist <i>is</i> Death. Frederic March stars as the fated reaper, taking human form in an attempt to learn why it is that people fear him. During this three-day stint, he falls for the enchanting young Grazia (Evelyn Venable), and must choose whether to pursue his love or leave Grazia among the living.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=268F6EAE-928B-47B4-973F-CA36C945EC8B" target="_blank">here</a></u>.</b></p>
         </div>
-
+        
         <div class="screening">
-          <h1>5:00PM Sunday, November 13th</h1>
-          <img src="/images/2022fall/la-belle-noiseuse-1991.jpg" alt="LA BELLE NOISEUSE still">
-          <h2>La Belle Noiseuse (1991)</h2>
-          <h3>Jacques Rivette &middot; 238min &middot; DCP</h3>
-          <p>Rivette’s biggest box office hit and the most acclaimed film of his later career was this mesmerizing drama of artistic obsession. It stars an aging painter, his reluctant muse, and their struggle to finish a long-abandoned portrait. Jonathan Rosenbaum wrote, “rarely has Rivette’s use of duration to look at process been as spellbinding as it is here . . . Rivette’s superb sense of rhythm and mise en scene never falters, and the plot has plenty of twists.”</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=2FD8CC29-340F-461D-AE6C-AA204AE6AAF1" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Sunday, February 12th</h1>
+          <img src="/images/2023winter/dead-man-1995.png" alt="Dead Man (1995) still">
+          <h2>Dead Man (1995)</h2>
+          <h3>Jim Jarmusch &middot; 121m &middot; DCP</h3>
+          <p>On the run after killing a man, accountant William Blake (Johnny Depp) encounters a Native American man called "Nobody" (Gary Farmer), who thinks him the reincarnation of the English poet of the same name. <i>Dead Man</i> is Jim Jarmusch's masterful foray into the Western genre, presented at its most existential. The film features a largely improvised guitar score by Neil Young and gorgeous monochrome cinematography by the unparalleled Robby Müller.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=5A27BE7F-A331-40B9-82A6-3B126026BE38" target="_blank">here</a></u>.</b></p>
         </div>
-
+        
         <div class="screening">
-          <h1>5:00PM Sunday, November 20th</h1>
-          <img src="/images/2022fall/joan-the-maid-the-battles-1994.jpg" alt="JOAN THE MAID: THE BATTLES still">
-          <h2>Joan the Maid: The Battles (1994)</h2>
-          <h3>Jacques Rivette &middot; 160m &middot; DCP</h3>
-          <p>Countless films have been about Joan of Arc, but as critic Jonathan Rosenbaum noted, Rivette’s rigorously materialist version is “perhaps the only movie that offers a plausible portrait of what the 15th-century teenager who led the French into battle was actually like." In part one of this epic, young Joan (an extraordinary Sandrine Bonnaire) leaves her childhood home and persuades Charles VII to allow her to lead his troops in the war against the English.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=5AC926DC-9713-4662-B367-CF12BF89A3D3" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Sunday, February 19th</h1>
+          <img src="/images/2023winter/the-ballad-of-narayama-1958.jpeg" alt="The Ballad of Narayama (1958) still">
+          <h2>The Ballad of Narayama (1958)</h2>
+          <h3>Keisuke Kinoshita &middot; 98m &middot; 35mm</h3>
+          <p><i>The Ballad of Narayama</i> uses the art of kabuki theatre to explore the mythic practice of <i>obasute</i>—the abandonment of the elderly in a desolate place, where they are subsequently left to die. Kinuyo Tanaka plays Orin, a widow approaching 70, who accepts her fate graciously, unlike most of the village elderly. It is instead her son, Tatushei, who is reluctant to carry his aging mother up Narayama mountain.
+35mm print courtesy of the Japan Foundation.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=AA3DA64D-37D4-49C7-81EA-1ABBC94A9D88" target="_blank">here</a></u>.</b></p>
         </div>
-
+        
         <div class="screening">
-          <h1>5:00PM Sunday, December 4th</h1>
-          <img src="/images/2022fall/joan-the-maid-the-prisons-1994.jpg" alt="JOAN THE MAID: THE PRISONS still">
-          <h2>Joan the Maid: The Prisons (1994)</h2>
-          <h3>Jacques Rivette &middot; 177min &middot; DCP</h3>
-          <p>Part two of Rivette’s epic chronicles Joan’s imprisonment and interrogation by the British, but notably omits her trial, which features prominently in other cinematic accounts of her life. As in part one, Rivette’s focus on quotidian details and the spaces between the great events of Joan's life humanizes her in ways that are profoundly moving. Rivette’s long takes and the beauty and austerity of his images illuminate the saint’s inner and outer lives..</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=37F01F9F-16C3-4DD3-8E9E-B8DA1A042611" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Sunday, February 26th</h1>
+          <img src="/images/2023winter/the-cremator-1969.jpeg" alt="The Cremator (1969) still">
+          <h2>The Cremator (1969)</h2>
+          <h3>Juraj Herz &middot; 95m &middot; DCP</h3>
+          <p>Juraj Herz's deeply unsettlingly second film follows Karel Kopfrkingl (Rudolf Hrušínský), a crematorium worker in Prague who descends into madness while Europe is launched into World War II. Before the war, Karel takes pride in his work, citing Tibetan Buddhist ideas to justify his 'liberation' of the dead. Brilliantly creepy camerawork accentuates Karel's evil mania when the Nazis recruit him to 'liberate' more souls—even those the very closest to him.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=AE34A26E-6DB0-4C7B-B360-FA9F9B0477C0" target="_blank">here</a></u>.</b></p>
         </div>
-
+        
+        <div class="screening">
+          <h1>7:00PM Sunday, March 5th</h1>
+          <img src="/images/2023winter/destiny-1921.jpeg" alt="Destiny (1921) still">
+          <h2>Destiny (1921)</h2>
+          <h3>Fritz Lang &middot; 98m &middot; DCP</h3>
+          <p><i>Destiny</i> tells the story of two young lovers, one of whom is abducted by Death. The young woman of the pair approaches Death in a bargain for her fiancé's life, and he in turn shows her three tragic romances similar to her own: one set in the Middle East, one in Venice, and one in the Chinese Empire. Death promises to reunite the main couple, so long as the woman can save a life from one of these three stories, proving that love is stronger than death.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=3DE49DCB-7BC8-460A-ABC2-E37B0E868A54" target="_blank">here</a></u>.</b></p>
+        </div>
+        
       </div>
       
     </main>
     
-    <?php include "../includes/footer.html" ?>
+    <?php include $_SERVER['DOCUMENT_ROOT'] . "/includes/footer.html" ?>
     <script src="/js/resize-menu.js"></script>
 
   </body>

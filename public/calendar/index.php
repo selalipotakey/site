@@ -9,25 +9,30 @@
 
   <body>
     
-    <?php $version='1.1'; include "../includes/header.html";?>
+    <?php $version='1.2'; include "../includes/header.html";?>
   
     <main>
 
-      <?php $version='1.1'; include "../includes/dropdown.html";?>
+      <?php $version='1.2'; include "../includes/dropdown.html";?>
 
       <div class="information">
 
         <h1>Now playing:</h1>
-        <iframe src="/calendar/custom_calendar.php?ver=2.0" style="border: 0; padding-bottom: 0rem;" frameborder="0" scrolling="no"></iframe>
-        <h3 style="padding: 1rem 0rem;"><i>Stylized Autumn 2022 calendar <u><a href="https://drive.google.com/file/d/19elwu7IqFMl_H6dt23jEnD0N2hcyJln_/view?usp=sharing" target="_blank">here</a></u>; stylized Autumn 2022 booklet <u><a href="https://drive.google.com/file/d/1rozP_gZuFfShgQqe6dZt0IdqCNf8_ghY/view?usp=sharing" target="_blank">here</a></u>.</i></h3>
 
+        <!-- <iframe src="/calendar/custom_calendar.php?ver=2.0" style="border: 0; padding-bottom: 0rem;" frameborder="0" scrolling="no"></iframe> -->
 
-        <h1>Weekly series this quarter:</h1>
+        <iframe id='month-calendar' src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FChicago&src=Y19hN2I2ZWFjZWYzZjgyMDQyYjQzMGZlMGYzMDZiMTZlZTYxNGVmYTk1OGQ4NjI0ZmQzOGI2MTE0OTU1MmU5ZDQ2QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23795548" style="border-width:0" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
+
+        <iframe id='agenda-calendar' src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FChicago&mode=AGENDA&src=Y19hN2I2ZWFjZWYzZjgyMDQyYjQzMGZlMGYzMDZiMTZlZTYxNGVmYTk1OGQ4NjI0ZmQzOGI2MTE0OTU1MmU5ZDQ2QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23795548" style="border-width:0;" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+        <h3 style="padding: 1rem 0rem;"><i>Stylized Winter 2023 calendar <u><a href="https://drive.google.com/file/d/1Lp3VCSCAdpdr44ZCJb_WmTHuANuNUfmr/view?usp=sharing" target="_blank">here</a></u>; stylized Winter 2023 booklet <u><a href="https://drive.google.com/file/d/1xW2ho_JBqHTe7wfKraEQDeJAVkMbihTx/view?usp=sharing" target="_blank">here</a></u>.</i></h3>
+
+        <h1>Series this quarter:</h1>
 
         <div class="series-list">
 
           <div class="series-tile reverse">
-            <a href="/calendar/special-events"><img src="/images/2022fall/nosferatu-1922.jpg" alt="NOSFERATU still"></a>
+            <a href="/calendar/special-events"><img src="/images/2023winter/who-killed-captain-alex-2010.jpg" alt="WHO KILLED CAPTAIN ALEX still"></a>
             <div class="series-text">
               <a href="/calendar/special-events">
                 <p class="title">Special Events</p>
@@ -36,89 +41,89 @@
           </div>
 
           <div class="series-tile">
-            <a href="/calendar/monday"><img src="/images/2022fall/series_stills/whats-up-doc-1972.jpeg" alt="Whats Up Doc still"></a>
+            <a href="/calendar/monday"><img src="/images/2023winter/series_stills/baby-face-1933.jpg" alt="BABY FACE still"></a>
             <div class="series-text">
               <a href="/calendar/monday">
                 <p class="day">Monday</p>
-                <p class="title">Wonderfully Loathsome: Screwball Romance Through the Ages</p>
-              </a>
-              <p class="programmer">Programmed by: Liam Flanigan</p>
-            </div>
-          </div>
-
-          <div class="series-tile reverse">
-            <a href="/calendar/tuesday"><img src="/images/2022fall/series_stills/long-days-journey-into-night-2018.jpg" alt="Long Days Journey Into Night still"></a>
-            <div class="series-text">
-              <a href="/calendar/tuesday">
-                <p class="day">Tuesday</p>
-                <p class="title">After the 5th: China and the 21st Century</p>
-              </a>
-              <p class="programmer">Programmed by: Addison Wood</p>
-            </div>
-          </div>
-
-          <div class="series-tile">
-            <a href="/calendar/wednesday"><img src="/images/2022fall/series_stills/irma-vep-1996.jpg" alt="Irma Vep still"></a>
-            <div class="series-text">
-              <a href="/calendar/wednesday">
-                <p class="day">Wednesday</p>
-                <p class="title">Center Stage: The Films of Maggie Cheung</p>
+                <p class="title">Baby Face: The Films of Barbara Stanwyck</p>
               </a>
               <p class="programmer">Programmed by: Deany Cheng</p>
             </div>
           </div>
 
           <div class="series-tile reverse">
-            <a href="/calendar/thursday1"><img src="/images/2022fall/series_stills/chimes-at-midnight-1966.jpg" alt="Chimes at Midnight still"></a>
+            <a href="/calendar/tuesday"><img src="/images/2023winter/series_stills/free-chol-soo-lee-2022.jpg" alt="FREE CHOL SOO LEE still"></a>
             <div class="series-text">
-              <a href="/calendar/thursday1">
-                <p class="day">Thursday I</p>
-                <p class="title">Shakespeare Remixed</p>
+              <a href="/calendar/tuesday">
+                <p class="day">Tuesday</p>
+                <p class="title">Asian American Media</p>
               </a>
-              <p class="programmer">Programmed by: Michelle Chow</p>
+              <p class="programmer">Programmed by: Carson Wang and Tien-Tien Jong</p>
             </div>
           </div>
 
           <div class="series-tile">
-            <a href="/calendar/thursday2"><img src="/images/2022fall/series_stills/belladonna-of-sadness-1973.jpg" alt="Chimes at Midnight still"></a>
+            <a href="/calendar/wednesday"><img src="/images/2023winter/series_stills/the-grand-illusion-1937.jpeg" alt="THE GRAND ILLUSION still"></a>
             <div class="series-text">
-              <a href="/calendar/thursday2">
-                <p class="day">Thursday II</p>
-                <p class="title">Myths, Legends, and Folk Tales: A Brief History of Animation</p>
+              <a href="/calendar/wednesday">
+                <p class="day">Wednesday</p>
+                <p class="title">Jean Renoir: The Grand Reality</p>
               </a>
-              <p class="programmer">Programmed by: Solana Adedokun</p>
+              <p class="programmer">Programmed by: John Litweiler</p>
             </div>
           </div>
 
           <div class="series-tile reverse">
-            <a href="/calendar/friday"><img src="/images/2022fall/series_stills/dogtooth-2009.jpg" alt="Dogtooth still"></a>
+            <a href="/calendar/thursday-1"><img src="/images/2023winter/series_stills/grave-of-the-fireflies-1988.png" alt="GRAVE OF THE FIREFLIES still"></a>
+            <div class="series-text">
+              <a href="/calendar/thursday-1">
+                <p class="day">Thursday I</p>
+                <p class="title">Splicing of the Atom: Nuclear Taboo in Cinema</p>
+              </a>
+              <p class="programmer">Programmed by: Max de Saint-Exupery</p>
+            </div>
+          </div>
+
+          <div class="series-tile">
+            <a href="/calendar/thursday-2"><img src="/images/2023winter/series_stills/jackass-the-movie-2002.jpeg" alt="JACKASS THE MOVIE still"></a>
+            <div class="series-text">
+              <a href="/calendar/thursday-2">
+                <p class="day">Thursday II</p>
+                <p class="title">Blow Up My Video: Movies Shot on Video, Shown on Film</p>
+              </a>
+              <p class="programmer">Programmed by: Zachary Vanes and Brian McKendry</p>
+            </div>
+          </div>
+
+          <div class="series-tile reverse">
+            <a href="/calendar/friday"><img src="/images/2023winter/series_stills/love-liza-2002.jpeg" alt="LOVE LIZA still"></a>
             <div class="series-text">
               <a href="/calendar/friday">
                 <p class="day">Friday</p>
-                <p class="title">Programmers' Picks</p>
+                <p class="title">Philip Seymour Hoffman: A Retrospective</p>
               </a>
-              <p class="programmer">Programmed by: Addison Wood, Ian Resnick, and Hannah Halpern</p>
+              <p class="programmer">Programmed by: Rocco Fantini</p>
             </div>
           </div>
 
           <div class="series-tile">
-            <a href="/calendar/saturday"><img src="/images/2022fall/series_stills/top-gun-maverick-2022.png" alt="Top Gun Maverick still"></a>
+            <a href="/calendar/saturday"><img src="/images/2023winter/series_stills/bardo-2022.jpeg" alt="BARDO still"></a>
             <div class="series-text">
               <a href="/calendar/saturday">
                 <p class="day">Saturday</p>
-                <p class="title">Top Doc: Maverdock - New Releases</p>
+                <p class="title">The Docshees of Idasherin: New Releases</p>
               </a>
             </div>
           </div>
 
           <div class="series-tile reverse">
-            <a href="/calendar/sunday"><img src="/images/2022fall/series_stills/the-nun-1966.jpg" alt="The Nun still"></a>
+            <a href="/calendar/sunday"><img src="/images/2023winter/series_stills/the-phantom-carriage-1921-option2.jpeg" alt="THE PHANTOM CARRIAGE still"></a>
             <div class="series-text">
               <a href="/calendar/sunday">
                 <p class="day">Sunday</p>
-                <p class="title">Jacques Rivette: New Wave Master</p>
+                <p class="title">Facing Life, Meeting Death</p>
               </a>
-              <p class="programmer">Programmer: Kathleen Geier</p>
+              <p class="programmer">Programmed by: Hannah Halpern</p>
             </div>
           </div>
 
@@ -130,6 +135,7 @@
     
     <?php include "../includes/footer.html" ?>
     <script src="/js/resize-menu.js"></script>
+    <script src="/js/calendar-resize.js"></script>
 
   </body>
 </html>

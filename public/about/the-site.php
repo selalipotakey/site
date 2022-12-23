@@ -5,12 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>About</title>
     <link rel="stylesheet" type="text/css" href="/style.css">
-    <style>
-      header:before {
-        left: 0;
-        right: 0;
-      }
-    </style>
   </head>
 
   <body>
