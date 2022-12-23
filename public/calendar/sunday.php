@@ -87,8 +87,8 @@
           <img src="/images/2023winter/the-ballad-of-narayama-1958.jpeg" alt="The Ballad of Narayama (1958) still">
           <h2>The Ballad of Narayama (1958)</h2>
           <h3>Keisuke Kinoshita &middot; 98m &middot; 35mm</h3>
-          <p><i>The Ballad of Narayama</i> uses the art of kabuki theatre to explore the mythic practice of <i>obasute</i>—the abandonment of the elderly in a desolate place, where they are subsequently left to die. Kinuyo Tanaka plays Orin, a widow approaching 70, who accepts her fate graciously, unlike most of the village elderly. It is instead her son, Tatushei, who is reluctant to carry his aging mother up Narayama mountain.
-35mm print courtesy of the Japan Foundation.</p>
+          <p><i>The Ballad of Narayama</i> uses the art of kabuki theatre to explore the mythic practice of <i>obasute</i>—the abandonment of the elderly in a desolate place, where they are subsequently left to die. Kinuyo Tanaka plays Orin, a widow approaching 70, who accepts her fate graciously, unlike most of the village elderly. It is instead her son, Tatushei, who is reluctant to carry his aging mother up Narayama mountain.</p>
+          <p><i>35mm print courtesy of the Japan Foundation.</i></p>
           <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=AA3DA64D-37D4-49C7-81EA-1ABBC94A9D88" target="_blank">here</a></u>.</b></p>
         </div>
         
