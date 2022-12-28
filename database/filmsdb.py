@@ -2,13 +2,16 @@
 # I installed pandas using `conda install pandas` in the command line
 # also had to install openpyxl with `conda instsall openpyxl` in the command line
 import pandas as pd                             # allows excel imports
-import numpy as np
-from pprint import pprint
+from pprint import pprint                       # prints nested lists/dictionaries prettily 
 import os                                       # together with ROOT_DIR, easy way to construct file paths
 from config.definitions import ROOT_DIR         
 import pymysql                                  # allows for connection to the database using python 3
 from getpass import getpass                     # allows for a hidden password input
-import argparse                                 # builds a command line interface (CLI)
+import argparse                                 # builds a command line interface (CLI), not set up yet
+import re
+import codecs
+from datetime import datetime
+from datetime import time
 
 class connection:
     def __init__(self):
@@ -118,10 +121,10 @@ class connection:
 
     def new_screening_formatted_capsules(self, series_id, screening):
         
-        screening_film_list, showtime_list, capsule, screening_notes, image_path = screening
+        screening_film_list, showtime_list, capsule, screening_notes, image_path, ticketing_link = screening
 
-        sql_insert_screening = 'INSERT INTO `screenings` (`series_id`, `capsule`, `notes`, `image_path`) VALUES (%s, %s, %s, %s);'
-        self.cursor.execute(sql_insert_screening, (series_id, replace_nan_with_none(capsule), replace_nan_with_none(screening_notes), replace_nan_with_none(image_path)))
+        sql_insert_screening = 'INSERT INTO `screenings` (`series_id`, `capsule`, `notes`, `image_path`, `ticketing_link`) VALUES (%s, %s, %s, %s, %s);'
+        self.cursor.execute(sql_insert_screening, (series_id, replace_nan_with_none(capsule), replace_nan_with_none(screening_notes), replace_nan_with_none(image_path), replace_nan_with_none(ticketing_link)))
         self.db.commit()
         screening_id = self.cursor.lastrowid
 
@@ -251,7 +254,8 @@ CREATE TABLE IF NOT EXISTS `docfilmstest`.`films` (
   `title` VARCHAR(256) NOT NULL,
   `releaseyear` YEAR NULL,
   PRIMARY KEY (`id`),
-  INDEX `releaseyear_idx` (`releaseyear` ASC) VISIBLE)
+  INDEX `releaseyear_idx` (`releaseyear` DESC) VISIBLE,
+  INDEX `title_idx` (`title` ASC) VISIBLE)
 ENGINE = InnoDB;
     '''
 
@@ -283,6 +287,7 @@ CREATE TABLE IF NOT EXISTS `docfilmstest`.`series` (
   `notes` TEXT NULL,
   PRIMARY KEY (`id`),
   INDEX `fk_series_quarters1_idx` (`quarters_id` ASC) VISIBLE,
+  INDEX `name_idx` (`name` ASC) VISIBLE,
   CONSTRAINT `fk_series_quarters1`
     FOREIGN KEY (`quarters_id`)
     REFERENCES `docfilmstest`.`quarters` (`id`)
@@ -301,6 +306,7 @@ CREATE TABLE IF NOT EXISTS `docfilmstest`.`screenings` (
   `capsule` TEXT NULL,
   `notes` TEXT NULL,
   `image_path` VARCHAR(256) NULL,
+  `ticketing_link` VARCHAR(256) NULL,
   PRIMARY KEY (`id`),
   INDEX `fk_screenings_series_idx` (`series_id` ASC) VISIBLE,
   CONSTRAINT `fk_screenings_series`
@@ -322,7 +328,7 @@ CREATE TABLE IF NOT EXISTS `docfilmstest`.`times` (
   `showtime` TIME NULL,
   PRIMARY KEY (`id`),
   INDEX `fk_times_screenings1_idx` (`screenings_id` ASC) VISIBLE,
-  INDEX `showdate_idx` (`showdate` ASC) VISIBLE,
+  INDEX `showdate_idx` (`showdate` DESC) VISIBLE,
   CONSTRAINT `fk_times_screenings1`
     FOREIGN KEY (`screenings_id`)
     REFERENCES `docfilmstest`.`screenings` (`id`)
@@ -344,6 +350,7 @@ CREATE TABLE IF NOT EXISTS `docfilmstest`.`instances` (
   PRIMARY KEY (`id`),
   INDEX `fk_instances_films1_idx` (`films_id` ASC) VISIBLE,
   INDEX `fk_instances_screenings1_idx` (`screenings_id` ASC) VISIBLE,
+  INDEX `format_idx` (`format` ASC) VISIBLE,
   CONSTRAINT `fk_instances_films1`
     FOREIGN KEY (`films_id`)
     REFERENCES `docfilmstest`.`films` (`id`)
@@ -358,13 +365,14 @@ ENGINE = InnoDB;
     '''
 
     create_directors = '''
-    -- -----------------------------------------------------
+-- -----------------------------------------------------
 -- Table `docfilmstest`.`directors`
 -- -----------------------------------------------------
 CREATE TABLE IF NOT EXISTS `docfilmstest`.`directors` (
   `id` INT NOT NULL AUTO_INCREMENT,
   `name` VARCHAR(45) NOT NULL,
-  PRIMARY KEY (`id`))
+  PRIMARY KEY (`id`),
+  INDEX `name_idx` (`name` ASC) VISIBLE)
 ENGINE = InnoDB;
     '''
 
@@ -375,7 +383,8 @@ ENGINE = InnoDB;
 CREATE TABLE IF NOT EXISTS `docfilmstest`.`programmers` (
   `id` INT NOT NULL AUTO_INCREMENT,
   `name` VARCHAR(256) NOT NULL,
-  PRIMARY KEY (`id`))
+  PRIMARY KEY (`id`),
+  INDEX `name_idx` (`name` ASC) VISIBLE)
 ENGINE = InnoDB;
     '''
 
@@ -748,13 +757,19 @@ def format_capsules_sheet(capsules_path, quarter, year, exrows_capsules, exrows_
             print('NumberError: The number of titles for a screening is different the number of sets of directors. Format must be like: "Con Air // Goodfellas", "Joel Coen and Ethan Coen // Martin Scorcese". Screening affected is: %s'%repr(title_list))
             exit()
 
-        capsule = try_col(row, 'capsule', null_check=True).strip()
+        capsule = try_col(row, 'capsule', null_check=True)
+        if not pd.isna(capsule):
+            capsule = capsule.strip()
+
+        ticketing_link = try_col(row, 'ticketing url')
+        if not pd.isna(ticketing_link):
+            ticketing_link = ticketing_link.strip()
 
         pub_notes = try_col(row, 'public notes')
         if not pd.isna(pub_notes):
             pub_notes = pub_notes.strip()
 
-        image_path = '/images/%s%s/'%(str(year).strip(), quarter.lower())     # incomplete for now
+        image_path = '/images/%s%s/%s-%s.png'%(str(year).strip(), quarter.lower(), title_list[0].strip().lower().replace(' ', '-'), release_year_list[0])     # semi-complete
         
         showtime_list = []
         showtime_count = 0
@@ -801,7 +816,7 @@ def format_capsules_sheet(capsules_path, quarter, year, exrows_capsules, exrows_
 
             subcount += 1
         
-        screening = [new_title_list, showtime_list, capsule, pub_notes, image_path]
+        screening = [new_title_list, showtime_list, capsule, pub_notes, image_path, ticketing_link]
         screenings_dict[slot].append(screening)
     
     if len(screenings_dict) != len(series_dict):
@@ -848,6 +863,200 @@ def input_formatted_capsules(formatted_capsules):
             conn.new_screening_formatted_capsules(series_id, screening)
 
     db.close()
+
+def replace_italics(string, already_italicized=False):
+
+    if pd.isna(string):
+        return string
+
+    split_string = string.split('_')
+    if len(split_string)%2 == 0:
+        print('Error: string has one too many or one too few underscores for italics. Please check to make sure that all italics are properly replaced with underscores. String affected: %s'%string)
+        exit()
+    
+    new_string = ''
+    i = 0
+    while i < len(split_string):
+        if i%2 == 0:
+            new_string += split_string[i]
+        else:
+            if not already_italicized:
+                new_string += '<i>' + split_string[i] + '</i>'
+            else:
+                new_string += '</i>' + split_string[i] + '<i>'
+        i += 1
+
+    return new_string
+
+def create_website(formatted_capsules_sheet):
+
+    quarter, year, series_dict = formatted_capsules
+
+    calendar_dir_path = os.path.join(ROOT_DIR, '../public/calendar_files_%s_%s'%(year,quarter))
+    try:
+        os.mkdir(calendar_dir_path)
+    except FileExistsError:
+        print('FIleExistsErorr: Directory `%s` already exists! Please check to make sure you aren\'t trying to overwrite anything important. Then delete directory and try again. Exiting...'%('calendar_%s%s'%(year,quarter)))
+        exit()
+
+    for slot in series_dict:
+
+        page_name = ''
+        for piece in slot.strip().split():
+            page_name += piece.lower() + '-'
+        page_name = page_name.strip('-')
+        if 'special event' in slot.lower():
+            page_name = 'special-events'
+        page_name += '.php'
+
+        series_title, programmer_list, essay, series_notes = replace_italics(series_dict[slot][0]), series_dict[slot][1], replace_italics(series_dict[slot][2]), replace_italics(series_dict[slot][3])
+
+        series_html_title = slot
+        slot_name = series_html_title.upper() + ' - '
+        if 'special event' in series_html_title.lower():
+            series_html_title = 'Special Events'
+            slot_name = 'SPECIAL EVENTS'
+            series_title = ''
+
+        if not isinstance(programmer_list, list) and pd.isna(programmer_list):
+            programmer = ''
+        elif len(programmer_list) == 1:
+            programmer = '<h3>Programmed by: ' + programmer_list[0] + '</h3>'
+        elif len(programmer_list) == 2:
+            programmer = '<h3>Programmed by: ' + programmer_list[0] + ' and ' + programmer_list[1] + '</h3>'
+        elif len(programmer_list) > 2:
+            programmer = '<h3>Programmed by: '
+            for programmer_entry in programmer_list[:-1]:
+                programmer += programmer_entry + ', '
+            programmer += 'and ' + programmer_list[-1] + '</h3>'
+
+        f = codecs.open(os.path.join(calendar_dir_path, page_name), 'w', 'utf-8')
+        
+        f.write('''<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>%s</title>
+    <link rel="stylesheet" type="text/css" href="/style.css">
+  </head>
+
+  <body>
+    
+    <?php include $_SERVER['DOCUMENT_ROOT'] . "/includes/header.html" ?>
+  
+    <main>
+
+      <?php include $_SERVER['DOCUMENT_ROOT'] . "/includes/dropdown.html" ?>
+
+      <div class="screenings-list">
+
+        <div class="text-section">
+          <h1>%s%s</h1>
+          %s'''%(series_html_title, slot_name, series_title, programmer))
+
+        if not pd.isna(essay):
+            essay_paragraphs = re.findall(r'.+', essay)
+            for essay_paragraph in essay_paragraphs:
+                f.write('''
+
+            <p>%s</p>'''%essay_paragraph)
+        if not pd.isna(series_notes):
+            f.write('''
+            
+            <p><b>%s</b></p>'''%replace_italics(series_notes))
+
+        f.write('''
+        </div>
+        ''')
+
+        def ordinalize_date(myDate):
+                date_suffix = ["th", "st", "nd", "rd"]
+
+                if myDate % 10 in [1, 2, 3] and myDate not in [11, 12, 13]:
+                    return str(myDate) + date_suffix[myDate % 10]
+                else:
+                    return str(myDate) + date_suffix[0]
+
+        for screening in series_dict[slot][-1]:
+            screening_title_list, showtime_list, capsule, pub_notes, image_path, ticketing_link = screening
+            capsule = replace_italics(capsule)
+
+            title_string, director_string, runtime_string, format_list = '', '', '', []
+            for screening_title in screening_title_list:
+                title, director_list, format, release_year, runtime = screening_title
+                title_string += '%s (%s) // '%(title, release_year)
+                runtime_string += str(runtime) + 'm // '
+                format_list.append(format)
+                if len(director_list) == 1:
+                    director_string += director_list[0] + ' // '
+                elif len(director_list) == 2:
+                    director_string += director_list[0] + ' and ' + director_list[1] + ' // '
+                elif len(director_list) > 2:
+                    for director in director_list[:-1]:
+                        director_string += director + ', '
+                    director_string += 'and ' + director_list[-1] + ' // '
+            title_string = title_string.strip(' // ').strip()
+            director_string = director_string.strip(' // ').strip()
+            runtime_string = runtime_string.strip(' // ').strip()
+
+
+            showtime_string = ''
+            for showtime_tuple in showtime_list:
+                showdate = datetime.strptime(showtime_tuple[0], '%Y-%m-%d').date()
+                showtime = datetime.strptime(showtime_tuple[1], '%H:%M:%S').time()
+                showtime_string += f'{showtime:%I}:{showtime:%M}{showtime:%p} {showdate:%A}, {showdate:%B} {ordinalize_date(showdate.day)}'.lstrip("0").replace(" 0", " ")
+                showtime_string += ', '
+            showtime_string = showtime_string.strip(', ').strip()
+                
+            format_string = ''
+            def all_equal(iterator):
+                iterator = iter(iterator)
+                try:
+                    first = next(iterator)
+                except StopIteration:
+                    return True
+                return all(first == x for x in iterator)
+            if all_equal(format_list):
+                format_string += format_list[0]
+            else:
+                for format_element in format_list:
+                    format_string += format_element + ' // '
+            format_string = format_string.strip(' // ' ).strip()
+
+            pub_notes_string = ''
+            if not pd.isna(pub_notes):
+                pub_notes_string = '''
+          <p><i>%s</i></p>'''%replace_italics(pub_notes, already_italicized=True)
+            ticketing_string = ''
+            if not pd.isna(ticketing_link):
+                ticketing_string = '''
+          <p><b>Tickets can be bought <u><a href="%s" target="_blank">here</a></u>.</b></p>'''%ticketing_link
+            
+            f.write('''
+        <div class="screening">
+          <h1>%s</h1>
+          <img src="%s" alt="%s still">
+          <h2>%s</h2>
+          <h3>%s &middot; %s &middot; %s</h3>
+          <p>%s</p>%s%s
+        </div>
+        '''%(showtime_string, image_path, title_string, title_string, director_string, runtime_string, format_string, capsule, pub_notes_string, ticketing_string))
+
+        f.write('''
+      </div>
+      
+    </main>
+    
+    <?php include $_SERVER['DOCUMENT_ROOT'] . "/includes/footer.html" ?>
+    <script src="/js/resize-menu.js"></script>
+
+  </body>
+</html>''')
+
+        f.close()
+
+    return
 
 # formats archived screenings spreadsheet for database input
 def format_archived_screenings(sheetpath):
@@ -903,15 +1112,15 @@ def format_archived_screenings(sheetpath):
     print(sans_series_list)
     return screenings_dict
 
-# def main():
-#     parser = argparse.ArgumentParser(description='A command line program that communicates to Doc\'s filmsdb database to modify existing tables, add new series, mass-input prior screenings, and more.')
-
-#     args = parser.parse_args()
-
 
 if __name__ == "__main__":
-    # main()
 
+    quarter, year, exrows_capsules, exrows_series, capsules_path = 'Winter', 2023, 2, 1, r'C:\Users\camer\docfilms-github\site\database\capsules_spreadsheets\Winter 2023 Capsules Unfinished.xlsx'
+    formatted_capsules = format_capsules_sheet(capsules_path, quarter, year, exrows_capsules, exrows_series)
+    create_website(formatted_capsules)
+
+    exit()
+    
     # format_archived_screenings(r'C:\Users\camer\docfilms-github\site\database\2022-09-05-archive-screenings-for-database.xlsx')
 
     droptables()
@@ -929,221 +1138,3 @@ if __name__ == "__main__":
         quarter, year, exrows_capsules, exrows_series, capsules_path = capsule_tuple
         formatted_capsules = format_capsules_sheet(capsules_path, quarter, year, exrows_capsules, exrows_series)
         input_formatted_capsules(formatted_capsules)
-
-
-
-def inputcaps_historic(sheetpath, quarter, year, exrows):
-    # Attempts to turn a pre-Summer 2022 capsules spreadsheet located at sheetpath
-    # into a pandas dataframe. Handles exceptions if errors are raised.
-    # A pre-Summer 2022 spreadsheet is one without a separate sheet for series essays
-    caps_df = make_df(sheetpath)
-
-    #initializes dictionary containing each series
-    series_dict = {}
-
-    count = 0
-    # iterates over all rows in the dataframe (i.e. spreadsheet)
-    for index, row in caps_df.iterrows():
-        # count allows us to skip over example rows
-        count+=1
-        if count <= exrows:
-            continue
-        
-        # assigns the series title to a variable, handles not finding a series column
-        series_title = str(try_col(row, 'series', null_check=True)).strip()
-
-        # inputs series information into dict if not present
-        if not series_title in series_dict:
-            # assigns programmer to a variable, handles not finding a programmer column
-            programmer = try_col(row, 'programmer', null_suggest=True, series=series_title) 
-
-            # assigns slot to a variable, handles not finding a slot column
-            slot = try_col(row, 'slot', null_suggest=True, series=series_title)
-
-            # actual lines that inputs the series data into the dict
-            series_dict[slot] = [series_title, programmer, []]
-        
-        # assigns last element of the list containg the series as the list of the titles in the series
-        title_list = series_dict[series_title][-1]
-
-        # assigns title, director, and year to variables. Handles nulls
-        title = try_col(row, 'title', null_check=True)
-        director = try_col(row, 'director', null_check=True)
-        release_year = try_col(row, 'year', null_check=True)
-
-        # assigns runtime, format, and public notes to variables
-        runtime = format_value('runtime', try_col(row, 'runtime'))
-        format = try_col(row, 'format')
-        capsule = repr(try_col(row, 'capsule'))
-        pub_notes = try_col(row, 'public notes')
-
-        # inputs that info into the title_list
-        title_list.append([title, director, release_year, runtime, format, capsule, pub_notes, []])
-
-        showtime_count = 0
-        while True:
-            showtime_count += 1
-            try:
-                showdate = row['showdate%s'%str(showtime_count)]
-                showtime = row['showtime%s'%str(showtime_count)]
-                if (pd.isna(showdate) or len(str(showdate).strip()) < 1) or (pd.isna(showtime) or len(str(showtime).strip()) < 1):
-                    continue
-                showdate = showdate.strftime('%Y-%m-%d')
-                showtime = showtime.strftime('%H:%M:%S')
-                title_list[-1][-1].append((showdate, showtime))
-            except KeyError:
-                break
-    
-    conn = connection()
-    conn.get_creds()
-    db = conn.open_conn()
-    conn.get_cursor()
-
-    quarter_id = conn.new_quarter(quarter, year)
-
-    for series in series_dict:
-        series_id = conn.new_series(quarter_id, series, series_programmer=series_dict[series][0], series_slot=series_dict[series][1])
-        print('%s: %s'%(series, series_id))
-
-    db.close()
-    exit()
-
-def pprint_inputcaps_historic(dict):
-    # helps to check if inputcaps_historic is working
-    # by printing out a 'pretty' version of the formatted dict
-    f = open('pprint_inputcaps_historic.out', 'w', encoding="utf-8")
-    for series in dict:
-        f.write('%s: %s, %s\n'%(series, dict[series][0], dict[series][1]))
-        for title in dict[series][-1]:
-            count = -1
-            time_string = ''
-            while True:
-                count += 1
-                try:
-                    title[-1][count]
-                    time_string += '%s at %s, '%(title[-1][count][0], title[-1][count][1])
-                except IndexError:
-                    break
-            f.write('\t%s, by %s, %s, %smin, %s, %s, %s, %s\n'%(title[0], title[1], title[2], title[3], title[4], title[5], title[6], time_string))
-    f.close()
-
-def extra():
-    # YOU MUST INITIALIZE THE VARIABLES BELOW EACH TIME YOU RUN THIS PROGRAM
-    # input the name of the .xlsx spreadsheet and its containing folder that you are seeking to format
-    spreadsheet_name = 'Spring-2022-Capsules.xlsx'
-    containing_directory = 'capsules_spreadsheets'
-    quarter = 'Spring' # use 'Fall' and NOT 'Autumn'
-    year = '2022'
-    # input the number of example rows in the capsules spreadsheet. MAKE SURE TO CHANGE THIS IF IT CHANGES
-    example_rows = 2
-    # input the maximum number of repeat screenings of a single title per quarter
-    max_repeats = 0
-
-    print(os.path.join(ROOT_DIR, containing_directory, spreadsheet_name))
-    # creates a pandas dataframe from the spreadsheet
-    # os.path.join is used to create the path name for the spreadsheet
-    capsules_dataframe = pd.read_excel(os.path.join(ROOT_DIR, containing_directory, spreadsheet_name))
-
-    #initializes dictionary containing each series
-    series_dictionary = {}
-
-    count = 0
-    # iterates over all rows in the dataframe (i.e. spreadsheet)
-    for index, row in capsules_dataframe.iterrows():
-        # count allows us to skip over example rows
-        count+=1
-        if count <= example_rows:
-            continue
-        series_title = row['series']
-        # checks and handles for NaNs in series column
-        if pd.isna(series_title) or len(str(series_title).strip()) < 1:
-            print('TypeError: cells in the \'series\' column of ' + spreadsheet_name + ' contain blanks/nulls')
-            exit()
-        series_title = str(series_title).strip()
-        # inputs series information into a dictionary
-        if not series_title in series_dictionary:
-            series_dictionary[series_title] = [row['programmer'], row['slot'], quarter, year, []]
-        title_list = series_dictionary[series_title][-1]
-        # checks and handles for title, director, and year column (essential columns)
-        if pd.isna(row['title']) or pd.isna(row['director']) or pd.isna(row['year']):
-            print('TypeError: either \'title\', \'director\', or \'year\' are null/blank. Please check ' + spreadsheet_name + ' that all titles, directors, and years present')
-        if pd.isna(row['runtime']):
-            row['runtime'] = 'None found'
-        if pd.isna(row['format']):
-            row['format'] = 'None found'
-        if pd.isna(row['public notes']):
-            row['public notes'] = 'None'
-        # inputs information on titles in a series
-        title_list.append([row['title'], row['director'], str(int(row['year'])), row['runtime'], row['format'], row['public notes'], int(row['showdate1'].strftime('%m%d')), int(row['showtime1'].strftime('%H%M'))])
-        # inputs screening date and time into title list
-        for i in range(max_repeats-1):
-            num = i+2
-            showdate = 'showdate' + str(num)
-            showtime = 'showtime' + str(num)
-            if pd.isna(row[showdate]) and pd.isna(row[showtime]):
-                continue
-            title_list[-1][5] = title_list[-1][5] + "  -- repeated on " + row[showdate].strftime('%m/%d') + " at " + row[showtime].strftime('%H:%M')
-
-    num_screenings = 0
-    for series_item in series_dictionary:
-        num_screenings += len(series_dictionary[series_item][-1])
-
-
-    # sanity check on number of series you're inputting
-    print("\nNumber of series ready to input: " + str(len(series_dictionary)))
-    print("\nNumber of screenings to input: " + str(num_screenings))
-    answer = input("\nReady to input these titles into the database? [y/n]: ")
-    if answer.lower() == 'y' or answer.lower() == 'yes':
-        pass
-    elif answer.lower() == 'n' or answer.lower() == 'no':
-        exit()
-    else:
-        print('Cannot understand response. Exiting now')
-        exit()
-
-    # asks for inputs for these four variables through command line pop-up
-    db_server = input("Input database server: ")
-    db_user = input("Input username: ")
-    db_pass = input("Input password: ")
-    db_name = input("Input database name: ")
-
-    # initializes connection and cursor to interact with the database
-    db = pymysql.connect(host=db_server, user=db_user, password=db_pass, database=db_name)
-    cursor = db.cursor()
-
-    for series_item in series_dictionary:
-        series_programmer = series_dictionary[series_item][0]
-        series_slot = series_dictionary[series_item][1]
-        series_quarter = series_dictionary[series_item][2]
-        series_year = series_dictionary[series_item][3]
-
-        # prevents repeat rows in the series table, inserts series if no repeats
-        query_is_series_in_db = 'SELECT 1 FROM series WHERE series.name = "%s" AND series.programmer = "%s" AND series.slot = "%s" AND series.quarter = "%s" AND series.year = "%s";'%(series_item, series_programmer, series_slot, series_quarter, series_year)
-        if int(cursor.execute(query_is_series_in_db)) == 1:
-            print('Series titled: _' + series_item + '_ already exits! Will not insert again. If you need to override/modify the screening data of this particular series, access the database via phpMyAdmin and delete the series and all child records, then run this module again\n')
-            continue
-        elif int(cursor.execute(query_is_series_in_db)) == 0:
-            insert_series = 'INSERT INTO series (series.name, series.programmer, series.slot, series.quarter, series.year) VALUES ("%s", "%s", "%s", "%s", "%s");'%(series_item, series_programmer, series_slot, series_quarter, series_year)
-            print(insert_series)
-            cursor.execute(insert_series)
-            db.commit()
-
-            query_series_id = 'SELECT id FROM series WHERE series.name = "%s" AND series.programmer = "%s" AND series.slot = "%s" AND series.quarter = "%s" AND series.year = "%s";'%(series_item, series_programmer, series_slot, series_quarter, series_year)
-            cursor.execute(query_series_id)
-            series_id = cursor.fetchone()[0]
-
-        for title_item in series_dictionary[series_item][-1]:
-            movie_title = title_item[0]
-            movie_director = title_item[1]
-            movie_year = title_item[2]
-            movie_runtime = title_item[3]
-            movie_format = title_item[4]
-            movie_notes = title_item[5]
-            movie_date = title_item[6]
-            movie_time = title_item[7]
-            insert_films = 'INSERT INTO films (films.series_id, films.title, films.director, films.year, films.runtime, films.format, films.notes, films.date, films.time) VALUES (%s, "%s", "%s", "%s", "%s", "%s", "%s", %s, %s);'%(series_id, movie_title, movie_director, movie_year, movie_runtime, movie_format, movie_notes, movie_date, movie_time)
-            cursor.execute(insert_films)
-            db.commit()
-
-    # closes connection
-    db.close()
