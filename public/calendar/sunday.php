@@ -97,7 +97,7 @@
           <img src="/images/2023winter/the-cremator-1969.jpeg" alt="The Cremator (1969) still">
           <h2>The Cremator (1969)</h2>
           <h3>Juraj Herz &middot; 95m &middot; DCP</h3>
-          <p>Juraj Herz's deeply unsettlingly second film follows Karel Kopfrkingl (Rudolf Hrušínský), a crematorium worker in Prague who descends into madness while Europe is launched into World War II. Before the war, Karel takes pride in his work, citing Tibetan Buddhist ideas to justify his 'liberation' of the dead. Brilliantly creepy camerawork accentuates Karel's evil mania when the Nazis recruit him to 'liberate' more souls—even those the very closest to him.</p>
+          <p>Juraj Herz's deeply unsettling second film follows Karel Kopfrkingl (Rudolf Hrušínský), a crematorium worker in Prague who descends into madness while Europe is launched into World War II. Before the war, Karel takes pride in his work, citing Tibetan Buddhist ideas to justify his 'liberation' of the dead. Brilliantly creepy camerawork accentuates Karel's evil mania when the Nazis recruit him to 'liberate' more souls—even those the very closest to him.</p>
           <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=AE34A26E-6DB0-4C7B-B360-FA9F9B0477C0" target="_blank">here</a></u>.</b></p>
         </div>
         
