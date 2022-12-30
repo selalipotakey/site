@@ -20,6 +20,97 @@
         
         <h1><u>Winter 2022</u></h1>
 
+        <div class="series-list">
+
+          <div class="series-tile">
+            <a href="/archive/2022-series/winter/monday"><img src="/images/2022winter/series_stills/harlan-county-usa-1976.png" alt="HARLAN COUNTY USA still"></a>
+            <div class="series-text">
+              <a href="/archive/2022-series/winter/monday">
+                <p class="day">Monday</p>
+                <p class="title">Which Side Are You On? Labor and Collective Action On Film</p>
+              </a>
+              <p class="programmer">John Kaderbek and Katerina Korola</p>
+            </div>
+          </div>
+
+          <div class="series-tile reverse">
+            <a href="/archive/2022-series/winter/tuesday"><img src="/images/2022winter/series_stills/the-connection-1962.jpeg" alt="THE CONNECTION still"></a>
+            <div class="series-text">
+              <a href="/archive/2022-series/winter/tuesday">
+                <p class="day">Tuesday</p>
+                <p class="title">Nights of the Swingers! Jazz in Film</p>
+              </a>
+              <p class="programmer">John Litweiler</p>
+            </div>
+          </div>
+
+          <div class="series-tile">
+            <a href="/archive/2022-series/winter/wednesday"><img src="/images/2022winter/series_stills/dracula-pages-from-a-virgins-diary-2002.jpg" alt="DRACULA PAGES FROM A VIRGINS DIARY still"></a>
+            <div class="series-text">
+              <a href="/archive/2022-series/winter/wednesday">
+                <p class="day">Wednesday</p>
+                <p class="title">A Guy Maddin Retrospective…</p>
+              </a>
+              <p class="programmer">Penny Folger</p>
+            </div>
+          </div>
+
+          <div class="series-tile reverse">
+            <a href="/archive/2022-series/winter/thursday-1"><img src="/images/2022winter/series_stills/raising-arizona-1987.jpg" alt="RAISING ARIZONA still"></a>
+            <div class="series-text">
+              <a href="/archive/2022-series/winter/thursday-1">
+                <p class="day">Thursday I</p>
+                <p class="title">Keanu and Nic’s Excellent Adventure</p>
+              </a>
+              <p class="programmer">Ciara Cronin, Michael Martinez, and Rachel Vigil</p>
+            </div>
+          </div>
+
+          <div class="series-tile">
+            <a href="/archive/2022-series/winter/thursday-2"><img src="/images/2022winter/series_stills/the-bird-people-in-china-1998.jpg" alt="THE BIRD PEOPLE IN CHINA still"></a>
+            <div class="series-text">
+              <a href="/archive/2022-series/winter/thursday-2">
+                <p class="day">Thursday II</p>
+                <p class="title">No Love in Your Violence: A Takashi Miike Retrospective</p>
+              </a>
+              <p class="programmer">Eric-Antonio Guzman</p>
+            </div>
+          </div>
+
+          <div class="series-tile reverse">
+            <a href="/archive/2022-series/winter/friday"><img src="/images/2022winter/series_stills/a-flower-in-hell-1958.jpeg" alt="A FLOWER IN HELL still"></a>
+            <div class="series-text">
+              <a href="/archive/2022-series/winter/friday">
+                <p class="day">Friday</p>
+                <p class="title">Classics of South Korean Cinema</p>
+              </a>
+              <p class="programmer">William Carroll</p>
+            </div>
+          </div>
+
+          <div class="series-tile">
+            <a href="/archive/2022-series/winter/saturday"><img src="/images/2022winter/series_stills/the-french-dispatch-2021.jpg" alt="THE FRENCH DISPATCH still"></a>
+            <div class="series-text">
+              <a href="/archive/2022-series/winter/saturday">
+                <p class="day">Saturday</p>
+                <p class="title">C'doc C'doc: New Releases</p>
+              </a>
+            </div>
+          </div>
+
+          <div class="series-tile reverse">
+            <a href="/archive/2022-series/winter/sunday"><img src="/images/2022winter/series_stills/india-song-1975.jpg" alt="INDIA SONG still"></a>
+            <div class="series-text">
+              <a href="/archive/2022-series/winter/sunday">
+                <p class="day">Sunday</p>
+                <p class="title">Destroy, She Said: A Marguerite Duras Retrospective</p>
+              </a>
+              <p class="programmer">Zachary Vanes</p>
+            </div>
+          </div>
+
+        </div>
+
         <h1><u>Spring 2022</u></h1>
 
         <div class="series-list">
@@ -122,6 +213,8 @@
 
         </div>
 
+        <br><br><br><br><br><br>
+
         <h1><u>Summer 2022</u></h1>
 
         <div class="series-list">
@@ -158,6 +251,8 @@
           </div>
 
         </div>
+
+        <br><br><br><br><br><br>
 
         <h1><u>Autumn 2022</u></h1>
 
