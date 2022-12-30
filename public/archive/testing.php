@@ -117,7 +117,7 @@
       <div class="information">
 
         <h1>Calendar Archive</h1>
-        <p>Doc archives past calendars' series pages. Please use the links below to see browse past programs, and use the screening database to search for specific films or directors.</p>
+        <p>Doc archives past calendars' series pages. Please use the links below to browse past programs, and use the screening database to search for specific films or directors.</p>
 
         <br>
 
@@ -128,6 +128,8 @@
         <br>
 
         <h1><a href="/archive/testing"><u>Screening Database</u></a></h1>
+        <p><i>*Note: the screening database catalogues screenings from Fall 2021 through Fall 2022. It is not optimized for searching on mobile.</i></p>
+        <br>
 
         <form class="database-query" method="GET">
           <input type="text" name="simple-query"/>
