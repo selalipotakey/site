@@ -116,13 +116,24 @@
 
       <div class="information">
 
+        <h1>Calendar Archive</h1>
+        <p>Doc archives past calendars' series pages. Please use the links below to see browse past programs, and use the screening database to search for specific films or directors.</p>
+
+        <br>
+
+        <p><a href="/archive/2022-series/"><u>2022 series</u></a></p>
+        <p><a href="/archive/2021-series/"><u>2021 series</u></a></p>
+        <p><a href="https://docfilms.uchicago.edu/dev/calendar/archive.shtml" target="_blank"><u>2013 through 2020 series</u></a></p>
+
+        <br>
+
         <h1><a href="/archive/testing"><u>Screening Database</u></a></h1>
 
         <form class="database-query" method="GET">
           <input type="text" name="simple-query"/>
           <select name="simple-field" id="simple-search-select">
-            <option value="films.title" <?php if ($_GET['simple-field']=="films.title") {echo "selected='selected'"; } ?>>Film Title</option>
-            <option value="directors.name" <?php if ($_GET['simple-field']=="directors.name") {echo "selected='selected'"; } ?>>Director</option>
+            <option value="films.title" <?php if ($_GET and $_GET['simple-field']=="films.title") {echo "selected='selected'"; } ?>>Film Title</option>
+            <option value="directors.name" <?php if ($_GET and $_GET['simple-field']=="directors.name") {echo "selected='selected'"; } ?>>Director</option>
           </select>
           <input type="submit" value="Search"/>
         </form>

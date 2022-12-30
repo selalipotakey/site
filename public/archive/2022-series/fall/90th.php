@@ -19,11 +19,11 @@
 
   <body>
     
-    <?php $version='1.1'; include "./includes/header.html";?>
+    <?php $version='1.1'; include $_SERVER['DOCUMENT_ROOT'] . "/includes/header.html";?>
   
     <main>
 
-      <?php $version='1.1'; include "./includes/dropdown.html";?>
+      <?php $version='1.1'; include $_SERVER['DOCUMENT_ROOT'] . "/includes/dropdown.html";?>
 
       <div class="splash">
         <img style="padding-bottom: .5rem;" src="/images/2022fall/series_stills/hitchcock-at-doc.jpg" alt="Hitchcock at Doc Films">
@@ -141,7 +141,7 @@
       
     </main>
     
-    <?php include "./includes/footer.html" ?>
+    <?php include $_SERVER['DOCUMENT_ROOT'] . "/includes/footer.html" ?>
     <script src="/js/resize-menu.js"></script>
 
   </body>
