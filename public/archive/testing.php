@@ -129,13 +129,14 @@
 
         <h1><a href="/archive/testing"><u>Screening Database</u></a></h1>
         <p><i>*Note: the screening database catalogues screenings from Fall 2021 through Fall 2022. It is not optimized for searching on mobile.</i></p>
+
         <br>
 
         <form class="database-query" method="GET">
-          <input type="text" name="simple-query"/>
-          <select name="simple-field" id="simple-search-select">
-            <option value="films.title" <?php if ($_GET and $_GET['simple-field']=="films.title") {echo "selected='selected'"; } ?>>Film Title</option>
-            <option value="directors.name" <?php if ($_GET and $_GET['simple-field']=="directors.name") {echo "selected='selected'"; } ?>>Director</option>
+          <input type="text" placeholder="Enter your query..."name="query"/>
+          <select name="field" id="simple-search-select">
+            <option value="films.title" <?php if ($_GET and $_GET['field']=="films.title") {echo "selected='selected'"; } ?>>Film Title</option>
+            <option value="directors.name" <?php if ($_GET and $_GET['field']=="directors.name") {echo "selected='selected'"; } ?>>Director</option>
           </select>
           <input type="submit" value="Search"/>
         </form>
@@ -166,7 +167,6 @@
               }
               return NULL;
             }
-
             function format_showdate($row_showdate) {
               $showdate_array = explode(', ', $row_showdate);
               echo date("m/d/y", strtotime($showdate_array[0]));
@@ -183,8 +183,8 @@
 
             require_once $_SERVER['DOCUMENT_ROOT'] . '/connection.php';
             if ($_GET) {
-                $simple_field = $_GET['simple-field'];
-                $simple_query = "%{$_GET['simple-query']}%";
+                $simple_field = $_GET['field'];
+                $simple_query = "%{$_GET['query']}%";
 
                 
                 if ($simple_field == "films.title") {
@@ -237,8 +237,8 @@
                         </thead>
                         <tbody>';
                         while ($row = mysqli_fetch_assoc($result_films)) {
-                            echo '<tr>
-                              <td>' . $row['film_title'] . '</td>
+                            echo "<tr>
+                              <td><a href=/archive/screening?screening_id={$row['screening_id']}&query={$_GET['query']}&field={$_GET['field']}><u>" . $row['film_title'] . '</a></u></td>
                               <td>' . $row['release_year'] . '</td>
                               <td>';
                               

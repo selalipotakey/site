@@ -9,11 +9,11 @@
 
   <body>
     
-    <?php include "../includes/header.html" ?>
+    <?php include $_SERVER['DOCUMENT_ROOT'] . "//includes/header.html" ?>
   
     <main>
 
-      <?php include "../includes/dropdown.html" ?>
+      <?php include $_SERVER['DOCUMENT_ROOT'] . "/includes/dropdown.html" ?>
 
       <div class="information" style="text-align: center">
         <h1>Under construction...</h1>
@@ -21,7 +21,7 @@
         
     </main>
     
-    <?php include "../includes/footer.html" ?>
+    <?php include $_SERVER['DOCUMENT_ROOT'] . "/includes/footer.html" ?>
     <script src="/js/resize-menu.js"></script>
 
   </body>
