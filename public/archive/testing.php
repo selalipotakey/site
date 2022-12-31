@@ -216,6 +216,7 @@
                     INNER JOIN
                       (SELECT
                         `series`.`name` AS series_name, 
+                        `series`.`id` as series_id,
                         `screenings`.`id` AS screening_id,
                         GROUP_CONCAT(DISTINCT `times`.`showdate` ORDER BY `times`.`showdate` ASC SEPARATOR ", ") AS showdate
                       FROM `screenings`
@@ -246,7 +247,7 @@
                         while ($row = mysqli_fetch_assoc($result_films)) {
                             $encoded_get_query = urlencode($_GET['query']);
                             echo "<tr>
-                              <td><a href=/archive/screening?screening_id={$row['screening_id']}&query={$encoded_get_query}&field={$_GET['field']}><u>" . $row['film_title'] . '</a></u></td>
+                              <td><a href=/archive/screening?screening_id={$row['screening_id']}&query={$encoded_get_query}&field={$_GET['field']}><u>" . $row['film_title'] . '</u></a></td>
                               <td>' . $row['release_year'] . '</td>
                               <td>';
                               
@@ -261,7 +262,7 @@
                               <td>' . $row['format'] . '</td>
                               <td>';
                               
-                              echo $row['series_name'];
+                              echo "<a href=/archive/series?series_id={$row['series_id']}&query={$encoded_get_query}&field={$_GET['field']}><u>" . $row['series_name'] . '</u></a>';
                               
                               echo '</td>
                             </tr>';

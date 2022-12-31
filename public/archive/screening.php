@@ -21,8 +21,12 @@
 
           require_once $_SERVER['DOCUMENT_ROOT'] . '/../database/scripts.php';
 
-          $encoded_get_query = urlencode($_GET["query"]);
-          echo "<a href='/archive/testing?query={$encoded_get_query}&field={$_GET["field"]}'><p><u><i>Return to search</i></u></p></a><br>";
+          if (array_key_exists("query", $_GET) and array_key_exists("field", $_GET)) {
+            $encoded_get_query = urlencode($_GET["query"]);
+            echo "<a href='/archive/testing?query={$encoded_get_query}&field={$_GET["field"]}'><p><u><i>Return to search</i></u></p></a><br>";
+          } else {
+            echo "<a href='/archive/testing'><p><u><i>Return to search</i></u></p></a><br>";
+          }
 
           $screening_id = $_GET['screening_id'];
 
@@ -34,6 +38,7 @@
                 GROUP_CONCAT(`t2`.`runtime` SEPARATOR " // ") as runtime,
                 screening_id,
                 series_name,
+                series_id,
                 capsule,
                 notes,
                 image_path,
@@ -58,6 +63,7 @@
             INNER JOIN
             (SELECT
                 `series`.`name` AS series_name, 
+                `series`.`id` AS series_id,
                 `screenings`.`id` AS screening_id,
                 `screenings`.`capsule` AS capsule,
                 `screenings`.`notes` AS notes,
@@ -74,7 +80,8 @@
                         `times`.`screenings_id` as times_screening_id  
                     FROM `times`) t5
                 GROUP BY times_screening_id) t4
-            on t3.screening_id = times_screening_id';
+            on t3.screening_id = times_screening_id
+            GROUP BY screening_id';
 
             $stmt = $mysqli->prepare($screening_query);
             $stmt->bind_param('s', $screening_id);
