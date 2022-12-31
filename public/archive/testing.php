@@ -11,6 +11,8 @@
           flex-flow: row wrap;
           align-items: center;
           width: 100%;
+          line-height: 1.5;
+          font-size: 1.8rem;
         }
         .database-query input[type=text] {
           box-sizing: border-box;
@@ -20,6 +22,9 @@
           border-right: .125rem solid #000000;
           border-radius: 0px;
           background-color: #ffffff;
+          padding: 0rem .5rem;
+          line-height: 1.5;
+          font-size: 1.8rem;
         }
         .database-query input[type=text]:focus {
           outline: none;
@@ -32,6 +37,8 @@
           border-left: .125rem solid #000000;
           border-right: .125rem solid #000000;
           border-radius: 0rem;
+          line-height: 1.5;
+          font-size: 1.8rem;
         }
         .database-query select:focus {
           outline: none;
@@ -43,6 +50,8 @@
           background-color: #ffffff;
           border: .25rem solid #000000;
           border-left: .125rem solid #000000;
+          line-height: 1.5;
+          font-size: 1.8rem;
         }
         .database-query input[type=submit]:hover, input[type=submit]:focus {
           outline: none;
@@ -51,10 +60,8 @@
           cursor: pointer;
         }
 
-
-
         ul.query-results {
-            list-style: none;
+          list-style: none;
         }
 
         table.query-results-films {
@@ -74,10 +81,10 @@
           width: 30%;
         }
         thead th:nth-child(2) {
-          width: 7%;
+          width: 10%;
         }
         thead th:nth-child(3) {
-          width: 17%;
+          width: 15%;
         }
         thead th:nth-child(4) {
           width: 17%;
@@ -133,7 +140,7 @@
         <br>
 
         <form class="database-query" method="GET">
-          <input type="text" placeholder="Enter your query..."name="query"/>
+          <input type="text" placeholder="Enter your query..." name="query" value="<?php if (isset($_GET['query'])) echo $_GET['query']; ?>"/>
           <select name="field" id="simple-search-select">
             <option value="films.title" <?php if ($_GET and $_GET['field']=="films.title") {echo "selected='selected'"; } ?>>Film Title</option>
             <option value="directors.name" <?php if ($_GET and $_GET['field']=="directors.name") {echo "selected='selected'"; } ?>>Director</option>
@@ -181,7 +188,7 @@
               return NULL;
             }
 
-            require_once $_SERVER['DOCUMENT_ROOT'] . '/connection.php';
+            require_once $_SERVER['DOCUMENT_ROOT'] . '/../database/scripts.php';
             if ($_GET) {
                 $simple_field = $_GET['field'];
                 $simple_query = "%{$_GET['query']}%";
@@ -237,8 +244,9 @@
                         </thead>
                         <tbody>';
                         while ($row = mysqli_fetch_assoc($result_films)) {
+                            $encoded_get_query = urlencode($_GET['query']);
                             echo "<tr>
-                              <td><a href=/archive/screening?screening_id={$row['screening_id']}&query={$_GET['query']}&field={$_GET['field']}><u>" . $row['film_title'] . '</a></u></td>
+                              <td><a href=/archive/screening?screening_id={$row['screening_id']}&query={$encoded_get_query}&field={$_GET['field']}><u>" . $row['film_title'] . '</a></u></td>
                               <td>' . $row['release_year'] . '</td>
                               <td>';
                               
@@ -338,6 +346,7 @@
                 }
 
             }
+            $mysqli->close();
         ?>
 
         <!-- <h3>Using the Database</h3>
