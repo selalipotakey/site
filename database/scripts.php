@@ -137,6 +137,7 @@
         }
         echo "<h1 style='padding-bottom: 0;'>{$formatted_showdate}</h1>";
 
+        // need to standardize image paths before adding this in.
         // echo "<img src='/images/2023winter/the-strange-love-of-martha-ivers-1946.jpg' alt='The Strange Love of Martha Ivers (1946) still'>"; // take out the style=padding above and below when putting back in the image.
 
         $film_year_line = format_title_year($row['film_title'], $row['release_year']);
@@ -252,6 +253,314 @@
         }
 
         echo '</div>';
+
+        return NULL;
+    }
+
+    function load_simple_query($mysqli_object, $sql_query, $query_value) {
+        $stmt = $mysqli_object->prepare($sql_query);
+        $stmt->bind_param('s', $query_value);
+        $msc = microtime(true);
+        $stmt->execute();
+        $msc = round(microtime(true)-$msc, 3);
+        $result = $stmt->get_result();
+        $stmt->close();
+        $result_num_rows = $result->num_rows;
+        echo "<p>Fetched {$result_num_rows} result(s) in {$msc} seconds.</p>";
+        return array($result, $result_num_rows);
+    }
+    function format_showdate_table_films($row_showdate) {
+        $showdate_array = explode(' // ', $row_showdate);
+        $showdate_string = "";
+        $i = 0;
+        while ($i < count($showdate_array)) {
+            $showdate_string .= date("n/d/y", strtotime($showdate_array[$i])) . '; ';
+            $i++;
+        }
+        $showdate_string = substr($showdate_string, 0, -2);
+        return $showdate_string;
+    }
+    function format_names_table_films($row_names) {
+        $names_array = explode(' // ', $row_names);
+
+        $names_string = $names_array[0];
+        $i = 1;
+        while ($i < count($names_array) - 1) {
+          $names_string .= ", " . $names_array[$i];
+          $i++;
+        }
+        if (count($names_array) > 1) {
+          $names_string .= " and " . end($names_array);
+        }
+        return $names_string;
+    }
+    function construct_table_films($result, $result_num_rows) {
+        if ($result_num_rows > 0) {
+            echo '<table class="query-results films">
+            <thead>
+              <tr>
+                <th scope="col">Film Title</th>
+                <th scope="col">Release Year</th>
+                <th scope="col">Director</th>
+                <th scope="col">Screening Date</th>
+                <th scope="col">Format</th>
+                <th scope="col">Series</th>
+              </tr>
+            </thead>
+            <tbody>';
+            while ($row = $result->fetch_assoc()) {
+                $encoded_get_query = urlencode($_GET['query']);
+                echo "<tr>
+                  <td><a href=/archive/screening?screening_id={$row['screening_id']}&query={$encoded_get_query}&field={$_GET['field']}><u>" . $row['film_title'] . '</u></a></td>
+                  <td>' . $row['release_year'] . '</td>
+                  <td>';
+                  
+                  echo format_names_table_films($row['director']);
+
+                  echo '</td>
+                  <td>';
+
+                  echo format_showdate_table_films($row['showdate']);
+
+                  echo '</td>
+                  <td>' . $row['format'] . '</td>
+                  <td>';
+                  
+                  echo "<a href=/archive/series?series_id={$row['series_id']}&query={$encoded_get_query}&field={$_GET['field']}><u>" . $row['series_name'] . '</u></a>';
+                  
+                  echo '</td>
+                </tr>';
+            }
+            echo '</tbody>
+            </table>';
+          }
+    }
+    function simple_query_title($mysqli_object, $query_value) {
+        $film_listing_query = 'SELECT * FROM
+            (SELECT `films`.`title` as film_title,
+            `films`.`id` as film_id,
+            `films`.`releaseyear` as release_year,
+            GROUP_CONCAT(DISTINCT `directors`.`name` SEPARATOR " // ") AS director
+            FROM `films`
+            INNER JOIN `films_directors` ON `films`.`id` = `films_directors`.`films_id` 
+            INNER JOIN `directors` ON `films_directors`.`directors_id` = `directors`.`id`
+            WHERE `films`.`title` COLLATE utf8mb4_general_ci LIKE ? 
+            GROUP BY `films`.`id`) t1  
+
+        INNER JOIN 
+            (SELECT `instances`.`films_id` as film_id,
+            `instances`.`format` as format,
+            `instances`.`screenings_id` as screening_id
+            FROM `instances`) t2
+        ON t1.film_id = t2.film_id
+
+        INNER JOIN
+            (SELECT
+            `series`.`name` AS series_name, 
+            `series`.`id` as series_id,
+            `screenings`.`id` AS screening_id,
+            GROUP_CONCAT(DISTINCT `times`.`showdate` ORDER BY `times`.`showdate` ASC SEPARATOR " // ") AS showdate
+            FROM `screenings`
+            INNER JOIN `series` ON `screenings`.`series_id` = `series`.`id` 
+            INNER JOIN `times` ON `screenings`.`id` = `times`.`screenings_id`
+            GROUP BY `screenings`.`id`) t3
+        ON t2.screening_id = t3.screening_id 
+        
+        ORDER BY showdate DESC;';
+
+        $query_value = '%' . $query_value . '%';
+        list($result, $result_num_rows) = load_simple_query($mysqli_object, $film_listing_query, $query_value);
+
+        construct_table_films($result, $result_num_rows);
+
+        return NULL;
+    }
+    function simple_query_director($mysqli_object, $query_value) {
+
+        $director_listing_query = 'SELECT * FROM
+            (SELECT `films`.`title` as film_title,
+            `films`.`id` as film_id,
+            `films`.`releaseyear` as release_year,
+            GROUP_CONCAT(DISTINCT `directors`.`name` SEPARATOR ", ") AS director
+            FROM `films`
+            INNER JOIN `films_directors` ON `films`.`id` = `films_directors`.`films_id` 
+            INNER JOIN `directors` ON `films_directors`.`directors_id` = `directors`.`id`
+            WHERE `directors`.`name` COLLATE utf8mb4_general_ci LIKE ? 
+            GROUP BY `films`.`id`) t1  
+
+        INNER JOIN 
+            (SELECT `instances`.`films_id` as film_id,
+            `instances`.`format` as format,
+            `instances`.`screenings_id` as screening_id
+            FROM `instances`) t2
+        ON t1.film_id = t2.film_id
+
+        INNER JOIN
+            (SELECT
+            `series`.`name` AS series_name, 
+            `series`.`id` as series_id,
+            `screenings`.`id` AS screening_id,
+            GROUP_CONCAT(DISTINCT `times`.`showdate` ORDER BY `times`.`showdate` ASC SEPARATOR ", ") AS showdate
+            FROM `screenings`
+            INNER JOIN `series` ON `screenings`.`series_id` = `series`.`id` 
+            INNER JOIN `times` ON `screenings`.`id` = `times`.`screenings_id`
+            GROUP BY `screenings`.`id`) t3
+        ON t2.screening_id = t3.screening_id 
+        
+        ORDER BY showdate DESC;';
+
+
+        $query_value = '%' . $query_value . '%';
+        list($result, $result_num_rows) = load_simple_query($mysqli_object, $director_listing_query, $query_value);
+
+        construct_table_films($result, $result_num_rows);
+
+        return NULL;
+    }
+    // simple_query_all not working until find a better way to use collation with a fulltext search (what MATCH AGAINST is)
+    // i.e. can't throw COLLATE command with MATCH AGAINST
+    function simple_query_all($mysqli_object, $query_value) {
+        $query_all = 'SELECT
+            film_title,
+            t1.film_id as film_id,
+            release_year,
+            director,
+            format,
+            t3.screening_id as screening_id,
+            series_id,
+            series_name,
+            showdate,
+        MATCH (film_title) AGAINST ( ? ) AS rel_title,
+        MATCH (series_name) AGAINST ( ? ) AS rel_series_name,
+        MATCH (director) AGAINST ( ? ) AS rel_director,
+        MATCH (release_year) AGAINST ( ? ) AS rel_release_year
+        FROM
+            (SELECT `films`.`title` as film_title,
+            `films`.`id` as film_id,
+            `films`.`releaseyear` as release_year,
+            GROUP_CONCAT(DISTINCT `directors`.`name` SEPARATOR " // ") AS director
+            FROM `films`
+            INNER JOIN `films_directors` ON `films`.`id` = `films_directors`.`films_id` 
+            INNER JOIN `directors` ON `films_directors`.`directors_id` = `directors`.`id` 
+            GROUP BY `films`.`id`) t1  
+
+        INNER JOIN 
+            (SELECT `instances`.`films_id` as film_id,
+            `instances`.`format` as format,
+            `instances`.`screenings_id` as screening_id
+            FROM `instances`) t2
+        ON t1.film_id = t2.film_id
+
+        INNER JOIN
+            (SELECT
+            `series`.`name` AS series_name, 
+            `series`.`id` as series_id,
+            `screenings`.`id` AS screening_id,
+            GROUP_CONCAT(DISTINCT `times`.`showdate` ORDER BY `times`.`showdate` ASC SEPARATOR " // ") AS showdate
+            FROM `screenings`
+            INNER JOIN `series` ON `screenings`.`series_id` = `series`.`id` 
+            INNER JOIN `times` ON `screenings`.`id` = `times`.`screenings_id`
+            GROUP BY `screenings`.`id`) t3
+        ON t2.screening_id = t3.screening_id 
+
+        WHERE MATCH (film_title, series_name, director, release_year) AGAINST ( ? )
+        COLLATE utf8mb4_general_ci LIKE ?
+        ORDER BY showdate DESC;';
+
+        $query_value = '%' . $query_value . '%';
+        list($result, $result_num_rows) = load_simple_query($mysqli_object, $query_all, $query_value);
+
+        construct_table_films($result, $result_num_rows);
+
+        return NULL;
+    }
+    function construct_table_series($result, $result_num_rows) {
+        if ($result_num_rows > 0) {
+            echo '<table class="query-results series">
+            <thead>
+              <tr>
+                <th scope="col">Series Title</th>
+                <th scope="col">Programmer</th>
+                <th scope="col">Dates</th>
+                <th scope="col">Quarter</th>
+                <th scope="col">Year</th>
+                <th scope="col">Slot</th>
+              </tr>
+            </thead>
+            <tbody>';
+
+            while ($row = $result->fetch_assoc()) {
+                $encoded_get_query = urlencode($_GET['query']);
+                echo "<tr>";
+                  
+                  echo "<td>" . "<a href=/archive/series?series_id={$row['series_id']}&query={$encoded_get_query}&field={$_GET['field']}><u>" . $row['series_name'] . '</u></a></td>';
+                  
+                  if (!empty($row['programmer'])) {
+                    echo '<td>' . format_names_table_films($row['programmer']) . '</td>';
+                  } else {
+                    echo '<td> - </td>';
+                  }
+                  
+                  if (!empty($row['startdate']) and !empty($row['startdate'])) {
+                    echo '<td>' . format_showdate_table_films($row['startdate']) . ' - ' . format_showdate_table_films($row['enddate']) . '</td>';
+                  } else {
+                    echo '<td> - </td>';
+                  }
+                  
+                  if (!empty($row['quarter'])) {
+                    echo '<td>' . $row['quarter'] . '</td>';
+                  } else {
+                    echo '<td> - </td>';
+                  }
+
+                  if (!empty($row['quarter_year'])) {
+                    echo '<td>' . $row['quarter_year'] . '</td>';
+                  } else {
+                    echo '<td> - </td>';
+                  }
+
+                  if (!empty($row['slot'])) {
+                    echo '<td>' . $row['slot'] . '</td>';
+                  } else {
+                    echo '<td> - </td>';
+                  }
+                  
+                echo '</tr>';
+            }
+            echo '</tbody>
+            </table>';
+        }
+    }
+    function simple_query_series($mysqli_object, $query_value) {
+        $query_series = 'SELECT * FROM 
+            (SELECT `programmers`.`id` as programmer_id,
+                GROUP_CONCAT(`programmers`.`name` SEPARATOR " // ") as programmer,
+                `series_programmers`.`series_id` as ser_prog_series_id
+            FROM `programmers`
+            INNER JOIN `series_programmers` ON `programmers`.`id` = `series_programmers`.`programmers_id`
+            GROUP BY `series_programmers`.`series_id`) t1  
+        
+        RIGHT JOIN 
+            (SELECT `series`.`id` as series_id,
+                `series`.`name` as series_name,
+                `series`.`slot` as slot,
+                `series`.`essay` as essay,
+                `series`.`notes` as notes,
+                `quarters`.`id` as quarter_id,
+                `quarters`.`quarter` as quarter,
+                `quarters`.`year` as quarter_year,
+                `quarters`.`startdate` as startdate,
+                `quarters`.`enddate` as enddate
+            FROM `series`
+            LEFT JOIN `quarters` ON `series`.`quarters_id` = `quarters`.`id`
+            WHERE `series`.`name` COLLATE utf8mb4_general_ci LIKE ?) t2
+        ON t1.ser_prog_series_id = t2.series_id
+        ORDER BY startdate DESC, quarter_year DESC, quarter;';
+
+        $query_value = '%' . $query_value . '%';
+        list($result, $result_num_rows) = load_simple_query($mysqli_object, $query_series, $query_value);
+
+        construct_table_series($result, $result_num_rows);
 
         return NULL;
     }

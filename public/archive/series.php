@@ -30,22 +30,30 @@
         
           $series_id = $_GET['series_id'];
 
-          $series_info_query = 'SELECT `series`.`name` as series_name,
-            `series`.`id` as series_id,
-            `series`.`slot` as slot,
-            `series`.`essay` as essay,
-            `series`.`notes` as notes,
-            GROUP_CONCAT(`programmers`.`name` SEPARATOR " // ")as programmer,
-            `quarters`.`quarter` as quarter,
-            `quarters`.`year` as quarter_year,
-            `quarters`.`startdate` as startdate,
-            `quarters`.`enddate` as enddate
-          FROM `series`
-          LEFT JOIN `series_programmers` ON `series`.`id` = `series_programmers`.`series_id`
-          LEFT JOIN `programmers` ON `series_programmers`.`programmers_id` = `programmers`.`id`
-          LEFT JOIN `quarters` ON `series`.`quarters_id` = `quarters`.`id`
-          WHERE `series`.`id` = ?
-          GROUP BY series_id;';
+          $series_info_query = 'SELECT * FROM 
+              (SELECT `programmers`.`id` as programmer_id,
+                  GROUP_CONCAT(`programmers`.`name` SEPARATOR " // ") as programmer,
+                  `series_programmers`.`series_id` as ser_prog_series_id
+              FROM `programmers`
+              INNER JOIN `series_programmers` ON `programmers`.`id` = `series_programmers`.`programmers_id`
+              GROUP BY `series_programmers`.`series_id`) t1  
+          
+          RIGHT JOIN 
+              (SELECT `series`.`id` as series_id,
+                  `series`.`name` as series_name,
+                  `series`.`slot` as slot,
+                  `series`.`essay` as essay,
+                  `series`.`notes` as notes,
+                  `quarters`.`id` as quarter_id,
+                  `quarters`.`quarter` as quarter,
+                  `quarters`.`year` as quarter_year,
+                  `quarters`.`startdate` as startdate,
+                  `quarters`.`enddate` as enddate
+              FROM `series`
+              LEFT JOIN `quarters` ON `series`.`quarters_id` = `quarters`.`id`
+              WHERE `series`.`name` COLLATE utf8mb4_general_ci LIKE ?) t2
+          ON t1.ser_prog_series_id = t2.series_id
+          ORDER BY startdate DESC, quarter_year DESC, quarter;';
 
           $stmt = $mysqli->prepare($series_info_query);
           $stmt->bind_param('s', $series_id);
