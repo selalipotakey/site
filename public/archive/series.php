@@ -23,7 +23,7 @@
 
           if (array_key_exists("query", $_GET) and array_key_exists("field", $_GET)) {
             $encoded_get_query = urlencode($_GET["query"]);
-            echo "<a href='/archive/testing?query={$encoded_get_query}&field={$_GET["field"]}'><p><u><i>Return to search</i></u></p></a><br>";
+            echo "<a href='/archive/?query={$encoded_get_query}&field={$_GET["field"]}'><p><u><i>Return to search</i></u></p></a><br>";
           } elseif (array_key_exists("screening_id", $_GET)) {
             echo "<a href='/archive/screening?screening_id={$_GET['screening_id']}'><p><u><i>Return to screening</i></u></p></a><br>";
           }
