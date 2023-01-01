@@ -192,12 +192,6 @@
             $mysqli->close();
         ?>
 
-        <!-- <h3>Using the Database</h3>
-        <p>The Doc Films screening database currently logs all film screenings and series from XXX through the most recent season as queryable information for interested parties. There are some important points you should know about using the database:</p>
-        <ol>
-          <li>This page is only optimized for desktop as of now. We apologize for any inconvenience.</li>
-          <li>Some entries may be wrong.</li>
-        </ol> -->
       </div>
         
     </main>

@@ -16,7 +16,7 @@ from datetime import time
 class connection:
     def __init__(self):
         self.db_server = ''
-        self.db_name = 'docfilmstest'
+        self.db_name = 'screening_database'
         self.db_user = ''
         self.db_pass = ''
 
@@ -215,7 +215,7 @@ class connection:
             
             return series_id
 
-def addtables():
+def addtables(database_name):
     # checks user wants to add tables to database
     answer = input('`addtables` command executed. This will add all defined tables to a blank database. If there are contents still in the database, possible data corruption could result. Confirm? [y/n]: ').lower()
     while True:
@@ -245,11 +245,11 @@ def addtables():
     db = conn.open_conn()
     cursor = conn.get_cursor()
 
-    create_films = '''
+    create_films = f'''
 -- -----------------------------------------------------
--- Table `docfilmstest`.`films`
+-- Table `{database_name}`.`films`
 -- -----------------------------------------------------
-CREATE TABLE IF NOT EXISTS `docfilmstest`.`films` (
+CREATE TABLE IF NOT EXISTS `{database_name}`.`films` (
   `id` INT NOT NULL AUTO_INCREMENT,
   `title` VARCHAR(256) NOT NULL,
   `releaseyear` YEAR NULL,
@@ -259,11 +259,11 @@ CREATE TABLE IF NOT EXISTS `docfilmstest`.`films` (
 ENGINE = InnoDB;
     '''
 
-    create_quarters = '''
+    create_quarters = f'''
 -- -----------------------------------------------------
--- Table `docfilmstest`.`quarters`
+-- Table `{database_name}`.`quarters`
 -- -----------------------------------------------------
-CREATE TABLE IF NOT EXISTS `docfilmstest`.`quarters` (
+CREATE TABLE IF NOT EXISTS `{database_name}`.`quarters` (
   `id` INT NOT NULL AUTO_INCREMENT,
   `quarter` VARCHAR(45) NOT NULL,
   `year` YEAR NOT NULL,
@@ -274,11 +274,11 @@ CREATE TABLE IF NOT EXISTS `docfilmstest`.`quarters` (
 ENGINE = InnoDB;
     '''
 
-    create_series = '''
+    create_series = f'''
 -- -----------------------------------------------------
--- Table `docfilmstest`.`series`
+-- Table `{database_name}`.`series`
 -- -----------------------------------------------------
-CREATE TABLE IF NOT EXISTS `docfilmstest`.`series` (
+CREATE TABLE IF NOT EXISTS `{database_name}`.`series` (
   `id` INT NOT NULL AUTO_INCREMENT,
   `quarters_id` INT NOT NULL,
   `name` VARCHAR(256) NOT NULL,
@@ -290,17 +290,17 @@ CREATE TABLE IF NOT EXISTS `docfilmstest`.`series` (
   INDEX `name_idx` (`name` ASC) VISIBLE,
   CONSTRAINT `fk_series_quarters1`
     FOREIGN KEY (`quarters_id`)
-    REFERENCES `docfilmstest`.`quarters` (`id`)
+    REFERENCES `{database_name}`.`quarters` (`id`)
     ON DELETE NO ACTION
     ON UPDATE NO ACTION)
 ENGINE = InnoDB;
     '''
 
-    create_screenings = '''
+    create_screenings = f'''
 -- -----------------------------------------------------
--- Table `docfilmstest`.`screenings`
+-- Table `{database_name}`.`screenings`
 -- -----------------------------------------------------
-CREATE TABLE IF NOT EXISTS `docfilmstest`.`screenings` (
+CREATE TABLE IF NOT EXISTS `{database_name}`.`screenings` (
   `id` INT NOT NULL AUTO_INCREMENT,
   `series_id` INT NULL,
   `capsule` TEXT NULL,
@@ -311,17 +311,17 @@ CREATE TABLE IF NOT EXISTS `docfilmstest`.`screenings` (
   INDEX `fk_screenings_series_idx` (`series_id` ASC) VISIBLE,
   CONSTRAINT `fk_screenings_series`
     FOREIGN KEY (`series_id`)
-    REFERENCES `docfilmstest`.`series` (`id`)
+    REFERENCES `{database_name}`.`series` (`id`)
     ON DELETE NO ACTION
     ON UPDATE NO ACTION)
 ENGINE = InnoDB;
     '''
 
-    create_times = '''
+    create_times = f'''
 -- -----------------------------------------------------
--- Table `docfilmstest`.`times`
+-- Table `{database_name}`.`times`
 -- -----------------------------------------------------
-CREATE TABLE IF NOT EXISTS `docfilmstest`.`times` (
+CREATE TABLE IF NOT EXISTS `{database_name}`.`times` (
   `id` INT NOT NULL AUTO_INCREMENT,
   `screenings_id` INT NOT NULL,
   `showdate` DATE NOT NULL,
@@ -331,17 +331,17 @@ CREATE TABLE IF NOT EXISTS `docfilmstest`.`times` (
   INDEX `showdate_idx` (`showdate` DESC) VISIBLE,
   CONSTRAINT `fk_times_screenings1`
     FOREIGN KEY (`screenings_id`)
-    REFERENCES `docfilmstest`.`screenings` (`id`)
+    REFERENCES `{database_name}`.`screenings` (`id`)
     ON DELETE NO ACTION
     ON UPDATE NO ACTION)
 ENGINE = InnoDB;
     '''
 
-    create_instances = '''
+    create_instances = f'''
 -- -----------------------------------------------------
--- Table `docfilmstest`.`instances`
+-- Table `{database_name}`.`instances`
 -- -----------------------------------------------------
-CREATE TABLE IF NOT EXISTS `docfilmstest`.`instances` (
+CREATE TABLE IF NOT EXISTS `{database_name}`.`instances` (
   `id` INT NOT NULL AUTO_INCREMENT,
   `films_id` INT NOT NULL,
   `screenings_id` INT NOT NULL,
@@ -353,22 +353,22 @@ CREATE TABLE IF NOT EXISTS `docfilmstest`.`instances` (
   INDEX `format_idx` (`format` ASC) VISIBLE,
   CONSTRAINT `fk_instances_films1`
     FOREIGN KEY (`films_id`)
-    REFERENCES `docfilmstest`.`films` (`id`)
+    REFERENCES `{database_name}`.`films` (`id`)
     ON DELETE NO ACTION
     ON UPDATE NO ACTION,
   CONSTRAINT `fk_instances_screenings1`
     FOREIGN KEY (`screenings_id`)
-    REFERENCES `docfilmstest`.`screenings` (`id`)
+    REFERENCES `{database_name}`.`screenings` (`id`)
     ON DELETE NO ACTION
     ON UPDATE NO ACTION)
 ENGINE = InnoDB;
     '''
 
-    create_directors = '''
+    create_directors = f'''
 -- -----------------------------------------------------
--- Table `docfilmstest`.`directors`
+-- Table `{database_name}`.`directors`
 -- -----------------------------------------------------
-CREATE TABLE IF NOT EXISTS `docfilmstest`.`directors` (
+CREATE TABLE IF NOT EXISTS `{database_name}`.`directors` (
   `id` INT NOT NULL AUTO_INCREMENT,
   `name` VARCHAR(45) NOT NULL,
   PRIMARY KEY (`id`),
@@ -376,11 +376,11 @@ CREATE TABLE IF NOT EXISTS `docfilmstest`.`directors` (
 ENGINE = InnoDB;
     '''
 
-    create_programmers = '''
+    create_programmers = f'''
 -- -----------------------------------------------------
--- Table `docfilmstest`.`programmers`
+-- Table `{database_name}`.`programmers`
 -- -----------------------------------------------------
-CREATE TABLE IF NOT EXISTS `docfilmstest`.`programmers` (
+CREATE TABLE IF NOT EXISTS `{database_name}`.`programmers` (
   `id` INT NOT NULL AUTO_INCREMENT,
   `name` VARCHAR(256) NOT NULL,
   PRIMARY KEY (`id`),
@@ -388,11 +388,11 @@ CREATE TABLE IF NOT EXISTS `docfilmstest`.`programmers` (
 ENGINE = InnoDB;
     '''
 
-    create_series_programmers = '''
+    create_series_programmers = f'''
 -- -----------------------------------------------------
--- Table `docfilmstest`.`series_programmers`
+-- Table `{database_name}`.`series_programmers`
 -- -----------------------------------------------------
-CREATE TABLE IF NOT EXISTS `docfilmstest`.`series_programmers` (
+CREATE TABLE IF NOT EXISTS `{database_name}`.`series_programmers` (
   `id` INT NOT NULL AUTO_INCREMENT,
   `programmers_id` INT NOT NULL,
   `series_id` INT NOT NULL,
@@ -401,22 +401,22 @@ CREATE TABLE IF NOT EXISTS `docfilmstest`.`series_programmers` (
   INDEX `fk_series_programmers_series1_idx` (`series_id` ASC) VISIBLE,
   CONSTRAINT `fk_series_programmers_programmers1`
     FOREIGN KEY (`programmers_id`)
-    REFERENCES `docfilmstest`.`programmers` (`id`)
+    REFERENCES `{database_name}`.`programmers` (`id`)
     ON DELETE NO ACTION
     ON UPDATE NO ACTION,
   CONSTRAINT `fk_series_programmers_series1`
     FOREIGN KEY (`series_id`)
-    REFERENCES `docfilmstest`.`series` (`id`)
+    REFERENCES `{database_name}`.`series` (`id`)
     ON DELETE NO ACTION
     ON UPDATE NO ACTION)
 ENGINE = InnoDB;
     '''
 
-    create_films_directors = '''
+    create_films_directors = f'''
 -- -----------------------------------------------------
--- Table `docfilmstest`.`films_directors`
+-- Table `{database_name}`.`films_directors`
 -- -----------------------------------------------------
-CREATE TABLE IF NOT EXISTS `docfilmstest`.`films_directors` (
+CREATE TABLE IF NOT EXISTS `{database_name}`.`films_directors` (
   `id` INT NOT NULL AUTO_INCREMENT,
   `films_id` INT NOT NULL,
   `directors_id` INT NOT NULL,
@@ -425,12 +425,12 @@ CREATE TABLE IF NOT EXISTS `docfilmstest`.`films_directors` (
   INDEX `fk_film_directors_directors1_idx` (`directors_id` ASC) VISIBLE,
   CONSTRAINT `fk_film_directors_films1`
     FOREIGN KEY (`films_id`)
-    REFERENCES `docfilmstest`.`films` (`id`)
+    REFERENCES `{database_name}`.`films` (`id`)
     ON DELETE NO ACTION
     ON UPDATE NO ACTION,
   CONSTRAINT `fk_film_directors_directors1`
     FOREIGN KEY (`directors_id`)
-    REFERENCES `docfilmstest`.`directors` (`id`)
+    REFERENCES `{database_name}`.`directors` (`id`)
     ON DELETE NO ACTION
     ON UPDATE NO ACTION)
 ENGINE = InnoDB;
@@ -663,7 +663,7 @@ def format_value(header, value):
         print('No header titled \'%s\' with defined formatting instructions. Check code and try again.')
         exit()
 
-def format_capsules_sheet(capsules_path, quarter, year, exrows_capsules, exrows_series):
+def format_capsules_sheet(capsules_path, quarter, year, exrows_capsules, exrows_series, ticketing_urls=True):
     # Attempts to turn a properly formatted capsules spreadsheet located at capsules_path
     # into a pandas dataframe. Handles exceptions if errors are raised.
     # A properly formatted spreadsheet is one with a separate sheet for series info and essays
@@ -761,15 +761,19 @@ def format_capsules_sheet(capsules_path, quarter, year, exrows_capsules, exrows_
         if not pd.isna(capsule):
             capsule = capsule.strip()
 
-        ticketing_link = try_col(row, 'ticketing url')
-        if not pd.isna(ticketing_link):
-            ticketing_link = ticketing_link.strip()
+        ticketing_link = None
+        if ticketing_urls:
+            ticketing_link = try_col(row, 'ticketing url')
+            if not pd.isna(ticketing_link):
+                ticketing_link = ticketing_link.strip()
 
         pub_notes = try_col(row, 'public notes')
         if not pd.isna(pub_notes):
             pub_notes = pub_notes.strip()
 
-        image_path = '/images/%s%s/%s-%s.png'%(str(year).strip(), quarter.lower(), title_list[0].strip().lower().replace(' ', '-'), release_year_list[0])     # semi-complete
+        # semi-complete
+        image_path_title = re.sub(r'[^a-zA-Z0-9 ]', '', title_list[0]).strip().lower().replace(' ', '-')
+        image_path = '/images/%s%s/%s-%s.jpg'%(str(year).strip(), quarter.lower(), image_path_title, release_year_list[0])
         
         showtime_list = []
         showtime_count = 0
@@ -888,7 +892,7 @@ def replace_italics(string, already_italicized=False):
 
     return new_string
 
-def create_website(formatted_capsules_sheet):
+def create_website(formatted_capsules):
 
     quarter, year, series_dict = formatted_capsules
 
@@ -1006,8 +1010,8 @@ def create_website(formatted_capsules_sheet):
                 showdate = datetime.strptime(showtime_tuple[0], '%Y-%m-%d').date()
                 showtime = datetime.strptime(showtime_tuple[1], '%H:%M:%S').time()
                 showtime_string += f'{showtime:%I}:{showtime:%M}{showtime:%p} {showdate:%A}, {showdate:%B} {ordinalize_date(showdate.day)}'.lstrip("0").replace(" 0", " ")
-                showtime_string += ', '
-            showtime_string = showtime_string.strip(', ').strip()
+                showtime_string += '; '
+            showtime_string = showtime_string.strip('; ').strip()
                 
             format_string = ''
             def all_equal(iterator):
@@ -1115,16 +1119,17 @@ def format_archived_screenings(sheetpath):
 
 if __name__ == "__main__":
 
-    quarter, year, exrows_capsules, exrows_series, capsules_path = 'Winter', 2023, 2, 1, r'C:\Users\camer\docfilms-github\site\database\capsules_spreadsheets\Winter 2023 Capsules Unfinished.xlsx'
-    formatted_capsules = format_capsules_sheet(capsules_path, quarter, year, exrows_capsules, exrows_series)
-    create_website(formatted_capsules)
+    # quarter, year, exrows_capsules, exrows_series, capsules_path = 'Fall', 2021, 2, 1, r'C:\Users\camer\docfilms-github\site\database\capsules_spreadsheets\Fall 2021 Capsules.xlsx'
+    # formatted_capsules = format_capsules_sheet(capsules_path, quarter, year, exrows_capsules, exrows_series, ticketing_urls=False)
+    # create_website(formatted_capsules)
 
-    exit()
+    # exit()
     
     # format_archived_screenings(r'C:\Users\camer\docfilms-github\site\database\2022-09-05-archive-screenings-for-database.xlsx')
 
+    database_name = 'screening_database'
     droptables()
-    addtables()
+    addtables(database_name)
 
     capsules_path_list = [
         ('Fall', 2021, 2, 1, r'C:\Users\camer\docfilms-github\site\database\capsules_spreadsheets\Fall 2021 Capsules.xlsx'),
