@@ -153,6 +153,10 @@
 
         <br>
 
+        <p>While the screening database is partially constructed, calendar records from 1936-2019 can be found on <u><a href="https://www.breezesofnight.com/1/7doc.cgi" target="_blank">our old database</a></u>.</p>
+
+        <br>
+
         <h1><a href="/archive/testing"><u>Screening Database</u></a></h1>
         <p><i>*Note: the screening database catalogues screenings from Fall 2021 through Fall 2022. It is not optimized for searching on mobile.</i></p>
 
