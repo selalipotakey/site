@@ -49,11 +49,12 @@
         </div>
         
         <div class="screening">
-          <h1>9:30PM Wednesday, January 18th</h1>
+          <h1><u>9:30PM</u> Wednesday, January 18th</h1>
           <img src="/images/2023winter/toni-1936.jpg" alt="Toni (1935) still">
           <h2>Toni (1935)</h2>
           <h3>Jean Renoir &middot; 82m &middot; DCP</h3>
           <p>In the midst of the Great Depression, Renoir used a true crime story and non-professional actors to show the plight of migrant workers as they struggled in the south of France. Toni is a laborer from Italy loved by his landlady, but he becomes obsessed with Josepha, a new migrant worker from Spain. Josepha then falls in love with a Frenchman, and the conflict of wills leads to inevitable tragedy. Uniquely for 1935, <i>Toni</i>  was entirely filmed on location.</p>
+          <p><i style="color: red;">Note: originally billed at 7:00PM</i></p>
           <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=189F8CCC-AA82-4E91-99D5-CCB612AE7E04" target="_blank">here</a></u>.</b></p>
         </div>
         

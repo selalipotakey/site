@@ -96,8 +96,7 @@
       <div class="screenings-list">
 
         <div class="text-section">
-          <!-- <h1>Playing this week:</h1> -->
-          <h1>Playing soon:</h1>
+          <h1>Playing this week:</h1>
           <h3><i>$7 tickets, theater opens 30 minutes before the screening.</i></h3>
         </div>
 
