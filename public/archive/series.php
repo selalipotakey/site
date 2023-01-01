@@ -51,7 +51,7 @@
                   `quarters`.`enddate` as enddate
               FROM `series`
               LEFT JOIN `quarters` ON `series`.`quarters_id` = `quarters`.`id`
-              WHERE `series`.`name` COLLATE utf8mb4_general_ci LIKE ?) t2
+              WHERE `series`.`id` = ? ) t2
           ON t1.ser_prog_series_id = t2.series_id
           ORDER BY startdate DESC, quarter_year DESC, quarter;';
 
