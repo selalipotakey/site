@@ -35,7 +35,6 @@
           <h3>Loni Ding // Ric Burns and Li-Shin Yu &middot; 62m // 162m &middot; Digital</h3>
           <p>Loni Ding, founder of what is now known as the Center for Asian American Media (CAAM), is a critical figure in Asian American media history. <i>Ancestors in the Americas</i>, her final film, is an epic of revisionist history that blends fiction and non-fiction. 35 years after its founding, CAAM shows its commitment to countermemory with <i>The Chinese Exclusion Act</i>, a portrait of the seldom-remembered Chinese Americans who redefined what it means to be American.</p>
           <p><i>Free screening! </i>The Chinese Exclusion Act<i> courtesy of CAAM. Sponsored by CEAS.</i></p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=C655CCA6-48B8-4179-BA03-FCFE6DAA754F" target="_blank">here</a></u>.</b></p>
         </div>
         
         <div class="screening">
@@ -81,7 +80,6 @@
           <h3>Dai Sil Kim-Gibson and Christine Choy // Marlon Fuentes &middot; 41m // 56m &middot; Digital</h3>
           <p>Tonight, the personal and the political collide in a revolt against the dominant narrative; countermemories from victims of trauma are presented which refuse victimization. <i>Sa-I-Gu</i> portrays the Korean-American women who fought against the brutality of the police after the LA Uprising; <i>Bontoc Eulogy</i> mixes fact, fiction, and performance as the filmmaker interrogates the archival record of his grandfather's exploitation as a human exhibit.</p>
           <p><i>Free screening! </i>Sa-I-Gu<i> courtesy of CAAM. Sponsored by CEAS.</i></p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=70F58CB3-40E3-4ECD-8FED-B7C5FC7A42E2" target="_blank">here</a></u>.</b></p>
         </div>
         
         <div class="screening">
