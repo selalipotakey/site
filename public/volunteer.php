@@ -28,7 +28,7 @@
         <br>
         <p>At our weekly programming meetings we discuss potential series for the next calendar. One need not be a Doc volunteer or affiliated with the University to take part in this dialogue, or to propose a series.</p>
         <br>   
-        <p><b>Programming meeting times for Winter 2023 are 5:30PM on Thursdays.</b></p>
+        <p><b>Programming meeting times for Winter 2023 are 5:45PM on Thursdays.</b></p>
         <i><p>If you are interested in the programming at Doc, please subscribe to our programming mailing list <a href="https://lists.uchicago.edu/web/info/docprog" target="_blank"><u>here</u></a>. Contact our Programming Chair(s) at programming@docfilms.org if you have any questions.</p></i>
 
         <br><br>
