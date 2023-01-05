@@ -25,7 +25,9 @@
 
             <p>Most of the films follow what Loni Ding called an "anti-slick" approach, rejecting both Hollywood classicism and art film auteurist modernism for a humble, subjective style in-between fiction and non-fiction. At the same time, this series argues against nostalgically idealizing a dead movement. Several entries act as critical interventions, with sharp stylistic and ideological departures from the main body of films, exposing failures such as the exclusion of Muslim and queer voices, and a dependence on and deference to the settler-colonial state. Beyond problematizing Asian American media, the persistence of an oppositional stance within this series shows that radical Asian American media continues beyond its original institutional boundaries.</p>
             
-            <p><b>Co-sponsored by the Center for East Asian Studies (CEAS).</b></p>
+            <p><b>Co-sponsored by <a href="https://csrpc.uchicago.edu/" target="_blank"><u>the Center for the Study of Race, Politics, and Culture (CSRPC)</u>.</a></b></p>
+
+            <a href="https://csrpc.uchicago.edu/" target="_blank"><img src="/images/2023winter/series_stills/CSRPC-cropped.svg" alt="CSRPC Logo"></a>
         </div>
         
         <div class="screening">
@@ -34,7 +36,7 @@
           <h2>Ancestors in the Americas, Part 1 (2001) // The Chinese Exclusion Act (2017)</h2>
           <h3>Loni Ding // Ric Burns and Li-Shin Yu &middot; 62m // 162m &middot; Digital</h3>
           <p>Loni Ding, founder of what is now known as the Center for Asian American Media (CAAM), is a critical figure in Asian American media history. <i>Ancestors in the Americas</i>, her final film, is an epic of revisionist history that blends fiction and non-fiction. 35 years after its founding, CAAM shows its commitment to countermemory with <i>The Chinese Exclusion Act</i>, a portrait of the seldom-remembered Chinese Americans who redefined what it means to be American.</p>
-          <p><i>Free screening! </i>The Chinese Exclusion Act<i> courtesy of CAAM. Sponsored by CEAS.</i></p>
+          <p><i>Free screening! </i>The Chinese Exclusion Act<i> courtesy of CAAM. Sponsored by CSRPC.</i></p>
         </div>
         
         <div class="screening">
@@ -79,7 +81,7 @@
           <h2>Sa-I-Gu (1993) // Bontoc Eulogy (1995)</h2>
           <h3>Dai Sil Kim-Gibson and Christine Choy // Marlon Fuentes &middot; 41m // 56m &middot; Digital</h3>
           <p>Tonight, the personal and the political collide in a revolt against the dominant narrative; countermemories from victims of trauma are presented which refuse victimization. <i>Sa-I-Gu</i> portrays the Korean-American women who fought against the brutality of the police after the LA Uprising; <i>Bontoc Eulogy</i> mixes fact, fiction, and performance as the filmmaker interrogates the archival record of his grandfather's exploitation as a human exhibit.</p>
-          <p><i>Free screening! </i>Sa-I-Gu<i> courtesy of CAAM. Sponsored by CEAS.</i></p>
+          <p><i>Free screening! </i>Sa-I-Gu<i> courtesy of CAAM. Sponsored by CSRPC.</i></p>
         </div>
         
         <div class="screening">
