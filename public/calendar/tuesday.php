@@ -75,7 +75,7 @@
           <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=26AA6A69-DC62-49BB-96E9-F5B5ACA7FDE3" target="_blank">here</a></u>.</b></p>
         </div>
         
-        <div class="screening">
+        <div id="sa-i-gu-bontoc-eulogy" class="screening" style="scroll-margin-top: var(--header-height);">
           <h1>7:00PM Tuesday, February 7th</h1>
           <img src="/images/2023winter/sa-i-gu-1993.png" alt="Sa-I-Gu (1993) // Bontoc Eulogy (1995) still">
           <h2>Sa-I-Gu (1993) // Bontoc Eulogy (1995)</h2>

@@ -60,7 +60,7 @@
           <h2>Taste of Cherry (1997)</h2>
           <h3>Abbas Kiarostami &middot; 99m &middot; DCP</h3>
           <p>The first Iranian film to win the Palme d’Or, <i>Taste of Cherry</i> stars Homayoun Ershadi as the middle-aged Mr. Badii, driving through Tehran in search of someone to bury him should he commit suicide. The film centers Mr. Badii and three of his passengers: a young Kurdish soldier, an Afghan seminarian, and an Azeri taxidermist, with whom he discusses mortality, religion, and the little joys of life as he tries successively to recruit them for the job.</p>
-          <p><i>A Night Owls event with Professors Agnes Callard and Daniel Morgan.</i></p>
+          <p><i>A Night Owls event with Professors Agnes Callard and Daniel Morgan. Free admittance for students that show their UCID!</i></p>
           <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=FA3E5668-94BF-48A3-BBCD-D9EDF73F547D" target="_blank">here</a></u>.</b></p>
         </div>
         
