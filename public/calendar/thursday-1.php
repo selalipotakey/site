@@ -85,8 +85,7 @@
           <img src="/images/2023winter/when-the-wind-blows-1986.jpg" alt="La Jetée (1962) // When the Wind Blows (1986) still">
           <h2>La Jetée (1962) // When the Wind Blows (1986)</h2>
           <h3>Chris Marker // Jimmy Murakami &middot; 28m // 84m &middot; Digital // DCP</h3>
-          <p>Based on Raymond Briggs' Cold War-era graphic novel, <i>When the Wind Blows</i> is a hand-drawn tale about an elderly couple whose life in the English countryside is disrupted by impending nuclear attacks. With their Blitz-era survival strategies, faith in government, and love for each other, the pair are convinced they can prepare for the worst—until an ICBM mercilessly tears their worldview down.
-Preceded by Chris Marker's masterful sci-fi short, <i>La Jetée</i>.</p>
+          <p>Based on Raymond Briggs' Cold War-era graphic novel, <i>When the Wind Blows</i> is a hand-drawn tale about an elderly couple whose life in the English countryside is disrupted by impending nuclear attacks. With their Blitz-era survival strategies, faith in government, and love for each other, the pair are convinced they can prepare for the worst—until an ICBM mercilessly tears their worldview down. Preceded by Chris Marker's masterful sci-fi short, <i>La Jetée</i>.</p>
           <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=03ED27E8-0E3A-4AD6-B0AA-672B6A8CC0FF" target="_blank">here</a></u>.</b></p>
         </div>
         

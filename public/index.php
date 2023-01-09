@@ -101,68 +101,75 @@
         </div>
 
         <div class="screening">
-          <h1>7:00PM Tuesday, January 3rd</h1>
-          <img src="/images/2023winter/the-chinese-exclusion-act-2018.png" alt="Ancestors in the Americas, Part 1 (2001) // The Chinese Exclusion Act (2017) still">
-          <h2>Ancestors in the Americas, Part 1 (2001) // The Chinese Exclusion Act (2017)</h2>
-          <h3>Loni Ding // Ric Burns and Li-Shin Yu &middot; 62m // 162m &middot; Digital</h3>
-          <p>Loni Ding, founder of what is now known as the Center for Asian American Media (CAAM), is a critical figure in Asian American media history. <i>Ancestors in the Americas</i>, her final film, is an epic of revisionist history that blends fiction and non-fiction. 35 years after its founding, CAAM shows its commitment to countermemory with <i>The Chinese Exclusion Act</i>, a portrait of the seldom-remembered Chinese Americans who redefined what it means to be American.</p>
-          <p><i>Free screening! </i>The Chinese Exclusion Act<i> courtesy of CAAM. Sponsored by CSRPC.</i></p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=C655CCA6-48B8-4179-BA03-FCFE6DAA754F" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Monday, January 9th</h1>
+          <img src="/images/2023winter/ladies-of-leisure-1930.jpg" alt="Ladies of Leisure (1930) still">
+          <h2>Ladies of Leisure (1930)</h2>
+          <h3>Frank Capra &middot; 99m &middot; 35mm</h3>
+          <p>It’s difficult to believe that Barbara Stanwyck was only 23 when she starred in <i>Ladies of Leisure</i>, as she brings a worldly assuredness to Kay, a gold-digging party girl who enters a relationship of convenience with an artistic scion (Lowell Sherman) that soon turns into something more. A risqué pre-Code outing with heart to spare, the mature romance was the first of five creative collaborations between Stanwyck and the great Frank Capra.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=81B51BA1-1C98-42D2-8DC0-E1694FB86B21" target="_blank">here</a></u>.</b></p>
+        </div>
+        
+        <div class="screening">
+          <h1>7:00PM Tuesday, January 10th</h1>
+          <img src="/images/2023winter/history-and-memory-1991.png" alt="History and Memory: For Akiko and Takashige (1991) // Fresh Kill (1994) still">
+          <h2>History and Memory: For Akiko and Takashige (1991) // Fresh Kill (1994)</h2>
+          <h3>Rea Tajiri // Shu Lea Cheang &middot; 32m // 80m &middot; DCP</h3>
+          <p>These videos adopt poststructuralist doubts about objective truth, but end up with divergent results. <i>History and Memory</i> layers materials from both found and reconstructed sources to examine Japanese internment and its aftermath on a family. <i>Fresh Kill</i> is a bewilderingly fun "eco cyber noia": there's a South Asian lesbian who lives in garbage, a Chinese hacker and chef who serves radioactive sushi, and a Black "satellite dishwasher" raving about birds.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=5744C407-F8C7-4617-AE3F-9123AAACF50C" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div class="screening">
-          <h1>7:00PM Wednesday, January 4th</h1>
-          <img src="/images/2023winter/la-chienne-1931.jpg" alt="La Chienne (1931) still">
-          <h2>La Chienne (1931)</h2>
-          <h3>Jean Renoir &middot; 96m &middot; DCP</h3>
-          <p>Maurice, played by the great Michel Simon, is the ever-so-naive clerk who aspires to be a painter, despite the nagging of his abusive wife. One night he rescues the seemingly-innocent Lulu from a beating and quickly falls for her; he even rents an apartment for her. But when Maurice's wife threatens to trash his paintings, Lulu and her pimp scheme to steal and sell them for a fortune. This dark drama is Renoir's first full-length sound feature.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=0E6FAEA0-B786-44D9-B4A8-A2B8EFFF93B5" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Wednesday, January 11th</h1>
+          <img src="/images/2023winter/boudu-saved-from-drowning-1932.jpeg" alt="Boudu Saved from Drowning (1932) still">
+          <h2>Boudu Saved from Drowning (1932)</h2>
+          <h3>Jean Renoir &middot; 85m &middot; DCP</h3>
+          <p>Michel Simon is gloriously anti-social, dirty, charming, and undomesticated as Boudu, the tramp whom the bookseller Lestingois rescues from drowning. When he brings Boudu home and tries to civilize him, the wild man instead lusts after Mrs. Lestingois and the maid, and otherwise brings chaos into this middle-class household. It's a rich satire that contrasts Boudu's instinctive anarchism with French bourgeois values—oh, and it's funny, too.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=85296884-C253-4290-A7FA-F8E7808E57AD" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div class="screening">
-          <h1>7:00PM Thursday, January 5th</h1>
-          <img src="/images/2023winter/grave-of-the-fireflies-1988.png" alt="Grave of the Fireflies (1988) still">
-          <h2>Grave of the Fireflies (1988)</h2>
-          <h3>Isao Takahata &middot; 89m &middot; DCP</h3>
-          <p>Directed by Studio Ghibli co-founder Isao Takahata, <i>Grave of the Fireflies</i> stands as the studio’s darkest film with its heartwrenching depiction of codependence, loss and near-helplessness in the midst of war. Following a pair of siblings, Seita and Setsuko, in their struggle to survive the final months of WWII after losing their parents in the Kobe bombings, the film ruthlessly showcases how global conflict has evolved to tear down even civilians.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=C663EAE4-2C4D-4285-A04B-D0566311BE09" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Thursday, January 12th</h1>
+          <img src="/images/2023winter/hiroshima-1953.jpg" alt="Hiroshima (1953) still">
+          <h2>Hiroshima (1953)</h2>
+          <h3>Hideo Sekigawa &middot; 104m &middot; DCP</h3>
+          <p>Set during the immediate years after August 6th, 1945, <i>Hiroshima</i> portrays a classroom in their attempt to return to normalcy after the atom bomb destroyed their city, ravaged not just by radiation poisoning but also reckless gambling and discrimination against scarred victims. Featuring hundreds of Hiroshima survivors within its cast, the film portrays a dramatic yet accurate recreation of one of the 20th century’s most infamous tragedies.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=6205D2D2-0DFB-4337-BE46-C8A4375967FD" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div class="screening">
-          <h1>9:30PM Thursday, January 5th</h1>
-          <img src="/images/2023winter/the-blair-witch-project-1999.jpeg" alt="The Blair Witch Project (1999) still">
-          <h2>The Blair Witch Project (1999)</h2>
-          <h3>Daniel Myrick and Eduardo Sánchez &middot; 81m &middot; 35mm</h3>
-          <p>In October of 1994, three student filmmakers set out to make a documentary about a local legend, but find something far more sinister in the Black Hills of Maryland. Nearly a decade before the box office success of <i>Paranormal Activity</i> (2007) and <i>Cloverfield</i> (2008), <i>The Blair Witch Project</i> defined found footage horror. Blending video and 16mm footage, writer/directors Daniel Myrick and Eduardo Sánchez create a deeply tense and realistic atmosphere.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=F7079C74-832C-4DE8-8A2B-9FAC674959EA" target="_blank">here</a></u>.</b></p>
+          <h1>9:30PM Thursday, January 12th</h1>
+          <img src="/images/2023winter/bamboozled-2000.jpeg" alt="Bamboozled (2000) still">
+          <h2>Bamboozled (2000)</h2>
+          <h3>Spike Lee &middot; 135m &middot; 35mm</h3>
+          <p>In Spike Lee’s fierce satire of mass media, Pierre Delacroix (Damon Wayans), an Ivy-educated network television writer, creates a modern-day minstrel show complete with African American actors donning blackface. Though commercially unsuccessful upon its release, <i>Bamboozled</i> has become a cult favorite within the director’s oeuvre, with critic Ashley Clark calling it “the central film in Lee’s canon—the house on fire to which all roads lead.”</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=301350D8-27DF-4A45-AC37-59FDB98B8014" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div class="screening">
-          <h1>7:00PM Friday, January 6th</h1>
-          <img src="/images/2023winter/synecdoche-new-york-2008.jpeg" alt="Synecdoche, New York (2008) still">
-          <h2>Synecdoche, New York (2008)</h2>
-          <h3>Charlie Kaufman &middot; 123m &middot; 35mm</h3>
-          <p><i>Synecdoche, New York</i> follows Caden Cotard (Philip Seymour Hoffman), an ailing theater director, as he leaves his bleak life in Schenectady, New York to create a mind-bending theater production that seeks to mirror all life in New York City—by literally recreating the city inside a massive warehouse. A film Roger Ebert called the best of the decade, <i>Synecdoche, New York</i> demands multiple viewings to fully appreciate its sheer complexity and surrealism.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=4A209B26-B635-48D9-90C1-6DF89EBD3141" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Friday, January 13th</h1>
+          <img src="/images/2023winter/magnolia-1999.jpeg" alt="Magnolia (1999) still">
+          <h2>Magnolia (1999)</h2>
+          <h3>Paul Thomas Anderson &middot; 183m &middot; 35mm</h3>
+          <p>PTA’s <i>Magnolia</i> is a varied tapestry of interwoven stories, each following a different resident of Los Angeles’s San Fernando Valley, and slowly coming together as the story unfolds. A marathon of unearthed secrets, family drama, and unrequited desire—with a final twist that feels almost like divine intervention—this is a film that shines through both the stellar performances of its ensemble cast and the tense relationships that Anderson constructs.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=9FB26EB5-EE19-4458-A256-9E5E5388D8AD" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div class="screening">
-          <h1>7:00PM Saturday, January 7th</h1>
-          <img src="/images/2023winter/dont-worry-darling-2022.jpeg" alt="Don't Worry Darling (2022) still">
-          <h2>Don't Worry Darling (2022)</h2>
-          <h3>Olivia Wilde &middot; 123m &middot; DCP</h3>
-          <p>Olivia Wilde’s follow-up to her hit directorial debut <i>Booksmart</i> may be best known for its backstage disputes (did Harry Styles spit on Chris Pine?), but don’t you want to see the drama that led to all that drama? In it, a couple moves to an idyllic company town that harbors a horrific secret. Wilde framed her 1950s dystopia as pushback against modern-day incels, and critics praised her performance in the film, as well as Florence Pugh’s and Chris Pine’s.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=8EDC59F9-CB36-4FF0-B077-7987C25BDCAC" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Saturday, January 14th</h1>
+          <img src="/images/2023winter/decision-to-leave-2022.jpeg" alt="Decision to Leave (2022) still">
+          <h2>Decision to Leave (2022)</h2>
+          <h3>Park Chan-wook &middot; 138m &middot; DCP</h3>
+          <p>Park Chan-wook won Best Director at Cannes for this haunting noir about a policeman (Park Hae-il) who falls for a murder suspect (Tang Wei). Park strips away the baroque style he became known for in films like <i>Oldboy</i> and <i>The Handmaiden</i>, stating he wanted to subvert modern tropes of the detective as either excessively violent or brilliant. The love story here was inspired by the Korean song “Mist,” which is woven throughout the film’s gorgeous score.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=E6ED907A-D008-406C-A545-9708FAADF0B0" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div class="screening">
-          <h1>7:00PM Sunday, January 8th</h1>
-          <img src="/images/2023winter/ikiru-1952.jpeg" alt="Ikiru (1952) still">
-          <h2>Ikiru (1952)</h2>
-          <h3>Akira Kurosawa &middot; 143m &middot; 35mm</h3>
-          <p>When aging bureaucrat Kanji Watanabe (Takashi Shimura) is diagnosed with stomach cancer, he is forced to come to terms with the true trajectory of his life so far—that after 30 years at Tokyo City Hall, he hasn't accomplished a thing. While bleak in subject matter, <i>Ikiru</i> shows Kurosawa at his most sensitive and compassionate, following Mr. Watanabe as, in the face of looming death, he finds the courage to do what he hasn't done before: live (<i>ikiru</i>).</p>
-          <p><i>35mm print courtesy of the Japan Foundation.</i></p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=C45E4DD7-4BFB-4F34-A4F2-2C14E826A89A" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Sunday, January 15th</h1>
+          <img src="/images/2023winter/the-seventh-seal-1957.jpeg" alt="The Seventh Seal (1957) still">
+          <h2>The Seventh Seal (1957)</h2>
+          <h3>Ingmar Bergman &middot; 96m &middot; DCP</h3>
+          <p>Having just returned to plague-ridden Sweden after fighting in the Crusades, medieval knight Antonius Block is met suddenly by Death, whom he challenges to a chess match over his very soul. Bergman is uncompromising, placing the silence of God at the very heart of his film; but he weaves glints of human kindness into this macabre tapestry, as Block and his squire Jöns try to accomplish one redemptive act before joining for eternity in the Dance of Death.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=BBDE830C-55CC-4EDE-885D-A7D3311FCD47" target="_blank">here</a></u>.</b></p>
         </div>
 
       </div>
