@@ -30,6 +30,7 @@
           <p>Nearly 50 years before Roe v. Wade was overturned in 2022, seven Chicago women were arrested and charged with building an underground network to provide illegal abortions—each facing up to 110 years in prison. These were 'the Janes,' an activist group which provided abortions to an estimated 11,000 women. This documentary, which includes interviews with the women of the collective, is an informative and vital viewing in a post-Roe America.</p>
           <br>
           <p><i><span style="color:red;">Featuring panel with Heather Booth, an activist and founder of the underground abortion provider known as "the Jane!"</span> Presented by YWCA Metropolitan Chicago, Chicago  Foundation for Women, and the Center for the Study of Gender and Sexuality (CSGS).</i></p>
+          <p><b>Registration can be completed <u><a href="https://ywcachicago.salsalabs.org/ScreeningofTheJanes/index.html" target="_blank">here</a></u>.</b></p>
         </div>
         
         <div class="screening" id="who-killed-captain-alex" style="scroll-margin-top: var(--header-height);">
