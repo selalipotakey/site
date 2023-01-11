@@ -149,8 +149,9 @@
           <h1>7:00PM Friday, January 13th</h1>
           <img src="/images/2023winter/magnolia-1999.jpeg" alt="Magnolia (1999) still">
           <h2>Magnolia (1999)</h2>
-          <h3>Paul Thomas Anderson &middot; 183m &middot; 35mm</h3>
+          <h3>Paul Thomas Anderson &middot; 183m &middot; Digital</h3>
           <p>PTA’s <i>Magnolia</i> is a varied tapestry of interwoven stories, each following a different resident of Los Angeles’s San Fernando Valley, and slowly coming together as the story unfolds. A marathon of unearthed secrets, family drama, and unrequited desire—with a final twist that feels almost like divine intervention—this is a film that shines through both the stellar performances of its ensemble cast and the tense relationships that Anderson constructs.</p>
+          <p><i>Note: previously billed as 35mm, but changed to digital.</i></p>
           <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=9FB26EB5-EE19-4458-A256-9E5E5388D8AD" target="_blank">here</a></u>.</b></p>
         </div>
 
