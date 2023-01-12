@@ -22,6 +22,26 @@
           
         </div>
         
+        <div class="screening" id="close" style="scroll-margin-top: var(--header-height);">
+          <h1>6:00PM Wednesday, January 18th</h1>
+          <img src="/images/2023winter/close-2022.jpg" alt="CLOSE still">
+          <h2>Close (2022)</h2>
+          <h3>Lukas Dhont &middot; 105m &middot; DCP</h3>
+          <p>His first film after his feature debut and Cannes Caméra d'Or-winning <i>Girl</i>, Lukas Dhont's <i>Close</i> stars Eden Dambrine and Gustav de Waele as two young teen boys, Léo and Rémi. Partially a retelling of Dhont's own childhood experiences, Léo and Rémi must navigate their relationship under new and unwanted scrutiny after returning to their normal lives following an idyllic summer together. Dhont took home the Grand Prix at Cannes for this film.</p>
+          <p><i>Free pre-release screening! Followed by discussion and Q+A with director Lukas Dhont moderated by CMST Professor Aurore Spiers.</i></p>
+          <p><b>200 tickets can be reserved online <u><a href="https://forms.gle/q9DWFNfJ4bsrRZueA" target="_blank">here</a></u>.</b></p>
+        </div>
+
+        <div class="screening" id="close" style="scroll-margin-top: var(--header-height);">
+          <h1>4:30PM Thursday, January 19th</h1>
+          <img src="/images/2023winter/a-touch-of-spice-2003.jpg" alt="A TOUCH OF SPICE still">
+          <h2>A Touch of Spice (2003)</h2>
+          <h3>Tassos Boulmetis &middot; 108m &middot; DCP</h3>
+          <p>A Greek family living in Istanbul is broken apart when they are deported from Turkey; the family's young son, Fanis, struggles to adapt to life in Greece and takes refuge in cooking, as it is his only connection to his grandfather and his homeland. The film's original title, <i>Politiki Kouzina</i>, can either be translated as "Cuisine of the City" (referring to Constantinople) or as "Political Cuisine," reflecting the dual themes underpinning this film.</p>
+          <p><i>Sponsored by the UChicago Hellenic Students Association (HSA).</i></p>
+          <!-- <p><b>Tickets can be bought <u><a href="https://forms.gle/q9DWFNfJ4bsrRZueA" target="_blank">here</a></u>.</b></p> -->
+        </div>
+
         <div class="screening" id="the-janes" style="scroll-margin-top: var(--header-height);">
           <h1>6:30PM Thursday, January 26th</h1>
           <img src="/images/2023winter/the-janes-2022.jpg" alt="THE JANES (2022) still">
