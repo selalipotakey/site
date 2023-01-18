@@ -44,8 +44,9 @@
           <h1>7:00PM Saturday, January 21st</h1>
           <img src="/images/2023winter/woman-king-2022.jpeg" alt="The Woman King (2022) still">
           <h2>The Woman King (2022)</h2>
-          <h3>Gina Prince-Bythewood &middot; 135m &middot; DCP</h3>
+          <h3>Gina Prince-Bythewood &middot; 135m &middot; Digital</h3>
           <p>Inspired by—but in no way limited to—true historical events, Gina Prince-Bythewood's most recent release <i>The Woman King</i> stars Viola Davis as the titular leader of the Agojie, a group of warrior women who protected the African kingdom of Dahomey (modern-day Benin) in the 1800s. The film is an action-packed and energetic historical epic with some electrifying performances (what else would one expect from Viola Davis?), and a lot of heart.</p>
+          <p><i>Note: originally billed as DCP.</i></p>
           <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=54437724-64FF-420C-AEFA-AF6957BC409C" target="_blank">here</a></u>.</b></p>
         </div>
         
