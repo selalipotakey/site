@@ -101,88 +101,70 @@
         </div>
 
         <div class="screening">
-          <h1>7:00PM Tuesday, January 17th</h1>
-          <img src="/images/2023winter/chan-is-missing-1982.jpg" alt="Chan Is Missing (1982) still">
-          <h2>Chan Is Missing (1982)</h2>
-          <h3>Wayne Wang &middot; 76m &middot; DCP</h3>
-          <p>"<i>Chan is Missing</i> announced that Asian Americans could be artists," remembers scholar Peter Feng. An audacious mix of noir and documentary, it follows a manhunt for Chan Hung, who becomes a stand-in for Chinese American identity itself, as no one can agree who he is, or was. Chan is never found: to be Asian American is not to inhabit a single preexisting identity, but to negotiate a new, unstable one, forging solidarities where they didn't exist before.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=6774F813-F024-4B70-8D38-9DCADB4D5FEC" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Monday, January 23rd</h1>
+          <img src="/images/2023winter/baby-face-1933.jpg" alt="Baby Face (1933) still">
+          <h2>Baby Face (1933)</h2>
+          <h3>Alfred E. Green &middot; 76m &middot; 35mm</h3>
+          <p>In perhaps her finest pre-Code turn, Barbara Stanwyck plays a daughter of a speakeasy owner who is inspired by Nietzsche to sleep her way to the top; and yes, the film is as eyebrow-raising as that logline sounds. Cited as one of the films whose edginess brought about the Hays Code, <i>Baby Face</i> is as delightful as it is important to Hollywood history. Keep your eye out too for John Wayne(!) in a pre-stardom role as one of Stanwyck's conquests.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=351E3A43-724F-4596-9280-F9C9B938C8E0" target="_blank">here</a></u>.</b></p>
         </div>
         
-        <div class="screening" id="close" style="scroll-margin-top: var(--header-height);">
-          <h1>6:00PM Wednesday, January 18th</h1>
-          <img src="/images/2023winter/close-2022.jpg" alt="CLOSE still">
-          <h2>Close (2022)</h2>
-          <h3>Lukas Dhont &middot; 105m &middot; DCP</h3>
-          <p>His first film after his feature debut and Cannes Caméra d'Or-winning <i>Girl</i>, Lukas Dhont's <i>Close</i> stars Eden Dambrine and Gustav de Waele as two young teen boys, Léo and Rémi. Partially a retelling of Dhont's own childhood experiences, Léo and Rémi must navigate their relationship under new and unwanted scrutiny after returning to their normal lives following an idyllic summer together. Dhont took home the Grand Prix at Cannes for this film.</p>
-          <p><i>Free pre-release screening! Followed by discussion and Q+A with director Lukas Dhont moderated by CMST Professor Aurore Spiers.</i></p>
-          <p><b>200 tickets can be reserved online <u><a href="https://forms.gle/q9DWFNfJ4bsrRZueA" target="_blank">here</a></u>.</b></p>
+        <div class="screening">
+          <h1>7:00PM Tuesday, January 24th</h1>
+          <img src="/images/2023winter/surname-viet-given-name-nam-1989.jpg" alt="Surname Viet Given Name Nam (1989) still">
+          <h2>Surname Viet Given Name Nam (1989)</h2>
+          <h3>Trinh T. Minh-ha &middot; 108m &middot; DCP</h3>
+          <p>An ambitious deconstruction of language, translation, and concepts of national and personal identity, this documentary features a collage of Vietnamese women’s voices, challenging the form and politics of traditional filmed ethnography. Weaving testimony with performance, and complex strategies of distanciation with self-conscious representation, <i>Surname</i> expresses “the impossibility of a single truth in witnessing, remembering, recording, forgetting.”</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=3E90AB31-3F41-4B1B-BE52-FE43BE228489" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div class="screening">
-          <h1><u>9:30PM</u> Wednesday, January 18th</h1>
-          <img src="/images/2023winter/toni-1936.jpg" alt="Toni (1935) still">
-          <h2>Toni (1935)</h2>
-          <h3>Jean Renoir &middot; 82m &middot; DCP</h3>
-          <p>In the midst of the Great Depression, Renoir used a true crime story and non-professional actors to show the plight of migrant workers as they struggled in the south of France. Toni is a laborer from Italy loved by his landlady, but he becomes obsessed with Josepha, a new migrant worker from Spain. Josepha then falls in love with a Frenchman, and the conflict of wills leads to inevitable tragedy. Uniquely for 1935, <i>Toni</i>  was entirely filmed on location.</p>
-          <p><i style="color: red;">Note: originally billed at 7:00PM</i></p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=189F8CCC-AA82-4E91-99D5-CCB612AE7E04" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Wednesday, January 25th</h1>
+          <img src="/images/2023winter/the-crime-of-monsieur-lange-1936.jpg" alt="The Crime of Monsieur Lange (1936) still">
+          <h2>The Crime of Monsieur Lange (1936)</h2>
+          <h3>Jean Renoir &middot; 84m &middot; DCP</h3>
+          <p>In this romance imbued with a socialist spirit, Arizona Jim is the cowboy hero who saves a small publishing house. When its bullying owner Batala fakes his death to escape creditors, his gang of employees band together to keep the business going and, as meek author M. Lange's bang-bang Western novels become popular, their lively little community becomes successful. When the jealous and greedy Batala returns to life, can the workers' unity survive?</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=EB27672F-11FD-44DC-BB42-D65FC4BE192F" target="_blank">here</a></u>.</b></p>
         </div>
 
-        <div class="screening" id="close" style="scroll-margin-top: var(--header-height);">
-          <h1>4:30PM Thursday, January 19th</h1>
-          <img src="/images/2023winter/a-touch-of-spice-2003.jpg" alt="A TOUCH OF SPICE still">
-          <h2>A Touch of Spice (2003)</h2>
-          <h3>Tassos Boulmetis &middot; 108m &middot; DCP</h3>
-          <p>A Greek family living in Istanbul is broken apart when they are deported from Turkey; the family's young son, Fanis, struggles to adapt to life in Greece and takes refuge in cooking, as it is his only connection to his grandfather and his homeland. The film's original title, <i>Politiki Kouzina</i>, can either be translated as "Cuisine of the City" (referring to Constantinople) or as "Political Cuisine," reflecting the dual themes underpinning this film.</p>
-          <p><i>Sponsored by the UChicago Hellenic Students Association (HSA).</i></p>
-          <!-- <p><b>Tickets can be bought <u><a href="https://forms.gle/q9DWFNfJ4bsrRZueA" target="_blank">here</a></u>.</b></p> -->
-        </div>
-
-        <div class="screening">
-          <h1>7:00PM Thursday, January 19th</h1>
-          <img src="/images/2023winter/winter-light-1963.jpg" alt="Winter Light (1963) still">
-          <h2>Winter Light (1963)</h2>
-          <h3>Ingmar Bergman &middot; 81m &middot; DCP</h3>
-          <p>The second film of Ingmar Berman’s “spiritual” trilogy, <i>Winter Light</i> focuses on Tomas Ericsson, a pastor stricken with a personal crisis in faith, as he delivers a service for a small congregation including a fisherman debilitatingly frightened by nuclear war to Ericsson’s atheist ex-mistress. Profound in its depiction of existentialism and faith on an individual scale, the film harshly ponders God’s absence, silence, and love for His creations.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=672A26B1-10E7-4086-B27F-4E61769A86BB" target="_blank">here</a></u>.</b></p>
+        <div class="screening" id="the-janes" style="scroll-margin-top: var(--header-height);">
+          <h1>6:30PM Thursday, January 26th</h1>
+          <img src="/images/2023winter/the-janes-2022.jpg" alt="THE JANES (2022) still">
+          <h2>The Janes (2022)</h2>
+          <h3>Emma Pildes and Tia Lessin &middot; 102m &middot; DCP</h3>
+          <p>Nearly 50 years before Roe v. Wade was overturned in 2022, seven Chicago women were arrested and charged with building an underground network to provide illegal abortions—each facing up to 110 years in prison. These were 'the Janes,' an activist group which provided abortions to an estimated 11,000 women. This documentary, which includes interviews with the women of the collective, is an informative and vital viewing in a post-Roe America.</p>
+          <br>
+          <p><i><span style="color:red;">Free event! Passholders must reserve a ticket online or go through the ticketing table the day of. Screening preceded by a panel with Heather Booth and Marie Leaner, activists and founders of the underground abortion provider known as "the Jane!" Moderated by WBEZ's Natalie Moore.</span> Presented by YWCA Metropolitan Chicago; Chicago Foundation for Women; the Center for the Study of Gender and Sexuality (CSGS), the Center for the Study of Race, Politics, and Culture (CSRPC); and Julia Stasch.</i></p>
+          <p><b>Registration can be completed <u><a href="https://ywcachicago.salsalabs.org/ScreeningofTheJanes/index.html" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div class="screening">
-          <h1>9:30PM Thursday, January 19th</h1>
-          <img src="/images/2023winter/the-forest-for-the-trees-2003.jpeg" alt="The Forest for the Trees (2003) still">
-          <h2>The Forest for the Trees (2003)</h2>
-          <h3>Maren Ade &middot; 81m &middot; 35mm</h3>
-          <p>Long before writer/director Maren Ade rocketed to international acclaim with the comedy <i>Toni Erdmann</i>, she showed a talent for finding humor and psychological depth in the drudgery of everyday life. Her directorial debut <i>The Forest for the Trees</i> focuses on the struggles of an awkward young teacher (Eva Löbau) starting over in a new town. The distinctly lo-fi video aesthetic highlights the growing desperation within Löbrau’s subtle performance.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=7A4460FA-5DBA-4A62-8007-02846683186C" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Friday, January 27th</h1>
+          <img src="/images/2023winter/the-hunger-games-catching-fire-2013.jpeg" alt="The Hunger Games: Catching Fire (2013) still">
+          <h2>The Hunger Games: Catching Fire (2013)</h2>
+          <h3>Francis Lawrence &middot; 156m &middot; DCP</h3>
+          <p>Set one year after the series’s first installment, <i>The Hunger Games: Catching Fire</i> is a star-studded blockbuster that follows Katniss Everdeen (Jennifer Lawrence) and Peeta Mellark (Josh Hutcherson) amid a tumultuous time across Panem, where rebellion—inspired by their victory in the 74th Hunger Games—is brewing. With a myriad of new characters, such as Gamemaker Plutarch Heavensbee (Philip Seymour Hoffman), this sequel is a fun, gripping watch.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=078C18B2-FE4A-42F0-B1F6-3768F6A81E00" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div class="screening">
-          <h1>7:00PM Friday, January 20th</h1>
-          <img src="/images/2023winter/love-liza-2002.jpeg" alt="Love Liza (2002) still">
-          <h2>Love Liza (2002)</h2>
-          <h3>Todd Louiso &middot; 90m &middot; 35mm</h3>
-          <p><i>Love Liza</i> centers website designer Wilson Joel (Philip Seymour Hoffman), who turns to gasoline fumes after the unexplained suicide of his wife Liza. Attempting to cope with his deteriorating psyche, he delves deeper and deeper into a spiral of self-destruction in one of this series' most subtle features. Todd Louiso puts Hoffman’s acting chops at the forefront of the film, producing a stunning study of a harrowing miasma of loss and pain.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=2C8B50E9-FFC0-42D6-A9CA-777E35AADBAD" target="_blank">here</a></u>.</b></p>
+          <h1>6:15PM Saturday, January 28th</h1>
+          <img src="/images/2023winter/inu-oh-2022.jpeg" alt="Inu-Oh (2022) still">
+          <h2>Inu-Oh (2022)</h2>
+          <h3>Masaaki Yuasa &middot; 98m &middot; DCP</h3>
+          <p>Based on a series of 14th-century Japanese legends, this animated musical tells the tale of Inu-Oh, a dancer born with a strange appearance, and Tomona, a blind musician. Pariahs, Inu-Oh and Tomona become friends and form an artistic partnership that brings them great renown. Full of beautiful settings, fantastical characters, and musical numbers influenced by glam metal, Masaaki Yuasa's twist on Japanese folklore is a truly unique must-see.</p>
+          <p><i>A collaboration with UCJAS for UChi-Con.</i></p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=D65CD498-193E-4275-A05A-7865DEC22EFF" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div class="screening">
-          <h1>7:00PM Saturday, January 21st</h1>
-          <img src="/images/2023winter/woman-king-2022.jpeg" alt="The Woman King (2022) still">
-          <h2>The Woman King (2022)</h2>
-          <h3>Gina Prince-Bythewood &middot; 135m &middot; Digital</h3>
-          <p>Inspired by—but in no way limited to—true historical events, Gina Prince-Bythewood's most recent release <i>The Woman King</i> stars Viola Davis as the titular leader of the Agojie, a group of warrior women who protected the African kingdom of Dahomey (modern-day Benin) in the 1800s. The film is an action-packed and energetic historical epic with some electrifying performances (what else would one expect from Viola Davis?), and a lot of heart.</p>
-          <p><i>Note: originally billed as DCP.</i></p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=54437724-64FF-420C-AEFA-AF6957BC409C" target="_blank">here</a></u>.</b></p>
-        </div>
-
-        <div class="screening">
-          <h1>7:00PM Sunday, January 22nd</h1>
-          <img src="/images/2023winter/the-phantom-carriage-1921.jpeg" alt="The Phantom Carriage (1921) still">
-          <h2>The Phantom Carriage (1921)</h2>
-          <h3>Victor Sjöström &middot; 106m &middot; Digital</h3>
-          <p>Cited by Ingmar Bergman as a major influence on his own work, <i>The Phantom Carriage</i> is an indisputable classic of ghoulish Swedish cinema. Released itself on New Year's Day, 1921, the film begins on New Year's Eve, as violent alcoholic David Holm and his drinking buddies share the story of the Phantom Carriage. Legend has it that the last great sinner to die each year will have to drive the eponymous chariot, collecting the souls of the dead for a year...</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=C0FB8012-143B-4D22-8BA2-A14858DCEB72" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Sunday, January 29th</h1>
+          <img src="/images/2023winter/taste-of-cherry-1997.jpeg" alt="Taste of Cherry (1997) still">
+          <h2>Taste of Cherry (1997)</h2>
+          <h3>Abbas Kiarostami &middot; 99m &middot; DCP</h3>
+          <p>The first Iranian film to win the Palme d’Or, <i>Taste of Cherry</i> stars Homayoun Ershadi as the middle-aged Mr. Badii, driving through Tehran in search of someone to bury him should he commit suicide. The film centers Mr. Badii and three of his passengers: a young Kurdish soldier, an Afghan seminarian, and an Azeri taxidermist, with whom he discusses mortality, religion, and the little joys of life as he tries successively to recruit them for the job.</p>
+          <p><i>A Night Owls event with Professors Agnes Callard and Daniel Morgan. Free admittance for students that show their UCID!</i></p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=FA3E5668-94BF-48A3-BBCD-D9EDF73F547D" target="_blank">here</a></u>.</b></p>
         </div>
 
       </div>
