@@ -46,7 +46,7 @@
           <h1>6:30PM Thursday, January 26th</h1>
           <img src="/images/2023winter/the-janes-2022.jpg" alt="THE JANES (2022) still">
           <h2>The Janes (2022)</h2>
-          <h3>Emma Pildes and Tia Lessin &middot; 102m &middot; DCP</h3>
+          <h3>Emma Pildes and Tia Lessin &middot; 102m &middot; DCP (English Subtitles)</h3>
           <p>Nearly 50 years before Roe v. Wade was overturned in 2022, seven Chicago women were arrested and charged with building an underground network to provide illegal abortions—each facing up to 110 years in prison. These were 'the Janes,' an activist group which provided abortions to an estimated 11,000 women. This documentary, which includes interviews with the women of the collective, is an informative and vital viewing in a post-Roe America.</p>
           <br>
           <p><i><span style="color:red;">Free event! Passholders must reserve a ticket online or go through the ticketing table the day of. Screening preceded by a panel with Heather Booth and Marie Leaner, activists and founders of the underground abortion provider known as "the Jane!" Moderated by WBEZ's Natalie Moore.</span> Presented by YWCA Metropolitan Chicago; Chicago Foundation for Women; the Center for the Study of Gender and Sexuality (CSGS), the Center for the Study of Race, Politics, and Culture (CSRPC); and Julia Stasch.</i></p>
