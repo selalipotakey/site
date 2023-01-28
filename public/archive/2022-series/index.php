@@ -226,7 +226,7 @@
             <div class="series-text">
               <a href="/archive/2022-series/summer/friday-1">
                 <p class="day">Friday I</p>
-                <p class="title">From the Vault: Classics on Film</p>
+                <p class="title">Programmers' Picks</p>
               </a>
               <p class="programmer">Programmed by: Addison Wood, Ian Resnick, and Hannah Halpern</p>
             </div>
