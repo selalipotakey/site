@@ -30,7 +30,7 @@
           <div class="carousel__track-container">
             <ul class="carousel__track">
               
-              <li class="carousel__slide current-slide">
+              <!-- <li class="carousel__slide current-slide">
                 <a href="/calendar/special-events#the-janes">
                   <img class="carousel__image" src="/images/2023winter/the-janes-2022.jpg" alt="THE JANES still">
                 </a>
@@ -43,9 +43,9 @@
                     <p class="capsule fittext">Nearly 50 years before Roe v. Wade was overturned in 2022, seven Chicago women were arrested and charged with building an underground network to provide illegal abortions—each facing up to 110 years in prison. These were 'the Janes,' and this is their story.
                     <i>Presented by YWCA Metropolitan Chicago, Chicago  Foundation for Women, and the Center for the Study of Gender and Sexuality (CSGS).</i></p>
                   </div>
-              </li>
+              </li> -->
 
-              <li class="carousel__slide">
+              <li class="carousel__slide current-slide">
                 <a href="/calendar/special-events#who-killed-captain-alex">
                   <img class="carousel__image" src="/images/2023winter/who-killed-captain-alex-2010.jpg" alt="WHO KILLED CAPTAIN ALEX? still">
                 </a>
@@ -82,8 +82,8 @@
           </button>
 
           <div class="carousel__nav">
+            <!-- <button class="carousel__indicator current-slide"></button> -->
             <button class="carousel__indicator current-slide"></button>
-            <button class="carousel__indicator"></button>
             <button class="carousel__indicator"></button>
           </div>
           
@@ -101,70 +101,77 @@
         </div>
 
         <div class="screening">
-          <h1>7:00PM Monday, January 23rd</h1>
-          <img src="/images/2023winter/baby-face-1933.jpg" alt="Baby Face (1933) still">
-          <h2>Baby Face (1933)</h2>
-          <h3>Alfred E. Green &middot; 76m &middot; 35mm</h3>
-          <p>In perhaps her finest pre-Code turn, Barbara Stanwyck plays a daughter of a speakeasy owner who is inspired by Nietzsche to sleep her way to the top; and yes, the film is as eyebrow-raising as that logline sounds. Cited as one of the films whose edginess brought about the Hays Code, <i>Baby Face</i> is as delightful as it is important to Hollywood history. Keep your eye out too for John Wayne(!) in a pre-stardom role as one of Stanwyck's conquests.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=351E3A43-724F-4596-9280-F9C9B938C8E0" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Monday, January 30th</h1>
+          <img src="/images/2023winter/stella-dallas-1937.jpg" alt="Stella Dallas (1937) still">
+          <h2>Stella Dallas (1937)</h2>
+          <h3>King Vidor &middot; 106m &middot; 35mm</h3>
+          <p>Barbara Stanwyck earned her first Academy Award nomination for Best Actress with this breathlessly melodramatic weepie about a brassy but affectionate mother who goes to heartbreaking extremes to build a better life for her beloved daughter. King Vidor's <i>Stella Dallas</i> is perhaps Stanwyck’s best classical acting showcase: a sizzle reel for her keen ability to bring a distinct naturalism to the heightened reality of Hollywood cinema at the time.</p>
+          <p><i>Print courtesy of the Academy Film Archive.</i></p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=F2B1C761-2A9D-4490-A783-065D0CDE91BA" target="_blank">here</a></u>.</b></p>
         </div>
         
         <div class="screening">
-          <h1>7:00PM Tuesday, January 24th</h1>
-          <img src="/images/2023winter/surname-viet-given-name-nam-1989.jpg" alt="Surname Viet Given Name Nam (1989) still">
-          <h2>Surname Viet Given Name Nam (1989)</h2>
-          <h3>Trinh T. Minh-ha &middot; 108m &middot; DCP</h3>
-          <p>An ambitious deconstruction of language, translation, and concepts of national and personal identity, this documentary features a collage of Vietnamese women’s voices, challenging the form and politics of traditional filmed ethnography. Weaving testimony with performance, and complex strategies of distanciation with self-conscious representation, <i>Surname</i> expresses “the impossibility of a single truth in witnessing, remembering, recording, forgetting.”</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=3E90AB31-3F41-4B1B-BE52-FE43BE228489" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Tuesday, January 31st</h1>
+          <img src="/images/2023winter/free-chol-soo-lee-2022.jpg" alt="Free Chol Soo Lee (2022) still">
+          <h2>Free Chol Soo Lee (2022)</h2>
+          <h3>Julie Ha and Eugene Yi &middot; 83m &middot; DCP</h3>
+          <p>We fight back! A pair of flashpoints for Asian American activism are portrayed in this double-feature: the first about the eviction of Filipino residents of the I-Hotel SRO, provoking one of history's most vigorous anti-gentrification organizing efforts; the second on the false imprisonment of Chol Soo Lee, which ignited a pan-Asian movement to free him. Both films see diverse communities drawn together in the shared experience of oppression.</p>
+          <!-- <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=26AA6A69-DC62-49BB-96E9-F5B5ACA7FDE3" target="_blank">here</a></u>.</b></p> -->
+          <p><i>Note: THE FALL OF THE I-HOTEL was previously billed but has been removed from this screening. Tickets are now free, and we apologize for any inconvenience. </i></p>
         </div>
 
         <div class="screening">
-          <h1>7:00PM Wednesday, January 25th</h1>
-          <img src="/images/2023winter/the-crime-of-monsieur-lange-1936.jpg" alt="The Crime of Monsieur Lange (1936) still">
-          <h2>The Crime of Monsieur Lange (1936)</h2>
-          <h3>Jean Renoir &middot; 84m &middot; DCP</h3>
-          <p>In this romance imbued with a socialist spirit, Arizona Jim is the cowboy hero who saves a small publishing house. When its bullying owner Batala fakes his death to escape creditors, his gang of employees band together to keep the business going and, as meek author M. Lange's bang-bang Western novels become popular, their lively little community becomes successful. When the jealous and greedy Batala returns to life, can the workers' unity survive?</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=EB27672F-11FD-44DC-BB42-D65FC4BE192F" target="_blank">here</a></u>.</b></p>
-        </div>
-
-        <div class="screening" id="the-janes" style="scroll-margin-top: var(--header-height);">
-          <h1>6:30PM Thursday, January 26th</h1>
-          <img src="/images/2023winter/the-janes-2022.jpg" alt="THE JANES (2022) still">
-          <h2>The Janes (2022)</h2>
-          <h3>Emma Pildes and Tia Lessin &middot; 102m &middot; DCP (English Subtitles)</h3>
-          <p>Nearly 50 years before Roe v. Wade was overturned in 2022, seven Chicago women were arrested and charged with building an underground network to provide illegal abortions—each facing up to 110 years in prison. These were 'the Janes,' an activist group which provided abortions to an estimated 11,000 women. This documentary, which includes interviews with the women of the collective, is an informative and vital viewing in a post-Roe America.</p>
-          <br>
-          <p><i><span style="color:red;">Free event! Passholders must reserve a ticket online or go through the ticketing table the day of. Screening preceded by a panel with Heather Booth and Marie Leaner, activists and founders of the underground abortion provider known as "the Jane!" Moderated by WBEZ's Natalie Moore.</span> Presented by YWCA Metropolitan Chicago; Chicago Foundation for Women; the Center for the Study of Gender and Sexuality (CSGS), the Center for the Study of Race, Politics, and Culture (CSRPC); and Julia Stasch.</i></p>
-          <p><b>Registration can be completed <u><a href="https://ywcachicago.salsalabs.org/ScreeningofTheJanes/index.html" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Wednesday, February 1st</h1>
+          <img src="/images/2023winter/the-grand-illusion-1937.jpeg" alt="The Grand Illusion (1937) still">
+          <h2>The Grand Illusion (1937)</h2>
+          <h3>Jean Renoir &middot; 114m &middot; DCP</h3>
+          <p>It's no wonder Nazi regimes banned <i>The Grand Illusion</i>. Joseph Goebbels called it "Cinematic Public Enemy Number 1," while its themes center on World War I-era class differences and the demise of Western civilization. In the film, a motley group of prisoners must work together to escape the confines of a German prison camp. The beauty of eastern France and great actors like Erich von Stroheim playing the camp commander serve to enrich the tale.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=CF24DE33-5E82-410D-86C1-BB054DD0CDE3" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div class="screening">
-          <h1>7:00PM Friday, January 27th</h1>
-          <img src="/images/2023winter/the-hunger-games-catching-fire-2013.jpeg" alt="The Hunger Games: Catching Fire (2013) still">
-          <h2>The Hunger Games: Catching Fire (2013)</h2>
-          <h3>Francis Lawrence &middot; 156m &middot; DCP</h3>
-          <p>Set one year after the series’s first installment, <i>The Hunger Games: Catching Fire</i> is a star-studded blockbuster that follows Katniss Everdeen (Jennifer Lawrence) and Peeta Mellark (Josh Hutcherson) amid a tumultuous time across Panem, where rebellion—inspired by their victory in the 74th Hunger Games—is brewing. With a myriad of new characters, such as Gamemaker Plutarch Heavensbee (Philip Seymour Hoffman), this sequel is a fun, gripping watch.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=078C18B2-FE4A-42F0-B1F6-3768F6A81E00" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Thursday, February 2nd</h1>
+          <img src="/images/2023winter/the-atomic-cafe-1982.jpg" alt="The Atomic Cafe (1982) still">
+          <h2>The Atomic Cafe (1982)</h2>
+          <h3>Jayne Loader, Kevin Rafferty, and Pierce Rafferty &middot; 86m &middot; DCP</h3>
+          <p>A sardonic reflection on the threat of nuclear destruction, this 1982 film splices together dozens of mid-century informational shorts and army training videos for a wary American public living in the Reagan Era. Despite pulling from such disparate sources, directors Jayne Loader and the Rafferty brothers successfully reconstruct an overarching narrative of the anxiety, dark humor, and empty reassurances that proliferated during the Cold War.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=3BED7AF7-48B8-405B-A735-342C747E19E0" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div class="screening">
-          <h1>6:15PM Saturday, January 28th</h1>
-          <img src="/images/2023winter/inu-oh-2022.jpeg" alt="Inu-Oh (2022) still">
-          <h2>Inu-Oh (2022)</h2>
-          <h3>Masaaki Yuasa &middot; 98m &middot; DCP</h3>
-          <p>Based on a series of 14th-century Japanese legends, this animated musical tells the tale of Inu-Oh, a dancer born with a strange appearance, and Tomona, a blind musician. Pariahs, Inu-Oh and Tomona become friends and form an artistic partnership that brings them great renown. Full of beautiful settings, fantastical characters, and musical numbers influenced by glam metal, Masaaki Yuasa's twist on Japanese folklore is a truly unique must-see.</p>
-          <p><i>A collaboration with UCJAS for UChi-Con.</i></p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=D65CD498-193E-4275-A05A-7865DEC22EFF" target="_blank">here</a></u>.</b></p>
+          <h1>9:30PM Thursday, February 2nd</h1>
+          <img src="/images/2023winter/boardinghouse-1982.jpeg" alt="Boardinghouse (1982) still">
+          <h2>Boardinghouse (1982)</h2>
+          <h3>John Wintergate &middot; 88m &middot; 35mm</h3>
+          <p>There’s normal 80s horror shlock, and then there’s <i>Boardinghouse</i>. Even its die-hard fans, like Cameron Worden of the Chicago Film Society, call it a “particularly crude labor of love.” Recognized as the first horror film shot on video but shown on film, Johnima and Kallassu Wintergate’s slasher film supplements the usual sex and gore with a healthy dose of telekinesis, a dash of new age sprituality, and a whole lot of the Wintergates’ band Lightstorm.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=43411E31-B863-4527-AFDB-E30AE0D3371A" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div class="screening">
-          <h1>7:00PM Sunday, January 29th</h1>
-          <img src="/images/2023winter/taste-of-cherry-1997.jpeg" alt="Taste of Cherry (1997) still">
-          <h2>Taste of Cherry (1997)</h2>
-          <h3>Abbas Kiarostami &middot; 99m &middot; DCP</h3>
-          <p>The first Iranian film to win the Palme d’Or, <i>Taste of Cherry</i> stars Homayoun Ershadi as the middle-aged Mr. Badii, driving through Tehran in search of someone to bury him should he commit suicide. The film centers Mr. Badii and three of his passengers: a young Kurdish soldier, an Afghan seminarian, and an Azeri taxidermist, with whom he discusses mortality, religion, and the little joys of life as he tries successively to recruit them for the job.</p>
-          <p><i>A Night Owls event with Professors Agnes Callard and Daniel Morgan. Free admittance for students that show their UCID!</i></p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=FA3E5668-94BF-48A3-BBCD-D9EDF73F547D" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Friday, February 3rd</h1>
+          <img src="/images/2023winter/scent-of-a-woman-1992.jpeg" alt="Scent of a Woman (1992) still">
+          <h2>Scent of a Woman (1992)</h2>
+          <h3>Martin Brest &middot; 157m &middot; 35mm</h3>
+          <p>An Oscar-winning remake of the 1974 Italian original, the 1992 <i>Scent of a Woman</i> stars Al Pacino as a blind, impossible-to-get-along-with former US army Lt. Col., and Chris O’Donnell as a struggling student who agrees to “babysit” Pacino’s character for purported “easy money.” Instead, over the course of a wild weekend in New York City, the rambunctious veteran teaches the mild-mannered student a thing or two about women, tango, and adulthood.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=A0BFC63D-553B-49A5-B0C4-E29BF053162F" target="_blank">here</a></u>.</b></p>
+        </div>
+
+        <div class="screening">
+          <h1>7:00PM Saturday, February 4th</h1>
+          <img src="/images/2023winter/neptune-frost-2021.jpeg" alt="Neptune Frost (2021) still">
+          <h2>Neptune Frost (2021)</h2>
+          <h3>Saul Williams and Anisia Uzeyman &middot; 110m &middot; DCP</h3>
+          <p>A unique combination of science fiction, romance, and musical, <i>Neptune Frost</i> is the Afrofuturist tale of a hacker collective in Burundi. Led by escaped miners Neptune and Matalusa, the group schemes to rise up against the authoritarian regime that ceaselessly exploits the region and its inhabitants. Released to critical acclaim, <i>Neptune Frost</i> is a colorful, gripping story that is equal parts acerbic social critique and joyful ingenuity.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=5BD7A236-E425-424B-A20F-C52B2C787F42" target="_blank">here</a></u>.</b></p>
+        </div>
+
+        <div class="screening">
+          <h1>7:00PM Sunday, February 5th</h1>
+          <img src="/images/2023winter/death-takes-a-holiday-1934.jpg" alt="Death Takes a Holiday (1934) still">
+          <h2>Death Takes a Holiday (1934)</h2>
+          <h3>Mitchell Leisen &middot; 79m &middot; 35mm</h3>
+          <p>In some ways, <i>Death Takes a Holiday</i> presents a standard romantic dilemma for its protagonist: a choice between love and death. The only catch? Here, the protagonist <i>is</i> Death. Frederic March stars as the fated reaper, taking human form in an attempt to learn why it is that people fear him. During this three-day stint, he falls for the enchanting young Grazia (Evelyn Venable), and must choose whether to pursue his love or leave Grazia among the living.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=268F6EAE-928B-47B4-973F-CA36C945EC8B" target="_blank">here</a></u>.</b></p>
         </div>
 
       </div>
