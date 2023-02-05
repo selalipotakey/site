@@ -66,16 +66,6 @@
           <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=3E90AB31-3F41-4B1B-BE52-FE43BE228489" target="_blank">here</a></u>.</b></p>
         </div>
         
-        <div class="screening">
-          <h1>7:00PM Tuesday, January 31st</h1>
-          <img src="/images/2023winter/free-chol-soo-lee-2022.jpg" alt="Free Chol Soo Lee (2022) still">
-          <h2>Free Chol Soo Lee (2022)</h2>
-          <h3>Julie Ha and Eugene Yi &middot; 83m &middot; DCP</h3>
-          <p>We fight back! A pair of flashpoints for Asian American activism are portrayed in this double-feature: the first about the eviction of Filipino residents of the I-Hotel SRO, provoking one of history's most vigorous anti-gentrification organizing efforts; the second on the false imprisonment of Chol Soo Lee, which ignited a pan-Asian movement to free him. Both films see diverse communities drawn together in the shared experience of oppression.</p>
-          <!-- <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=26AA6A69-DC62-49BB-96E9-F5B5ACA7FDE3" target="_blank">here</a></u>.</b></p> -->
-          <p><i>Note: THE FALL OF THE I-HOTEL was previously billed but has been removed from this screening. Tickets are now free, and we apologize for any inconvenience. </i></p>
-        </div>
-        
         <div id="sa-i-gu-bontoc-eulogy" class="screening" style="scroll-margin-top: var(--header-height);">
           <h1>7:00PM Tuesday, February 7th</h1>
           <img src="/images/2023winter/sa-i-gu-1993.png" alt="Sa-I-Gu (1993) // Bontoc Eulogy (1995) still">
@@ -88,9 +78,10 @@
         <div class="screening">
           <h1>7:00PM Tuesday, February 14th</h1>
           <img src="/images/2023winter/forbidden-city-usa-1989.jpg" alt="Forbidden City, U.S.A. (1989) // I Remember Dancing (2019) still">
-          <h2>Forbidden City, U.S.A. (1989) // I Remember Dancing (2019)</h2>
-          <h3>Arthur Dong // Nguiyen Tan Hoang &middot; 56m // 5m &middot; DCP // Digital</h3>
-          <p>Rebelling against the model minority myth, <i>Forbidden City, U.S.A.</i> shows generations of Asian Americans clubbing instead of studying, and features delicious archival discoveries like performances by the "Chinese Frank Sinatra." <i>I Remember Dancing</i> adds to the sense of liberation, with images of gaysians erotically recounting their unrepressed sex, emphasizing the value in opposing stereotypes without privileging just masculinity or heterosexuality.</p>
+          <h2>Free Chol Soo Lee (2022) // Forbidden City, U.S.A. (1989) // I Remember Dancing (2019)</h2>
+          <h3>Julie Ha and Eugene Yi // Arthur Dong // Nguiyen Tan Hoang &middot; 83m // 56m // 5m &middot; DCP // DCP // Digital</h3>
+          <p>This screening begins with <i>Free Chol Soo Lee</i>, a film about the false imprisonment of Chol Soo Lee, which ignited a pan-Asian movement to free him. Rebelling against the model minority myth, <i>Forbidden City, U.S.A.</i> shows generations of Asian Americans clubbing instead of studying, and features delicious archival discoveries like performances by the "Chinese Frank Sinatra." <i>I Remember Dancing</i> adds to the sense of liberation, with images of gaysians erotically recounting their unrepressed sex, emphasizing the value in opposing stereotypes without privileging just masculinity or heterosexuality.</p>
+          <p><i>Note: FREE CHOL SOO LEE has been added to this screening due to a previous cancellation.</i></p>
           <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=83F70A8F-F487-43E5-9DDA-FDF664FF487B" target="_blank">here</a></u>.</b></p>
         </div>
         
