@@ -52,6 +52,26 @@
           <p><i><span style="color:red;">Free event! Passholders must reserve a ticket online or go through the ticketing table the day of. Screening preceded by a panel with Heather Booth and Marie Leaner, activists and founders of the underground abortion provider known as "the Jane!" Moderated by WBEZ's Natalie Moore.</span> Presented by YWCA Metropolitan Chicago; Chicago Foundation for Women; the Center for the Study of Gender and Sexuality (CSGS), the Center for the Study of Race, Politics, and Culture (CSRPC); and Julia Stasch.</i></p>
           <p><b>Registration can be completed <u><a href="https://ywcachicago.salsalabs.org/ScreeningofTheJanes/index.html" target="_blank">here</a></u>.</b></p>
         </div>
+
+        <div class="screening">
+          <h1>7:00PM Sunday, January 29th</h1>
+          <img src="/images/2023winter/taste-of-cherry-1997.jpeg" alt="Taste of Cherry (1997) still">
+          <h2>Taste of Cherry (1997)</h2>
+          <h3>Abbas Kiarostami &middot; 99m &middot; DCP</h3>
+          <p>The first Iranian film to win the Palme d’Or, <i>Taste of Cherry</i> stars Homayoun Ershadi as the middle-aged Mr. Badii, driving through Tehran in search of someone to bury him should he commit suicide. The film centers Mr. Badii and three of his passengers: a young Kurdish soldier, an Afghan seminarian, and an Azeri taxidermist, with whom he discusses mortality, religion, and the little joys of life as he tries successively to recruit them for the job.</p>
+          <p><i>A Night Owls event with Professors Agnes Callard and Daniel Morgan. Free admittance for students that show their UCID!</i></p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=FA3E5668-94BF-48A3-BBCD-D9EDF73F547D" target="_blank">here</a></u>.</b></p>
+        </div>
+
+        <div class="screening">
+          <h1>7:00PM Saturday, February 18th</h1>
+          <img src="/images/2023winter/the-banshees-of-inisherin-2022.jpeg" alt="The Banshees of Inisherin (2022) still">
+          <h2>The Banshees of Inisherin (2022)</h2>
+          <h3>Martin McDonagh &middot; 114m &middot; DCP</h3>
+          <p>The relationship between lifelong companions Pádraic (Colin Farrell) and Colm (Brendan Gleeson) is suddenly thrown into turmoil when Colm abruptly ends the friendship. Refusing to give up easily, Pádraic determinedly sets out to repair the situation with help from his sister Siobhán and the island delinquent, Dominic. An ultimately gruesome tragicomedy, <i>The Banshees of Inisherin</i> is what Rotten Tomatoes dubs "a finely crafted feel-bad treat".</p>
+          <p><i>A Night Owls event with Professors Agnes Callard and Arnold Brooks. Students with a UCID get in for free!</i></p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=61F8D5FC-CCFA-4A82-8365-DF974B3D9D2B" target="_blank">here</a></u>.</b></p>
+        </div>
         
         <div class="screening" id="who-killed-captain-alex" style="scroll-margin-top: var(--header-height);">
           <h1>7:00PM Saturday, March 4th</h1>

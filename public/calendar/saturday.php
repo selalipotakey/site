@@ -84,6 +84,7 @@
           <h2>The Banshees of Inisherin (2022)</h2>
           <h3>Martin McDonagh &middot; 114m &middot; DCP</h3>
           <p>The relationship between lifelong companions Pádraic (Colin Farrell) and Colm (Brendan Gleeson) is suddenly thrown into turmoil when Colm abruptly ends the friendship. Refusing to give up easily, Pádraic determinedly sets out to repair the situation with help from his sister Siobhán and the island delinquent, Dominic. An ultimately gruesome tragicomedy, <i>The Banshees of Inisherin</i> is what Rotten Tomatoes dubs "a finely crafted feel-bad treat".</p>
+          <p><i>A Night Owls event with Professors Agnes Callard and Arnold Brooks. Students with a UCID get in for free!</i></p>
           <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=61F8D5FC-CCFA-4A82-8365-DF974B3D9D2B" target="_blank">here</a></u>.</b></p>
         </div>
         
