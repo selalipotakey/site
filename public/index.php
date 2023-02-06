@@ -55,7 +55,7 @@
                       WHO KILLED CAPTAIN ALEX? A Wakaliwood Production (Sat. 3/4 @ 7:00PM)
                       </p>
                     </a>
-                    <p class="capsule fittext">A Wakaliwood production made on a shoestring budget of around $200, _Who Killed Captain Alex?_ gives any Hollywood blockbuster an inferiority complex. We promise you, this is the most entertaining film on the calendar, so come check it out!
+                    <p class="capsule fittext">A Wakaliwood production made on a shoestring budget of around $200, <i>Who Killed Captain Alex?</i> gives any Hollywood blockbuster an inferiority complex. We promise you, this is the most entertaining film on the calendar, so come check it out!
                     </p>
                   </div>
               </li>
@@ -101,77 +101,86 @@
         </div>
 
         <div class="screening">
-          <h1>7:00PM Monday, January 30th</h1>
-          <img src="/images/2023winter/stella-dallas-1937.jpg" alt="Stella Dallas (1937) still">
-          <h2>Stella Dallas (1937)</h2>
-          <h3>King Vidor &middot; 106m &middot; 35mm</h3>
-          <p>Barbara Stanwyck earned her first Academy Award nomination for Best Actress with this breathlessly melodramatic weepie about a brassy but affectionate mother who goes to heartbreaking extremes to build a better life for her beloved daughter. King Vidor's <i>Stella Dallas</i> is perhaps Stanwyck’s best classical acting showcase: a sizzle reel for her keen ability to bring a distinct naturalism to the heightened reality of Hollywood cinema at the time.</p>
-          <p><i>Print courtesy of the Academy Film Archive.</i></p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=F2B1C761-2A9D-4490-A783-065D0CDE91BA" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Monday, February 6th</h1>
+          <img src="/images/2023winter/the-strange-love-of-martha-ivers-1946.jpg" alt="The Strange Love of Martha Ivers (1946) still">
+          <h2>The Strange Love of Martha Ivers (1946)</h2>
+          <h3>Lewis Milestone &middot; 116m &middot; 35mm</h3>
+          <p>When an unhappily married couple—played by Barbara Stanwyck and Kirk Douglas (in his first film!)—reunites with their childhood friend (Van Heflin) with whom they share a terrible secret, drama ensues, in <i>The Strange Love of Martha Ivers</i>. One of a string of darker antiheroine roles Stanwyck took on after the success of <i>Double Indemnity</i>, the film shows her comfort with morally ambiguous characters, which was unique among megastars at the time.</p>
+          <p><i>Preserved by the Library of Congress.</i></p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=F2C00006-76F4-47EA-AC34-62FC180ABC49" target="_blank">here</a></u>.</b></p>
         </div>
         
-        <div class="screening">
-          <h1>7:00PM Tuesday, January 31st</h1>
-          <img src="/images/2023winter/free-chol-soo-lee-2022.jpg" alt="Free Chol Soo Lee (2022) still">
-          <h2>Free Chol Soo Lee (2022)</h2>
-          <h3>Julie Ha and Eugene Yi &middot; 83m &middot; DCP</h3>
-          <p>We fight back! A pair of flashpoints for Asian American activism are portrayed in this double-feature: the first about the eviction of Filipino residents of the I-Hotel SRO, provoking one of history's most vigorous anti-gentrification organizing efforts; the second on the false imprisonment of Chol Soo Lee, which ignited a pan-Asian movement to free him. Both films see diverse communities drawn together in the shared experience of oppression.</p>
-          <!-- <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=26AA6A69-DC62-49BB-96E9-F5B5ACA7FDE3" target="_blank">here</a></u>.</b></p> -->
-          <p><i>Note: THE FALL OF THE I-HOTEL was previously billed but has been removed from this screening. Tickets are now free, and we apologize for any inconvenience. </i></p>
+        <div id="sa-i-gu-bontoc-eulogy" class="screening" style="scroll-margin-top: var(--header-height);">
+          <h1>7:00PM Tuesday, February 7th</h1>
+          <img src="/images/2023winter/sa-i-gu-1993.png" alt="Sa-I-Gu (1993) // Bontoc Eulogy (1995) still">
+          <h2>Sa-I-Gu (1993) // Bontoc Eulogy (1995)</h2>
+          <h3>Dai Sil Kim-Gibson and Christine Choy // Marlon Fuentes &middot; 41m // 56m &middot; Digital</h3>
+          <p>Tonight, the personal and the political collide in a revolt against the dominant narrative; countermemories from victims of trauma are presented which refuse victimization. <i>Sa-I-Gu</i> portrays the Korean-American women who fought against the brutality of the police after the LA Uprising; <i>Bontoc Eulogy</i> mixes fact, fiction, and performance as the filmmaker interrogates the archival record of his grandfather's exploitation as a human exhibit.</p>
+          <p><i>Free screening! </i>Sa-I-Gu<i> courtesy of CAAM. Sponsored by CSRPC.</i></p>
         </div>
 
         <div class="screening">
-          <h1>7:00PM Wednesday, February 1st</h1>
-          <img src="/images/2023winter/the-grand-illusion-1937.jpeg" alt="The Grand Illusion (1937) still">
-          <h2>The Grand Illusion (1937)</h2>
-          <h3>Jean Renoir &middot; 114m &middot; DCP</h3>
-          <p>It's no wonder Nazi regimes banned <i>The Grand Illusion</i>. Joseph Goebbels called it "Cinematic Public Enemy Number 1," while its themes center on World War I-era class differences and the demise of Western civilization. In the film, a motley group of prisoners must work together to escape the confines of a German prison camp. The beauty of eastern France and great actors like Erich von Stroheim playing the camp commander serve to enrich the tale.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=CF24DE33-5E82-410D-86C1-BB054DD0CDE3" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Wednesday, February 8th</h1>
+          <img src="/images/2023winter/la-bete-humaine-1938.jpg" alt="La Bête Humaine (1938) still">
+          <h2>La Bête Humaine (1938)</h2>
+          <h3>Jean Renoir &middot; 100m &middot; 35mm</h3>
+          <p>Tormented by alcoholism and uncontrollable rages, engineer Lantier (the eponymous "human beast") takes refuge in his skill and love for his train, which runs daily between Le Havre and Paris. When his assistant stationmaster commits murder, the man's wife turns to Lantier for comfort and even begs Lantier to kill her husband. Jean Gabin and Simone Simon star in a story based on Emile Zola's classic novel, a darkly tinged ancestor of film noir.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=0956B8DF-0112-423D-A2CC-E248BC426519" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div class="screening">
-          <h1>7:00PM Thursday, February 2nd</h1>
-          <img src="/images/2023winter/the-atomic-cafe-1982.jpg" alt="The Atomic Cafe (1982) still">
-          <h2>The Atomic Cafe (1982)</h2>
-          <h3>Jayne Loader, Kevin Rafferty, and Pierce Rafferty &middot; 86m &middot; DCP</h3>
-          <p>A sardonic reflection on the threat of nuclear destruction, this 1982 film splices together dozens of mid-century informational shorts and army training videos for a wary American public living in the Reagan Era. Despite pulling from such disparate sources, directors Jayne Loader and the Rafferty brothers successfully reconstruct an overarching narrative of the anxiety, dark humor, and empty reassurances that proliferated during the Cold War.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=3BED7AF7-48B8-405B-A735-342C747E19E0" target="_blank">here</a></u>.</b></p>
-        </div>
-
-        <div class="screening">
-          <h1>9:30PM Thursday, February 2nd</h1>
+          <h1>9:30PM Wednesday, February 8th</h1>
           <img src="/images/2023winter/boardinghouse-1982.jpeg" alt="Boardinghouse (1982) still">
           <h2>Boardinghouse (1982)</h2>
           <h3>John Wintergate &middot; 88m &middot; 35mm</h3>
           <p>There’s normal 80s horror shlock, and then there’s <i>Boardinghouse</i>. Even its die-hard fans, like Cameron Worden of the Chicago Film Society, call it a “particularly crude labor of love.” Recognized as the first horror film shot on video but shown on film, Johnima and Kallassu Wintergate’s slasher film supplements the usual sex and gore with a healthy dose of telekinesis, a dash of new age sprituality, and a whole lot of the Wintergates’ band Lightstorm.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=43411E31-B863-4527-AFDB-E30AE0D3371A" target="_blank">here</a></u>.</b></p>
+          <p><i>Note: </i>Boardinghouse<i> was originally slated to play on 2/2, but was rescheduled to 2/8.</i></p>
+          <!-- <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=43411E31-B863-4527-AFDB-E30AE0D3371A" target="_blank">here</a></u>.</b></p> -->
         </div>
 
         <div class="screening">
-          <h1>7:00PM Friday, February 3rd</h1>
-          <img src="/images/2023winter/scent-of-a-woman-1992.jpeg" alt="Scent of a Woman (1992) still">
-          <h2>Scent of a Woman (1992)</h2>
-          <h3>Martin Brest &middot; 157m &middot; 35mm</h3>
-          <p>An Oscar-winning remake of the 1974 Italian original, the 1992 <i>Scent of a Woman</i> stars Al Pacino as a blind, impossible-to-get-along-with former US army Lt. Col., and Chris O’Donnell as a struggling student who agrees to “babysit” Pacino’s character for purported “easy money.” Instead, over the course of a wild weekend in New York City, the rambunctious veteran teaches the mild-mannered student a thing or two about women, tango, and adulthood.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=A0BFC63D-553B-49A5-B0C4-E29BF053162F" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Thursday, February 9th</h1>
+          <img src="/images/2023winter/godzilla-1954.jpg" alt="Godzilla (1954) still">
+          <h2>Godzilla (1954)</h2>
+          <h3>Ishirō Honda &middot; 96m &middot; DCP</h3>
+          <p>As fishing ships burst into flames across the Pacific, the Japanese government is horrified to find the culprit to be a prehistoric leviathan, awakened by hydrogen bomb tests in the Bikini Atoll. Both a timeless portrayal of national paranoia and a reimagination of the tragedies of Hiroshima and Nagasaki, <i>Godzilla</i> stands the test of time as a condemnation of mankind’s ever-mounting destructive nature and the immortal debut of the King of the Monsters.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=6B6A3A0E-5594-4F6C-9A09-AABE520D7E9B" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div class="screening">
-          <h1>7:00PM Saturday, February 4th</h1>
-          <img src="/images/2023winter/neptune-frost-2021.jpeg" alt="Neptune Frost (2021) still">
-          <h2>Neptune Frost (2021)</h2>
-          <h3>Saul Williams and Anisia Uzeyman &middot; 110m &middot; DCP</h3>
-          <p>A unique combination of science fiction, romance, and musical, <i>Neptune Frost</i> is the Afrofuturist tale of a hacker collective in Burundi. Led by escaped miners Neptune and Matalusa, the group schemes to rise up against the authoritarian regime that ceaselessly exploits the region and its inhabitants. Released to critical acclaim, <i>Neptune Frost</i> is a colorful, gripping story that is equal parts acerbic social critique and joyful ingenuity.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=5BD7A236-E425-424B-A20F-C52B2C787F42" target="_blank">here</a></u>.</b></p>
+          <h1>9:30PM Thursday, February 9th</h1>
+          <img src="/images/2023winter/dancer-in-the-dark-2000.jpeg" alt="Dancer in the Dark (2000) still">
+          <h2>Dancer in the Dark (2000)</h2>
+          <h3>Lars von Trier &middot; 140m &middot; 35mm</h3>
+          <p>Selma (Björk), a young Czechoslovakian mother, immigrates with her son to a factory town in rural Washington state during the 1960s in this Dogme 95-style musical. Winner of the Palme d’Or and best actress prizes at Cannes Film Festival in 2000, <i>Dancer in the Dark</i> features original music written and performed by Icelandic popstar Björk and observational yet distinctive digital camerawork from acclaimed <i>Paris, Texas</i> cinematographer Robby Müller.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=B0896081-04EB-472F-888D-34337DCE6776" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div class="screening">
-          <h1>7:00PM Sunday, February 5th</h1>
-          <img src="/images/2023winter/death-takes-a-holiday-1934.jpg" alt="Death Takes a Holiday (1934) still">
-          <h2>Death Takes a Holiday (1934)</h2>
-          <h3>Mitchell Leisen &middot; 79m &middot; 35mm</h3>
-          <p>In some ways, <i>Death Takes a Holiday</i> presents a standard romantic dilemma for its protagonist: a choice between love and death. The only catch? Here, the protagonist <i>is</i> Death. Frederic March stars as the fated reaper, taking human form in an attempt to learn why it is that people fear him. During this three-day stint, he falls for the enchanting young Grazia (Evelyn Venable), and must choose whether to pursue his love or leave Grazia among the living.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=268F6EAE-928B-47B4-973F-CA36C945EC8B" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Friday, February 10th</h1>
+          <img src="/images/2023winter/the-savages-2007.png" alt="The Savages (2007) still">
+          <h2>The Savages (2007)</h2>
+          <h3>Tamara Jenkins &middot; 113m &middot; 35mm</h3>
+          <p>While critically acclaimed, <i>The Savages</i> is still one of this series’ most criminally-underwatched films. In it, playwright Wendy Savage (Laura Linney) and her brother Jon (Philip Seymour Hoffman) care for their estranged, senile father, all the while reckoning with the dysfunctional nature of their familial and personal lives. It is a harrowing depiction of a dreaded but largely universal experience—that of watching a parent age and ultimately die.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=DB20ABFB-5A3A-4105-B95F-E72D24E71BAD" target="_blank">here</a></u>.</b></p>
+        </div>
+
+        <div class="screening">
+          <h1>7:00PM Saturday, February 11th</h1>
+          <img src="/images/2023winter/black-panther-wakanda-forever-2022.jpeg" alt="Black Panther: Wakanda Forever (2022) still">
+          <h2>Black Panther: Wakanda Forever (2022)</h2>
+          <h3>Ryan Coogler &middot; 161m &middot; DCP</h3>
+          <p>The sequel to the 2018 Marvel blockbuster, <i>Black Panther: Wakanda Forever</i> sees a return to the Afrofuturist home of King T'Challa—the Black Panther—and his tribe. In the wake of T'Challa's death, his sister Shuri is given an ultimatum: Wakanda either relinquishes its vibranium detection technology, or puts itself in at risk of attack by aquatic superhumans. The nation must band together to defend itself, all while mourning their deceased king.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=F1EBD957-B9B9-4BF6-A91E-C8574812C332" target="_blank">here</a></u>.</b></p>
+        </div>
+
+        <div class="screening">
+          <h1>7:00PM Sunday, February 12th</h1>
+          <img src="/images/2023winter/dead-man-1995.png" alt="Dead Man (1995) still">
+          <h2>Dead Man (1995)</h2>
+          <h3>Jim Jarmusch &middot; 121m &middot; DCP</h3>
+          <p>On the run after killing a man, accountant William Blake (Johnny Depp) encounters a Native American man called "Nobody" (Gary Farmer), who thinks him the reincarnation of the English poet of the same name. <i>Dead Man</i> is Jim Jarmusch's masterful foray into the Western genre, presented at its most existential. The film features a largely improvised guitar score by Neil Young and gorgeous monochrome cinematography by the unparalleled Robby Müller.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=5A27BE7F-A331-40B9-82A6-3B126026BE38" target="_blank">here</a></u>.</b></p>
         </div>
 
       </div>

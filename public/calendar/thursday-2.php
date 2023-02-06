@@ -56,12 +56,13 @@
         </div>
         
         <div class="screening">
-          <h1>9:30PM Thursday, February 2nd</h1>
+          <h1>9:30PM Wednesday, February 8th</h1>
           <img src="/images/2023winter/boardinghouse-1982.jpeg" alt="Boardinghouse (1982) still">
           <h2>Boardinghouse (1982)</h2>
           <h3>John Wintergate &middot; 88m &middot; 35mm</h3>
           <p>There’s normal 80s horror shlock, and then there’s <i>Boardinghouse</i>. Even its die-hard fans, like Cameron Worden of the Chicago Film Society, call it a “particularly crude labor of love.” Recognized as the first horror film shot on video but shown on film, Johnima and Kallassu Wintergate’s slasher film supplements the usual sex and gore with a healthy dose of telekinesis, a dash of new age sprituality, and a whole lot of the Wintergates’ band Lightstorm.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=43411E31-B863-4527-AFDB-E30AE0D3371A" target="_blank">here</a></u>.</b></p>
+          <p><i>Note: </i>Boardinghouse<i> was originally slated to play on 2/2, but was rescheduled to 2/8.</i></p>
+          <!-- <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=43411E31-B863-4527-AFDB-E30AE0D3371A" target="_blank">here</a></u>.</b></p> -->
         </div>
         
         <div class="screening">
