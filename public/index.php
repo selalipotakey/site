@@ -101,78 +101,75 @@
         </div>
 
         <div class="screening">
-          <h1>7:00PM Monday, February 13th</h1>
-          <img src="/images/2023winter/sorry-wrong-number-1948.jpg" alt="Sorry, Wrong Number (1948) still">
-          <h2>Sorry, Wrong Number (1948)</h2>
-          <h3>Anatole Litvak &middot; 89m &middot; 35mm</h3>
-          <p>One of the bigger injustices of Oscars history is that Barbara Stanwyck never won a competitive Academy Award, with <i>Sorry, Wrong Number</i> netting her fourth and final Best Actress nomination. Playing a bedridden woman who is pulled into conspiracy after she overhears a murder plot over the telephone, Stanwyck (acting opposite fellow legend Burt Lancaster) mustered up every inch of Hollywood hysteria she could in this film noir curiosity.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=007683BF-B58F-4159-8BB0-9F798594A1CA" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Monday, February 20th</h1>
+          <img src="/images/2023winter/all-i-desire-1953.jpg" alt="All I Desire (1953) still">
+          <h2>All I Desire (1953)</h2>
+          <h3>Douglas Sirk &middot; 80m &middot; DCP</h3>
+          <p>The first of two collaborations between Barbara Stanwyck and the master of the domestic melodrama, Douglas Sirk himself, <i>All I Desire</i> is a crackerjack portrait of the simultaneous contentment and claustrophobia of American suburbia. Playing a mother who returns to the family she abandoned a decade earlier, Stanwyck brings her trademark world-weary maturity to the already-complex Sirkian woman in a perfect movie marriage of auteur and star.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=52A484AA-8576-4B91-9671-D679CFF2DCE9" target="_blank">here</a></u>.</b></p>
         </div>
         
         <div class="screening">
-          <h1>7:00PM Tuesday, February 14th</h1>
-          <img src="/images/2023winter/forbidden-city-usa-1989.jpg" alt="Forbidden City, U.S.A. (1989) // I Remember Dancing (2019) still">
-          <h2>Free Chol Soo Lee (2022) // Forbidden City, U.S.A. (1989) // I Remember Dancing (2019)</h2>
-          <h3>Julie Ha and Eugene Yi // Arthur Dong // Nguiyen Tan Hoang &middot; 83m // 56m // 5m &middot; DCP // DCP // Digital</h3>
-          <p>This screening begins with <i>Free Chol Soo Lee</i>, a film about the false imprisonment of Chol Soo Lee, which ignited a pan-Asian movement to free him. Rebelling against the model minority myth, <i>Forbidden City, U.S.A.</i> shows generations of Asian Americans clubbing instead of studying, and features delicious archival discoveries like performances by the "Chinese Frank Sinatra." <i>I Remember Dancing</i> adds to the sense of liberation, with images of gaysians erotically recounting their unrepressed sex, emphasizing the value in opposing stereotypes without privileging just masculinity or heterosexuality.</p>
-          <p><i>Note: FREE CHOL SOO LEE has been added to this screening due to a previous cancellation.</i></p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=83F70A8F-F487-43E5-9DDA-FDF664FF487B" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Tuesday, February 21st</h1>
+          <img src="/images/2023winter/pieces-of-a-dream-1974.png" alt="Pieces of a Dream (1974) // Cruisin’ J-Town (1975) // Wataridori: Birds of Passage (1976) still">
+          <h2>Pieces of a Dream (1974) // Cruisin’ J-Town (1975) // Wataridori: Birds of Passage (1976)</h2>
+          <h3>Eddie Wong // Duane Kubo // Robert A. Nakamura &middot; 30m // 24m // 37m &middot; DCP</h3>
+          <p>In 1968, the Third World Liberation Front demanded the decolonizing of academia, leading a group of Asian American artists to form the media collective and nonprofit Visual Communications. VC worked in a mode of anticapitalist community cinema, sharing collectivized authorship with their subjects. Tonight's films exemplify VC's unassuming yet passionate style, from the struggles of early immigrants to the polycultural fusion embraced by newer generations.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=A65C8FA0-48EF-4BA2-825C-D82DE4062BCB" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div class="screening">
-          <h1>7:00PM Wednesday, February 15th</h1>
-          <img src="/images/2023winter/the-river-1951.jpg" alt="The River (1951) still">
-          <h2>The River (1951)</h2>
-          <h3>Jean Renoir &middot; 99m &middot; Digital</h3>
-          <p>In Renoir's first color film, five English sisters grow up beside the Ganges in the British colony of India. The eldest sister, Harriet, absorbs Hindu and Christian beliefs as she comes of age, and falls in love with a handsome English soldier. When her love is unrequited and an even worse tragedy strikes, she turns to the river to end her terrible despair. <i>The River</i> helped launch the career of Satyajit Ray, who was the assistant director of the film.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=069F7C90-012D-4193-BF8C-41C5C0F0AEDD" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Wednesday, February 22nd</h1>
+          <img src="/images/2023winter/elena-and-her-men-1956.jpg" alt="Elena and Her Men (1956) still">
+          <h2>Elena and Her Men (1956)</h2>
+          <h3>Jean Renoir &middot; 95m &middot; Digital</h3>
+          <p>Impoverished Polish princess Elena (Ingrid Bergman) has numerous men pining after her: among others, the famous General Rollan (Jean Marais), although she loves another man, the Count of Chevincourt (Mel Ferrer), who's also the General's aide. Her love life will alter the future of France in this romantic film that led Truffaut to say "sex is the only focus of attention." Was he talking about the uniquely sensuous beauty of Ingrid Bergman? Perhaps.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=0CC2DFCB-6B81-4072-B96E-48D61C4F1A94" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div class="screening">
-          <h1>7:00PM Thursday, February 16th</h1>
-          <img src="/images/2023winter/fail-safe-1964.jpg" alt="Fail Safe (1964) still">
-          <h2>Fail Safe (1964)</h2>
-          <h3>Sidney Lumet &middot; 112m &middot; DCP</h3>
-          <p>When a critical system malfunction directs a group of nuclear-armed U.S. bombers to strike Moscow, the President scrambles to deflect them and prevent mutually assured destruction (sound familiar?). But whereas its twin film <i>Dr. Strangelove</i> played the nuclear threat as a dark political satire, <i>Fail Safe</i> gravely reminds us that even technical mistakes and political miscommunication cannot be treated lightly when Armageddon is but a button press away.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=B58BBFF8-9AEE-4B40-9E5B-80A925004D16" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Thursday, February 23rd</h1>
+          <img src="/images/2023winter/when-the-wind-blows-1986.jpg" alt="La Jetée (1962) // When the Wind Blows (1986) still">
+          <h2>La Jetée (1962) // When the Wind Blows (1986)</h2>
+          <h3>Chris Marker // Jimmy Murakami &middot; 28m // 84m &middot; Digital // DCP</h3>
+          <p>Based on Raymond Briggs' Cold War-era graphic novel, <i>When the Wind Blows</i> is a hand-drawn tale about an elderly couple whose life in the English countryside is disrupted by impending nuclear attacks. With their Blitz-era survival strategies, faith in government, and love for each other, the pair are convinced they can prepare for the worst—until an ICBM mercilessly tears their worldview down. Preceded by Chris Marker's masterful sci-fi short, <i>La Jetée</i>.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=03ED27E8-0E3A-4AD6-B0AA-672B6A8CC0FF" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div class="screening">
-          <h1>9:30PM Thursday, February 16th</h1>
-          <img src="/images/2023winter/28-days-later-2002.jpg" alt="28 Days Later (2002) still">
-          <h2>28 Days Later (2002)</h2>
-          <h3>Danny Boyle &middot; 113m &middot; 35mm</h3>
-          <p>When bike messenger Jim (Cillian Murphy) awakens from a coma, he finds that London has been ravaged by a mysterious “rage” virus. Following the massive box office success of Leonardo DiCaprio vehicle <i>The Beach</i>, Danny Boyle directed this smaller-budget horror film set in a post-apocalyptic England. <i>28 Days Later…</i> kickstarted the 2000s zombie revival with its gritty video cinematography and a crackling script from future A24 auteur Alex Garland.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=B45912D0-E2FF-4F05-8B8C-BC6F9FBECA3E" target="_blank">here</a></u>.</b></p>
+          <h1>9:30PM Thursday, February 23rd</h1>
+          <img src="/images/2023winter/jackass-the-movie-2002.jpeg" alt="Jackass: The Movie (2002) still">
+          <h2>Jackass: The Movie (2002)</h2>
+          <h3>Jeff Tremaine &middot; 85m &middot; 35mm</h3>
+          <p>Snorting wasabi, joyriding in golf carts, and playing with live alligators are just some of the hellish delights on display in this prank show on a Hollywood budget. After three glorious seasons on MTV, Johnny Knoxville, Steve-O, Wee Man, and the gang roared into theaters and started a surprisingly durable comedy franchise. <i>Village Voice</i> critic Ed Halter called <i>Jackass: The Movie</i> “ruthlessly efficient: no plot, no characters, no sets, and no downtime.”</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=16F19027-69D6-40B1-A4A6-3819C0296D1B" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div class="screening">
-          <h1>7:00PM Friday, February 17th</h1>
-          <img src="/images/2023winter/the-master-2012.jpg" alt="The Master (2012) still">
-          <h2>The Master (2012)</h2>
-          <h3>Paul Thomas Anderson &middot; 137m &middot; 35mm</h3>
-          <p><i>The Master</i> follows traumatized Navy veteran Freddie Quell (Joaquin Phoenix) after he returns from serving in WWII. One fateful night, he stows away on a passing yacht being used by Lancaster Dodd (Philip Seymour Hoffman), the charismatic leader of “The Cause”. Dodd is immediately enamored with Quell, setting off a tempestuous relationship between the two. Phoenix and Hoffman's searing performances in this film are career-defining and unforgettable.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=3A873547-47ED-4950-AD6F-EDBD809C9559" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Friday, February 24th</h1>
+          <img src="/images/2023winter/25th-hour-2002.jpeg" alt="25th Hour (2002) still">
+          <h2>25th Hour (2002)</h2>
+          <h3>Spike Lee &middot; 135m &middot; 35mm</h3>
+          <p>The first studio film to incorporate the 9/11 attacks into its narrative, Spike Lee’s <i>25th Hour</i> matches the funereal, somber tone in NYC at that time. The film follows former drug dealer Monty Brogan (Edward Norton) as he reevaluates his life in the 24 remaining hours before his 7-year prison sentence, spending time with his closest friends (Philip Seymour Hoffman, Barry Pepper) and preparing his girlfriend (Rosario Dawson) for his lengthy absence.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=67A9158B-14F1-4571-ABC2-AD7F2844DCA9" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div class="screening">
-          <h1>7:00PM Saturday, February 18th</h1>
-          <img src="/images/2023winter/the-banshees-of-inisherin-2022.jpeg" alt="The Banshees of Inisherin (2022) still">
-          <h2>The Banshees of Inisherin (2022)</h2>
-          <h3>Martin McDonagh &middot; 114m &middot; DCP</h3>
-          <p>The relationship between lifelong companions Pádraic (Colin Farrell) and Colm (Brendan Gleeson) is suddenly thrown into turmoil when Colm abruptly ends the friendship. Refusing to give up easily, Pádraic determinedly sets out to repair the situation with help from his sister Siobhán and the island delinquent, Dominic. An ultimately gruesome tragicomedy, <i>The Banshees of Inisherin</i> is what Rotten Tomatoes dubs "a finely crafted feel-bad treat".</p>
-          <p><i>A Night Owls event with Professors Agnes Callard and Arnold Brooks. Students with a UCID get in for free!</i></p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=61F8D5FC-CCFA-4A82-8365-DF974B3D9D2B" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Saturday, February 25th</h1>
+          <img src="/images/2023winter/bardo-2022.jpeg" alt="Bardo, False Chronicle of a Handful of Truths (2022) still">
+          <h2>Bardo, False Chronicle of a Handful of Truths (2022)</h2>
+          <h3>Alejandro González Iñárritu &middot; 159m &middot; DCP</h3>
+          <p>You’ve either heard awful or amazing things about Iñárritu’s deeply personal and maybe autobiographical film about a renowned journalist-filmmaker who returns to his native Mexico and goes soul-searching amidst heavily symbolic, memory-fused hallucinations and dreams. Critiques of self-indulgence aside, <i>Bardo</i> is a show of Iñárritu's visual mastery, featuring his trademark sweeping shots and long takes that ought to be watched on the big screen.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=B89731EF-A598-42AA-8124-16A4B8DB39CF" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div class="screening">
-          <h1>7:00PM Sunday, February 19th</h1>
-          <img src="/images/2023winter/the-ballad-of-narayama-1958.jpeg" alt="The Ballad of Narayama (1958) still">
-          <h2>The Ballad of Narayama (1958)</h2>
-          <h3>Keisuke Kinoshita &middot; 98m &middot; 35mm</h3>
-          <p><i>The Ballad of Narayama</i> uses the art of kabuki theatre to explore the mythic practice of <i>obasute</i>—the abandonment of the elderly in a desolate place, where they are subsequently left to die. Kinuyo Tanaka plays Orin, a widow approaching 70, who accepts her fate graciously, unlike most of the village elderly. It is instead her son, Tatushei, who is reluctant to carry his aging mother up Narayama mountain.</p>
-          <p><i>35mm print courtesy of the Japan Foundation.</i></p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=AA3DA64D-37D4-49C7-81EA-1ABBC94A9D88" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Sunday, February 26th</h1>
+          <img src="/images/2023winter/the-cremator-1969.jpeg" alt="The Cremator (1969) still">
+          <h2>The Cremator (1969)</h2>
+          <h3>Juraj Herz &middot; 95m &middot; DCP</h3>
+          <p>Juraj Herz's deeply unsettling second film follows Karel Kopfrkingl (Rudolf Hrušínský), a crematorium worker in Prague who descends into madness while Europe is launched into World War II. Before the war, Karel takes pride in his work, citing Tibetan Buddhist ideas to justify his 'liberation' of the dead. Brilliantly creepy camerawork accentuates Karel's evil mania when the Nazis recruit him to 'liberate' more souls—even those the very closest to him.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=AE34A26E-6DB0-4C7B-B360-FA9F9B0477C0" target="_blank">here</a></u>.</b></p>
         </div>
 
       </div>
