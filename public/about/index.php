@@ -90,8 +90,10 @@
         <p class="board"><b>Librarian</b></p>
         <p class="board">Honor Torrance</p>
         <p class="board">librarian@docfilms.org</p>
-
-        
+        <br>
+        <p class="board"><b>Archivist</b></p>
+        <p class="board"></p>
+        <p class="board">archivist@docfilms.org</p>
         
         <br><br>
 
