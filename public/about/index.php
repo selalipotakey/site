@@ -56,15 +56,15 @@
 
         <h1>Our Executive Board</h1>
         <p class="board"><b>General Chair</b></p>
-        <p class="board">Cameron Poe</p>
+        <p class="board">Hannah Yang</p>
         <p class="board">doc@docfilms.org</p>
         <br>
         <p class="board"><b>Programming Chairs</b></p>
-        <p class="board">Hannah Halpern and Addison Wood</p>
+        <p class="board">Colby Lundak and Addison Wood</p>
         <p class="board">programming@docfilms.org</p>
         <br>
         <p class="board"><b>Volunteer Chair</b></p>
-        <p class="board">Lindsey Qian</p>
+        <p class="board">Jamie Zhao</p>
         <p class="board">volunteer@docfilms.org</p>
         <br>
         <p class="board"><b>Shipping Chairs</b></p>
@@ -76,7 +76,7 @@
         <p class="board">finance@docfilms.org</p>
         <br>
         <p class="board"><b>Publicity Chairs</b></p>
-        <p class="board">Colby Lundak and Hannah Yang</p>
+        <p class="board">Stephanie Chung and Stone Garcia</p>
         <p class="board">publicity@docfilms.org</p>
         <br>
         <p class="board"><b>Design Chair</b></p>
@@ -84,7 +84,7 @@
         <p class="board">design@docfilms.org</p>
         <br>
         <p class="board"><b>Web Chair</b></p>
-        <p class="board"></p>
+        <p class="board">Selali Potakey</p>
         <p class="board">web@docfilms.org</p>
         <br>
         <p class="board"><b>Librarian</b></p>
@@ -92,7 +92,7 @@
         <p class="board">librarian@docfilms.org</p>
         <br>
         <p class="board"><b>Archivist</b></p>
-        <p class="board"></p>
+        <p class="board">Isaiah Terry</p>
         <p class="board">archivist@docfilms.org</p>
         
         <br><br>
