@@ -100,7 +100,7 @@
           <h3><i>$7 tickets, theater opens 30 minutes before the screening.</i></h3>
         </div>
 
-        <div class="screening">
+        <!-- <div class="screening">
           <h1>7:00PM Monday, February 27th</h1>
           <img src="/images/2023winter/forty-guns-1957.jpeg" alt="Forty Guns (1957) still">
           <h2>Forty Guns (1957)</h2>
@@ -152,7 +152,7 @@
           <h3>Anton Corbijn &middot; 122m &middot; 35mm</h3>
           <p>The last film Philip Seymour Hoffman completed before his death, <i>A Most Wanted Man</i> is an espionage thriller about a tortured Chechen migrant (Grigoriy Dobrygin) who settles in Hamburg and becomes a person of interest for a German agent’s (Philip Seymour Hoffman) rogue counterterrorism work. Based on John le Carre’s novel of the same name, this is a tense, cerebral tale of intrigue, rivalry, and politics—right through to its final hair-raising scene.</p>
           <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=B5E2E339-FB39-4D40-B886-1D396FA9C50D" target="_blank">here</a></u>.</b></p>
-        </div>
+        </div> -->
 
         <div class="screening" id="who-killed-captain-alex" style="scroll-margin-top: var(--header-height);">
           <h1>7:00PM Saturday, March 4th</h1>
