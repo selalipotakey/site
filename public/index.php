@@ -17,18 +17,18 @@
       
       <div class="information">
 
-        <h1>
+        <!-- <h1>
           Happening this quarter:
-        </h1>
+        </h1> -->
 
-        <div class="carousel">
+        <!-- <div class="carousel">
 
           <button class="carousel__button carousel__button--left is-hidden">
             <img src="/images/site/chevron_left.svg" alt="left carousel button">
           </button>
 
           <div class="carousel__track-container">
-            <ul class="carousel__track">
+            <ul class="carousel__track"> -->
               
               <!-- <li class="carousel__slide current-slide">
                 <a href="/calendar/special-events#the-janes">
@@ -45,7 +45,7 @@
                   </div>
               </li> -->
 
-              <li class="carousel__slide current-slide">
+              <!-- <li class="carousel__slide current-slide">
                 <a href="/calendar/special-events#who-killed-captain-alex">
                   <img class="carousel__image" src="/images/2023winter/who-killed-captain-alex-2010.jpg" alt="WHO KILLED CAPTAIN ALEX? still">
                 </a>
@@ -75,15 +75,15 @@
               </li>
 
             </ul>
-          </div>
+          </div> -->
 
-          <button class="carousel__button carousel__button--right">
+          <!-- <button class="carousel__button carousel__button--right">
             <img src="/images/site/chevron_right.svg" alt="right carousel button">
           </button>
 
-          <div class="carousel__nav">
+          <div class="carousel__nav"> -->
             <!-- <button class="carousel__indicator current-slide"></button> -->
-            <button class="carousel__indicator current-slide"></button>
+            <!-- <button class="carousel__indicator current-slide"></button>
             <button class="carousel__indicator"></button>
           </div>
           
@@ -91,13 +91,14 @@
 
         <br><br><br><br><br>
 
-      </div>
+      </div> -->
 
       <div class="screenings-list">
 
         <div class="text-section">
-          <h1>Playing this week:</h1>
-          <h3><i>$7 tickets, theater opens 30 minutes before the screening.</i></h3>
+          <!-- <h1>Playing this week:</h1>
+          <h3><i>$7 tickets, theater opens 30 minutes before the screening.</i></h3> -->
+          <h1 style="text-align:center">Stay tuned for our new calendar!</h1>
         </div>
 
         <!-- <div class="screening">
@@ -154,7 +155,7 @@
           <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=B5E2E339-FB39-4D40-B886-1D396FA9C50D" target="_blank">here</a></u>.</b></p>
         </div> -->
 
-        <div class="screening" id="who-killed-captain-alex" style="scroll-margin-top: var(--header-height);">
+        <!-- <div class="screening" id="who-killed-captain-alex" style="scroll-margin-top: var(--header-height);">
           <h1>7:00PM Saturday, March 4th</h1>
           <img src="/images/2023winter/who-killed-captain-alex-2010.jpg" alt="Who Killed Captain Alex? (2010) still">
           <h2>Who Killed Captain Alex? (2010)</h2>
@@ -170,7 +171,7 @@
           <h3>Fritz Lang &middot; 98m &middot; DCP</h3>
           <p><i>Destiny</i> tells the story of two young lovers, one of whom is abducted by Death. The young woman of the pair approaches Death in a bargain for her fiancé's life, and he in turn shows her three tragic romances similar to her own: one set in the Middle East, one in Venice, and one in the Chinese Empire. Death promises to reunite the main couple, so long as the woman can save a life from one of these three stories, proving that love is stronger than death.</p>
           <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=3DE49DCB-7BC8-460A-ABC2-E37B0E868A54" target="_blank">here</a></u>.</b></p>
-        </div>
+        </div> -->
 
       </div>
 
