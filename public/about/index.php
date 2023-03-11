@@ -71,6 +71,10 @@
         <p class="board">Su Dedehayir and Iris Yahi</p>
         <p class="board">shipping@docfilms.org</p>
         <br>
+        <p class="board"><b>Special Events Chair</b></p>
+        <p class="board">Tyler Groshong</p>
+        <p class="board">specialevents@docfilms.org</p>
+        <br>
         <p class="board"><b>Finance Chair</b></p>
         <p class="board">Rocco Fantini</p>
         <p class="board">finance@docfilms.org</p>
