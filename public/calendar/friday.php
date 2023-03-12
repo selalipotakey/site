@@ -18,96 +18,86 @@
       <div class="screenings-list">
 
         <div class="text-section">
-          <h1>FRIDAY - Philip Seymour Hoffman: A Retrospective</h1>
-          <h3>Programmed by: Rocco Fantini</h3>
+          <h1>FRIDAY - Sight & Sound: The Greatest?</h1>
+          <h3>Programmed by: Addison Wood</h3>
 
-            <p><i>“I didn’t go out looking for negative characters: I went out looking for people who have a struggle and a fight to tackle. That’s what interests me.” – Philip Seymour Hoffman</i></p>
+            <p>The easiest series I’ll ever program; the films pick themselves! Or rather, they’re selected by a body of “more than 1,600 of the most influential international film critics, academics, distributors, etc.” We’ve left a few films out of our selection (<i>Mulholland</i> and <i>In the Mood for Love</i> played last year, and Jeanne Dielman is already cooking veal cutlets on a Wednesday this quarter), but overall the 2022 list, which was hyped up to be a radical break from tradition, really was conventional in most ways. Titles 150–250 hold some surprises—good and bad alike—but the top 100 films are an amalgam of the bog-standard and cinema 101 syllabi, with a few modern darlings sprinkled in.</p>
 
-            <p>In the actor’s obituary, the <i>New York Times</i> described Philip Seymour Hoffman as “perhaps the most ambitious and widely admired American actor of his generation.” Hoffman’s versatility, brilliance, and scene-stealing presence makes his often-troubled characters a joy to watch. Although he lacked the stereotypical “look” of a Hollywood star, Hoffman—thrusted into acting after being inspired by a stage production of Arthur Miller’s <i>All My Sons</i> as a child—never failed to breathe humanity into every on-screen role he took on. Whether playing an empathetic male nurse in <i>Magnolia</i>, a distressed theater professor in <i>The Savages</i>, or a deranged cult leader in <i>The Master</i>, Hoffman always captivated audiences, elevating each film he starred in by virtue of his sheer talent.</p>
+            <p>So why do we get worked up over the list if it just spews out the collective trends in elitist movie-going over the last ten years? Well for one, it's the history of it all. The Sight and Sound poll has long been an exercise in completionism for budding film buffs. But in the days of Letterboxd and Twitter, does this list still hold its former stature? I’d actually say it does. Titles like <i>Possession</i>, <i>Under the Skin</i>, and directors like Lars von Trier and David Lynch are constants among burgeoning cinefiles; and yet, these nine films are largely made by younger generations of filmmakers, who are reproducing the taste of their filmic forefathers. They’re a little dry, a touch grandiose, and a few overstay their welcome.</p>
 
-            <p>Through this retrospective, Doc Films will present an exciting selection of Hoffman’s filmography, offering a mix of fan-favorites (<i>Synecdoche, New York</i>), blockbusters (<i>Hunger Games</i>), and more subtle works (<i>Love Liza</i>). Whether or not one is a major fan of Philip Seymour Hoffman—although, frankly, who isn’t?—doesn’t change the fact that this series has something for all audiences. And, as we near the tenth anniversary of the actor’s untimely death, these screenings will allow Doc-goers to soak in some truly masterful performances.</p>
+            <p>My one kernel of advice for those attending this series: feel free to dislike these films! Hell, as traditional as my taste may be, I really only love a few of the films in this lineup. Way more than 1,600 people have had vastly worse takes on <i>much</i> more important things. So sit back and enjoy; or don’t!</p>
         </div>
         
         <div class="screening">
-          <h1>7:00PM Friday, January 6th</h1>
-          <img src="/images/2023winter/synecdoche-new-york-2008.jpeg" alt="Synecdoche, New York (2008) still">
-          <h2>Synecdoche, New York (2008)</h2>
-          <h3>Charlie Kaufman &middot; 123m &middot; 35mm</h3>
-          <p><i>Synecdoche, New York</i> follows Caden Cotard (Philip Seymour Hoffman), an ailing theater director, as he leaves his bleak life in Schenectady, New York to create a mind-bending theater production that seeks to mirror all life in New York City—by literally recreating the city inside a massive warehouse. A film Roger Ebert called the best of the decade, <i>Synecdoche, New York</i> demands multiple viewings to fully appreciate its sheer complexity and surrealism.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=4A209B26-B635-48D9-90C1-6DF89EBD3141" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Friday, March 24th; 4:00PM Sunday, March 26th</h1>
+          <img src="/images/2023spring/the-godfather-1972.png" alt="The Godfather (1972) still">
+          <h2>The Godfather (1972)</h2>
+          <h3>Francis Ford Coppola &middot; 175m &middot; 35mm</h3>
+          <p>What a way to start the series! The film that launched a thousand imitations and millions of film studies majors. Coppola adapts two-thirds of Mario Puzo’s bestseller, weaving interfamilial strife into an epic tableau of immigrant life in the midcentury. It's an all-American tale of power, corruption, and lies. Innovative cinematography, a classic Nino Rota score, and ultra-quotable lines abound! It’s an offer you can’t… oh, you know how the line goes.</p>
         </div>
         
         <div class="screening">
-          <h1>7:00PM Friday, January 13th</h1>
-          <img src="/images/2023winter/magnolia-1999.jpeg" alt="Magnolia (1999) still">
-          <h2>Magnolia (1999)</h2>
-          <h3>Paul Thomas Anderson &middot; 183m &middot; Digital</h3>
-          <p>PTA’s <i>Magnolia</i> is a varied tapestry of interwoven stories, each following a different resident of Los Angeles’s San Fernando Valley, and slowly coming together as the story unfolds. A marathon of unearthed secrets, family drama, and unrequited desire—with a final twist that feels almost like divine intervention—this is a film that shines through both the stellar performances of its ensemble cast and the tense relationships that Anderson constructs.</p>
-          <p><i>Note: previously billed as 35mm, but changed to digital.</i></p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=9FB26EB5-EE19-4458-A256-9E5E5388D8AD" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Friday, March 31st</h1>
+          <img src="/images/2023spring/sunrise-a-tale-of-two-humans-1927.jpg" alt="Sunrise: A Song of Two Humans (1927) still">
+          <h2>Sunrise: A Song of Two Humans (1927)</h2>
+          <h3>F. W. Murnau &middot; 94m &middot; 35mm</h3>
+          <p>The best German expressionist film ever made outside of Germany, <i>Sunrise: A Song of Two Humans</i> delivers on the promise of its title. A glorious, melodic wave of emotion, Murnau’s opus is a testament to what the medium of silent film could offer in its final days. <i>Sunrise</i> would go on to win the only once awarded Oscar for “Unique and Artistic Picture." It's a gorgeous film not to be missed, and in Addison's opinion, the best film in this series.</p>
         </div>
         
         <div class="screening">
-          <h1>7:00PM Friday, January 20th</h1>
-          <img src="/images/2023winter/love-liza-2002.jpeg" alt="Love Liza (2002) still">
-          <h2>Love Liza (2002)</h2>
-          <h3>Todd Louiso &middot; 90m &middot; 35mm</h3>
-          <p><i>Love Liza</i> centers website designer Wilson Joel (Philip Seymour Hoffman), who turns to gasoline fumes after the unexplained suicide of his wife Liza. Attempting to cope with his deteriorating psyche, he delves deeper and deeper into a spiral of self-destruction in one of this series' most subtle features. Todd Louiso puts Hoffman’s acting chops at the forefront of the film, producing a stunning study of a harrowing miasma of loss and pain.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=2C8B50E9-FFC0-42D6-A9CA-777E35AADBAD" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Friday, April 7th; 4:00PM Sunday, April 9th</h1>
+          <img src="/images/2023spring/singin-in-the-rain-1952.jpg" alt="Singin' in the Rain (1952) still">
+          <h2>Singin' in the Rain (1952)</h2>
+          <h3>Gene Kelly and Stanley Donen &middot; 115m &middot; 35mm</h3>
+          <p>If you didn’t know any better, you might think this film was 115 minutes of Gene Kelly doing nothing but, well, singing in the rain. After all, that is by and large the only image that people use nowadays to reference the damn thing. But <i>Singin’ in the Rain</i> has more to offer than that—a lot more. It’s a bombastic whirlwind: gaudy, colorful, loud, and ever so entertaining in all the right ways. All you <i>La La Land</i> fiends had better show up to this one...</p>
         </div>
         
         <div class="screening">
-          <h1>7:00PM Friday, January 27th</h1>
-          <img src="/images/2023winter/the-hunger-games-catching-fire-2013.jpeg" alt="The Hunger Games: Catching Fire (2013) still">
-          <h2>The Hunger Games: Catching Fire (2013)</h2>
-          <h3>Francis Lawrence &middot; 156m &middot; DCP</h3>
-          <p>Set one year after the series’s first installment, <i>The Hunger Games: Catching Fire</i> is a star-studded blockbuster that follows Katniss Everdeen (Jennifer Lawrence) and Peeta Mellark (Josh Hutcherson) amid a tumultuous time across Panem, where rebellion—inspired by their victory in the 74th Hunger Games—is brewing. With a myriad of new characters, such as Gamemaker Plutarch Heavensbee (Philip Seymour Hoffman), this sequel is a fun, gripping watch.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=078C18B2-FE4A-42F0-B1F6-3768F6A81E00" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Friday, April 14th</h1>
+          <img src="/images/2023spring/meshes-of-the-afternoon-1943.jpg" alt="Meshes of the Afternoon (1943) // Man with a Movie Camera (1929) still">
+          <h2>Meshes of the Afternoon (1943) // Man with a Movie Camera (1929)</h2>
+          <h3>Maya Deren and Alexander Hammid // Dziga Vertov &middot; 14m // 68m &middot; DCP</h3>
+          <p>Calling all devotees of Soviet cinema! If you think our usual programming is the opiate of the masses, do we have the picture for you. <i>Man with a Movie Camera</i> is one of the rare cinema 101 works that seemingly everyone loves. Vertov’s revolutionary film, sans intertitles (wowza!), is a masterclass of cutting, framing, throwing everything at the wall, and generally being hyper in a uniquely 1920s way. Preceded by <i>Meshes of the Afternoon</i>.</p>
         </div>
         
         <div class="screening">
-          <h1>7:00PM Friday, February 3rd</h1>
-          <img src="/images/2023winter/scent-of-a-woman-1992.jpeg" alt="Scent of a Woman (1992) still">
-          <h2>Scent of a Woman (1992)</h2>
-          <h3>Martin Brest &middot; 157m &middot; 35mm</h3>
-          <p>An Oscar-winning remake of the 1974 Italian original, the 1992 <i>Scent of a Woman</i> stars Al Pacino as a blind, impossible-to-get-along-with former US army Lt. Col., and Chris O’Donnell as a struggling student who agrees to “babysit” Pacino’s character for purported “easy money.” Instead, over the course of a wild weekend in New York City, the rambunctious veteran teaches the mild-mannered student a thing or two about women, tango, and adulthood.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=A0BFC63D-553B-49A5-B0C4-E29BF053162F" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Friday, April 21st</h1>
+          <img src="/images/2023spring/beau-travail-1999.jpeg" alt="Beau Travail (1999) still">
+          <h2>Beau Travail (1999)</h2>
+          <h3>Claire Denis &middot; 93m &middot; DCP</h3>
+          <p>The youngest film to end up on our list has come to unequivocally shape filmmaking in the 21st century. Based on Melville’s <i>Billy Budd</i>, Denis’ film is a meditative and homoerotically-charged work of stunning beauty and catharsis. A simultaneous critique of colonialism, militarism, and repression, <i>Beau Travail</i> has become a recent favorite of directors like Barry Jenkins and Pablo Larraín. It also features the single greatest needle drop in film history.</p>
         </div>
         
         <div class="screening">
-          <h1>7:00PM Friday, February 10th</h1>
-          <img src="/images/2023winter/the-savages-2007.png" alt="The Savages (2007) still">
-          <h2>The Savages (2007)</h2>
-          <h3>Tamara Jenkins &middot; 113m &middot; 35mm</h3>
-          <p>While critically acclaimed, <i>The Savages</i> is still one of this series’ most criminally-underwatched films. In it, playwright Wendy Savage (Laura Linney) and her brother Jon (Philip Seymour Hoffman) care for their estranged, senile father, all the while reckoning with the dysfunctional nature of their familial and personal lives. It is a harrowing depiction of a dreaded but largely universal experience—that of watching a parent age and ultimately die.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=DB20ABFB-5A3A-4105-B95F-E72D24E71BAD" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Friday, April 28th; 4:00PM Sunday, April 30th</h1>
+          <img src="/images/2023spring/2001-a-space-odyssey-1968.png" alt="2001: A Space Odyssey (1968) still">
+          <h2>2001: A Space Odyssey (1968)</h2>
+          <h3>Stanley Kubrick &middot; 143m &middot; DCP</h3>
+          <p><i>2001: A Space Odyssey</i> is a psychedelic space opera that basically wrote the textbook on everything. A spectacle like no other, Kubrick’s foray into science fiction has had an indelible impact on our culture. Whether it be the monolith, HAL 9000, Strauss, or the space fetus, it's the kind of movie most of us know before we’ve even seen it. But that isn’t to say it lacks surprises—<i>2001</i> packs one hell of a punch, and is a big-screen viewing essential.</p>
         </div>
         
         <div class="screening">
-          <h1>7:00PM Friday, February 17th</h1>
-          <img src="/images/2023winter/the-master-2012.jpg" alt="The Master (2012) still">
-          <h2>The Master (2012)</h2>
-          <h3>Paul Thomas Anderson &middot; 137m &middot; 35mm</h3>
-          <p><i>The Master</i> follows traumatized Navy veteran Freddie Quell (Joaquin Phoenix) after he returns from serving in WWII. One fateful night, he stows away on a passing yacht being used by Lancaster Dodd (Philip Seymour Hoffman), the charismatic leader of “The Cause”. Dodd is immediately enamored with Quell, setting off a tempestuous relationship between the two. Phoenix and Hoffman's searing performances in this film are career-defining and unforgettable.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=3A873547-47ED-4950-AD6F-EDBD809C9559" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Friday, May 5th</h1>
+          <img src="/images/2023spring/tokyo-story-1953.jpeg" alt="Tokyo Story (1953) still">
+          <h2>Tokyo Story (1953)</h2>
+          <h3>Yasujiro Ozu &middot; 136m &middot; DCP</h3>
+          <p>It’s week 7—we all need a good crying session. <i>Tokyo Story</i> 's movingly epic narrative takes place not across great landscapes, but in confined middle-class Tokyo homes, as an elderly couple visit their family in the bustling postwar metropolis. A hallmark of transcendental filmmaking, Ozu utilizes his signature tatami shots and veteran actors Setsuko Hara and Chishū Ryū to craft a generous, empathetic film about aging in an increasingly chaotic world.</p>
         </div>
         
         <div class="screening">
-          <h1>7:00PM Friday, February 24th</h1>
-          <img src="/images/2023winter/25th-hour-2002.jpeg" alt="25th Hour (2002) still">
-          <h2>25th Hour (2002)</h2>
-          <h3>Spike Lee &middot; 135m &middot; 35mm</h3>
-          <p>The first studio film to incorporate the 9/11 attacks into its narrative, Spike Lee’s <i>25th Hour</i> matches the funereal, somber tone in NYC at that time. The film follows former drug dealer Monty Brogan (Edward Norton) as he reevaluates his life in the 24 remaining hours before his 7-year prison sentence, spending time with his closest friends (Philip Seymour Hoffman, Barry Pepper) and preparing his girlfriend (Rosario Dawson) for his lengthy absence.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=67A9158B-14F1-4571-ABC2-AD7F2844DCA9" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Friday, May 12th; 4:00PM Sunday, May 14th</h1>
+          <img src="/images/2023spring/citizen-kane-1941.jpg" alt="Citizen Kane (1941) still">
+          <h2>Citizen Kane (1941)</h2>
+          <h3>Orson Welles &middot; 119m &middot; 35mm</h3>
+          <p>It’s terrific!</p>
         </div>
         
         <div class="screening">
-          <h1>7:00PM Friday, March 3rd</h1>
-          <img src="/images/2023winter/a-most-wanted-man-2014.jpg" alt="A Most Wanted Man (2014) still">
-          <h2>A Most Wanted Man (2014)</h2>
-          <h3>Anton Corbijn &middot; 122m &middot; 35mm</h3>
-          <p>The last film Philip Seymour Hoffman completed before his death, <i>A Most Wanted Man</i> is an espionage thriller about a tortured Chechen migrant (Grigoriy Dobrygin) who settles in Hamburg and becomes a person of interest for a German agent’s (Philip Seymour Hoffman) rogue counterterrorism work. Based on John le Carre’s novel of the same name, this is a tense, cerebral tale of intrigue, rivalry, and politics—right through to its final hair-raising scene.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=B5E2E339-FB39-4D40-B886-1D396FA9C50D" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Friday, May 19th; 4:00PM Sunday, May 21st</h1>
+          <img src="/images/2023spring/vertigo-1958.jpg" alt="Vertigo (1958) still">
+          <h2>Vertigo (1958)</h2>
+          <h3>Alfred Hitchcock &middot; 128m &middot; 35mm</h3>
+          <p>Although <i>Vertigo</i> only lasted a decade as <i>Sight & Sound</i>'s #1, it isn’t any less impressive as a film. Directed by a promising young talent by the name of Alfred Hitchcock, <i>Vertigo</i> has it all! Our PI Scottie’s in a real mess: obsessed with at least one woman and recovering from a bad case of—surprise, surprise—vertigo, he dives headfirst into a hallucinatory and macabre journey of possession, filled to the brim with intrigue and drop-dead gorgeous style.</p>
         </div>
         
       </div>

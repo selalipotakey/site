@@ -18,83 +18,72 @@
       <div class="screenings-list">
 
         <div class="text-section">
-          <h1>SATURDAY - The Docshees of Idasherin: New Releases</h1>
-          
+          <h1>SATURDAY - Dóc: New Releases</h1>
+          <h3>Programmed by: Hannah Halpern and Addison Wood</h3>
         </div>
         
         <div class="screening">
-          <h1>7:00PM Saturday, January 7th</h1>
-          <img src="/images/2023winter/dont-worry-darling-2022.jpeg" alt="Don't Worry Darling (2022) still">
-          <h2>Don't Worry Darling (2022)</h2>
-          <h3>Olivia Wilde &middot; 123m &middot; DCP</h3>
-          <p>Olivia Wilde’s follow-up to her hit directorial debut <i>Booksmart</i> may be best known for its backstage disputes (did Harry Styles spit on Chris Pine?), but don’t you want to see the drama that led to all that drama? In it, a couple moves to an idyllic company town that harbors a horrific secret. Wilde framed her 1950s dystopia as pushback against modern-day incels, and critics praised her performance in the film, as well as Florence Pugh’s and Chris Pine’s.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=8EDC59F9-CB36-4FF0-B077-7987C25BDCAC" target="_blank">here</a></u>.</b></p>
+          <h1>4:00PM Saturday, March 25th; 8:00PM Saturday, March 25th</h1>
+          <img src="/images/2023spring/corsage-2022.jpeg" alt="Corsage (2022) still">
+          <h2>Corsage (2022)</h2>
+          <h3>Marie Kreutzer &middot; 114m &middot; DCP</h3>
+          <p>On Christmas Eve of 1877, Empress Elisabeth "Sissi" of Austria turns 40, and is forced to relinquish her long-held status as a beautiful young woman. She must determine how to salvage her public image--and how to prove her worth in a society which now deems her worthless. What follows is an irreverent, modern, and subtly anachronistic spin on an iconic figure's story: a luxurious yet understated tale of melancholy, restriction, and rebellion.</p>
         </div>
         
         <div class="screening">
-          <h1>7:00PM Saturday, January 14th</h1>
-          <img src="/images/2023winter/decision-to-leave-2022.jpeg" alt="Decision to Leave (2022) still">
-          <h2>Decision to Leave (2022)</h2>
-          <h3>Park Chan-wook &middot; 138m &middot; DCP</h3>
-          <p>Park Chan-wook won Best Director at Cannes for this haunting noir about a policeman (Park Hae-il) who falls for a murder suspect (Tang Wei). Park strips away the baroque style he became known for in films like <i>Oldboy</i> and <i>The Handmaiden</i>, stating he wanted to subvert modern tropes of the detective as either excessively violent or brilliant. The love story here was inspired by the Korean song “Mist,” which is woven throughout the film’s gorgeous score.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=E6ED907A-D008-406C-A545-9708FAADF0B0" target="_blank">here</a></u>.</b></p>
+          <h1>4:00PM Saturday, April 1st; 8:00PM Saturday, April 1st</h1>
+          <img src="/images/2023spring/babylon-2022.png" alt="Babylon (2022) still">
+          <h2>Babylon (2022)</h2>
+          <h3>Damien Chazelle &middot; 189m &middot; DCP</h3>
+          <p>Damien Chazelle's <i>Babylon</i> follows an ensemble cast of Margot Robbie, Brad Pitt, Diego Calva and more through the glitz, glamor, and corruption of late '20s Hollywood, in the transition from silent to sound movies. Divisive among critics upon its release, the film is both a condemnation of and a love letter to the world of movies and the Hollywood institution itself. You may love it, you may hate it, but regardless, you'll have a good time at the movies.</p>
         </div>
         
         <div class="screening">
-          <h1>7:00PM Saturday, January 21st</h1>
-          <img src="/images/2023winter/woman-king-2022.jpeg" alt="The Woman King (2022) still">
-          <h2>The Woman King (2022)</h2>
-          <h3>Gina Prince-Bythewood &middot; 135m &middot; Digital</h3>
-          <p>Inspired by—but in no way limited to—true historical events, Gina Prince-Bythewood's most recent release <i>The Woman King</i> stars Viola Davis as the titular leader of the Agojie, a group of warrior women who protected the African kingdom of Dahomey (modern-day Benin) in the 1800s. The film is an action-packed and energetic historical epic with some electrifying performances (what else would one expect from Viola Davis?), and a lot of heart.</p>
-          <p><i>Note: originally billed as DCP.</i></p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=54437724-64FF-420C-AEFA-AF6957BC409C" target="_blank">here</a></u>.</b></p>
+          <h1>4:00PM Saturday, April 8th; 8:00PM Saturday, April 8th</h1>
+          <img src="/images/2023spring/tar-2022.jpeg" alt="Tár (2022) still">
+          <h2>Tár (2022)</h2>
+          <h3>Todd Field &middot; 158m &middot; DCP</h3>
+          <p>Lydia Tár has it all—fast cars, a hot wife, and acclaim as the first female chief conductor of the Berlin Philharmonic. She stands in front of her orchestra to give the downbeat to Mahler's Fifth, but a young cellist catches her eye. Shadows and sounds linger in her periphery... genius turned arrogance, past deeds, paranoia, and the rumblings of an orchestrated downfall. Can Tár face her orchestra and her ghosts? Can she obliterate herself for her music?</p>
         </div>
         
         <div class="screening">
-          <h1>6:15PM Saturday, January 28th</h1>
-          <img src="/images/2023winter/inu-oh-2022.jpeg" alt="Inu-Oh (2022) still">
-          <h2>Inu-Oh (2022)</h2>
-          <h3>Masaaki Yuasa &middot; 98m &middot; DCP</h3>
-          <p>Based on a series of 14th-century Japanese legends, this animated musical tells the tale of Inu-Oh, a dancer born with a strange appearance, and Tomona, a blind musician. Pariahs, Inu-Oh and Tomona become friends and form an artistic partnership that brings them great renown. Full of beautiful settings, fantastical characters, and musical numbers influenced by glam metal, Masaaki Yuasa's twist on Japanese folklore is a truly unique must-see.</p>
-          <p><i>A collaboration with UCJAS for UChi-Con.</i></p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=D65CD498-193E-4275-A05A-7865DEC22EFF" target="_blank">here</a></u>.</b></p>
+          <h1>8:00PM Saturday, April 15th</h1>
+          <img src="/images/2023spring/magic-mikes-last-dance-2022.png" alt="Magic Mike's Last Dance (2023) still">
+          <h2>Magic Mike's Last Dance (2023)</h2>
+          <h3>Steven Soderbergh &middot; 112m &middot; DCP</h3>
+          <p>In the final installment of the <i>Magic Mike</i> trilogy, Mike Lane finds himself broke and retired in Florida. After meeting a wealthy socialite at a fundraising event, he takes her offer to go to London. Hoping for one last hurrah, he attempts to bring a group of new, talented dancers into shape. Starring the beautiful-as-always Channing Tatum, <i>Magic Mike’s Last Dance</i> is a tale of redemption set against a backdrop of post-pandemic economic uncertainty.</p>
         </div>
         
         <div class="screening">
-          <h1>7:00PM Saturday, February 4th</h1>
-          <img src="/images/2023winter/neptune-frost-2021.jpeg" alt="Neptune Frost (2021) still">
-          <h2>Neptune Frost (2021)</h2>
-          <h3>Saul Williams and Anisia Uzeyman &middot; 110m &middot; DCP</h3>
-          <p>A unique combination of science fiction, romance, and musical, <i>Neptune Frost</i> is the Afrofuturist tale of a hacker collective in Burundi. Led by escaped miners Neptune and Matalusa, the group schemes to rise up against the authoritarian regime that ceaselessly exploits the region and its inhabitants. Released to critical acclaim, <i>Neptune Frost</i> is a colorful, gripping story that is equal parts acerbic social critique and joyful ingenuity.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=5BD7A236-E425-424B-A20F-C52B2C787F42" target="_blank">here</a></u>.</b></p>
+          <h1>4:00PM Saturday, April 22nd; 8:00PM Saturday, April 22nd</h1>
+          <img src="/images/2023spring/eo-2022.jpeg" alt="EO (2022) still">
+          <h2>EO (2022)</h2>
+          <h3>Jerzy Skolimowski &middot; 87m &middot; DCP</h3>
+          <p>This one goes out to Ettore, Hola, Marietta, Mela, Rocco, and Tako. Winner of the 2022 Jury Prize at Cannes, <i>EO</i> centers its eponymous donkey, born and raised in a Polish circus, as he travels across the Polish and Italian countryside. Skolimowski's masterful homage to Bresson, released almost sixty years after <i>Au Hasard Balthazar</i>, provides just as frank an image of humanity from the perspective of an animal, in all its kindness and cruelty.</p>
         </div>
         
         <div class="screening">
-          <h1>7:00PM Saturday, February 11th</h1>
-          <img src="/images/2023winter/black-panther-wakanda-forever-2022.jpeg" alt="Black Panther: Wakanda Forever (2022) still">
-          <h2>Black Panther: Wakanda Forever (2022)</h2>
-          <h3>Ryan Coogler &middot; 161m &middot; DCP</h3>
-          <p>The sequel to the 2018 Marvel blockbuster, <i>Black Panther: Wakanda Forever</i> sees a return to the Afrofuturist home of King T'Challa—the Black Panther—and his tribe. In the wake of T'Challa's death, his sister Shuri is given an ultimatum: Wakanda either relinquishes its vibranium detection technology, or puts itself in at risk of attack by aquatic superhumans. The nation must band together to defend itself, all while mourning their deceased king.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=F1EBD957-B9B9-4BF6-A91E-C8574812C332" target="_blank">here</a></u>.</b></p>
+          <h1>8:00PM Saturday, April 29th</h1>
+          <img src="/images/2023spring/all-the-beauty-and-the-bloodshed-2022.jpeg" alt="All the Beauty and the Bloodshed (2022) still">
+          <h2>All the Beauty and the Bloodshed (2022)</h2>
+          <h3>Laura Poitras &middot; 122m &middot; DCP</h3>
+          <p>The second documentary ever to win Venice's prestigious Golden Lion, <i>All the Beauty and the Bloodshed</i>  examines photographer-activist Nan Goldin's valiant effort to hold Purdue Pharma responsible for the opioid epidemic. The film paints a compassionate, gritty portrait of the fight against the Sackler family—Purdue's owners—through the lens of an indefatigable, battle-hardened woman. This is a sobering work that deserves to be seen by all.</p>
         </div>
         
         <div class="screening">
-          <h1>7:00PM Saturday, February 18th</h1>
-          <img src="/images/2023winter/the-banshees-of-inisherin-2022.jpeg" alt="The Banshees of Inisherin (2022) still">
-          <h2>The Banshees of Inisherin (2022)</h2>
-          <h3>Martin McDonagh &middot; 114m &middot; DCP</h3>
-          <p>The relationship between lifelong companions Pádraic (Colin Farrell) and Colm (Brendan Gleeson) is suddenly thrown into turmoil when Colm abruptly ends the friendship. Refusing to give up easily, Pádraic determinedly sets out to repair the situation with help from his sister Siobhán and the island delinquent, Dominic. An ultimately gruesome tragicomedy, <i>The Banshees of Inisherin</i> is what Rotten Tomatoes dubs "a finely crafted feel-bad treat".</p>
-          <p><i>A Night Owls event with Professors Agnes Callard and Arnold Brooks. Students with a UCID get in for free!</i></p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=61F8D5FC-CCFA-4A82-8365-DF974B3D9D2B" target="_blank">here</a></u>.</b></p>
+          <h1>8:00PM Saturday, May 6th</h1>
+          <img src="/images/2023spring/godland-2022.jpeg" alt="Godland (2022) still">
+          <h2>Godland (2022)</h2>
+          <h3>Hlynur Pálmason &middot; 143m &middot; DCP</h3>
+          <p>Like its Icelandic setting, <i>Godland</i> is beautiful, elemental, and more than 60% Lutheran. Writer-director Pálmason's third film follows Danish missionary Lucas as he journeys across the subarctic island with local guide Ragnar, lugging a hefty <i>fin de siècle</i>  camera across glacial meltwaters, volcanic mudflats, and others stunning landscapes of scarcity. Shot with natural light and in round-edged Academy ratio, <i>Godland</i> is simply sublime.</p>
         </div>
         
         <div class="screening">
-          <h1>7:00PM Saturday, February 25th</h1>
-          <img src="/images/2023winter/bardo-2022.jpeg" alt="Bardo, False Chronicle of a Handful of Truths (2022) still">
-          <h2>Bardo, False Chronicle of a Handful of Truths (2022)</h2>
-          <h3>Alejandro González Iñárritu &middot; 159m &middot; DCP</h3>
-          <p>You’ve either heard awful or amazing things about Iñárritu’s deeply personal and maybe autobiographical film about a renowned journalist-filmmaker who returns to his native Mexico and goes soul-searching amidst heavily symbolic, memory-fused hallucinations and dreams. Critiques of self-indulgence aside, <i>Bardo</i> is a show of Iñárritu's visual mastery, featuring his trademark sweeping shots and long takes that ought to be watched on the big screen.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=B89731EF-A598-42AA-8124-16A4B8DB39CF" target="_blank">here</a></u>.</b></p>
+          <h1>8:00PM Saturday, May 13th</h1>
+          <img src="/images/2023spring/pacifiction-2022.jpeg" alt="Pacifiction (2022) still">
+          <h2>Pacifiction (2022)</h2>
+          <h3>Albert Serra &middot; 162m &middot; DCP</h3>
+          <p>This post-colonial fever dream of French Polynesia was voted best film of 2022 by <i>Cahiers du Cinéma</i> and "suggests John le Carré by way of David Lynch," per A.O. Scott. It's a slow-burning character study of High Commissioner De Roller (Benoît Magimel, <i>The Piano Teacher</i>), who floats through all walks of island life with an easy charisma. But the lush Tahitian setting pulses with a sense of dread that only grows as political alliances shift and unravel.</p>
         </div>
         
       </div>

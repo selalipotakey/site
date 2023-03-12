@@ -22,64 +22,67 @@
           
         </div>
         
-        <div class="screening" id="close" style="scroll-margin-top: var(--header-height);">
-          <h1>6:00PM Wednesday, January 18th</h1>
-          <img src="/images/2023winter/close-2022.jpg" alt="CLOSE still">
-          <h2>Close (2022)</h2>
-          <h3>Lukas Dhont &middot; 105m &middot; DCP</h3>
-          <p>His first film after his feature debut and Cannes Caméra d'Or-winning <i>Girl</i>, Lukas Dhont's <i>Close</i> stars Eden Dambrine and Gustav de Waele as two young teen boys, Léo and Rémi. Partially a retelling of Dhont's own childhood experiences, Léo and Rémi must navigate their relationship under new and unwanted scrutiny after returning to their normal lives following an idyllic summer together. Dhont took home the Grand Prix at Cannes for this film.</p>
-          <p><i>Free pre-release screening! Followed by discussion and Q+A with director Lukas Dhont moderated by CMST Professor Aurore Spiers.</i></p>
-          <p><b>200 tickets can be reserved online <u><a href="https://forms.gle/q9DWFNfJ4bsrRZueA" target="_blank">here</a></u>.</b></p>
-        </div>
-
-        <div class="screening" id="close" style="scroll-margin-top: var(--header-height);">
-          <h1>4:30PM Thursday, January 19th</h1>
-          <img src="/images/2023winter/a-touch-of-spice-2003.jpg" alt="A TOUCH OF SPICE still">
-          <h2>A Touch of Spice (2003)</h2>
-          <h3>Tassos Boulmetis &middot; 108m &middot; DCP</h3>
-          <p>A Greek family living in Istanbul is broken apart when they are deported from Turkey; the family's young son, Fanis, struggles to adapt to life in Greece and takes refuge in cooking, as it is his only connection to his grandfather and his homeland. The film's original title, <i>Politiki Kouzina</i>, can either be translated as "Cuisine of the City" (referring to Constantinople) or as "Political Cuisine," reflecting the dual themes underpinning this film.</p>
-          <p><i>Sponsored by the UChicago Hellenic Students Association (HSA).</i></p>
-          <!-- <p><b>Tickets can be bought <u><a href="https://forms.gle/q9DWFNfJ4bsrRZueA" target="_blank">here</a></u>.</b></p> -->
-        </div>
-
-        <div class="screening" id="the-janes" style="scroll-margin-top: var(--header-height);">
-          <h1>6:30PM Thursday, January 26th</h1>
-          <img src="/images/2023winter/the-janes-2022.jpg" alt="THE JANES (2022) still">
-          <h2>The Janes (2022)</h2>
-          <h3>Emma Pildes and Tia Lessin &middot; 102m &middot; DCP (English Subtitles)</h3>
-          <p>Nearly 50 years before Roe v. Wade was overturned in 2022, seven Chicago women were arrested and charged with building an underground network to provide illegal abortions—each facing up to 110 years in prison. These were 'the Janes,' an activist group which provided abortions to an estimated 11,000 women. This documentary, which includes interviews with the women of the collective, is an informative and vital viewing in a post-Roe America.</p>
-          <br>
-          <p><i><span style="color:red;">Free event! Passholders must reserve a ticket online or go through the ticketing table the day of. Screening preceded by a panel with Heather Booth and Marie Leaner, activists and founders of the underground abortion provider known as "the Jane!" Moderated by WBEZ's Natalie Moore.</span> Presented by YWCA Metropolitan Chicago; Chicago Foundation for Women; the Center for the Study of Gender and Sexuality (CSGS), the Center for the Study of Race, Politics, and Culture (CSRPC); and Julia Stasch.</i></p>
-          <p><b>Registration can be completed <u><a href="https://ywcachicago.salsalabs.org/ScreeningofTheJanes/index.html" target="_blank">here</a></u>.</b></p>
-        </div>
-
         <div class="screening">
-          <h1>7:00PM Sunday, January 29th</h1>
-          <img src="/images/2023winter/taste-of-cherry-1997.jpeg" alt="Taste of Cherry (1997) still">
-          <h2>Taste of Cherry (1997)</h2>
-          <h3>Abbas Kiarostami &middot; 99m &middot; DCP</h3>
-          <p>The first Iranian film to win the Palme d’Or, <i>Taste of Cherry</i> stars Homayoun Ershadi as the middle-aged Mr. Badii, driving through Tehran in search of someone to bury him should he commit suicide. The film centers Mr. Badii and three of his passengers: a young Kurdish soldier, an Afghan seminarian, and an Azeri taxidermist, with whom he discusses mortality, religion, and the little joys of life as he tries successively to recruit them for the job.</p>
-          <p><i>A Night Owls event with Professors Agnes Callard and Daniel Morgan. Free admittance for students that show their UCID!</i></p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=FA3E5668-94BF-48A3-BBCD-D9EDF73F547D" target="_blank">here</a></u>.</b></p>
-        </div>
-
-        <div class="screening">
-          <h1>7:00PM Saturday, February 18th</h1>
-          <img src="/images/2023winter/the-banshees-of-inisherin-2022.jpeg" alt="The Banshees of Inisherin (2022) still">
-          <h2>The Banshees of Inisherin (2022)</h2>
-          <h3>Martin McDonagh &middot; 114m &middot; DCP</h3>
-          <p>The relationship between lifelong companions Pádraic (Colin Farrell) and Colm (Brendan Gleeson) is suddenly thrown into turmoil when Colm abruptly ends the friendship. Refusing to give up easily, Pádraic determinedly sets out to repair the situation with help from his sister Siobhán and the island delinquent, Dominic. An ultimately gruesome tragicomedy, <i>The Banshees of Inisherin</i> is what Rotten Tomatoes dubs "a finely crafted feel-bad treat".</p>
-          <p><i>A Night Owls event with Professors Agnes Callard and Arnold Brooks. Students with a UCID get in for free!</i></p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=61F8D5FC-CCFA-4A82-8365-DF974B3D9D2B" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Tuesday, March 28th</h1>
+          <img src="/images/2023spring/everything-everywhere-all-at-once-2022.jpg" alt="Everything Everywhere All at Once (2022) still">
+          <h2>Everything Everywhere All at Once (2022)</h2>
+          <h3>Daniel Kwan and Daniel Scheinert &middot; 139m &middot; DCP</h3>
+          <p>Back on the big screen! <i>Everything Everywhere All at Once</i> is a whimsical, sci-fi, comedy-drama following Evelyn Wang (Michelle Yeoh) as her marriage to Waymond (Ke Huy Quan) and relationship with her daughter Joy (Stephanie Hsu) begin to implode. <i>EEAAO</i> swept the awards season, being nominated for 11 Academy Awards and winning Yeoh a Golden Globe for best actress.</p>
+          <p><i>Co-presented with the Society of Women in Physics. All proceeds to go to Girls 4 Science, a nonprofit organization dedicated to exposing girls in Chicago, ages 10–18 years old, to STEM.</i></p>
         </div>
         
-        <div class="screening" id="who-killed-captain-alex" style="scroll-margin-top: var(--header-height);">
-          <h1>7:00PM Saturday, March 4th</h1>
-          <img src="/images/2023winter/who-killed-captain-alex-2010.jpg" alt="Who Killed Captain Alex? (2010) still">
-          <h2>Who Killed Captain Alex? (2010)</h2>
-          <h3>Nabwana Isaac Godfrey Geoffrey &middot; 64m &middot; DCP</h3>
-          <p>What makes <i>Who Killed Captain Alex?</i> one of "DA BEST OF DA BEST MOVIES?!?!" Is it Ugandan Bruce Lee? A helicopter dogfight between the Tiger Mafia and the “Ugandan Ghetto Air Force?” Video Joker Emmie? A Wakaliwood production made on a shoestring budget of around $200, <i>Who Killed Captain Alex?</i> gives any Hollywood blockbuster an inferiority complex. We promise you, this is the most entertaining film on the calendar, so come check it out!</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=3BE9DE50-D84D-4BEC-96EF-D3391FB51D41" target="_blank">here</a></u>.</b></p>
+        <div class="screening">
+          <h1>7:00PM Monday, April 3rd</h1>
+          <img src="/images/2023spring/pride-and-prejudice-2005.png" alt="Pride and Prejudice (2005) still">
+          <h2>Pride and Prejudice (2005)</h2>
+          <h3>Joe Wright &middot; 127m &middot; DCP</h3>
+          <p>It is a truth universally acknowledged that a Doc Films theatergoer in possession of a quarter pass must be in want of a dreamy period romance. An adaptation of a beloved classic, <i>Pride and Prejudice</i> follows headstrong Elizabeth Bennet as she becomes acquainted with Mr. Darcy, a wealthy, dour bachelor. Amidst encounters with impossible sisters, bumbling clergymen, and rakish strangers, Elizabeth comes to find that first impressions can be misleading.</p>
+          <p><i>Event sponsored by the English Department, in honor of Emily Cheng’s BA Thesis on re-reading and the feminine gaze in both Austen's and Wright's </i>Pride and Prejudice<i>.</i></p>
+        </div>
+        
+        <div class="screening">
+          <h1>7:00PM Monday, April 10th</h1>
+          <img src="/images/2023spring/the-unspeakable-act-2012.jpeg" alt="The Unspeakable Act (2013) still">
+          <h2>The Unspeakable Act (2013)</h2>
+          <h3>Dan Sallitt &middot; 91m &middot; DCP</h3>
+          <p>A coming-of-age film that is, for once, pleasantly <i>unrelatable</i>, <i>The Unspeakable Act</i> is a film directed by Dan Sallitt about a girl's unrequited romantic love for her older brother. Jackie, a 17-year-old Brooklyn highschooler, prepares for her older brother, Matthew, to leave for college amidst realizations that he's found a girlfriend. <i>The Unspeakable Act</i> toes the line between sincere and taboo and is an intriguing look into adolescence.</p>
+          <p><i>Free showing for all students, sponsored by Night Owls. Followed by a discussion with filmmaker Dan Sallitt.</i></p>
+        </div>
+        
+        <div class="screening">
+          <h1>7:00PM Tuesday, April 11th</h1>
+          <img src="/images/2023spring/fourteen-2019.jpeg" alt="Fourteen (2019) still">
+          <h2>Fourteen (2019)</h2>
+          <h3>Dan Sallitt &middot; 94m &middot; DCP</h3>
+          <p><i>Fourteen</i> is Dan Sallit's latest feature film and first film since <i>the Unspeakable Act</i>. Mara (Tallie Medel) and Jo (Norma Kuhling) are two women who've maintained a close friendship since childhood. While being polar opposites, Mara finds excitement and spontaneity in Jo, and Jo comfort and care in Mara. The film follows their relationship as Jo deteriorates due to a mixture of mental illness and drugs while Mara struggles to keep her head above water.</p>
+          <p><i>Free showing for all students, sponsored by Night Owls. Followed by a discussion with filmmaker Dan Sallitt.</i></p>
+        </div>
+
+        <div id="pacific-rim" class="screening" style="scroll-margin-top: var(--header-height);">
+          <h1>7:30PM Thursday, April 27th</h1>
+          <img src="/images/2023spring/pacific-rim-2013.jpg" alt="Pacific Rim (2013) still">
+          <h2>Pacific Rim (2013)</h2>
+          <h3>Guillermo del Toro &middot; 131m &middot; 3D DCP</h3>
+          <p><i>Pacific Rim</i> is Guillermo del Toro’s sci-fi action epic where human-piloted mechs called Jaegers must fend off Kaiju, aliens from the deep sea. The story follows a washed-up pilot and an untested trainee who must work together to save the world. With impressive special effects and thrilling action sequences, Pacific Rim is an entertaining and visually stunning blockbuster that delivers on its core premise: giant robots fighting giant monsters.</p>
+          <p><i>This screening will happen at the Logan Center Room 201. Co-sponsored by the Film Studies Center.</i></p>
+        </div>
+        
+        <div class="screening">
+          <h1>4:00PM Saturday, April 29th</h1>
+          <img src="/images/2023spring/stand-and-deliver-1988.jpg" alt="Stand and Deliver (1988) still">
+          <h2>Stand and Deliver (1988)</h2>
+          <h3>Ramón Menéndez &middot; 102m &middot; Digital</h3>
+          <p>Jamie Escalante (Edward James Olmos) is a math teacher at an L.A. high school full of Latino students with working-class backgrounds. Although other teachers ridicule him and his students initially rebel, he sees potential in his students, and with his unusual teaching methods, teaches them algebra and prepares them for the AP Calculus exam. In 1982, 18 students did what seemed impossible—they passed. Based on the true story of Jamie Escalante.</p>
+          <p><i>Co-sponsored by MECHA de UChicago with commentary by Professor Sergio Delgado.</i></p>
+        </div>
+        
+        <div class="screening">
+          <h1>4:00PM Saturday, May 6th</h1>
+          <img src="/images/2023spring/crip-camp-2020.jpeg" alt="Crip Camp (2020) still">
+          <h2>Crip Camp (2020)</h2>
+          <h3>Nicole Newnham and James Lebrecht &middot; 108m &middot; DCP</h3>
+          <p>Directed by documentary filmmakers Nicole Newnham and James LeBrecht, <i>Crip Camp</i> tells the story of the campers-turned-activists of Camp Jened, a New York summer camp for disabled people. Newnham and LeBrecht begin the film by inviting audiences into a miniature utopia hidden in the Catskill Mountains, where campers were able to shamelessly be themselves. <i>Crip Camp</i> also stars real-life "Jenedians" Larry Allison, Judith Heumann, and Stephen Hofmann.</p>
+          <p><i>Co-sponsored by Students for Disability Justice.</i></p>
         </div>
         
       </div>

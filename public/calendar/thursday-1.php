@@ -18,84 +18,88 @@
       <div class="screenings-list">
 
         <div class="text-section">
-          <h1>THURSDAY 1 - Splicing of the Atom: Nuclear Taboo in Cinema</h1>
-          <h3>Programmed by: Max de Saint-Exupery</h3>
+          <h1>THURSDAY 1 - The Three Amigos of Cinema</h1>
+          <h3>Programmed by: Rocco Fantini</h3>
 
-            <p>Ever since the dropping of the first atomic bombs publicly and devastatingly led to the end of World War 2, nuclear weapons have played an undeniable role in shaping our world’s geopolitics, energy industry and pop culture. The perpetual paranoia of sudden atomic annihilation has and continues to seep its way into global cinema and filmmaking, inspiring directors and audiences alike to question how the individual and society can respond to and coexist within an age of nuclear powers beyond our control.</p>
+            <p>Alejandro González Iñárritu, Guillermo del Toro, and Alfonso Cuarón—together known as the three “amigos” of cinema—are masterful filmmakers and pioneers of the New Mexican Cinema movement. The three directors (and close friends in real life, so much so that one might find the three getting drunk together at a random Santa Monica bar) have diverse filmographies filled with works that are all enchanting in their own right—evident by the litany of awards received by Iñárritu, del Toro, and Cuarón. They have achieved international stardom for their directing, which albeit quite diverse in terms of style, tends to thread similar thematic needles about class, mortality, and the human condition.</p>
 
-            <p>Each film in the series depicts nuclear weapons or energy across a variety of narrative perspectives, cultures and tones. Films such as <i>Grave of the Fireflies</i>, <i>Hiroshima</i> and <i>Godzilla</i> retell and reimagine the historical tragedies of the Kobe Fire Bombings, Little Boy and the Lucky Dragon 5 Incident from the nation that witnessed them firsthand, whereas <i>Fail Safe</i>, <i>La Jetée</i> and <i>When the Wind Blows</i> play into contemporary culture fears and speculation by transforming the atomic war into fabricated realities. In spite of their bleakness, these stories remind us of the (non-Mushroom shaped) light at the end of the tunnel by providing a glimpse into a spectrum of forms of reflection and coexistence, whether it be through retroactive satire (<i>The Atomic Café</i>) or through self-acceptance and maintain faith in a seemingly cold world (<i>Winter Light</i>). Across such a tonal range, audiences are certain to find something terrifying, awe-inspiring and comforting in each film.</p>
+            <p>This series seeks to showcase some of the three directors’ best films while simultaneously highlighting cinema stemming primarily from Latin America (hence the selection of majority Spanish-language movies). Our hope is that viewers engaging with this series will feel inclined to delve deeper into Mexican cinema and, more broadly, Latin American cinema at large. Who knows? Perhaps we’ll see future Doc Films series centered on, say, Argentine or Brazilian cinema. Only time will tell.</p>
+
+            <p>To put it bluntly: this series is filled with some damn good movies. We’re excited at the thought of watching <i>that</i> car chase unfold in <i>Children of Men</i>, massive robots fighting one another in <i>Pacific Rim</i> in 3D, and horny Mexican teenagers lusting over a Spanish MILF in <i>Y Tu Mamá También</i> on the big screen—all with a packed, vibrant theater. We hope that you are, too.</p>
         </div>
         
         <div class="screening">
-          <h1>7:00PM Thursday, January 5th</h1>
-          <img src="/images/2023winter/grave-of-the-fireflies-1988.png" alt="Grave of the Fireflies (1988) still">
-          <h2>Grave of the Fireflies (1988)</h2>
-          <h3>Isao Takahata &middot; 89m &middot; DCP</h3>
-          <p>Directed by Studio Ghibli co-founder Isao Takahata, <i>Grave of the Fireflies</i> stands as the studio’s darkest film with its heartwrenching depiction of codependence, loss and near-helplessness in the midst of war. Following a pair of siblings, Seita and Setsuko, in their struggle to survive the final months of WWII after losing their parents in the Kobe bombings, the film ruthlessly showcases how global conflict has evolved to tear down even civilians.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=C663EAE4-2C4D-4285-A04B-D0566311BE09" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Thursday, March 23rd</h1>
+          <img src="/images/2023spring/birdman-2014.png" alt="Birdman (2014) still">
+          <h2>Birdman (2014)</h2>
+          <h3>Alejandro González Iñárritu &middot; 119m &middot; DCP</h3>
+          <p>Washed-up actor Riggan Thompson (Michael Keaton), almost synonymous with the iconic, twenty-years outdated superhero “Birdman,” mounts an ambitious Broadway production of Raymond Carver’s “What We Talk About When We Talk About Love” in a quixotic attempt to revitalize his moribund career and ego. As opening night approaches, Thompson’s vainglorious effort to rebuild himself personally and professionally becomes an increasingly dark comedy of errors.</p>
         </div>
         
         <div class="screening">
-          <h1>7:00PM Thursday, January 12th</h1>
-          <img src="/images/2023winter/hiroshima-1953.jpg" alt="Hiroshima (1953) still">
-          <h2>Hiroshima (1953)</h2>
-          <h3>Hideo Sekigawa &middot; 104m &middot; DCP</h3>
-          <p>Set during the immediate years after August 6th, 1945, <i>Hiroshima</i> portrays a classroom in their attempt to return to normalcy after the atom bomb destroyed their city, ravaged not just by radiation poisoning but also reckless gambling and discrimination against scarred victims. Featuring hundreds of Hiroshima survivors within its cast, the film portrays a dramatic yet accurate recreation of one of the 20th century’s most infamous tragedies.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=6205D2D2-0DFB-4337-BE46-C8A4375967FD" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Thursday, March 30th</h1>
+          <img src="/images/2023spring/children-of-men-2006.png" alt="Children of Men (2006) still">
+          <h2>Children of Men (2006)</h2>
+          <h3>Alfonso Cuarón &middot; 109m &middot; 35mm</h3>
+          <p>In a dystopian future where society is on the brink of collapse and mankind’s existence is threatened by infertility, <i>Children of Men</i> follows a disillusioned, former-activist bureaucrat (Clive Owen) in Britain—now a xenophobic police state—as he works to transport a miraculously pregnant woman to sanctuary. Aided by the work of cinematographer Emmanuel Lubezki, Cuarón has created a timeless visual masterpiece filled with themes that still resonate today.</p>
         </div>
         
         <div class="screening">
-          <h1>7:00PM Thursday, January 19th</h1>
-          <img src="/images/2023winter/winter-light-1963.jpg" alt="Winter Light (1963) still">
-          <h2>Winter Light (1963)</h2>
-          <h3>Ingmar Bergman &middot; 81m &middot; DCP</h3>
-          <p>The second film of Ingmar Berman’s “spiritual” trilogy, <i>Winter Light</i> focuses on Tomas Ericsson, a pastor stricken with a personal crisis in faith, as he delivers a service for a small congregation including a fisherman debilitatingly frightened by nuclear war to Ericsson’s atheist ex-mistress. Profound in its depiction of existentialism and faith on an individual scale, the film harshly ponders God’s absence, silence, and love for His creations.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=672A26B1-10E7-4086-B27F-4E61769A86BB" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Thursday, April 6th; 4:00PM Sunday, April 16th</h1>
+          <img src="/images/2023spring/pans-labyrinth-2006.jpg" alt="Pan's Labyrinth (2006) still">
+          <h2>Pan's Labyrinth (2006)</h2>
+          <h3>Guillermo del Toro &middot; 119m &middot; 35mm</h3>
+          <p><i>Pan’s Labyrinth</i> may very well be the film that truly put Guillermo del Toro on the map. While living In the countryside of Franco's Spain with her mother and dictatorial stepfather, 10-year-old Ofelia encounters an abandoned labyrinth, home to a mysterious faun who lays out a gauntlet of three trials Ofelia must complete to fulfill her only wish: to return to her real father. Destiny, fate, and mortality make strange bedfellows in this fantastical tale.</p>
+          <p><i>Screening subsidized for members of the organization of Latin American Students (OLAS) in conjunction with its cultural show. However, all are welcome!</i></p>
         </div>
         
         <div class="screening">
-          <h1>7:00PM Thursday, February 2nd</h1>
-          <img src="/images/2023winter/the-atomic-cafe-1982.jpg" alt="The Atomic Cafe (1982) still">
-          <h2>The Atomic Cafe (1982)</h2>
-          <h3>Jayne Loader, Kevin Rafferty, and Pierce Rafferty &middot; 86m &middot; DCP</h3>
-          <p>A sardonic reflection on the threat of nuclear destruction, this 1982 film splices together dozens of mid-century informational shorts and army training videos for a wary American public living in the Reagan Era. Despite pulling from such disparate sources, directors Jayne Loader and the Rafferty brothers successfully reconstruct an overarching narrative of the anxiety, dark humor, and empty reassurances that proliferated during the Cold War.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=3BED7AF7-48B8-405B-A735-342C747E19E0" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Thursday, April 13th</h1>
+          <img src="/images/2023spring/biutiful-2010.jpg" alt="Biutiful (2010) still">
+          <h2>Biutiful (2010)</h2>
+          <h3>Alejandro González Iñárritu &middot; 148m &middot; 35mm</h3>
+          <p><i>Biutiful</i> stars Javier Bardem (who won Best Actor at Cannes for his performance) as the Catalonian criminal and loving father Uxbal whose world progressively falls apart after a terminal cancer diagnosis. As his health worsens, Uxbal finds himself tasked with settling myriad things in his chaotic life before it’s too late. Bardem shines in this grim film that, fitting with this series’s theme (Three Amigos), names both Cuarón and del Toro as producers.</p>
         </div>
         
         <div class="screening">
-          <h1>7:00PM Thursday, February 9th</h1>
-          <img src="/images/2023winter/godzilla-1954.jpg" alt="Godzilla (1954) still">
-          <h2>Godzilla (1954)</h2>
-          <h3>Ishirō Honda &middot; 96m &middot; DCP</h3>
-          <p>As fishing ships burst into flames across the Pacific, the Japanese government is horrified to find the culprit to be a prehistoric leviathan, awakened by hydrogen bomb tests in the Bikini Atoll. Both a timeless portrayal of national paranoia and a reimagination of the tragedies of Hiroshima and Nagasaki, <i>Godzilla</i> stands the test of time as a condemnation of mankind’s ever-mounting destructive nature and the immortal debut of the King of the Monsters.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=6B6A3A0E-5594-4F6C-9A09-AABE520D7E9B" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Thursday, April 20th; 4:00PM Sunday, April 23rd</h1>
+          <img src="/images/2023spring/roma-2018.jpg" alt="Roma (2018) still">
+          <h2>Roma (2018)</h2>
+          <h3>Alfonso Cuarón &middot; 135m &middot; DCP</h3>
+          <p><i>Roma</i> follows Cleo, a housekeeper for a bourgeois 1970s Mexico City family on the brink of being torn apart—only for her own life to be upended by an unexpected pregnancy and militant boyfriend. <i>Roma</i> is a visually stunning, heart-wrenching, and unabashedly human film—a contemporary masterpiece. Receiving 10 Oscar nominations, the film is perhaps Alfonso Cuarón’s most intimate project, rhyming with his own upbringing in CDMX's Colonia Roma neighborhood.</p>
         </div>
         
         <div class="screening">
-          <h1>7:00PM Thursday, February 16th</h1>
-          <img src="/images/2023winter/fail-safe-1964.jpg" alt="Fail Safe (1964) still">
-          <h2>Fail Safe (1964)</h2>
-          <h3>Sidney Lumet &middot; 112m &middot; DCP</h3>
-          <p>When a critical system malfunction directs a group of nuclear-armed U.S. bombers to strike Moscow, the President scrambles to deflect them and prevent mutually assured destruction (sound familiar?). But whereas its twin film <i>Dr. Strangelove</i> played the nuclear threat as a dark political satire, <i>Fail Safe</i> gravely reminds us that even technical mistakes and political miscommunication cannot be treated lightly when Armageddon is but a button press away.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=B58BBFF8-9AEE-4B40-9E5B-80A925004D16" target="_blank">here</a></u>.</b></p>
+          <h1>7:30PM Thursday, April 27th</h1>
+          <img src="/images/2023spring/pacific-rim-2013.jpg" alt="Pacific Rim (2013) still">
+          <h2>Pacific Rim (2013)</h2>
+          <h3>Guillermo del Toro &middot; 131m &middot; 3D DCP</h3>
+          <p><i>Pacific Rim</i> is Guillermo del Toro’s sci-fi action epic where human-piloted mechs called Jaegers must fend off Kaiju, aliens from the deep sea. The story follows a washed-up pilot and an untested trainee who must work together to save the world. With impressive special effects and thrilling action sequences, Pacific Rim is an entertaining and visually stunning blockbuster that delivers on its core premise: giant robots fighting giant monsters.</p>
+          <p><i>This screening will happen at the Logan Center Room 201. Co-sponsored by the Film Studies Center.</i></p>
         </div>
         
         <div class="screening">
-          <h1>7:00PM Thursday, February 23rd</h1>
-          <img src="/images/2023winter/when-the-wind-blows-1986.jpg" alt="La Jetée (1962) // When the Wind Blows (1986) still">
-          <h2>La Jetée (1962) // When the Wind Blows (1986)</h2>
-          <h3>Chris Marker // Jimmy Murakami &middot; 28m // 84m &middot; Digital // DCP</h3>
-          <p>Based on Raymond Briggs' Cold War-era graphic novel, <i>When the Wind Blows</i> is a hand-drawn tale about an elderly couple whose life in the English countryside is disrupted by impending nuclear attacks. With their Blitz-era survival strategies, faith in government, and love for each other, the pair are convinced they can prepare for the worst—until an ICBM mercilessly tears their worldview down. Preceded by Chris Marker's masterful sci-fi short, <i>La Jetée</i>.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=03ED27E8-0E3A-4AD6-B0AA-672B6A8CC0FF" target="_blank">here</a></u>.</b></p>
+          <h1>6:00PM Thursday, May 4th; 4:00PM Sunday, May 7th</h1>
+          <img src="/images/2023spring/amores-perros-2000.jpg" alt="Amores Perros (2000) still">
+          <h2>Amores Perros (2000)</h2>
+          <h3>Alejandro González Iñárritu &middot; 153m &middot; 35mm</h3>
+          <p>The film that won Iñárritu his first moment of international stardom, <i>Amores Perros</i> is a gritty portrait of life in Mexico City. The movie tells the interconnected stories of three characters of different social statuses, whose lives are forever changed by a single car crash. The film’s nonlinear narrative structure, powerful performance, and sense of realism make it a gripping, emotionally resonant drama fully deserving of its critical acclaim.</p>
+        </div>
+        
+        <div id="y-tu-mama-tambien" class="screening" style="scroll-margin-top: var(--header-height);">
+          <h1>7:00PM Thursday, May 11th</h1>
+          <img src="/images/2023spring/y-tu-mama-tambien-2001.jpeg" alt="Y tu mamá también (2001) still">
+          <h2>Y tu mamá también (2001)</h2>
+          <h3>Alfonso Cuarón &middot; 106m &middot; 35mm</h3>
+          <p><i>Y tu mamá también</i>—an all-time classic—tells the tale of two horny Mexican teenagers, Tenoch (Diego Luna) and Julio (Gael García Bernal), as they attempt to seduce an older Spanish woman by embarking on a road trip to a mythical and totally non-existent beach: the “Boca del Cielo.” Set against a backdrop of political upheaval and social change, Cuarón’s film explores sexuality, manhood, and youth in a way that has forever changed Mexican cinema.</p>
         </div>
         
         <div class="screening">
-          <h1>7:00PM Thursday, March 2nd</h1>
-          <img src="/images/2023winter/the-china-syndrome-1979.jpg" alt="The China Syndrome (1979) still">
-          <h2>The China Syndrome (1979)</h2>
-          <h3>James Bridges &middot; 122m &middot; DCP</h3>
-          <p>A reporter (Jane Fonda) and her cameraman (Michael Douglas) accidentally film an incident at a plant in California and try to get the story on air, while plant supervisor (Jack Lemmon) conducts his own investigation of the plant. Released 12 days before the Three Mile Island nuclear accident, <i>The China Syndrome</i> is a chilling thriller based on actual incidents with intense performances that raises the question: how close are we at any time from disaster?</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=E086581F-1785-45F5-A9CD-6FD3F02AC0A5" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Thursday, May 18th</h1>
+          <img src="/images/2023spring/shape-of-water-2017.jpg" alt="The Shape of Water (2017) still">
+          <h2>The Shape of Water (2017)</h2>
+          <h3>Guillermo del Toro &middot; 123m &middot; DCP</h3>
+          <p><i>The Shape of Water</i>, which won the Oscar for Best Picture in 2018, is a quirky, fantastical romantic-fantasy that tells the story of an unexpected—and, yet, somehow natural—love between a mute janitor and an anthropomorphic aquatic creature/weapon held at a Cold War-era government facility. Guillermo del Toro’s poignant tale, which employs masterful set and costume designs, will capture your heart and imagination in a way you never thought possible.</p>
         </div>
         
       </div>

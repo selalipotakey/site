@@ -1119,27 +1119,27 @@ def format_archived_screenings(sheetpath):
 
 if __name__ == "__main__":
 
-    # quarter, year, exrows_capsules, exrows_series, capsules_path = 'Fall', 2021, 2, 1, r'C:\Users\camer\docfilms-github\site\database\capsules_spreadsheets\Fall 2021 Capsules.xlsx'
-    # formatted_capsules = format_capsules_sheet(capsules_path, quarter, year, exrows_capsules, exrows_series, ticketing_urls=False)
-    # create_website(formatted_capsules)
+    quarter, year, exrows_capsules, exrows_series, capsules_path = 'Spring', 2023, 2, 1, r'C:\Users\camer\docfilms-github\site\database\capsules_spreadsheets\Spring 2023 Capsules 3.11.23.xlsx'
+    formatted_capsules = format_capsules_sheet(capsules_path, quarter, year, exrows_capsules, exrows_series, ticketing_urls=False)
+    create_website(formatted_capsules)
 
     # exit()
     
     # format_archived_screenings(r'C:\Users\camer\docfilms-github\site\database\2022-09-05-archive-screenings-for-database.xlsx')
 
-    database_name = 'screening_database'
-    droptables()
-    addtables(database_name)
+    # database_name = 'screening_database'
+    # droptables()
+    # addtables(database_name)
 
-    capsules_path_list = [
-        ('Fall', 2021, 2, 1, r'C:\Users\camer\docfilms-github\site\database\capsules_spreadsheets\Fall 2021 Capsules.xlsx'),
-        ('Summer', 2022, 2, 1, r'C:\Users\camer\docfilms-github\site\database\capsules_spreadsheets\Summer 2022 Capsules.xlsx'),
-        ('Winter', 2022, 2, 1, r'C:\Users\camer\docfilms-github\site\database\capsules_spreadsheets\Winter 2022 Capsules.xlsx'),
-        ('Spring', 2022, 2, 1, r'C:\Users\camer\docfilms-github\site\database\capsules_spreadsheets\Spring 2022 Capsules.xlsx'),
-        ('Autumn', 2022, 2, 1, r'C:\Users\camer\docfilms-github\site\database\capsules_spreadsheets\Autumn 2022 Capsules.xlsx')
-    ]
+    # capsules_path_list = [
+    #     ('Fall', 2021, 2, 1, r'C:\Users\camer\docfilms-github\site\database\capsules_spreadsheets\Fall 2021 Capsules.xlsx'),
+    #     ('Summer', 2022, 2, 1, r'C:\Users\camer\docfilms-github\site\database\capsules_spreadsheets\Summer 2022 Capsules.xlsx'),
+    #     ('Winter', 2022, 2, 1, r'C:\Users\camer\docfilms-github\site\database\capsules_spreadsheets\Winter 2022 Capsules.xlsx'),
+    #     ('Spring', 2022, 2, 1, r'C:\Users\camer\docfilms-github\site\database\capsules_spreadsheets\Spring 2022 Capsules.xlsx'),
+    #     ('Autumn', 2022, 2, 1, r'C:\Users\camer\docfilms-github\site\database\capsules_spreadsheets\Autumn 2022 Capsules.xlsx')
+    # ]
 
-    for capsule_tuple in capsules_path_list:
-        quarter, year, exrows_capsules, exrows_series, capsules_path = capsule_tuple
-        formatted_capsules = format_capsules_sheet(capsules_path, quarter, year, exrows_capsules, exrows_series)
-        input_formatted_capsules(formatted_capsules)
+    # for capsule_tuple in capsules_path_list:
+    #     quarter, year, exrows_capsules, exrows_series, capsules_path = capsule_tuple
+    #     formatted_capsules = format_capsules_sheet(capsules_path, quarter, year, exrows_capsules, exrows_series)
+    #     input_formatted_capsules(formatted_capsules)
