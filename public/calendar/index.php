@@ -46,7 +46,7 @@
             <div class="series-text">
               <a href="/calendar/wednesday">
                 <p class="day">Wednesday</p>
-                <p class="title">Delphine Seyrig: More Than a Muse</p>
+                <p class="title">Delphine Seyrig, More Than a Muse</p>
               </a>
               <p class="programmer">Programmed by: Hannah Yang</p>
             </div>
