@@ -32,6 +32,7 @@
           <h2>Manhatta (1921) // The City (1939)</h2>
           <h3>Charles Sheeler and Paul Strand // Ralph Steiner and Willard Van Dyke &middot; 10m // 43m &middot; Digital</h3>
           <p>A pioneering work of social criticism, <i>The City</i> depicts the problems of modern urban life and the purported salvation of planned communities. Funded by the Carnegie Corporation, this documentary has been criticized for its propagandist inclinations. Yet its co-directors, modernist photographers Ralph Steiner and Willard Van Dyke, lend the work a remarkably poetic perspective. Preceded by painter Charles Sheeler and photographer Paul Strand’s <i>Manhatta</i>.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=3DF6B943-2E22-4B98-91BA-D5BC58CF688E" target="_blank">here</a></u>.</b></p>
         </div>
         
         <div class="screening">
@@ -41,6 +42,7 @@
           <h3>Stanley Kubrick // Stanley Kubrick &middot; 72m // 16m &middot; 35mm // 16mm</h3>
           <p>Stanley Kubrick’s feature directorial debut, <i>Fear and Desire</i> was produced with a small crew of 15 people and an original shoestring budget of only $10,000, raised largely by Kubrick’s family. An anti-war film released under the context of the Korean War, Kubrick reportedly quit his job as a staff photographer for <i>Look</i> Magazine to make the film. Preceded by <i>Day of the Fight</i> a short documentary produced by Kubrick during his days with <i>Look</i> Magazine.</p>
           <p><i>Preserved by the Library of Congress.</i></p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=765B7207-D7B4-4161-AEE1-DD1E0E5F0F59" target="_blank">here</a></u>.</b></p>
         </div>
         
         <div class="screening">
@@ -49,6 +51,7 @@
           <h2>La Pointe Courte (1955)</h2>
           <h3>Agnès Varda &middot; 80m &middot; DCP</h3>
           <p>A professional photographer before becoming a filmmaker, Varda cited a fluid relationship between her photography and filmmaking. Of <i>La Pointe Courte</i>, Varda recounted “I started making films with the sole experience of photography, that's to say, where to place the camera, at what distance, with which lens and what lights?” The film moseys through a port city in France, loosely following a couple contemplating their marriage, a fisherman, and a regatta.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=634D871D-E964-4EAD-9884-DC7EF0A93C52" target="_blank">here</a></u>.</b></p>
         </div>
         
         <div class="screening">
@@ -57,6 +60,7 @@
           <h2>Le Joli Mai (1963)</h2>
           <h3>Chris Marker and Pierre Lhomme &middot; 165m &middot; DCP</h3>
           <p>Following the end of World War II, Chris Marker began traveling the world as a journalist and photographer. His experiments in photography led him to an interest in filmmaking, and an acquaintance with the Left Bank film movement. His first film, <i>La Jetée</i>, was constructed almost entirely from still photographs. Co-directed with Pierre Lhomme, <i>Le Joli Mai</i> is Marker's first feature-length film and documents street interviews with everyday Parisians.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=87B49EB4-4BA8-49ED-BE1E-A57DE2D3CE2D" target="_blank">here</a></u>.</b></p>
         </div>
         
         <div class="screening">
@@ -65,6 +69,7 @@
           <h2>Being John Malkovich (1999)</h2>
           <h3>Spike Jonze &middot; 113m &middot; DCP</h3>
           <p>Spike Jonze got his start as a teenager taking photographs of BMX riders and skateboarders for the <i>Transworld Skateboarding</i> magazine. The style he developed led him to direct music videos and soon after, feature films. <i>Being John Malkovich</i> was Jonze’s feature debut, a collaborative effort with writer Charlie Kaufman. The film follows a puppeteer (John Cusack) who, while working odd-jobs, discovers a hidden portal into the mind of John Malkovich.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=582D525D-4935-4A40-95ED-9ACBE2583393" target="_blank">here</a></u>.</b></p>
         </div>
         
         <div class="screening">
@@ -73,6 +78,7 @@
           <h2>Pull My Daisy (1959) // Me and My Brother (1969)</h2>
           <h3>Robert Frank // Robert Frank &middot; 30m // 91m &middot; Digital // DCP</h3>
           <p>A docu-fiction involving Allen Ginsberg, Joseph Chaikin, Peter Orlovsky, and his schizophrenic brother Julius, <i>Me and My Brother</i> serves as a significant document of the Beat movement in New York. A Swiss photographer, Robert Frank, provided an outsider’s eye to American life, traveling across the United States in the '50s and '60s and publishing the groundbreaking photobook <i>The Americans</i>. Preceeded by a short film also by Frank, <i>Pull My Daisy</i>.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=1628F234-7CAB-429F-B980-7F8ADE8085F2" target="_blank">here</a></u>.</b></p>
         </div>
         
         <div class="screening">
@@ -81,6 +87,7 @@
           <h2>The Learning Tree (1969)</h2>
           <h3>Gordon Parks &middot; 107m &middot; DCP</h3>
           <p>Based on his eponymous semi-autobiographical novel, <i>The Learning Tree</i> is Gordon Parks’ first major film effort and the first Black-directed movie for a major American studio. Alongside other classics like <i>Shaft</i>, Parks is recognized for his photojournalism career, in which he documented poverty, African American life, and civil rights issues. This film carries Parks’ photojournalist perspective, documenting his experience growing up in Kansas.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=51DCDE04-73D1-4623-8C0B-9283E04AF07D" target="_blank">here</a></u>.</b></p>
         </div>
         
         <div class="screening">
@@ -89,6 +96,7 @@
           <h2>Office Killer (1997)</h2>
           <h3>Cindy Sherman &middot; 95m &middot; Digital</h3>
           <p>As a photographer, Cindy Sherman is regarded for her conceptual self-portrait photography, which probes questions of identity, celebrity, and representation. Sherman made her feature film debut with <i>Office Killer</i>, a camp horror film about a copy editor (Carol Kane) who tumbles into a murderous rampage directed at her co-workers. At once comedy, horror, melodrama, noir, and feminist art piece, this film is sure to surprise, provoke, and tickle the senses.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=84A4B286-6960-42A6-9862-170984759623" target="_blank">here</a></u>.</b></p>
         </div>
         
         <div class="screening">

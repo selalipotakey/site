@@ -34,6 +34,7 @@
           <h2>Birdman (2014)</h2>
           <h3>Alejandro González Iñárritu &middot; 119m &middot; DCP</h3>
           <p>Washed-up actor Riggan Thompson (Michael Keaton), almost synonymous with the iconic, twenty-years outdated superhero “Birdman,” mounts an ambitious Broadway production of Raymond Carver’s “What We Talk About When We Talk About Love” in a quixotic attempt to revitalize his moribund career and ego. As opening night approaches, Thompson’s vainglorious effort to rebuild himself personally and professionally becomes an increasingly dark comedy of errors.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=25C7A4A9-3D99-4991-AC5C-233E4C51A6AB" target="_blank">here</a></u>.</b></p>
         </div>
         
         <div class="screening">
@@ -42,6 +43,7 @@
           <h2>Children of Men (2006)</h2>
           <h3>Alfonso Cuarón &middot; 109m &middot; 35mm</h3>
           <p>In a dystopian future where society is on the brink of collapse and mankind’s existence is threatened by infertility, <i>Children of Men</i> follows a disillusioned, former-activist bureaucrat (Clive Owen) in Britain—now a xenophobic police state—as he works to transport a miraculously pregnant woman to sanctuary. Aided by the work of cinematographer Emmanuel Lubezki, Cuarón has created a timeless visual masterpiece filled with themes that still resonate today.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=845089CA-49D6-4BEB-A8F6-F3B267691F1B" target="_blank">here</a></u>.</b></p>
         </div>
         
         <div class="screening">
@@ -51,6 +53,8 @@
           <h3>Guillermo del Toro &middot; 119m &middot; 35mm</h3>
           <p><i>Pan’s Labyrinth</i> may very well be the film that truly put Guillermo del Toro on the map. While living In the countryside of Franco's Spain with her mother and dictatorial stepfather, 10-year-old Ofelia encounters an abandoned labyrinth, home to a mysterious faun who lays out a gauntlet of three trials Ofelia must complete to fulfill her only wish: to return to her real father. Destiny, fate, and mortality make strange bedfellows in this fantastical tale.</p>
           <p><i>Screening subsidized for members of the organization of Latin American Students (OLAS) in conjunction with its cultural show. However, all are welcome!</i></p>
+          <p><b>April 6th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=398748C3-5E7C-4FBD-9A24-36D9AFFE0128" target="_blank">here</a></u>.</b></p>
+          <p><b>April 16th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=A13CF48F-3A03-46ED-9806-2C21529A84EB" target="_blank">here</a></u>.</b></p>
         </div>
         
         <div class="screening">
@@ -59,6 +63,7 @@
           <h2>Biutiful (2010)</h2>
           <h3>Alejandro González Iñárritu &middot; 148m &middot; 35mm</h3>
           <p><i>Biutiful</i> stars Javier Bardem (who won Best Actor at Cannes for his performance) as the Catalonian criminal and loving father Uxbal whose world progressively falls apart after a terminal cancer diagnosis. As his health worsens, Uxbal finds himself tasked with settling myriad things in his chaotic life before it’s too late. Bardem shines in this grim film that, fitting with this series’s theme (Three Amigos), names both Cuarón and del Toro as producers.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=AB11D051-E132-4165-BE6C-0BC9F47845BE" target="_blank">here</a></u>.</b></p>
         </div>
         
         <div class="screening">
@@ -67,6 +72,8 @@
           <h2>Roma (2018)</h2>
           <h3>Alfonso Cuarón &middot; 135m &middot; DCP</h3>
           <p><i>Roma</i> follows Cleo, a housekeeper for a bourgeois 1970s Mexico City family on the brink of being torn apart—only for her own life to be upended by an unexpected pregnancy and militant boyfriend. <i>Roma</i> is a visually stunning, heart-wrenching, and unabashedly human film—a contemporary masterpiece. Receiving 10 Oscar nominations, the film is perhaps Alfonso Cuarón’s most intimate project, rhyming with his own upbringing in CDMX's Colonia Roma neighborhood.</p>
+          <p><b>April 20th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=5DCAF4FA-926B-4012-81AB-72CCF4313280" target="_blank">here</a></u>.</b></p>
+          <p><b>April 23rd tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=D63E5776-E6F2-4DB6-99BF-3B3AE0A0067D" target="_blank">here</a></u>.</b></p>
         </div>
         
         <div class="screening">
@@ -76,6 +83,7 @@
           <h3>Guillermo del Toro &middot; 131m &middot; 3D DCP</h3>
           <p><i>Pacific Rim</i> is Guillermo del Toro’s sci-fi action epic where human-piloted mechs called Jaegers must fend off Kaiju, aliens from the deep sea. The story follows a washed-up pilot and an untested trainee who must work together to save the world. With impressive special effects and thrilling action sequences, Pacific Rim is an entertaining and visually stunning blockbuster that delivers on its core premise: giant robots fighting giant monsters.</p>
           <p><i>This screening will happen at the Logan Center Room 201. Co-sponsored by the Film Studies Center.</i></p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=43123A41-C840-4D05-9E0D-A5A7C53AE38A" target="_blank">here</a></u>.</b></p>
         </div>
         
         <div class="screening">
@@ -84,6 +92,8 @@
           <h2>Amores Perros (2000)</h2>
           <h3>Alejandro González Iñárritu &middot; 153m &middot; 35mm</h3>
           <p>The film that won Iñárritu his first moment of international stardom, <i>Amores Perros</i> is a gritty portrait of life in Mexico City. The movie tells the interconnected stories of three characters of different social statuses, whose lives are forever changed by a single car crash. The film’s nonlinear narrative structure, powerful performance, and sense of realism make it a gripping, emotionally resonant drama fully deserving of its critical acclaim.</p>
+          <p><b>May 4th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=81B35662-F7FD-4575-B99A-1E10221C0995" target="_blank">here</a></u>.</b></p>
+          <p><b>May 7th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=D75027E7-8439-4F15-9BBB-48DD426CD1C2" target="_blank">here</a></u>.</b></p>
         </div>
         
         <div id="y-tu-mama-tambien" class="screening" style="scroll-margin-top: var(--header-height);">
@@ -92,6 +102,7 @@
           <h2>Y tu mamá también (2001)</h2>
           <h3>Alfonso Cuarón &middot; 106m &middot; 35mm</h3>
           <p><i>Y tu mamá también</i>—an all-time classic—tells the tale of two horny Mexican teenagers, Tenoch (Diego Luna) and Julio (Gael García Bernal), as they attempt to seduce an older Spanish woman by embarking on a road trip to a mythical and totally non-existent beach: the “Boca del Cielo.” Set against a backdrop of political upheaval and social change, Cuarón’s film explores sexuality, manhood, and youth in a way that has forever changed Mexican cinema.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=ADDE09A5-A81E-469D-A40F-C67BC11E25DD" target="_blank">here</a></u>.</b></p>
         </div>
         
         <div class="screening">
@@ -100,6 +111,7 @@
           <h2>The Shape of Water (2017)</h2>
           <h3>Guillermo del Toro &middot; 123m &middot; DCP</h3>
           <p><i>The Shape of Water</i>, which won the Oscar for Best Picture in 2018, is a quirky, fantastical romantic-fantasy that tells the story of an unexpected—and, yet, somehow natural—love between a mute janitor and an anthropomorphic aquatic creature/weapon held at a Cold War-era government facility. Guillermo del Toro’s poignant tale, which employs masterful set and costume designs, will capture your heart and imagination in a way you never thought possible.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=C477D31D-5EB4-4766-AA9D-0FCFEC281416" target="_blank">here</a></u>.</b></p>
         </div>
         
       </div>

@@ -29,6 +29,7 @@
           <h3>Daniel Kwan and Daniel Scheinert &middot; 139m &middot; DCP</h3>
           <p>Back on the big screen! <i>Everything Everywhere All at Once</i> is a whimsical, sci-fi, comedy-drama following Evelyn Wang (Michelle Yeoh) as her marriage to Waymond (Ke Huy Quan) and relationship with her daughter Joy (Stephanie Hsu) begin to implode. <i>EEAAO</i> swept the awards season, being nominated for 11 Academy Awards and winning Yeoh a Golden Globe for best actress.</p>
           <p><i>Co-presented with the Society of Women in Physics. All proceeds to go to Girls 4 Science, a nonprofit organization dedicated to exposing girls in Chicago, ages 10–18 years old, to STEM.</i></p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=5CEBE0DB-3026-4481-838A-297FCF538022" target="_blank">here</a></u>.</b></p>
         </div>
         
         <div class="screening">
@@ -38,6 +39,7 @@
           <h3>Joe Wright &middot; 127m &middot; DCP</h3>
           <p>It is a truth universally acknowledged that a Doc Films theatergoer in possession of a quarter pass must be in want of a dreamy period romance. An adaptation of a beloved classic, <i>Pride and Prejudice</i> follows headstrong Elizabeth Bennet as she becomes acquainted with Mr. Darcy, a wealthy, dour bachelor. Amidst encounters with impossible sisters, bumbling clergymen, and rakish strangers, Elizabeth comes to find that first impressions can be misleading.</p>
           <p><i>Event sponsored by the English Department, in honor of Emily Cheng’s BA Thesis on re-reading and the feminine gaze in both Austen's and Wright's </i>Pride and Prejudice<i>.</i></p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=2031A7FE-8464-4688-B9DB-EC23F083DBD0" target="_blank">here</a></u>.</b></p>
         </div>
         
         <div class="screening">
@@ -47,6 +49,7 @@
           <h3>Dan Sallitt &middot; 91m &middot; DCP</h3>
           <p>A coming-of-age film that is, for once, pleasantly <i>unrelatable</i>, <i>The Unspeakable Act</i> is a film directed by Dan Sallitt about a girl's unrequited romantic love for her older brother. Jackie, a 17-year-old Brooklyn highschooler, prepares for her older brother, Matthew, to leave for college amidst realizations that he's found a girlfriend. <i>The Unspeakable Act</i> toes the line between sincere and taboo and is an intriguing look into adolescence.</p>
           <p><i>Free showing for all students, sponsored by Night Owls. Followed by a discussion with filmmaker Dan Sallitt.</i></p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=2D7CC530-A923-47C6-B634-68CAC90C61D8" target="_blank">here</a></u>.</b></p>
         </div>
         
         <div class="screening">
@@ -56,6 +59,7 @@
           <h3>Dan Sallitt &middot; 94m &middot; DCP</h3>
           <p><i>Fourteen</i> is Dan Sallit's latest feature film and first film since <i>the Unspeakable Act</i>. Mara (Tallie Medel) and Jo (Norma Kuhling) are two women who've maintained a close friendship since childhood. While being polar opposites, Mara finds excitement and spontaneity in Jo, and Jo comfort and care in Mara. The film follows their relationship as Jo deteriorates due to a mixture of mental illness and drugs while Mara struggles to keep her head above water.</p>
           <p><i>Free showing for all students, sponsored by Night Owls. Followed by a discussion with filmmaker Dan Sallitt.</i></p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=1073DC97-F5EF-46AD-A1E7-11FCFD9C252C" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div id="pacific-rim" class="screening" style="scroll-margin-top: var(--header-height);">
@@ -65,6 +69,7 @@
           <h3>Guillermo del Toro &middot; 131m &middot; 3D DCP</h3>
           <p><i>Pacific Rim</i> is Guillermo del Toro’s sci-fi action epic where human-piloted mechs called Jaegers must fend off Kaiju, aliens from the deep sea. The story follows a washed-up pilot and an untested trainee who must work together to save the world. With impressive special effects and thrilling action sequences, Pacific Rim is an entertaining and visually stunning blockbuster that delivers on its core premise: giant robots fighting giant monsters.</p>
           <p><i>This screening will happen at the Logan Center Room 201. Co-sponsored by the Film Studies Center.</i></p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=43123A41-C840-4D05-9E0D-A5A7C53AE38A" target="_blank">here</a></u>.</b></p>
         </div>
         
         <div class="screening">
@@ -74,6 +79,7 @@
           <h3>Ramón Menéndez &middot; 102m &middot; Digital</h3>
           <p>Jamie Escalante (Edward James Olmos) is a math teacher at an L.A. high school full of Latino students with working-class backgrounds. Although other teachers ridicule him and his students initially rebel, he sees potential in his students, and with his unusual teaching methods, teaches them algebra and prepares them for the AP Calculus exam. In 1982, 18 students did what seemed impossible—they passed. Based on the true story of Jamie Escalante.</p>
           <p><i>Co-sponsored by MECHA de UChicago with commentary by Professor Sergio Delgado.</i></p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=39C676AC-5F8E-4CA5-836E-9EC5C19EB82E" target="_blank">here</a></u>.</b></p>
         </div>
         
         <div class="screening">
@@ -82,7 +88,7 @@
           <h2>Crip Camp (2020)</h2>
           <h3>Nicole Newnham and James Lebrecht &middot; 108m &middot; DCP</h3>
           <p>Directed by documentary filmmakers Nicole Newnham and James LeBrecht, <i>Crip Camp</i> tells the story of the campers-turned-activists of Camp Jened, a New York summer camp for disabled people. Newnham and LeBrecht begin the film by inviting audiences into a miniature utopia hidden in the Catskill Mountains, where campers were able to shamelessly be themselves. <i>Crip Camp</i> also stars real-life "Jenedians" Larry Allison, Judith Heumann, and Stephen Hofmann.</p>
-          <p><i>Co-sponsored by Students for Disability Justice.</i></p>
+          <p><i>Free screening! Co-sponsored by Students for Disability Justice.</i></p>
         </div>
         
       </div>

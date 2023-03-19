@@ -95,8 +95,7 @@
       <div class="screenings-list">
 
         <div class="text-section">
-          <!-- <h1>Screening this week:</h1> -->
-          <h1>Starting March 22nd...</h1>
+          <h1>Screening this week:</h1>
           <h3><i>$7 tickets, theater opens 30 minutes before the screening.</i></h3>
         </div>
 
@@ -107,6 +106,7 @@
           <h3>Alain Resnais &middot; 94m &middot; DCP</h3>
           <p>Truth, time, and memory are dizzyingly twisted and muddled in a hotel in Marienbad, where a man insists he has met an unnamed woman (Seyrig) before, but she insists she does not know him. Conflict arises with the appearance of another man—what is the truth? This earlier role of Seyrig’s would pave the way for her future castings as the elusive object of desire. The script’s puzzle is enhanced by the hypnotic, surreal cinematography of Sacha Vierny.</p>
           <p><i>Followed by a discussion with Prof. Maria Belodubrovskaya, Cinema and Media Studies.</i></p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=24A8E831-64FF-4EF6-9544-6CD87FB4643B" target="_blank">here</a></u>.</b></p>
         </div>
         
         <div class="screening">
@@ -115,6 +115,7 @@
           <h2>Birdman (2014)</h2>
           <h3>Alejandro González Iñárritu &middot; 119m &middot; DCP</h3>
           <p>Washed-up actor Riggan Thompson (Michael Keaton), almost synonymous with the iconic, twenty-years outdated superhero “Birdman,” mounts an ambitious Broadway production of Raymond Carver’s “What We Talk About When We Talk About Love” in a quixotic attempt to revitalize his moribund career and ego. As opening night approaches, Thompson’s vainglorious effort to rebuild himself personally and professionally becomes an increasingly dark comedy of errors.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=25C7A4A9-3D99-4991-AC5C-233E4C51A6AB" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div class="screening">
@@ -123,6 +124,7 @@
           <h2>Scanners (1981)</h2>
           <h3>David Cronenberg &middot; 103m &middot; Digital</h3>
           <p><i>Scanners</i> is an obsessive dive into a world of espionage, corporate intrigue, and telepathic powers. While known for its iconic head explosions, there is a compellingly chilling thriller pulsating beneath the film's glorious practical effects. Through office corridors and overly lit hallways, prepare to be dragged along with the eponymous scanner until your feet are naught but bloody stumps and your flesh a tired husk, hoping one day to break free.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=23B2B65E-3659-4147-902B-1D7F57BF5DCA" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div class="screening">
@@ -131,6 +133,8 @@
           <h2>The Godfather (1972)</h2>
           <h3>Francis Ford Coppola &middot; 175m &middot; 35mm</h3>
           <p>What a way to start the series! The film that launched a thousand imitations and millions of film studies majors. Coppola adapts two-thirds of Mario Puzo’s bestseller, weaving interfamilial strife into an epic tableau of immigrant life in the midcentury. It's an all-American tale of power, corruption, and lies. Innovative cinematography, a classic Nino Rota score, and ultra-quotable lines abound! It’s an offer you can’t… oh, you know how the line goes.</p>
+          <p><b>March 24th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=B04BFA46-5E5A-4497-89B7-15B28AF59C31" target="_blank">here</a></u>.</b></p>
+          <p><b>March 26th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=7F575143-488C-497A-BB79-D206208FDB08" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div class="screening">
@@ -139,6 +143,8 @@
           <h2>Corsage (2022)</h2>
           <h3>Marie Kreutzer &middot; 114m &middot; DCP</h3>
           <p>On Christmas Eve of 1877, Empress Elisabeth "Sissi" of Austria turns 40, and is forced to relinquish her long-held status as a beautiful young woman. She must determine how to salvage her public image--and how to prove her worth in a society which now deems her worthless. What follows is an irreverent, modern, and subtly anachronistic spin on an iconic figure's story: a luxurious yet understated tale of melancholy, restriction, and rebellion.</p>
+          <p><b>4:00PM tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=AAA38943-D975-48A6-A34A-927A583C6EBD" target="_blank">here</a></u>.</b></p>
+          <p><b>8:00PM tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=3EEC201B-B666-4E09-87BB-A4DB7FD0658B" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div class="screening">
@@ -147,6 +153,7 @@
           <h2>Manhatta (1921) // The City (1939)</h2>
           <h3>Charles Sheeler and Paul Strand // Ralph Steiner and Willard Van Dyke &middot; 10m // 43m &middot; Digital</h3>
           <p>A pioneering work of social criticism, <i>The City</i> depicts the problems of modern urban life and the purported salvation of planned communities. Funded by the Carnegie Corporation, this documentary has been criticized for its propagandist inclinations. Yet its co-directors, modernist photographers Ralph Steiner and Willard Van Dyke, lend the work a remarkably poetic perspective. Preceded by painter Charles Sheeler and photographer Paul Strand’s <i>Manhatta</i>.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=3DF6B943-2E22-4B98-91BA-D5BC58CF688E" target="_blank">here</a></u>.</b></p>
         </div>
 
       </div>
