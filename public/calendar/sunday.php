@@ -101,11 +101,10 @@
         
         <div class="screening">
           <h1>7:00PM Sunday, May 21st</h1>
-          <!-- <img src="/images/2023spring/kids-1995.jpg" alt="Kids (1995) still"> -->
-          <h2>TBD</h2>
-          <!-- <h3>Larry Clark &middot; 91m &middot; 35mm?</h3>
-          <p><i>Kids</i>, directed by Larry Clark and written by Harmony Korine, rocketed to controversial cult success upon its release. The film exposed the drugs, sex, and general debauchery of youth life in 90s NYC, guided by Clark’s photo-documentary experience. In 1977, he famously published a photobook titled <i>Tulsa</i>, portraying youth in Tulsa, Oklahoma. The book carries the same preoccupation with drug use, sex, and violence that defined <i>Kids</i> 18 years later.</p>
-          <p><i>COURTESY TEXT TBD.</i></p> -->
+          <img src="/images/2023spring/los-ninos-abandonados-1975.jpg" alt="Los niños abandonados (1975) still">
+          <h2>Born to Film (1982) // Los niños abandonados (1975)</h2>
+          <h3>Danny Lyon &middot; 33m // 63m &middot; DCP</h3>
+          <p>In 1974, Danny Lyon flew to Santa Marta, Colombia and spent twenty days filming a local group of homeless boys. This footage became <i>Los niños abandonados</i>, a compassionate and unblinking portrait of the daily lives of these abandoned children. It is preceded by Lyon's autobiographical short <i>Born to Film</i>, which mixes photographs from his father's archive with footage of himself and his son to create a tender tribute to Lyon's own life and family.</p>
         </div>
         
       </div>
