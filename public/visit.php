@@ -34,7 +34,7 @@
           <li><p>$40</p></li>
         </ul></i>
         <br>
-        <p style="font-size: 1.5rem;"><i>For now, Doc is <u>cash-only</u> for tickets purchased at the theater. There is a Citibank ATM in Ida Noyes for your convenience.</i></p>
+        <p style="font-size: 1.5rem;"><i>Tickets may be purchased with cash or credit card. There is a Citibank ATM in Ida Noyes for your convenience.</i></p>
         <br>
         <p><b>Pass discounts:</b> Doc offers discounts on our quarter passes. Please let a ticket seller know if the following applies to you:</p>
         <br>
@@ -60,7 +60,7 @@
         <br><br>
 
         <h3>Online</h3>
-        <p>Doc sells tickets and quarter passes online <u><a href="https://tickets.uchicago.edu/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=F5602A6B-6B4D-4AC2-A9CF-9B1A03B4BDBA" target="_blank">here through the Logan Box Office</a></u>. Tickets links can also be found beneath the description of each film on this website.</p>
+        <p>Doc sells tickets and quarter passes online <u><a href="https://tickets.uchicago.edu/Online/default.asp" target="_blank">here through the Logan Box Office</a></u>. Tickets links can also be found beneath the description of each film on this website.</p>
         <p style="font-size: 1.5rem;"><i>Note: discounts cannot be applied to online purchases.</i></p>
 
         <br><br><br>
