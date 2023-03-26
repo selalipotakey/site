@@ -50,6 +50,12 @@
         <p>1212 E. 59th St.</p>
         <p>Chicago, IL 60637</p>
         <br>
+        <p><b>Our newsletter</b></p>
+        <p>Subscribe <a href="/newsletter"><u>here</u></a></p>
+        <br>
+        <p><b>Our socials</b></p>
+        <p>@docfilmschicago</p>
+        <br>
         <p class="small-note"><i>Note: we are generally more responsive to email than other methods.</i></p>
 
         <br><br>
