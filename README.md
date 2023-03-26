@@ -4,15 +4,55 @@ Monorepo for Doc Films' website and screening database.
 
 ## Maintained by Doc Films' web chairs:
 
-Cameron Poe, Lindsey Qian, 2021-
+Cameron Poe 2021-2023
+
+Lindsey Qian 2021-2023
 
 ## Contents of the repo
 
-### public
+### `/public`
 
-This is the root directory `/` of the website, so all files outside of this directory cannot be viewed by web visitors.
+This is the root directory `/` of the website, which corresponds to `www.docfilms.org`. All files outside of this directory cannot be (directly/easily) viewed by website visitors.
 
-### database
+#### `/public/about`
+
+Directory that holds both "About" pages. `index.php` corresponds to the "About" page on the website (`www.docfilms.org/about`). This page details how to contact Doc, all the people on the Board, some history about the organization, and specs of our theater. `the-site.php` corresponds to the "About the Site" page, available in the footer of each page. It details how the website was built and how it runs. 
+
+#### `/public/archive`
+
+This directory holds all the previous quarter's pages (instead of just scrapping them) as well as all the pages that interact with the database.
+
+TBC
+
+#### `/public/calendar`
+
+This directory holds all the series pages for the current quarter. 
+
+##### `/public/calendar/archive`
+
+This directory holds some files that allow for a custom Google calendar embedded in the `index.php` page in `/public/calendar`. These files are no longer used, since I (Cameron, 2022) was not able to get the custom Google calendar working. We still used an embedded Google calendar, but it has less customization features as the attempt in this directory.
+
+#### `/public/fonts`
+
+Should be self-explanatory. Holds the font files for the website. The `style.css` has lines that allow all the webpages to import font styling from this directory.
+
+#### `/public/images`
+
+Directory that contains directories corresponding to each series' images as well as directories that have images used by non-series web pages.
+
+##### `/public/images/about`
+
+Contains the WHO FRAMED ROGER RABBIT? image used in the `/public/about/index.php` page.
+
+##### `/public/images/site`
+
+Directory that contains images used by the header, dropdown, footer, etc. These are used on every web page of the website.
+
+#### `/public/includes`
+
+Directory that contains sub-webpages that are "included" in each webpage. These are the header, the footer, and the drop down. Stored here so that instead of repeating code on each webpage, the webpage can do a `php` include to import the header, footer, dropdown code.
+
+### `/database`
 
 This directory contains all the relevant files for insertion of new entries into the database. It contains capsule spreadsheets, python code to render those capsule spreadsheets insertable, and code to insert into the database.
 
