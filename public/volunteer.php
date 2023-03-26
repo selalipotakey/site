@@ -28,7 +28,7 @@
         <br>
         <p>At our weekly programming meetings we discuss potential series for the next calendar. One need not be a Doc volunteer or affiliated with the University to take part in this dialogue, or to propose a series.</p>
         <br>   
-        <p><b>Programming meeting times for Winter 2023 are 5:45PM on Thursdays.</b></p>
+        <p><b>Programming meeting times for Spring 2023 are 5:30PM on Wednesdays.</b></p>
         <i><p>If you are interested in the programming at Doc, please subscribe to our programming mailing list <a href="https://lists.uchicago.edu/web/info/docprog" target="_blank"><u>here</u></a>. Contact our Programming Chair(s) at programming@docfilms.org if you have any questions.</p></i>
 
         <br><br>
@@ -38,7 +38,7 @@
         <br>
         <p>At our weekly volunteer meetings, board members report on and discuss their work managing Doc. All volunteers who want to see what goes on behind the scenes are welcome and encouraged to attend.</p>
         <br>
-        <p><b>General meeting times for Winter 2023 are 5:00PM on Sundays.</b></p>
+        <p><b>General meeting times for Spring 2023 are 1:30PM on Sundays.</b></p>
         <i><p>Volunteer applications are sent out a few weeks before the beginning of every quarter. For updates, subscribe to our volunteering mailing list <a href="https://lists.uchicago.edu/web/info/docvol" target="_blank"><u>here</u></a>, or contact our Volunteer Chair(s) at volunteer@docfilms.org for more information.</p></i>
         
         <br><br>
