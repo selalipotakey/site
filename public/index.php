@@ -100,60 +100,70 @@
         </div>
 
         <div class="screening">
-          <h1>7:00PM Wednesday, March 22nd</h1>
-          <img src="/images/2023spring/last-year-at-marienbad-1961.jpg" alt="Last Year at Marienbad (1961) still">
-          <h2>Last Year at Marienbad (1961)</h2>
-          <h3>Alain Resnais &middot; 94m &middot; DCP</h3>
-          <p>Truth, time, and memory are dizzyingly twisted and muddled in a hotel in Marienbad, where a man insists he has met an unnamed woman (Seyrig) before, but she insists she does not know him. Conflict arises with the appearance of another man—what is the truth? This earlier role of Seyrig’s would pave the way for her future castings as the elusive object of desire. The script’s puzzle is enhanced by the hypnotic, surreal cinematography of Sacha Vierny.</p>
-          <p><i>Followed by a discussion with Prof. Maria Belodubrovskaya, Cinema and Media Studies.</i></p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=24A8E831-64FF-4EF6-9544-6CD87FB4643B" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Tuesday, March 28th</h1>
+          <img src="/images/2023spring/everything-everywhere-all-at-once-2022.jpg" alt="Everything Everywhere All at Once (2022) still">
+          <h2>Everything Everywhere All at Once (2022)</h2>
+          <h3>Daniel Kwan and Daniel Scheinert &middot; 139m &middot; DCP</h3>
+          <p>Back on the big screen! <i>Everything Everywhere All at Once</i> is a whimsical, sci-fi, comedy-drama following Evelyn Wang (Michelle Yeoh) as her marriage to Waymond (Ke Huy Quan) and relationship with her daughter Joy (Stephanie Hsu) begin to implode. <i>EEAAO</i> swept the awards season, being nominated for 11 Academy Awards and winning Yeoh a Golden Globe for best actress.</p>
+          <p><i>Co-presented with the Society of Women in Physics. All proceeds to go to Girls 4 Science, a nonprofit organization dedicated to exposing girls in Chicago, ages 10–18 years old, to STEM.</i></p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=5CEBE0DB-3026-4481-838A-297FCF538022" target="_blank">here</a></u>.</b></p>
         </div>
         
-        <div class="screening">
-          <h1>7:00PM Thursday, March 23rd</h1>
-          <img src="/images/2023spring/birdman-2014.png" alt="Birdman (2014) still">
-          <h2>Birdman (2014)</h2>
-          <h3>Alejandro González Iñárritu &middot; 119m &middot; DCP</h3>
-          <p>Washed-up actor Riggan Thompson (Michael Keaton), almost synonymous with the iconic, twenty-years outdated superhero “Birdman,” mounts an ambitious Broadway production of Raymond Carver’s “What We Talk About When We Talk About Love” in a quixotic attempt to revitalize his moribund career and ego. As opening night approaches, Thompson’s vainglorious effort to rebuild himself personally and professionally becomes an increasingly dark comedy of errors.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=25C7A4A9-3D99-4991-AC5C-233E4C51A6AB" target="_blank">here</a></u>.</b></p>
+        <div id="jeanne-dielman" class="screening" style="scroll-margin-top: var(--header-height);">
+          <h1>7:00PM Wednesday, March 29th; 4:00PM Sunday, April 2nd</h1>
+          <img src="/images/2023spring/jeanne-dielman-23-quai-du-commerce-1080-bruxelles-1975.jpeg" alt="Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles (1975) still">
+          <h2>Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles (1975)</h2>
+          <h3>Chantal Akerman &middot; 201m &middot; DCP</h3>
+          <p>The film that changed everything. Delphine Seyrig gave her greatest contribution to cinema in Chantal Akerman’s <i>Jeanne Dielman</i> as a widowed housewife who spends her days peeling potatoes for her son's meals and trying to make ends meet. The film’s brilliance lies in its attentiveness towards its subject, the textural duration and repetition of Jeanne’s daily tasks, and the eventual disruption that occurs. Quietly harrowing, exhilarating, and triumphant.</p>
+          <p><b>March 29th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=A2F0623E-AA14-4C83-A914-9C865DA8C6F4" target="_blank">here</a></u>.</b></p>
+          <p><b>April 2nd tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=EEF242A1-5005-43D8-B784-113A5E330205" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div class="screening">
-          <h1>9:30PM Thursday, March 23rd</h1>
-          <img src="/images/2023spring/scanners-1981.jpeg" alt="Scanners (1981) still">
-          <h2>Scanners (1981)</h2>
-          <h3>David Cronenberg &middot; 103m &middot; Digital</h3>
-          <p><i>Scanners</i> is an obsessive dive into a world of espionage, corporate intrigue, and telepathic powers. While known for its iconic head explosions, there is a compellingly chilling thriller pulsating beneath the film's glorious practical effects. Through office corridors and overly lit hallways, prepare to be dragged along with the eponymous scanner until your feet are naught but bloody stumps and your flesh a tired husk, hoping one day to break free.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=23B2B65E-3659-4147-902B-1D7F57BF5DCA" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Thursday, March 30th</h1>
+          <img src="/images/2023spring/children-of-men-2006.png" alt="Children of Men (2006) still">
+          <h2>Children of Men (2006)</h2>
+          <h3>Alfonso Cuarón &middot; 109m &middot; 35mm</h3>
+          <p>In a dystopian future where society is on the brink of collapse and mankind’s existence is threatened by infertility, <i>Children of Men</i> follows a disillusioned, former-activist bureaucrat (Clive Owen) in Britain—now a xenophobic police state—as he works to transport a miraculously pregnant woman to sanctuary. Aided by the work of cinematographer Emmanuel Lubezki, Cuarón has created a timeless visual masterpiece filled with themes that still resonate today.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=845089CA-49D6-4BEB-A8F6-F3B267691F1B" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div class="screening">
-          <h1>7:00PM Friday, March 24th; 4:00PM Sunday, March 26th</h1>
-          <img src="/images/2023spring/the-godfather-1972.png" alt="The Godfather (1972) still">
-          <h2>The Godfather (1972)</h2>
-          <h3>Francis Ford Coppola &middot; 175m &middot; 35mm</h3>
-          <p>What a way to start the series! The film that launched a thousand imitations and millions of film studies majors. Coppola adapts two-thirds of Mario Puzo’s bestseller, weaving interfamilial strife into an epic tableau of immigrant life in the midcentury. It's an all-American tale of power, corruption, and lies. Innovative cinematography, a classic Nino Rota score, and ultra-quotable lines abound! It’s an offer you can’t… oh, you know how the line goes.</p>
-          <p><b>March 24th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=B04BFA46-5E5A-4497-89B7-15B28AF59C31" target="_blank">here</a></u>.</b></p>
-          <p><b>March 26th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=7F575143-488C-497A-BB79-D206208FDB08" target="_blank">here</a></u>.</b></p>
+          <h1>9:30PM Thursday, March 30th</h1>
+          <img src="/images/2023spring/videodrome-1983.jpg" alt="Videodrome (1983) still">
+          <h2>Videodrome (1983)</h2>
+          <h3>David Cronenberg &middot; 87m &middot; DCP</h3>
+          <p>A film of near apocalyptic proportions squeezed down into the horrific city of Toronto, <i>Videodrome</i> follows the president of a nearly-pornographic television station as he becomes enraptured in a mysterious, foreign TV show full of blood, sex, and murder. Enthralled as he seeks out the show's source, reality begins to collapse around him as the worlds of sex, biology, and technology coalesce into one rapturous mess. LONG LIVE THE NEW FLESH.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=27381671-63EE-4AB7-BEB1-A42ADA4138BB" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div class="screening">
-          <h1>4:00PM Saturday, March 25th; 8:00PM Saturday, March 25th</h1>
-          <img src="/images/2023spring/corsage-2022.jpeg" alt="Corsage (2022) still">
-          <h2>Corsage (2022)</h2>
-          <h3>Marie Kreutzer &middot; 114m &middot; DCP</h3>
-          <p>On Christmas Eve of 1877, Empress Elisabeth "Sissi" of Austria turns 40, and is forced to relinquish her long-held status as a beautiful young woman. She must determine how to salvage her public image--and how to prove her worth in a society which now deems her worthless. What follows is an irreverent, modern, and subtly anachronistic spin on an iconic figure's story: a luxurious yet understated tale of melancholy, restriction, and rebellion.</p>
-          <p><b>4:00PM tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=AAA38943-D975-48A6-A34A-927A583C6EBD" target="_blank">here</a></u>.</b></p>
-          <p><b>8:00PM tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=3EEC201B-B666-4E09-87BB-A4DB7FD0658B" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Friday, March 31st</h1>
+          <img src="/images/2023spring/sunrise-a-tale-of-two-humans-1927.jpg" alt="Sunrise: A Song of Two Humans (1927) still">
+          <h2>Sunrise: A Song of Two Humans (1927)</h2>
+          <h3>F. W. Murnau &middot; 94m &middot; 35mm</h3>
+          <p>The best German expressionist film ever made outside of Germany, <i>Sunrise: A Song of Two Humans</i> delivers on the promise of its title. A glorious, melodic wave of emotion, Murnau’s opus is a testament to what the medium of silent film could offer in its final days. <i>Sunrise</i> would go on to win the only once awarded Oscar for “Unique and Artistic Picture." It's a gorgeous film not to be missed, and in Addison's opinion, the best film in this series.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=3F366BB3-A710-40E8-8457-5ABC44329324" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div class="screening">
-          <h1>8:00PM Sunday, March 26th</h1>
-          <img src="/images/2023spring/the-city-1939.jpeg" alt="The City (1939) still">
-          <h2>Manhatta (1921) // The City (1939)</h2>
-          <h3>Charles Sheeler and Paul Strand // Ralph Steiner and Willard Van Dyke &middot; 10m // 43m &middot; Digital</h3>
-          <p>A pioneering work of social criticism, <i>The City</i> depicts the problems of modern urban life and the purported salvation of planned communities. Funded by the Carnegie Corporation, this documentary has been criticized for its propagandist inclinations. Yet its co-directors, modernist photographers Ralph Steiner and Willard Van Dyke, lend the work a remarkably poetic perspective. Preceded by painter Charles Sheeler and photographer Paul Strand’s <i>Manhatta</i>.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=3DF6B943-2E22-4B98-91BA-D5BC58CF688E" target="_blank">here</a></u>.</b></p>
+          <h1>4:00PM Saturday, April 1st; 8:00PM Saturday, April 1st</h1>
+          <img src="/images/2023spring/babylon-2022.png" alt="Babylon (2022) still">
+          <h2>Babylon (2022)</h2>
+          <h3>Damien Chazelle &middot; 189m &middot; DCP</h3>
+          <p>Damien Chazelle's <i>Babylon</i> follows an ensemble cast of Margot Robbie, Brad Pitt, Diego Calva and more through the glitz, glamor, and corruption of late '20s Hollywood, in the transition from silent to sound movies. Divisive among critics upon its release, the film is both a condemnation of and a love letter to the world of movies and the Hollywood institution itself. You may love it, you may hate it, but regardless, you'll have a good time at the movies.</p>
+          <p><b>4:00PM tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=26FDDE8C-A744-4DE7-85C5-B795FC1D3B71" target="_blank">here</a></u>.</b></p>
+          <p><b>8:00PM tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=95A8E7DF-61A7-45D7-A201-974A123141CD" target="_blank">here</a></u>.</b></p>
+        </div>
+
+        <div class="screening">
+          <h1>8:00PM Sunday, April 2nd</h1>
+          <img src="/images/2023spring/fear-and-desire-1953.jpeg" alt="Fear and Desire (1953) still">
+          <h2>Fear and Desire (1951) // Day of the Fight (1952)</h2>
+          <h3>Stanley Kubrick // Stanley Kubrick &middot; 72m // 16m &middot; 35mm // 16mm</h3>
+          <p>Stanley Kubrick’s feature directorial debut, <i>Fear and Desire</i> was produced with a small crew of 15 people and an original shoestring budget of only $10,000, raised largely by Kubrick’s family. An anti-war film released under the context of the Korean War, Kubrick reportedly quit his job as a staff photographer for <i>Look</i> Magazine to make the film. Preceded by <i>Day of the Fight</i> a short documentary produced by Kubrick during his days with <i>Look</i> Magazine.</p>
+          <p><i>Preserved by the Library of Congress.</i></p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=765B7207-D7B4-4161-AEE1-DD1E0E5F0F59" target="_blank">here</a></u>.</b></p>
         </div>
 
       </div>
