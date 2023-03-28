@@ -32,7 +32,7 @@
           <p><b>8:00PM tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=3EEC201B-B666-4E09-87BB-A4DB7FD0658B" target="_blank">here</a></u>.</b></p>
         </div>
         
-        <div class="screening">
+        <div id="babylon" class="anchor screening">
           <h1>4:00PM Saturday, April 1st; 8:00PM Saturday, April 1st</h1>
           <img src="/images/2023spring/babylon-2022.png" alt="Babylon (2022) still">
           <h2>Babylon (2022)</h2>
@@ -42,7 +42,7 @@
           <p><b>8:00PM tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=95A8E7DF-61A7-45D7-A201-974A123141CD" target="_blank">here</a></u>.</b></p>
         </div>
         
-        <div class="screening">
+        <div id="tar" class="anchor screening">
           <h1>4:00PM Saturday, April 8th; 8:00PM Saturday, April 8th</h1>
           <img src="/images/2023spring/tar-2022.jpeg" alt="Tár (2022) still">
           <h2>Tár (2022)</h2>
@@ -61,7 +61,7 @@
           <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=39EC3FF5-35DC-44B2-B076-50A8978E0EE0" target="_blank">here</a></u>.</b></p>
         </div>
         
-        <div class="screening">
+        <div id="eo" class="anchor screening">
           <h1>4:00PM Saturday, April 22nd; 8:00PM Saturday, April 22nd</h1>
           <img src="/images/2023spring/eo-2022.jpeg" alt="EO (2022) still">
           <h2>EO (2022)</h2>

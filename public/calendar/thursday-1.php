@@ -46,7 +46,7 @@
           <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=845089CA-49D6-4BEB-A8F6-F3B267691F1B" target="_blank">here</a></u>.</b></p>
         </div>
         
-        <div class="screening">
+        <div id="pans-labyrinth" class="anchor screening">
           <h1>7:00PM Thursday, April 6th; 4:00PM Sunday, April 16th</h1>
           <img src="/images/2023spring/pans-labyrinth-2006.jpg" alt="Pan's Labyrinth (2006) still">
           <h2>Pan's Labyrinth (2006)</h2>
@@ -66,7 +66,7 @@
           <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=AB11D051-E132-4165-BE6C-0BC9F47845BE" target="_blank">here</a></u>.</b></p>
         </div>
         
-        <div class="screening">
+        <div id="roma" class="anchor screening">
           <h1>7:00PM Thursday, April 20th; 4:00PM Sunday, April 23rd</h1>
           <img src="/images/2023spring/roma-2018.jpg" alt="Roma (2018) still">
           <h2>Roma (2018)</h2>
@@ -86,7 +86,7 @@
           <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=43123A41-C840-4D05-9E0D-A5A7C53AE38A" target="_blank">here</a></u>.</b></p>
         </div>
         
-        <div class="screening">
+        <div id="amores-perros" class="anchor screening">
           <h1>6:00PM Thursday, May 4th; 4:00PM Sunday, May 7th</h1>
           <img src="/images/2023spring/amores-perros-2000.jpg" alt="Amores Perros (2000) still">
           <h2>Amores Perros (2000)</h2>
@@ -96,7 +96,7 @@
           <p><b>May 7th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=D75027E7-8439-4F15-9BBB-48DD426CD1C2" target="_blank">here</a></u>.</b></p>
         </div>
         
-        <div id="y-tu-mama-tambien" class="screening" style="scroll-margin-top: var(--header-height);">
+        <div id="y-tu-mama-tambien" class="anchor screening">
           <h1>7:00PM Thursday, May 11th</h1>
           <img src="/images/2023spring/y-tu-mama-tambien-2001.jpeg" alt="Y tu mamá también (2001) still">
           <h2>Y tu mamá también (2001)</h2>

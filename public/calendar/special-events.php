@@ -62,7 +62,7 @@
           <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=1073DC97-F5EF-46AD-A1E7-11FCFD9C252C" target="_blank">here</a></u>.</b></p>
         </div>
 
-        <div id="pacific-rim" class="screening" style="scroll-margin-top: var(--header-height);">
+        <div id="pacific-rim" class="anchor screening">
           <h1>7:30PM Thursday, April 27th</h1>
           <img src="/images/2023spring/pacific-rim-2013.jpg" alt="Pacific Rim (2013) still">
           <h2>Pacific Rim (2013)</h2>

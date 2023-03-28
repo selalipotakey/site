@@ -47,7 +47,7 @@
           <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=3F366BB3-A710-40E8-8457-5ABC44329324" target="_blank">here</a></u>.</b></p>
         </div>
         
-        <div class="screening">
+        <div id="singin-in-the-rain" class="anchor screening">
           <h1>7:00PM Friday, April 7th; 4:00PM Sunday, April 9th</h1>
           <img src="/images/2023spring/singin-in-the-rain-1952.jpg" alt="Singin' in the Rain (1952) still">
           <h2>Singin' in the Rain (1952)</h2>
@@ -75,7 +75,7 @@
           <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=85FC5FBE-F486-49A1-89A5-742F598796E5" target="_blank">here</a></u>.</b></p>
         </div>
         
-        <div class="screening">
+        <div id="2001" class="anchor screening">
           <h1>7:00PM Friday, April 28th; 4:00PM Sunday, April 30th</h1>
           <img src="/images/2023spring/2001-a-space-odyssey-1968.png" alt="2001: A Space Odyssey (1968) still">
           <h2>2001: A Space Odyssey (1968)</h2>
@@ -94,7 +94,7 @@
           <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=74E32CB6-7422-4425-ACA0-BD9196C23842" target="_blank">here</a></u>.</b></p>
         </div>
         
-        <div class="screening">
+        <div id="citizen-kane" class="anchor screening">
           <h1>7:00PM Friday, May 12th; 4:00PM Sunday, May 14th</h1>
           <img src="/images/2023spring/citizen-kane-1941.jpg" alt="Citizen Kane (1941) still">
           <h2>Citizen Kane (1941)</h2>
@@ -104,7 +104,7 @@
           <p><b>May 14th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=C796F314-DFBC-4D81-A15F-5C2B60B8C3D9" target="_blank">here</a></u>.</b></p>
         </div>
         
-        <div class="screening">
+        <div id="vertigo" class="anchor screening">
           <h1>7:00PM Friday, May 19th; 4:00PM Sunday, May 21st</h1>
           <img src="/images/2023spring/vertigo-1958.jpg" alt="Vertigo (1958) still">
           <h2>Vertigo (1958)</h2>

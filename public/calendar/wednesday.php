@@ -40,7 +40,7 @@
           <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=24A8E831-64FF-4EF6-9544-6CD87FB4643B" target="_blank">here</a></u>.</b></p>
         </div>
         
-        <div id="jeanne-dielman" class="screening" style="scroll-margin-top: var(--header-height);">
+        <div id="jeanne-dielman" class="anchor screening">
           <h1>7:00PM Wednesday, March 29th; 4:00PM Sunday, April 2nd</h1>
           <img src="/images/2023spring/jeanne-dielman-23-quai-du-commerce-1080-bruxelles-1975.jpeg" alt="Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles (1975) still">
           <h2>Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles (1975)</h2>
