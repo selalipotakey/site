@@ -39,9 +39,10 @@
           <h1>8:00PM Sunday, April 2nd</h1>
           <img src="/images/2023spring/fear-and-desire-1953.jpeg" alt="Fear and Desire (1953) still">
           <h2>Fear and Desire (1951) // Day of the Fight (1952)</h2>
-          <h3>Stanley Kubrick // Stanley Kubrick &middot; 72m // 16m &middot; 35mm // 16mm</h3>
+          <h3>Stanley Kubrick // Stanley Kubrick &middot; 72m // 16m &middot; 35mm</h3>
           <p>Stanley Kubrick’s feature directorial debut, <i>Fear and Desire</i> was produced with a small crew of 15 people and an original shoestring budget of only $10,000, raised largely by Kubrick’s family. An anti-war film released under the context of the Korean War, Kubrick reportedly quit his job as a staff photographer for <i>Look</i> Magazine to make the film. Preceded by <i>Day of the Fight</i> a short documentary produced by Kubrick during his days with <i>Look</i> Magazine.</p>
           <p><i>Preserved by the Library of Congress.</i></p>
+          <p><i>Note: DAY OF THE FIGHT had previously been billed as 16mm, but the format has changed to 35mm.</i></p>
           <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=765B7207-D7B4-4161-AEE1-DD1E0E5F0F59" target="_blank">here</a></u>.</b></p>
         </div>
         
