@@ -62,7 +62,7 @@
           <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=1E2B6047-731C-4D3A-B7A1-7EF8D89CFA34" target="_blank">here</a></u>.</b></p>
         </div>
         
-        <div class="screening">
+        <div id="the-fly" class="anchor screening">
           <h1>9:30PM Thursday, April 20th</h1>
           <img src="/images/2023spring/the-fly-1986.jpg" alt="The Fly (1986) still">
           <h2>The Fly (1986)</h2>
