@@ -30,7 +30,7 @@
           <div class="carousel__track-container">
             <ul class="carousel__track">
               
-              <li class="carousel__slide current-slide">
+              <!-- <li class="carousel__slide current-slide">
                 <a href="/calendar/wednesday#jeanne-dielman">
                   <img class="carousel__image" src="/images/2023spring/jeanne-dielman-23-quai-du-commerce-1080-bruxelles-1975.jpeg" alt="JEANNE DIELMAN still">
                 </a>
@@ -42,9 +42,9 @@
                     </a>
                     <p class="capsule fittext">The film that changed everything. Delphine Seyrig gave her greatest contribution to cinema in Chantal Akerman’s <i>Jeanne Dielman</i> as a widowed housewife who spends her days peeling potatoes for her son's meals and trying to make ends meet. Quietly harrowing, exhilarating, and triumphant.
                   </div>
-              </li>
+              </li> -->
 
-              <li class="carousel__slide">
+              <li class="carousel__slide current-slide">
                 <a href="/calendar/special-events#pacific-rim">
                   <img class="carousel__image" src="/images/2023spring/pacific-rim-2013.jpg" alt="PACIFIC RIM still">
                 </a>
