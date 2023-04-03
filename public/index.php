@@ -29,21 +29,7 @@
 
           <div class="carousel__track-container">
             <ul class="carousel__track">
-              
-              <!-- <li class="carousel__slide current-slide">
-                <a href="/calendar/wednesday#jeanne-dielman">
-                  <img class="carousel__image" src="/images/2023spring/jeanne-dielman-23-quai-du-commerce-1080-bruxelles-1975.jpeg" alt="JEANNE DIELMAN still">
-                </a>
-                  <div class="description">
-                    <a href="/calendar/wednesday#jeanne-dielman">
-                      <p class="event-title fittext">
-                      Jeanne Dielman (Wed. 3/29 @ 7:00PM and Sun. 4/2 @ 4:00PM) 
-                      </p>
-                    </a>
-                    <p class="capsule fittext">The film that changed everything. Delphine Seyrig gave her greatest contribution to cinema in Chantal Akerman’s <i>Jeanne Dielman</i> as a widowed housewife who spends her days peeling potatoes for her son's meals and trying to make ends meet. Quietly harrowing, exhilarating, and triumphant.
-                  </div>
-              </li> -->
-
+              <!-- Reminder: would like to add another slide to carousel for 3 -->
               <li class="carousel__slide current-slide">
                 <a href="/calendar/special-events#pacific-rim">
                   <img class="carousel__image" src="/images/2023spring/pacific-rim-2013.jpg" alt="PACIFIC RIM still">
@@ -83,7 +69,7 @@
           <div class="carousel__nav">
             <button class="carousel__indicator current-slide"></button>
             <button class="carousel__indicator"></button>
-            <!-- <button class="carousel__indicator"></button> -->
+            <!-- Reminder: adding third to carousel add here too -->
           </div>
           
         </div>
