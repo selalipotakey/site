@@ -29,8 +29,22 @@
 
           <div class="carousel__track-container">
             <ul class="carousel__track">
-              <!-- Reminder: would like to add another slide to carousel for 3 -->
               <li class="carousel__slide current-slide">
+                <a href="calendar/thursday-2#the-fly">
+                  <img class="carousel__image" src="/images/2023spring/the-fly-1986.jpg" alt="The Fly (1986) still">
+                </a>
+                <div clas="description">
+                  <a href="calendar/thursday-2#the-fly">
+                    <p class="event-title fittext">
+                      The Fly (Thurs. 4/20 @ 9:30PM)
+                    </p>
+                  </a>
+                  <p class="capsule fittext">Cronenberg's <i>The Fly</i> takes the question “would you still love me if I were a worm?” a bit too literally. This 1986 film follows the hubristic Dr. Seth Brundle (Jeff Goldblum). However, when something goes horribly wrong with his newest and greatest invention, he very quickly finds that such an idea is not just mere absurdity, but blasphemy too. This grotesque and iconic adaptation of the 1958 original is a masterpiece—in all its gooey pus-filled glory.
+                  </p>
+                </div>
+              </li>
+
+              <li class="carousel__slide">
                 <a href="/calendar/special-events#pacific-rim">
                   <img class="carousel__image" src="/images/2023spring/pacific-rim-2013.jpg" alt="PACIFIC RIM still">
                 </a>
@@ -69,7 +83,7 @@
           <div class="carousel__nav">
             <button class="carousel__indicator current-slide"></button>
             <button class="carousel__indicator"></button>
-            <!-- Reminder: adding third to carousel add here too -->
+            <button class="carousel__indicator"></button>
           </div>
           
         </div>
