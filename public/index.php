@@ -30,11 +30,11 @@
           <div class="carousel__track-container">
             <ul class="carousel__track">
               <li class="carousel__slide current-slide">
-                <a href="calendar/thursday-2#the-fly">
+                <a href="/calendar/thursday-2#the-fly">
                   <img class="carousel__image" src="/images/2023spring/the-fly-1986.jpg" alt="The Fly (1986) still">
                 </a>
                 <div clas="description">
-                  <a href="calendar/thursday-2#the-fly">
+                  <a href="/calendar/thursday-2#the-fly">
                     <p class="event-title fittext">
                       The Fly (Thurs. 4/20 @ 9:30PM)
                     </p>
