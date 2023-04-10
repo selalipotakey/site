@@ -141,8 +141,9 @@
           <h1>10:00PM Thursday, April 13th</h1>
           <img src="/images/2023spring/the-dead-zone-1983.jpg" alt="The Dead Zone (1983) still">
           <h2>The Dead Zone (1983)</h2>
-          <h3>David Cronenberg &middot; 103m &middot; 35mm</h3>
+          <h3>David Cronenberg &middot; 103m &middot; DCP</h3>
           <p>One of the more muted entries in Cronenberg's early filmography is his adaptation of Stephen King's <i>The Dead Zone</i>, which centers schoolteacher Johnny Smith (Christopher Walken) as he gets into a catastrophic car accident that leaves him comatose for five years. Upon waking under a neurologist's care, Smith finds that the brain damage he sustained in the crash has left him with psychic abilities, cursing him to see people's futures when he touches them.</p>
+          <p><i>Note: this screening was previously billed as 35mm, but is now DCP.</i></p>
           <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=1E2B6047-731C-4D3A-B7A1-7EF8D89CFA34" target="_blank">here</a></u>.</b></p>
         </div>
 
