@@ -100,60 +100,78 @@
         </div>
 
         <div class="screening">
-          <h1>7:00PM Wednesday, April 19th</h1>
-          <img src="/images/2023spring/baxter-vera-baxter-1977.jpeg" alt="Baxter, Vera Baxter (1977) still">
-          <h2>Baxter, Vera Baxter (1977)</h2>
-          <h3>Marguerite Duras &middot; 91m &middot; Digital</h3>
-          <p>The film’s constant looping soundtrack accompanies a lonely Vera Baxter in an empty villa. A woman (Seyrig) hears Baxter’s name at a bar and is drawn to find her. Seyrig’s unique voice is seldom heard here; instead, she listens as Vera recounts to her the details of how her husband treats her as a commodity. Seyrig's character's presence is mysterious, never explained, yet she is our access to Vera, revealing the emptiness of her life through dialogue.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=60F085F4-EF12-45BF-B82E-EBDD99B534C0" target="_blank">here</a></u>.</b></p>
-        </div>
-
-        <div id="roma" class="anchor screening">
-          <h1>7:00PM Thursday, April 20th; 4:00PM Sunday, April 23rd</h1>
-          <img src="/images/2023spring/roma-2018.jpg" alt="Roma (2018) still">
-          <h2>Roma (2018)</h2>
-          <h3>Alfonso Cuarón &middot; 135m &middot; DCP</h3>
-          <p><i>Roma</i> follows Cleo, a housekeeper for a bourgeois 1970s Mexico City family on the brink of being torn apart—only for her own life to be upended by an unexpected pregnancy and militant boyfriend. <i>Roma</i> is a visually stunning, heart-wrenching, and unabashedly human film—a contemporary masterpiece. Receiving 10 Oscar nominations, the film is perhaps Alfonso Cuarón’s most intimate project, rhyming with his own upbringing in CDMX's Colonia Roma neighborhood.</p>
-          <p><b>April 20th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=5DCAF4FA-926B-4012-81AB-72CCF4313280" target="_blank">here</a></u>.</b></p>
-          <p><b>April 23rd tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=D63E5776-E6F2-4DB6-99BF-3B3AE0A0067D" target="_blank">here</a></u>.</b></p>
-        </div>
-
-        <div id="the-fly" class="anchor screening">
-          <h1>9:30PM Thursday, April 20th</h1>
-          <img src="/images/2023spring/the-fly-1986.jpg" alt="The Fly (1986) still">
-          <h2>The Fly (1986)</h2>
-          <h3>David Cronenberg &middot; 96m &middot; 35mm</h3>
-          <p>Cronenberg's <i>The Fly</i> takes the question “would you still love me if I were a worm?” a bit too literally. This 1986 film follows the hubristic Dr. Seth Brundle (Jeff Goldblum). However, when something goes horribly wrong with his newest and greatest invention, he very quickly finds that such an idea is not just mere absurdity, but blasphemy too. This grotesque and iconic adaptation of the 1958 original is a masterpiece—in all its gooey pus-filled glory.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=66A59095-B945-46A8-9298-3E537A12935F" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Monday, April 10th</h1>
+          <img src="/images/2023spring/the-unspeakable-act-2012.jpeg" alt="The Unspeakable Act (2013) still">
+          <h2>The Unspeakable Act (2013)</h2>
+          <h3>Dan Sallitt &middot; 91m &middot; DCP</h3>
+          <p>A coming-of-age film that is, for once, pleasantly <i>unrelatable</i>, <i>The Unspeakable Act</i> is a film directed by Dan Sallitt about a girl's unrequited romantic love for her older brother. Jackie, a 17-year-old Brooklyn highschooler, prepares for her older brother, Matthew, to leave for college amidst realizations that he's found a girlfriend. <i>The Unspeakable Act</i> toes the line between sincere and taboo and is an intriguing look into adolescence.</p>
+          <p><i>Free showing for all students, sponsored by Night Owls. Followed by a discussion with filmmaker Dan Sallitt.</i></p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=2D7CC530-A923-47C6-B634-68CAC90C61D8" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div class="screening">
-          <h1>7:00PM Friday, April 21st</h1>
-          <img src="/images/2023spring/beau-travail-1999.jpeg" alt="Beau Travail (1999) still">
-          <h2>Beau Travail (1999)</h2>
-          <h3>Claire Denis &middot; 93m &middot; DCP</h3>
-          <p>The youngest film to end up on our list has come to unequivocally shape filmmaking in the 21st century. Based on Melville’s <i>Billy Budd</i>, Denis’ film is a meditative and homoerotically-charged work of stunning beauty and catharsis. A simultaneous critique of colonialism, militarism, and repression, <i>Beau Travail</i> has become a recent favorite of directors like Barry Jenkins and Pablo Larraín. It also features the single greatest needle drop in film history.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=85FC5FBE-F486-49A1-89A5-742F598796E5" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Tuesday, April 11th</h1>
+          <img src="/images/2023spring/fourteen-2019.jpeg" alt="Fourteen (2019) still">
+          <h2>Fourteen (2019)</h2>
+          <h3>Dan Sallitt &middot; 94m &middot; DCP</h3>
+          <p><i>Fourteen</i> is Dan Sallit's latest feature film and first film since <i>the Unspeakable Act</i>. Mara (Tallie Medel) and Jo (Norma Kuhling) are two women who've maintained a close friendship since childhood. While being polar opposites, Mara finds excitement and spontaneity in Jo, and Jo comfort and care in Mara. The film follows their relationship as Jo deteriorates due to a mixture of mental illness and drugs while Mara struggles to keep her head above water.</p>
+          <p><i>Free showing for all students, sponsored by Night Owls. Followed by a discussion with filmmaker Dan Sallitt.</i></p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=1073DC97-F5EF-46AD-A1E7-11FCFD9C252C" target="_blank">here</a></u>.</b></p>
         </div>
-
-        <div id="eo" class="anchor screening">
-          <h1>4:00PM Saturday, April 22nd; 8:00PM Saturday, April 22nd</h1>
-          <img src="/images/2023spring/eo-2022.jpeg" alt="EO (2022) still">
-          <h2>EO (2022)</h2>
-          <h3>Jerzy Skolimowski &middot; 87m &middot; DCP</h3>
-          <p>This one goes out to Ettore, Hola, Marietta, Mela, Rocco, and Tako. Winner of the 2022 Jury Prize at Cannes, <i>EO</i> centers its eponymous donkey, born and raised in a Polish circus, as he travels across the Polish and Italian countryside. Skolimowski's masterful homage to Bresson, released almost sixty years after <i>Au Hasard Balthazar</i>, provides just as frank an image of humanity from the perspective of an animal, in all its kindness and cruelty.</p>
-          <p><b>4:00PM tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=15BFE01D-3B5C-4561-8935-4FBD2616F465" target="_blank">here</a></u>.</b></p>
-          <p><b>8:00PM tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=2143CC18-FB25-4707-BF6D-7799B08499F1" target="_blank">here</a></u>.</b></p>
+        
+        <div class="screening">
+          <h1>7:00PM Wednesday, April 12th</h1>
+          <img src="/images/2023spring/stolen-kisses-1968.jpeg" alt="Stolen Kisses (1968) still">
+          <h2>Stolen Kisses (1968)</h2>
+          <h3>Francois Truffaut &middot; 90m &middot; DCP</h3>
+          <p>In the third of Truffaut’s Antoine Doinel films, the ever-youthful Antoine (Jeanne Pierre-Léaud) gets a job as a private detective and works undercover at a shoe store. He becomes relatably infatuated with his boss’s wife, Fabienne Tabard (Seyrig), who seduces him with her elegance, magnetic beauty, and charm. In her famous monologue, Fabienne says to Antoine: “I am not an apparition, I am a woman,” a quote which can equally encapsulate Seyrig’s career.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=228FAFD1-D5E2-4718-B014-C95E37C26CE4" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div class="screening">
-          <h1>7:00PM Sunday, April 9th</h1>
-          <img src="/images/2023spring/la-pointe-courte-1955.jpeg" alt="La Pointe Courte (1955) still">
-          <h2>La Pointe Courte (1955)</h2>
-          <h3>Agnès Varda &middot; 80m &middot; DCP</h3>
-          <p>A professional photographer before becoming a filmmaker, Varda cited a fluid relationship between her photography and filmmaking. Of <i>La Pointe Courte</i>, Varda recounted “I started making films with the sole experience of photography, that's to say, where to place the camera, at what distance, with which lens and what lights?” The film moseys through a port city in France, loosely following a couple contemplating their marriage, a fisherman, and a regatta.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=634D871D-E964-4EAD-9884-DC7EF0A93C52" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Thursday, April 13th</h1>
+          <img src="/images/2023spring/biutiful-2010.jpg" alt="Biutiful (2010) still">
+          <h2>Biutiful (2010)</h2>
+          <h3>Alejandro González Iñárritu &middot; 148m &middot; 35mm</h3>
+          <p><i>Biutiful</i> stars Javier Bardem (who won Best Actor at Cannes for his performance) as the Catalonian criminal and loving father Uxbal whose world progressively falls apart after a terminal cancer diagnosis. As his health worsens, Uxbal finds himself tasked with settling myriad things in his chaotic life before it’s too late. Bardem shines in this grim film that, fitting with this series’s theme (Three Amigos), names both Cuarón and del Toro as producers.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=AB11D051-E132-4165-BE6C-0BC9F47845BE" target="_blank">here</a></u>.</b></p>
         </div>
+
+        <div class="screening">
+          <h1>10:00PM Thursday, April 13th</h1>
+          <img src="/images/2023spring/the-dead-zone-1983.jpg" alt="The Dead Zone (1983) still">
+          <h2>The Dead Zone (1983)</h2>
+          <h3>David Cronenberg &middot; 103m &middot; 35mm</h3>
+          <p>One of the more muted entries in Cronenberg's early filmography is his adaptation of Stephen King's <i>The Dead Zone</i>, which centers schoolteacher Johnny Smith (Christopher Walken) as he gets into a catastrophic car accident that leaves him comatose for five years. Upon waking under a neurologist's care, Smith finds that the brain damage he sustained in the crash has left him with psychic abilities, cursing him to see people's futures when he touches them.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=1E2B6047-731C-4D3A-B7A1-7EF8D89CFA34" target="_blank">here</a></u>.</b></p>
+        </div>
+
+        <div class="screening">
+          <h1>7:00PM Friday, April 14th</h1>
+          <img src="/images/2023spring/meshes-of-the-afternoon-1943.jpg" alt="Meshes of the Afternoon (1943) // Man with a Movie Camera (1929) still">
+          <h2>Meshes of the Afternoon (1943) // Man with a Movie Camera (1929)</h2>
+          <h3>Maya Deren and Alexander Hammid // Dziga Vertov &middot; 14m // 68m &middot; DCP</h3>
+          <p>Calling all devotees of Soviet cinema! If you think our usual programming is the opiate of the masses, do we have the picture for you. <i>Man with a Movie Camera</i> is one of the rare cinema 101 works that seemingly everyone loves. Vertov’s revolutionary film, sans intertitles (wowza!), is a masterclass of cutting, framing, throwing everything at the wall, and generally being hyper in a uniquely 1920s way. Preceded by <i>Meshes of the Afternoon</i>.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=5DBA34E1-A4D5-402E-B498-E190CB9053E3" target="_blank">here</a></u>.</b></p>
+        </div>
+
+        <div class="screening">
+          <h1>8:00PM Saturday, April 15th</h1>
+          <img src="/images/2023spring/magic-mikes-last-dance-2022.png" alt="Magic Mike's Last Dance (2023) still">
+          <h2>Magic Mike's Last Dance (2023)</h2>
+          <h3>Steven Soderbergh &middot; 112m &middot; DCP</h3>
+          <p>In the final installment of the <i>Magic Mike</i> trilogy, Mike Lane finds himself broke and retired in Florida. After meeting a wealthy socialite at a fundraising event, he takes her offer to go to London. Hoping for one last hurrah, he attempts to bring a group of new, talented dancers into shape. Starring the beautiful-as-always Channing Tatum, <i>Magic Mike’s Last Dance</i> is a tale of redemption set against a backdrop of post-pandemic economic uncertainty.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=39EC3FF5-35DC-44B2-B076-50A8978E0EE0" target="_blank">here</a></u>.</b></p>
+        </div>
+
+        <div class="screening">
+          <h1>7:00PM Sunday, April 16th</h1>
+          <img src="/images/2023spring/le-joli-mai-1963.jpeg" alt="Le Joli Mai (1963) still">
+          <h2>Le Joli Mai (1963)</h2>
+          <h3>Chris Marker and Pierre Lhomme &middot; 165m &middot; DCP</h3>
+          <p>Following the end of World War II, Chris Marker began traveling the world as a journalist and photographer. His experiments in photography led him to an interest in filmmaking, and an acquaintance with the Left Bank film movement. His first film, <i>La Jetée</i>, was constructed almost entirely from still photographs. Co-directed with Pierre Lhomme, <i>Le Joli Mai</i> is Marker's first feature-length film and documents street interviews with everyday Parisians.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=87B49EB4-4BA8-49ED-BE1E-A57DE2D3CE2D" target="_blank">here</a></u>.</b></p>
+      </div>
 
         
     </main>
