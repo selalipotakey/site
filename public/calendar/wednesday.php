@@ -72,7 +72,7 @@
           <h1>7:00PM Wednesday, April 19th</h1>
           <img src="/images/2023spring/baxter-vera-baxter-1977.jpeg" alt="Baxter, Vera Baxter (1977) still">
           <h2>Baxter, Vera Baxter (1977)</h2>
-          <h3>Marguerite Duras &middot; 91m &middot; DCP</h3>
+          <h3>Marguerite Duras &middot; 91m &middot; Digital</h3>
           <p>The film’s constant looping soundtrack accompanies a lonely Vera Baxter in an empty villa. A woman (Seyrig) hears Baxter’s name at a bar and is drawn to find her. Seyrig’s unique voice is seldom heard here; instead, she listens as Vera recounts to her the details of how her husband treats her as a commodity. Seyrig's character's presence is mysterious, never explained, yet she is our access to Vera, revealing the emptiness of her life through dialogue.</p>
           <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=60F085F4-EF12-45BF-B82E-EBDD99B534C0" target="_blank">here</a></u>.</b></p>
         </div>
