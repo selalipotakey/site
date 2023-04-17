@@ -26,13 +26,13 @@
 
         <br>
         <ol>
-          <li>Replace our DCP server with a newer model to extend the life of equipment used for new releases and digital films unavailable on celluloid.</li><br>
+          <li>Replace our DCP server with a newer model, which is crucial for our new release and digital screenings.</li><br>
           <li>Upgrade our central audio processor to improve sound quality and surround sound in the cinema.</li><br>
           <li>Incorporate a control system and panel for our digital projector in the projection booth to streamline shows for our projectionists.</li><br>
         </ol>
 
         <p>Doc’s mission is to preserve our theater as a place of discovery and delight, and to bring our audiences, from the casual moviegoer to the hardcore cinephile, the best cinematic experience possible. With the help of your generous contributions, Doc will be able to bring the unparalleled experience of cinema to Chicago audiences for many years to come.</p>
-
+        <br><br>
 
         <h1>Donating</h1>
         <p>Doc Films is a <a href="/about/"><u>student-led, volunteer-run</u></a> movie theater, film society, and non-profit at the University of Chicago. Our celluloid-first commitment to showing highly varied, highly repertory cinema often leaves us with fewer profits than giant theater chains.</p>
