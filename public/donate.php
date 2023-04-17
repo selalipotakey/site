@@ -32,7 +32,7 @@
         </ol>
 
         <p>Doc’s mission is to preserve our theater as a place of discovery and delight, and to bring our audiences, from the casual moviegoer to the hardcore cinephile, the best cinematic experience possible. With the help of your generous contributions, Doc will be able to bring the unparalleled experience of cinema to Chicago audiences for many years to come.</p>
-        <br><br>
+        <br>
 
         <h1>Donating</h1>
         <p>Doc Films is a <a href="/about/"><u>student-led, volunteer-run</u></a> movie theater, film society, and non-profit at the University of Chicago. Our celluloid-first commitment to showing highly varied, highly repertory cinema often leaves us with fewer profits than giant theater chains.</p>
