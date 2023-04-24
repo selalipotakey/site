@@ -29,7 +29,7 @@
 
           <div class="carousel__track-container">
             <ul class="carousel__track">
-              <li class="carousel__slide">
+              <li class="carousel__slide current-slide">
                 <a href="/calendar/special-events#pacific-rim">
                   <img class="carousel__image" src="/images/2023spring/pacific-rim-2013.jpg" alt="PACIFIC RIM still">
                 </a>
@@ -44,7 +44,7 @@
                   </div>
               </li>
 
-              <li class="carousel__slide current-slide">
+              <li class="carousel__slide">
                 <a href="/calendar/friday#2001-a-space-odyssey">
                   <img class="carousel__image" src="/images/2023spring/2001-a-space-odyssey-1968.png" alt="2001: A Space Odyssey (1968) still">
                 </a>
