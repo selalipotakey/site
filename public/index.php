@@ -44,6 +44,21 @@
                   </div>
               </li>
 
+              <li class="carousel__slide current-slide">
+                <a href="/calendar/friday#citizen-kane">
+                  <img class="carousel__image" src="/images/2023spring/2001-a-space-odyssey-1968.jpg" alt="2001: A Space Odyssey (1968) still">
+                </a>
+                <div clas="description">
+                  <a href="/calendar/friday#2001-a-space-odyssey">
+                    <p class="event-title fittext">
+                      2001: A Space Odyssey (Fri. 4/28 @ 7:00PM)
+                    </p>
+                  </a>
+                  <p><i>2001: A Space Odyssey</i> is a psychedelic space opera that basically wrote the textbook on everything. A spectacle like no other, Kubrick’s foray into science fiction has had an indelible impact on our culture. Whether it be the monolith, HAL 9000, Strauss, or the space fetus, it's the kind of movie most of us know before we’ve even seen it. But that isn’t to say it lacks surprises—<i>2001</i> packs one hell of a punch, and is a big-screen viewing essential.
+                  </p>
+                </div>
+              </li>
+
               <li class="carousel__slide">
                 <a href="/calendar/thursday-1#y-tu-mama-tambien">
                   <img class="carousel__image" src="/images/2023spring/y-tu-mama-tambien-2001.jpeg" alt="quarter pass">
@@ -58,20 +73,6 @@
                   </div>
               </li>
 
-              <li class="carousel__slide current-slide">
-                <a href="/calendar/friday#citizen-kane">
-                  <img class="carousel__image" src="/images/2023spring/citizen-kane-1941.jpg" alt="Citizen Kane (1941) still">
-                </a>
-                <div clas="description">
-                  <a href="/calendar/friday#citizen-kane">
-                    <p class="event-title fittext">
-                      Citizen Kane (Fri. 5/12 @ 7:00PM)
-                    </p>
-                  </a>
-                  <p> It’s terrific!
-                  </p>
-                </div>
-              </li>
             </ul>
           </div>
 
