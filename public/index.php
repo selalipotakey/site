@@ -54,7 +54,7 @@
                       2001: A Space Odyssey (Fri. 4/28 @ 7:00PM)
                     </p>
                   </a>
-                  <p><i>2001: A Space Odyssey</i> is a psychedelic space opera that basically wrote the textbook on everything. A spectacle like no other, Kubrick’s foray into science fiction has had an indelible impact on our culture. Whether it be the monolith, HAL 9000, Strauss, or the space fetus, it's the kind of movie most of us know before we’ve even seen it. But that isn’t to say it lacks surprises—<i>2001</i> packs one hell of a punch, and is a big-screen viewing essential.
+                  <p class="capsule fittext"><i>2001: A Space Odyssey</i> is a psychedelic space opera that basically wrote the textbook on everything. A spectacle like no other, Kubrick’s foray into science fiction has had an indelible impact on our culture. Whether it be the monolith, HAL 9000, Strauss, or the space fetus, it's the kind of movie most of us know before we’ve even seen it. But that isn’t to say it lacks surprises—<i>2001</i> packs one hell of a punch, and is a big-screen viewing essential.
                   </p>
                 </div>
               </li>
