@@ -68,7 +68,7 @@
                       Citizen Kane (Fri. 5/12 @ 7:00PM)
                     </p>
                   </a>
-                  <p>It’s terrific!
+                  <p> It’s terrific!
                   </p>
                 </div>
               </li>
