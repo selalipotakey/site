@@ -45,7 +45,7 @@
               </li>
 
               <li class="carousel__slide current-slide">
-                <a href="/calendar/friday#citizen-kane">
+                <a href="/calendar/friday#2001-a-space-odyssey">
                   <img class="carousel__image" src="/images/2023spring/2001-a-space-odyssey-1968.png" alt="2001: A Space Odyssey (1968) still">
                 </a>
                 <div clas="description">
