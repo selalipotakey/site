@@ -29,21 +29,6 @@
 
           <div class="carousel__track-container">
             <ul class="carousel__track">
-              <li class="carousel__slide current-slide">
-                <a href="/calendar/thursday-2#the-fly">
-                  <img class="carousel__image" src="/images/2023spring/the-fly-1986.jpg" alt="The Fly (1986) still">
-                </a>
-                <div clas="description">
-                  <a href="/calendar/thursday-2#the-fly">
-                    <p class="event-title fittext">
-                      The Fly (Thurs. 4/20 @ 9:30PM)
-                    </p>
-                  </a>
-                  <p class="capsule fittext">Cronenberg's <i>The Fly</i> takes the question “would you still love me if I were a worm?” a bit too literally. This 1986 film follows the hubristic Dr. Seth Brundle (Jeff Goldblum). However, when something goes horribly wrong with his newest and greatest invention, he very quickly finds that such an idea is not just mere absurdity, but blasphemy too. This grotesque and iconic adaptation of the 1958 original is a masterpiece—in all its gooey pus-filled glory.
-                  </p>
-                </div>
-              </li>
-
               <li class="carousel__slide">
                 <a href="/calendar/special-events#pacific-rim">
                   <img class="carousel__image" src="/images/2023spring/pacific-rim-2013.jpg" alt="PACIFIC RIM still">
@@ -73,6 +58,20 @@
                   </div>
               </li>
 
+              <li class="carousel__slide current-slide">
+                <a href="/calendar/friday#citizen-kane">
+                  <img class="carousel__image" src="/images/2023spring/citizen-kane-1941.jpg" alt="Citizen Kane (1941) still">
+                </a>
+                <div clas="description">
+                  <a href="/calendar/friday#citizen-kane">
+                    <p class="event-title fittext">
+                      Citizen Kane (Fri. 5/12 @ 7:00PM & Sun. 5/14 @ 4:00PM)
+                    </p>
+                  </a>
+                  <p class="capsule fittext">It’s terrific!
+                  </p>
+                </div>
+              </li>
             </ul>
           </div>
 
@@ -100,59 +99,60 @@
         </div>
 
         <div class="screening">
-          <h1>7:00PM Wednesday, April 19th</h1>
-          <img src="/images/2023spring/baxter-vera-baxter-1977.jpeg" alt="Baxter, Vera Baxter (1977) still">
-          <h2>Baxter, Vera Baxter (1977)</h2>
-          <h3>Marguerite Duras &middot; 91m &middot; Digital</h3>
-          <p>The film’s constant looping soundtrack accompanies a lonely Vera Baxter in an empty villa. A woman (Seyrig) hears Baxter’s name at a bar and is drawn to find her. Seyrig’s unique voice is seldom heard here; instead, she listens as Vera recounts to her the details of how her husband treats her as a commodity. Seyrig's character's presence is mysterious, never explained, yet she is our access to Vera, revealing the emptiness of her life through dialogue.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=60F085F4-EF12-45BF-B82E-EBDD99B534C0" target="_blank">here</a></u>.</b></p>
-        </div>
-
-        <div id="roma" class="anchor screening">
-          <h1>7:00PM Thursday, April 20th; 4:00PM Sunday, April 23rd</h1>
-          <img src="/images/2023spring/roma-2018.jpg" alt="Roma (2018) still">
-          <h2>Roma (2018)</h2>
-          <h3>Alfonso Cuarón &middot; 135m &middot; DCP</h3>
-          <p><i>Roma</i> follows Cleo, a housekeeper for a bourgeois 1970s Mexico City family on the brink of being torn apart—only for her own life to be upended by an unexpected pregnancy and militant boyfriend. <i>Roma</i> is a visually stunning, heart-wrenching, and unabashedly human film—a contemporary masterpiece. Receiving 10 Oscar nominations, the film is perhaps Alfonso Cuarón’s most intimate project, rhyming with his own upbringing in CDMX's Colonia Roma neighborhood.</p>
-          <p><b>April 20th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=5DCAF4FA-926B-4012-81AB-72CCF4313280" target="_blank">here</a></u>.</b></p>
-          <p><b>April 23rd tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=D63E5776-E6F2-4DB6-99BF-3B3AE0A0067D" target="_blank">here</a></u>.</b></p>
-        </div>
-
-        <div id="the-fly" class="anchor screening">
-          <h1>9:30PM Thursday, April 20th</h1>
-          <img src="/images/2023spring/the-fly-1986.jpg" alt="The Fly (1986) still">
-          <h2>The Fly (1986)</h2>
-          <h3>David Cronenberg &middot; 96m &middot; 35mm</h3>
-          <p>Cronenberg's <i>The Fly</i> takes the question “would you still love me if I were a worm?” a bit too literally. This 1986 film follows the hubristic Dr. Seth Brundle (Jeff Goldblum). However, when something goes horribly wrong with his newest and greatest invention, he very quickly finds that such an idea is not just mere absurdity, but blasphemy too. This grotesque and iconic adaptation of the 1958 original is a masterpiece—in all its gooey pus-filled glory.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=66A59095-B945-46A8-9298-3E537A12935F" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Wednesday, April 26th</h1>
+          <img src="/images/2023spring/sois-belle-et-tais-toi-1981.jpg" alt="Sois belle et tais-toi! (1981) still">
+          <h2>Sois belle et tais-toi! (1981)</h2>
+          <h3>Delphine Seyrig &middot; 110m &middot; DCP</h3>
+          <p><i>Be Pretty and Shut Up!</i> Delphine Seyrig turns the camera around to become the filmmaker, breaking the expectations and illusions placed on herself and others as she documents a series of interviews with well-known actresses like Juliet Berto, Jane Fonda, Shirley MacLaine, Anne Wiazemsky, and more. Seyrig asks questions that radically allow the women to speak for themselves, illuminating what it means to be a woman in the patriarchal film industry.</p>
+          <p><i>Introduced by Matthew Hubbell, Cinema and Media Studies. Courtesy of the Centre audiovisuel Simone de Beauvoir.</i></p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=51969467-DA35-4CC0-9EA9-6D8A7F681CF9" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div class="screening">
-          <h1>7:00PM Friday, April 21st</h1>
-          <img src="/images/2023spring/beau-travail-1999.jpeg" alt="Beau Travail (1999) still">
-          <h2>Beau Travail (1999)</h2>
-          <h3>Claire Denis &middot; 93m &middot; DCP</h3>
-          <p>The youngest film to end up on our list has come to unequivocally shape filmmaking in the 21st century. Based on Melville’s <i>Billy Budd</i>, Denis’ film is a meditative and homoerotically-charged work of stunning beauty and catharsis. A simultaneous critique of colonialism, militarism, and repression, <i>Beau Travail</i> has become a recent favorite of directors like Barry Jenkins and Pablo Larraín. It also features the single greatest needle drop in film history.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=85FC5FBE-F486-49A1-89A5-742F598796E5" target="_blank">here</a></u>.</b></p>
-        </div>
-
-        <div id="eo" class="anchor screening">
-          <h1>4:00PM Saturday, April 22nd; 8:00PM Saturday, April 22nd</h1>
-          <img src="/images/2023spring/eo-2022.jpeg" alt="EO (2022) still">
-          <h2>EO (2022)</h2>
-          <h3>Jerzy Skolimowski &middot; 87m &middot; DCP</h3>
-          <p>This one goes out to Ettore, Hola, Marietta, Mela, Rocco, and Tako. Winner of the 2022 Jury Prize at Cannes, <i>EO</i> centers its eponymous donkey, born and raised in a Polish circus, as he travels across the Polish and Italian countryside. Skolimowski's masterful homage to Bresson, released almost sixty years after <i>Au Hasard Balthazar</i>, provides just as frank an image of humanity from the perspective of an animal, in all its kindness and cruelty.</p>
-          <p><b>4:00PM tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=15BFE01D-3B5C-4561-8935-4FBD2616F465" target="_blank">here</a></u>.</b></p>
-          <p><b>8:00PM tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=2143CC18-FB25-4707-BF6D-7799B08499F1" target="_blank">here</a></u>.</b></p>
+          <h1>7:30PM Thursday, April 27th</h1>
+          <img src="/images/2023spring/pacific-rim-2013.jpg" alt="Pacific Rim (2013) still">
+          <h2>Pacific Rim (2013)</h2>
+          <h3>Guillermo del Toro &middot; 131m &middot; 3D DCP</h3>
+          <p><i>Pacific Rim</i> is Guillermo del Toro’s sci-fi action epic where human-piloted mechs called Jaegers must fend off Kaiju, aliens from the deep sea. The story follows a washed-up pilot and an untested trainee who must work together to save the world. With impressive special effects and thrilling action sequences, Pacific Rim is an entertaining and visually stunning blockbuster that delivers on its core premise: giant robots fighting giant monsters.</p>
+          <p><i>This screening will happen at the Logan Center Room 201. Co-sponsored by the Film Studies Center.</i></p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=43123A41-C840-4D05-9E0D-A5A7C53AE38A" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div class="screening">
-          <h1>7:00PM Sunday, April 23rd</h1>
-          <img src="/images/2023spring/being-john-malkovich-1999.png" alt="Being John Malkovich (1999) still">
-          <h2>Being John Malkovich (1999)</h2>
-          <h3>Spike Jonze &middot; 113m &middot; DCP</h3>
-          <p>Spike Jonze got his start as a teenager taking photographs of BMX riders and skateboarders for the <i>Transworld Skateboarding</i> magazine. The style he developed led him to direct music videos and soon after, feature films. <i>Being John Malkovich</i> was Jonze’s feature debut, a collaborative effort with writer Charlie Kaufman. The film follows a puppeteer (John Cusack) who, while working odd-jobs, discovers a hidden portal into the mind of John Malkovich.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=582D525D-4935-4A40-95ED-9ACBE2583393" target="_blank">here</a></u>.</b></p>
+          <h1>9:30PM Thursday, April 27th</h1>
+          <img src="/images/2023spring/rabid-1977.jpg" alt="Rabid (1977) still">
+          <h2>Rabid (1977)</h2>
+          <h3>David Cronenberg &middot; 91m &middot; DCP</h3>
+          <p><i>Rabid</i> (1977) is an infectiously tantalizing offering which follows a young woman named Rose (Marilyn Chambers) after she is injured in a motorcycle accident and is forced to undergo an odd new procedure. After awaking from surgery, she finds she now has a phallic shaped growth and an overwhelming need to drink human blood. What begins with one person quickly spreads—offering a terrifying and eerily familiar picture of a world under siege by disease.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=34BC890F-36CC-4CE5-A307-10868F1C88E9" target="_blank">here</a></u>.</b></p>
+        </div>
+
+        <div id="2001" class="anchor screening">
+          <h1>7:00PM Friday, April 28th; 4:00PM Sunday, April 30th</h1>
+          <img src="/images/2023spring/2001-a-space-odyssey-1968.png" alt="2001: A Space Odyssey (1968) still">
+          <h2>2001: A Space Odyssey (1968)</h2>
+          <h3>Stanley Kubrick &middot; 143m &middot; DCP</h3>
+          <p><i>2001: A Space Odyssey</i> is a psychedelic space opera that basically wrote the textbook on everything. A spectacle like no other, Kubrick’s foray into science fiction has had an indelible impact on our culture. Whether it be the monolith, HAL 9000, Strauss, or the space fetus, it's the kind of movie most of us know before we’ve even seen it. But that isn’t to say it lacks surprises—<i>2001</i> packs one hell of a punch, and is a big-screen viewing essential.</p>
+          <p><b>April 28th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=D732F8D7-1ABC-43EA-9D26-AEFD1F58A97E" target="_blank">here</a></u>.</b></p>
+          <p><b>April 30th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=402F0018-1635-4196-85F6-4DA034F0F941" target="_blank">here</a></u>.</b></p>
+        </div>
+
+        <div class="screening">
+          <h1>8:00PM Saturday, April 29th</h1>
+          <img src="/images/2023spring/all-the-beauty-and-the-bloodshed-2022.jpeg" alt="All the Beauty and the Bloodshed (2022) still">
+          <h2>All the Beauty and the Bloodshed (2022)</h2>
+          <h3>Laura Poitras &middot; 122m &middot; DCP</h3>
+          <p>The second documentary ever to win Venice's prestigious Golden Lion, <i>All the Beauty and the Bloodshed</i>  examines photographer-activist Nan Goldin's valiant effort to hold Purdue Pharma responsible for the opioid epidemic. The film paints a compassionate, gritty portrait of the fight against the Sackler family—Purdue's owners—through the lens of an indefatigable, battle-hardened woman. This is a sobering work that deserves to be seen by all.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=1CBDBB55-979F-4311-B75D-67C922371E8E" target="_blank">here</a></u>.</b></p>
+        </div>
+
+        <div class="screening">
+          <h1>7:00PM Sunday, April 30th</h1>
+          <img src="/images/2023spring/me-and-my-brother-1969.jpeg" alt="Me and My Brother (1969) still">
+          <h2>Pull My Daisy (1959) // Me and My Brother (1969)</h2>
+          <h3>Robert Frank // Robert Frank &middot; 30m // 91m &middot; Digital // DCP</h3>
+          <p>A docu-fiction involving Allen Ginsberg, Joseph Chaikin, Peter Orlovsky, and his schizophrenic brother Julius, <i>Me and My Brother</i> serves as a significant document of the Beat movement in New York. A Swiss photographer, Robert Frank, provided an outsider’s eye to American life, traveling across the United States in the '50s and '60s and publishing the groundbreaking photobook <i>The Americans</i>. Preceeded by a short film also by Frank, <i>Pull My Daisy</i>.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=1628F234-7CAB-429F-B980-7F8ADE8085F2" target="_blank">here</a></u>.</b></p>
         </div>
 
         
