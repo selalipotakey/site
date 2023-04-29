@@ -31,15 +31,15 @@
             <ul class="carousel__track">
               <li class="carousel__slide current-slide">
                 <a href="/calendar/special-events#pacific-rim">
-                  <img class="carousel__image" src="/images/2023spring/pacific-rim-2013.jpg" alt="PACIFIC RIM still">
+                  <img class="carousel__image" src="/images/2023spring/tantura-2022.jpg" alt="Tantura (2022) still">
                 </a>
                   <div class="description">
-                    <a href="/calendar/special-events#pacific-rim">
+                    <a href="/calendar/special-events#tantura">
                       <p class="event-title fittext">
-                      PACIFIC RIM in 3D!!! (Thurs. 4/27 @ 7:30PM in Logan 201)
+                      Tantura (Tues. 5/2 @ 6:30PM by the Chicago Palestine Film Festival)
                       </p>
                     </a>
-                    <p class="capsule fittext">With impressive special effects and thrilling action sequences, Pacific Rim is an entertaining and visually stunning blockbuster that delivers on its core premise: giant robots fighting giant monsters.
+                    <p class="capsule fittext">Part of the Chicago Palestine Film Festival, organized by UChicago Center for Middle Eastern Studies. Film is followed by a panel discussion 8:30-9:15pm with Dr. Sawsan Jaber, Prof. Darryl Li, and Kay Heikkenen, moderated by Prof. Orit Bashkin
                     </p>
                   </div>
               </li>

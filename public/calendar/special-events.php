@@ -82,12 +82,12 @@
           <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=39C676AC-5F8E-4CA5-836E-9EC5C19EB82E" target="_blank">here</a></u>.</b></p>
         </div>
 
-        <div class="screening">
+        <div id="tantura" class="anchor screening">
           <h1>6:30PM Tuesday, May 2nd</h1>
           <img src="/images/2023spring/tantura-2022.jpg" alt="Tantura (2022) still">
           <h2>Tantura (2022)</h2>
           <h3>Alon Schwarz &middot; 94m &middot; Digital</h3>
-          <p>Part of the Chicago Palestine Film Festival, organized by UChicago Center for Middle Eastern Studies. FIim is followed by a panel discussion 8:30-9:15pm with Dr. Sawsan Jaber, Prof. Darryl Li, and Kay Heikkenen, moderated by Prof. Orit Bashkin</p>
+          <p>Part of the Chicago Palestine Film Festival, organized by UChicago Center for Middle Eastern Studies. Film is followed by a panel discussion 8:30-9:15pm with Dr. Sawsan Jaber, Prof. Darryl Li, and Kay Heikkenen, moderated by Prof. Orit Bashkin</p>
           <p><b>For more information: <u><a href="https://www.google.com/url?q=https://www.palestinefilmfest.com/schedule/tantura-uc&sa=D&source=calendar&ust=1683228531663606&usg=AOvVaw2Fbh-78y3PPmcEhV_8GHMv" target="_blank">Palestine Film Festival-Tantura</a></u>.</b></p>
         </div>
         
