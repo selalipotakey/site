@@ -39,7 +39,7 @@
                       Tantura (Tues. 5/2 @ 6:30PM by the Chicago Palestine Film Festival)
                       </p>
                     </a>
-                    <p class="capsule fittext">Part of the Chicago Palestine Film Festival, organized by UChicago Center for Middle Eastern Studies. Film is followed by a panel discussion 8:30-9:15pm with Dr. Sawsan Jaber, Prof. Darryl Li, and Kay Heikkenen, moderated by Prof. Orit Bashkin
+                    <p class="capsule fittext">Part of the Chicago Palestine Film Festival, organized by UChicago Center for Middle Eastern Studies. Film is followed by a panel discussion 8:30-9:15pm with Dr. Sawsan Jaber, Prof. Darryl Li, and Kay Heikkenen, moderated by Prof. Orit Bashkin.
                     </p>
                   </div>
               </li>
