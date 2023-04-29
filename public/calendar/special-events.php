@@ -84,7 +84,7 @@
 
         <div class="screening">
           <h1>6:30PM Tuesday, May 2nd</h1>
-          <img src="images/2023spring/tantura-2023.jpg" alt="Tantura (2022) still">
+          <img src="/images/2023spring/tantura-2023.jpg" alt="Tantura (2022) still">
           <h2>Tantura (2022)</h2>
           <h3>Alon Schwarz &middot; 94m &middot; Digital</h3>
           <p>Part of the Chicago Palestine Film Festival, organized by UChicago Center for Middle Eastern Studies. FIim is followed by a panel discussion 8:30-9:15pm with Dr. Sawsan Jaber, Prof. Darryl Li, and Kay Heikkenen, moderated by Prof. Orit Bashkin</p>
