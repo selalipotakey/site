@@ -30,7 +30,7 @@
           <div class="carousel__track-container">
             <ul class="carousel__track">
               <li class="carousel__slide current-slide">
-                <a href="/calendar/special-events#pacific-rim">
+                <a href="/calendar/special-events#tantura">
                   <img class="carousel__image" src="/images/2023spring/tantura-2022.jpg" alt="Tantura (2022) still">
                 </a>
                   <div class="description">
