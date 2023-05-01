@@ -67,7 +67,7 @@
                     <p class="event-title fittext">Citizen Kane (Fri. 5/12 @ 7:00PM || Sun. 5/14 @ 4:00PM)
                     </p>
                   </a>
-                  <p class="capsule fittext">It's terrific!
+                  <p>It's terrific!
                   </p>
                 </div>
               </li>
