@@ -40,8 +40,7 @@
                       </p>
                     </a>
                     <p class="capsule fittext">Directed by documentary filmmakers Nicole Newnham and James LeBrecht, <i>Crip Camp</i> tells the story of the campers-turned-activists of Camp Jened, a New York summer camp for disabled people. Newnham and LeBrecht begin the film by inviting audiences into a miniature utopia hidden in the Catskill Mountains, where campers were able to shamelessly be themselves. <i>Crip Camp</i> also stars real-life "Jenedians" Larry Allison, Judith Heumann, and Stephen Hofmann.
-                    </p>
-                    <p class="capsule fittext"><i>Free screening! Co-sponsored by Students for Disability Justice.</i></p>
+                    <i>Free screening! Co-sponsored by Students for Disability Justice.</i></p>
                   </div>
               </li>
 
