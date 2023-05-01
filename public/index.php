@@ -59,15 +59,15 @@
               </li>
 
               <li class="carousel__slide">
-                <a href="/calendar/friday#citizen-kane">
-                  <img class="carousel__image" src="/images/2023spring/citizen-kane-1941.jpg" alt="Citizen Kane (1941) still">
+                <a href="/calendar/friday#vertigo">
+                  <img class="carousel__image" src="/images/2023spring/vertigo-1958.jpg" alt="Vertigo (1958) still">
                 </a>
                 <div clas="description">
-                  <a href="/calendar/friday#citizen-kane">
-                    <p class="event-title fittext">Citizen Kane (Fri. 5/12 @ 7:00PM || Sun. 5/14 @ 4:00PM)
+                  <a href="/calendar/friday#vertigo">
+                    <p class="event-title fittext">Vertigo (Fri. 5/19 @ 7:00PM || Sun. 5/21 @ 4:00PM)
                     </p>
                   </a>
-                  <p>It's terrific!
+                  <p class="capsule fittext">Although <i>Vertigo</i> only lasted a decade as <i>Sight & Sound</i>'s #1, it isn’t any less impressive as a film. Directed by a promising young talent by the name of Alfred Hitchcock, <i>Vertigo</i> has it all! Our PI Scottie’s in a real mess: obsessed with at least one woman and recovering from a bad case of—surprise, surprise—vertigo, he dives headfirst into a hallucinatory and macabre journey of possession, filled to the brim with intrigue and drop-dead gorgeous style.
                   </p>
                 </div>
               </li>
