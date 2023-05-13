@@ -37,10 +37,10 @@
                   <div class="description">
                     <a href="/calendar/thursday-1#y-tu-mama-tambien">
                       <p class="event-title fittext">
-                      Y tu mamá también (Thurs. 5/11 @ 7:00PM)
+                      CANCELLED - Pacifiction 5/13 @ 8:00PM
                       </p>
                     </a>
-                    <p class="capsule fittext">Tenoch and Julio attempt to seduce an older Spanish woman by embarking on a road trip to a mythical and totally non-existent beach: the “Boca del Cielo.” Set against a backdrop of political upheaval and social change, Cuarón’s film explores sexuality, manhood, and youth in a way that has forever changed Mexican cinema.</p>
+                    <p class="capsule fittext">Note: 5/13's 8:00PM screening of <i>Pacifiction</i> has been cancelled. Online tickets will be refunded. We are hoping to reschedule, but we apologize for any inconvenience.</p>
                   </div>
               </li>
 
@@ -140,10 +140,11 @@
         <div class="screening">
           <h1>8:00PM Saturday, May 13th</h1>
           <img src="/images/2023spring/pacifiction-2022.jpeg" alt="Pacifiction (2022) still">
-          <h2>Pacifiction (2022)</h2>
+          <h2><span style="color:red">CANCELLED</span> Pacifiction (2022)</h2>
           <h3>Albert Serra &middot; 162m &middot; DCP</h3>
           <p>This post-colonial fever dream of French Polynesia was voted best film of 2022 by <i>Cahiers du Cinéma</i> and "suggests John le Carré by way of David Lynch," per A.O. Scott. It's a slow-burning character study of High Commissioner De Roller (Benoît Magimel, <i>The Piano Teacher</i>), who floats through all walks of island life with an easy charisma. But the lush Tahitian setting pulses with a sense of dread that only grows as political alliances shift and unravel.</p>
           <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=2E4A9ACA-EF9A-4183-99CD-5AC68A8DA72E" target="_blank">here</a></u>.</b></p>
+          <p><b><i style="color:red">Note: this screening was cancelled. Online tickets will be refunded. We are hoping to reschedule, but we apologize for any inconvenience.</i></b></p>
         </div>
 
         <div class="screening">
