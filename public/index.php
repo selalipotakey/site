@@ -31,11 +31,11 @@
             <ul class="carousel__track">
 
               <li class="carousel__slide current-slide">
-                <a href="/calendar/thursday-1#y-tu-mama-tambien">
-                  <img class="carousel__image" src="/images/2023spring/y-tu-mama-tambien-2001.jpeg" alt="quarter pass">
+                <a href="#">
+                  <img class="carousel__image" src="/images/2023spring/pacifiction-2022.jpeg" alt="PACIFICTION still">
                 </a>
                   <div class="description">
-                    <a href="/calendar/thursday-1#y-tu-mama-tambien">
+                    <a href="#">
                       <p class="event-title fittext">
                       CANCELLED - Pacifiction 5/13 @ 8:00PM
                       </p>
