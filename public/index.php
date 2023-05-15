@@ -31,16 +31,31 @@
             <ul class="carousel__track">
 
               <li class="carousel__slide current-slide">
-                <a href="#">
-                  <img class="carousel__image" src="/images/2023spring/pacifiction-2022.jpeg" alt="PACIFICTION still">
+                <a href="/calendar/thursday-1#shape-of-water">
+                  <img class="carousel__image" src="/images/2023spring/shape-of-water-2017.jpg" alt="The Shape of Water (2017) still">
                 </a>
                   <div class="description">
-                    <a href="#">
+                    <a href="/calendar/thursday-1#shape-of-water">
                       <p class="event-title fittext">
-                      CANCELLED - Pacifiction 5/13 @ 8:00PM
+                      The Shape of Water 5/18 @ 7:00PM
                       </p>
                     </a>
-                    <p class="capsule fittext">Note: 5/13's 8:00PM screening of <i>Pacifiction</i> has been cancelled. Online tickets will be refunded. We are hoping to reschedule, but we apologize for any inconvenience.</p>
+                    <p class="capsule fittext"><i>The Shape of Water</i>, which won the Oscar for Best Picture in 2018, is a quirky, fantastical romantic-fantasy that tells the story of an unexpected—and, yet, somehow natural—love between a mute janitor and an anthropomorphic aquatic creature/weapon held at a Cold War-era government facility. Guillermo del Toro’s poignant tale, which employs masterful set and costume designs, will capture your heart and imagination in a way you never thought possible.</p>
+                  </div>
+              </li>
+
+              <li class="carousel__slide">
+                <a href="/calendar/thursday-2#history-of-violence">
+                  <img class="carousel__image" src="/images/2023spring/history-of-violence-2005.jpg" alt="A History of Violence (2005) still">
+                </a>
+                  <div class="description">
+                    <a href="/calendar/thursday-2#history-of-violence">
+                      <p class="event-title fittext">
+                      A History of Violence 5/18 @ 9:30PM
+                      </p>
+                    </a>
+                    <p class="capsule fittext"><i>A History of Violence</i> follows an American family who find themselves thrown into major spotlight after the mild-mannered father (Viggo Mortensen) kills another man in self-defense at a diner. This film is Cronenberg’s first pivot away from body horror, though the director's decades-long interest in transformation of the self is still a prominent motif. Ultimately, <i>A History of Violence</i> is a must-see for Cronenberg fans and skeptics alike.
+                    </p>
                   </div>
               </li>
 
@@ -56,21 +71,6 @@
                   <p class="capsule fittext">Although <i>Vertigo</i> only lasted a decade as <i>Sight & Sound</i>'s #1, it isn’t any less impressive as a film. Directed by a promising young talent by the name of Alfred Hitchcock, <i>Vertigo</i> has it all! Our PI Scottie’s in a real mess: obsessed with at least one woman and recovering from a bad case of—surprise, surprise—vertigo, he dives headfirst into a hallucinatory and macabre journey of possession, filled to the brim with intrigue and drop-dead gorgeous style.
                   </p>
                 </div>
-              </li>
-
-              <li class="carousel__slide">
-                <a href="/calendar/thursday-1#shape-of-water">
-                  <img class="carousel__image" src="/images/2023spring/shape-of-water-2017.jpg" alt="The Shape of Water (2017) still">
-                </a>
-                  <div class="description">
-                    <a href="/calendar/thursday-1#shape-of-water">
-                      <p class="event-title fittext">
-                      The Shape of Water (Thurs. 5/18 @ 7:00PM)
-                      </p>
-                    </a>
-                    <p class="capsule fittext"><i>The Shape of Water</i>, which won the Oscar for Best Picture in 2018, is a quirky, fantastical romantic-fantasy that tells the story of an unexpected—and, yet, somehow natural—love between a mute janitor and an anthropomorphic aquatic creature/weapon held at a Cold War-era government facility. Guillermo del Toro’s poignant tale, which employs masterful set and costume designs, will capture your heart and imagination in a way you never thought possible.
-                    </p>
-                  </div>
               </li>
 
             </ul>
@@ -100,60 +100,49 @@
         </div>
 
         <div class="screening">
-          <h1>7:00PM Wednesday, May 10th</h1>
-          <img src="/images/2023spring/letters-home-1984.png" alt="Letters Home (1986) still">
-          <h2>Letters Home (1986)</h2>
-          <h3>Chantal Akerman &middot; 104m &middot; DCP</h3>
-          <p>Known for the films about her relationship with her mother, Akerman’s third and last collaboration with Seyrig is fitting and poignant. Rarely seen, <i>Letters Home</i> is an adaptation of Rose Goldemberg's play, based on Sylvia Plath’s letters with her mother. Seyrig and her niece (Coralie Seyrig) recite the text directly to camera. Seyrig had asked Akerman to direct her in Racine's "Phèdre," but Akerman, not knowing Seyrig would die not long after, declined.</p>
-          <p><i>Courtesy of the Centre audiovisuel Simone de Beauvoir.</i></p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=84576CE6-2F72-489E-863D-93FA064D51BB" target="_blank">here</a></u>.</b></p>
-        </div>
-
-        <div id="y-tu-mama-tambien" class="anchor screening">
-          <h1>7:00PM Thursday, May 11th</h1>
-          <img src="/images/2023spring/y-tu-mama-tambien-2001.jpeg" alt="Y tu mamá también (2001) still">
-          <h2>Y tu mamá también (2001)</h2>
-          <h3>Alfonso Cuarón &middot; 106m &middot; 35mm</h3>
-          <p><i>Y tu mamá también</i>—an all-time classic—tells the tale of two horny Mexican teenagers, Tenoch (Diego Luna) and Julio (Gael García Bernal), as they attempt to seduce an older Spanish woman by embarking on a road trip to a mythical and totally non-existent beach: the “Boca del Cielo.” Set against a backdrop of political upheaval and social change, Cuarón’s film explores sexuality, manhood, and youth in a way that has forever changed Mexican cinema.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=ADDE09A5-A81E-469D-A40F-C67BC11E25DD" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Wednesday, May 17th</h1>
+          <img src="/images/2023spring/johanna-darc-of-mongolia-1989.jpeg" alt="Johanna d'Arc of Mongolia (1989) still">
+          <h2>Johanna d'Arc of Mongolia (1989)</h2>
+          <h3>Ulrike Ottinger &middot; 165m &middot; 35mm</h3>
+          <p>An eclectic mix of women passengers on the Trans-Siberian railway—Lady Windermere (Seyrig), an American Broadway actor, a German teacher (Irm Hermann), and an adventurous girl—are taken captive by a hospitable Mongolian princess and experience Mongolia in all its beauty and power. Language and culture pose no boundaries in this colorful whirlwind of a film. One of Seyrig's four collaborations with director Ulrike Ottinger, and also her final film.</p>
+          <p><i>Introduced by Prof. Daniel Morgan, Cinema and Media Studies. Print courtesy of the Academy Film Archive.</i></p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=B3AE78EA-FE5C-454D-8FA2-F20947383707" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div class="screening">
-          <h1>9:30PM Thursday, May 11th</h1>
-          <img src="/images/2023spring/spider-2002.jpeg" alt="Spider (2002) still">
-          <h2>Spider (2002)</h2>
-          <h3>David Cronenberg &middot; 98m &middot; 35mm</h3>
-          <p><i>Spider</i> follows the schizophrenic "Spider" (Ralph Fiennes) as he navigates his subconscious understanding of his own traumatic childhood. A deeply personal film for both Cronenberg and Fiennes, <i>Spider</i> finds itself at the cusp of the director's primary foci: disturbing body horror and the exploration of internal drama. Its generic ambiguity makes it one of Cronenberg's most overlooked films, despite being an incredible portrayal of past and present pain.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=3CD338E8-9AF8-41CD-B1A5-E17BC4E80C06" target="_blank">here</a></u>.</b></p>
-        </div>
-
-        <div id="citizen-kane" class="anchor screening">
-          <h1>7:00PM Friday, May 12th; 4:00PM Sunday, May 14th</h1>
-          <img src="/images/2023spring/citizen-kane-1941.jpg" alt="Citizen Kane (1941) still">
-          <h2>Citizen Kane (1941)</h2>
-          <h3>Orson Welles &middot; 119m &middot; 35mm</h3>
-          <p>It’s terrific!</p>
-          <p><b>May 12th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=2D2A7B6B-4177-4AD5-B0EA-8D865132B4F0" target="_blank">here</a></u>.</b></p>
-          <p><b>May 14th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=C796F314-DFBC-4D81-A15F-5C2B60B8C3D9" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Thursday, May 18th</h1>
+          <img src="/images/2023spring/shape-of-water-2017.jpg" alt="The Shape of Water (2017) still">
+          <h2>The Shape of Water (2017)</h2>
+          <h3>Guillermo del Toro &middot; 123m &middot; DCP</h3>
+          <p><i>The Shape of Water</i>, which won the Oscar for Best Picture in 2018, is a quirky, fantastical romantic-fantasy that tells the story of an unexpected—and, yet, somehow natural—love between a mute janitor and an anthropomorphic aquatic creature/weapon held at a Cold War-era government facility. Guillermo del Toro’s poignant tale, which employs masterful set and costume designs, will capture your heart and imagination in a way you never thought possible.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=C477D31D-5EB4-4766-AA9D-0FCFEC281416" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div class="screening">
-          <h1>8:00PM Saturday, May 13th</h1>
-          <img src="/images/2023spring/pacifiction-2022.jpeg" alt="Pacifiction (2022) still">
-          <h2><span style="color:red">CANCELLED</span> Pacifiction (2022)</h2>
-          <h3>Albert Serra &middot; 162m &middot; DCP</h3>
-          <p>This post-colonial fever dream of French Polynesia was voted best film of 2022 by <i>Cahiers du Cinéma</i> and "suggests John le Carré by way of David Lynch," per A.O. Scott. It's a slow-burning character study of High Commissioner De Roller (Benoît Magimel, <i>The Piano Teacher</i>), who floats through all walks of island life with an easy charisma. But the lush Tahitian setting pulses with a sense of dread that only grows as political alliances shift and unravel.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=2E4A9ACA-EF9A-4183-99CD-5AC68A8DA72E" target="_blank">here</a></u>.</b></p>
-          <p><b><i style="color:red">Note: this screening was cancelled. Online tickets will be refunded. We are hoping to reschedule, but we apologize for any inconvenience.</i></b></p>
+          <h1>9:30PM Thursday, May 18th</h1>
+          <img src="/images/2023spring/history-of-violence-2005.jpg" alt="A History of Violence (2005) still">
+          <h2>A History of Violence (2005)</h2>
+          <h3>David Cronenberg &middot; 96m &middot; 35mm</h3>
+          <p><i>A History of Violence</i> follows an American family who find themselves thrown into major spotlight after the mild-mannered father (Viggo Mortensen) kills another man in self-defense at a diner. This film is Cronenberg’s first pivot away from body horror, though the director's decades-long interest in transformation of the self is still a prominent motif. Ultimately, <i>A History of Violence</i> is a must-see for Cronenberg fans and skeptics alike.</p>
+          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=EE4566C6-E627-4A53-94B4-73A050872003" target="_blank">here</a></u>.</b></p>
+        </div>
+
+        <div id="vertigo" class="anchor screening">
+          <h1>7:00PM Friday, May 19th; 4:00PM Sunday, May 21st</h1>
+          <img src="/images/2023spring/vertigo-1958.jpg" alt="Vertigo (1958) still">
+          <h2>Vertigo (1958)</h2>
+          <h3>Alfred Hitchcock &middot; 128m &middot; 35mm</h3>
+          <p>Although <i>Vertigo</i> only lasted a decade as <i>Sight & Sound</i>'s #1, it isn’t any less impressive as a film. Directed by a promising young talent by the name of Alfred Hitchcock, <i>Vertigo</i> has it all! Our PI Scottie’s in a real mess: obsessed with at least one woman and recovering from a bad case of—surprise, surprise—vertigo, he dives headfirst into a hallucinatory and macabre journey of possession, filled to the brim with intrigue and drop-dead gorgeous style.</p>
+          <p><b>May 19th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=F53B9DE8-1849-481E-B4FE-A85A97F8A83E" target="_blank">here</a></u>.</b></p>
+          <p><b>May 21st tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=A1E88364-A676-4F37-B22D-EB1EFD16387F" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div class="screening">
-          <h1>7:00PM Sunday, May 14th</h1>
-          <img src="/images/2023spring/office-killer-1997.jpeg" alt="Office Killer (1997) still">
-          <h2>Office Killer (1997)</h2>
-          <h3>Cindy Sherman &middot; 95m &middot; Digital</h3>
-          <p>As a photographer, Cindy Sherman is regarded for her conceptual self-portrait photography, which probes questions of identity, celebrity, and representation. Sherman made her feature film debut with <i>Office Killer</i>, a camp horror film about a copy editor (Carol Kane) who tumbles into a murderous rampage directed at her co-workers. At once comedy, horror, melodrama, noir, and feminist art piece, this film is sure to surprise, provoke, and tickle the senses.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=84A4B286-6960-42A6-9862-170984759623" target="_blank">here</a></u>.</b></p>
+          <h1>7:00PM Sunday, May 21st</h1>
+          <img src="/images/2023spring/los-ninos-abandonados-1975.jpg" alt="Los niños abandonados (1975) still">
+          <h2>Born to Film (1982) // Los niños abandonados (1975)</h2>
+          <h3>Danny Lyon &middot; 33m // 63m &middot; DCP</h3>
+          <p>In 1974, Danny Lyon flew to Santa Marta, Colombia and spent twenty days filming a local group of homeless boys. This footage became <i>Los niños abandonados</i>, a compassionate and unblinking portrait of the daily lives of these abandoned children. It is preceded by Lyon's autobiographical short <i>Born to Film</i>, which mixes photographs from his father's archive with footage of himself and his son to create a tender tribute to Lyon's own life and family.</p>
         </div>
         
     </main>
