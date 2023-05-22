@@ -16,8 +16,10 @@
       <?php $version='1.2'; include "./includes/dropdown.html";?>
       
       <div class="information">
+      <h1> Stay tuned for next quarter! </h1>
 
-        <h1>
+      <!-- 
+      <h1>
           Playing this quarter:
         </h1>
 
@@ -144,6 +146,7 @@
           <h3>Danny Lyon &middot; 33m // 63m &middot; DCP</h3>
           <p>In 1974, Danny Lyon flew to Santa Marta, Colombia and spent twenty days filming a local group of homeless boys. This footage became <i>Los niños abandonados</i>, a compassionate and unblinking portrait of the daily lives of these abandoned children. It is preceded by Lyon's autobiographical short <i>Born to Film</i>, which mixes photographs from his father's archive with footage of himself and his son to create a tender tribute to Lyon's own life and family.</p>
         </div>
+      -->
         
     </main>
     
