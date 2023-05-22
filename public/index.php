@@ -16,7 +16,7 @@
       <?php $version='1.2'; include "./includes/dropdown.html";?>
       
       <div class="information">
-      <h1> Stay tuned for next quarter! </h1>
+      <h1><centre>Stay tuned for next quarter!</centre></h1>
 
       <!-- 
       <h1>
