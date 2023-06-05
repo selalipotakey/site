@@ -24,7 +24,7 @@
 
         <iframe id='month-calendar' src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FChicago&mode=MONTH&src=Y184MzJiMWNjNWE1MTNlYzdiZDMwYWQ4YTNjYWJlYzcxYjE5MWJjYzM3NDkzMTg1ZjBhYmRmMmE0NTJkZjZjZmNjQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%237CB342" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
-        <iframe id='agenda-calendar' src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FChicago&mode=AGENDA&src=Y184MzJiMWNjNWE1MTNlYzdiZDMwYWQ4YTNjYWJlYzcxYjE5MWJjYzM3NDkzMTg1ZjBhYmRmMmE0NTJkZjZjZmNjQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%237CB342" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+        <iframe id='agenda-calendar' src="https://calendar.google.com/calendar/embed?src=c_0f6e0659bba24e7e03992579bbe1b02e7994e6ea1f75b59dd77617bead1e42e9%40group.calendar.google.com&ctz=America%2FChicago" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
         <h3 style="padding: 1rem 0rem;"><i>Stylized Summer 2023 calendar <u><a href="https://drive.google.com/file/d/1CzuClOQONkkR2ofjLKJhpHiDRpd5o7Du/view?usp=sharing" target="_blank">here</a></u><!--; stylized Winter 2023 booklet <u><a href="https://drive.google.com/file/d/1xW2ho_JBqHTe7wfKraEQDeJAVkMbihTx/view?usp=sharing" target="_blank">here</a></u>.--></i></h3>
 
