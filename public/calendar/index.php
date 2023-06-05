@@ -26,31 +26,33 @@
 
         <iframe id='agenda-calendar' src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FChicago&mode=AGENDA&src=Y184MzJiMWNjNWE1MTNlYzdiZDMwYWQ4YTNjYWJlYzcxYjE5MWJjYzM3NDkzMTg1ZjBhYmRmMmE0NTJkZjZjZmNjQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%237CB342" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
-        <h3 style="padding: 1rem 0rem;"><i>Stylized Spring 2023 calendar <u><a href="https://drive.google.com/file/d/1FnskRLtxNhJRzr50aAOf0GUh6-AtOlqK/view?usp=share_link" target="_blank">here</a></u><!--; stylized Winter 2023 booklet <u><a href="https://drive.google.com/file/d/1xW2ho_JBqHTe7wfKraEQDeJAVkMbihTx/view?usp=sharing" target="_blank">here</a></u>.--></i></h3>
+        <h3 style="padding: 1rem 0rem;"><i>Stylized Summer 2023 calendar <u><a href="https://drive.google.com/file/d/1_siLGcRhojdfv2n1FJ2l3bqbIbvuE1TK/view?usp=sharing" target="_blank">here</a></u><!--; stylized Winter 2023 booklet <u><a href="https://drive.google.com/file/d/1xW2ho_JBqHTe7wfKraEQDeJAVkMbihTx/view?usp=sharing" target="_blank">here</a></u>.--></i></h3>
 
         <h1>Series this quarter:</h1>
 
         <div class="series-list">
 
           <div class="series-tile reverse">
-            <a href="/calendar/special-events"><img src="/images/2023spring/everything-everywhere-all-at-once-2022.jpg" alt="EEAAO still"></a>
+            <a href="/calendar/thursday"><img src="/images/2023summer/thursday.jpg" alt="No Hard Feelings (2023) still"></a>
             <div class="series-text">
-              <a href="/calendar/special-events">
+              <a href="/calendar/thursday">
                 <p class="title">Special Events</p>
               </a>
             </div>
           </div>
 
           <div class="series-tile">
-            <a href="/calendar/wednesday"><img src="/images/2023spring/series_stills/johanna-darc-of-mongolia-1989.jpeg" alt="JOAN OF ARC OF MONGOLIA still"></a>
+            <a href="/calendar/friday"><img src="/images/2023summer/a-star-is-born-1976.jpeg" alt="A Star is Born (1976) still"></a>
             <div class="series-text">
-              <a href="/calendar/wednesday">
-                <p class="day">Wednesday</p>
-                <p class="title">Delphine Seyrig, More Than a Muse</p>
+              <a href="/calendar/friday">
+                <p class="day">Fridays & Saturdays</p>
+                <p class="title">DocFilms Summer screenings</p>
               </a>
-              <p class="programmer">Programmed by: Hannah Yang</p>
+              <p class="programmer">Programmed by: DocFilms Volunteers</p>
             </div>
           </div>
+
+<!--
 
           <div class="series-tile reverse">
             <a href="/calendar/thursday-1"><img src="/images/2023spring/series_stills/amores-perros-2000.jpg" alt="AMORES PERROS still"></a>
@@ -105,6 +107,7 @@
               <p class="programmer">Programmed by: Ian Resnick</p>
             </div>
           </div>
+-->
 
         </div>
 
