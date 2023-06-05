@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Saturday</title>
+    <title>Silver Screen</title>
     <link rel="stylesheet" type="text/css" href="/style.css?ver=1.2">
   </head>
 
@@ -18,8 +18,7 @@
       <div class="screenings-list">
 
         <div class="text-section">
-          <h1>SATURDAY - Pending</h1>
-          <h3>Programmed by:</h3>
+          <h1>Some Dreamers of the Silver Screen: L.A.'67-'76</h1>
         </div>
         
         <div id="bob-&-carol-&-ted-&-alice" class="anchor screening">
@@ -42,15 +41,6 @@
           <p><b>June 24th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=06AB5611-72C8-47AE-B92A-4F2AE4910D44" target="_blank">here</a></u>.</b></p>
         </div>
 
-        <div id="nashville" class="anchor screening">
-          <h1>4:00PM Friday, June 30th; 7:00PM Saturday, June 31st</h1>
-          <img src="/images/2023summer/nashville-1975.jpg" alt="Nashville (1975) still">
-          <h2>Nashville (1975)</h2>
-          <h3>Robert Altman &middot; 159m &middot; DCP</h3>
-          <p><b>June 30th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=4B3A0778-1C33-4E7D-A502-6817EF0C319F" target="_blank">here</a></u>.</b></p>
-          <p><b>June 31st tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=06AB5611-72C8-47AE-B92A-4F2AE4910D44" target="_blank">here</a></u>.</b></p>
-        </div>
-
         <div id="carwash" class="anchor screening">
           <h1>7:00PM Friday, June 30th; 4:00PM Saturday, July 1st</h1>
           <img src="/images/2023summer/carwash-1976.jpg" alt="Carwash (1976) still">
@@ -59,15 +49,6 @@
           <p>Taking place on a single day of a happening Los Angeles car wash, Michael Schultz’s film is the perfect summer comedy encapsulating the zeitgeist of a rapidly changing American landscape. With an all-star lineup that includes Richard Pryor, Bill Duke, George Carlin, the Pointer Sisters, and Franklyn Ajaye, _Car Wash_ is a hilariously biting flick with an ineffable joie de vivre, and also a major milestone in ‘70s Black studio filmmaking.</p>
           <p><b>June 30th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=4B3A0778-1C33-4E7D-A502-6817EF0C319F" target="_blank">here</a></u>.</b></p>
           <p><b>July 1st tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=06AB5611-72C8-47AE-B92A-4F2AE4910D44" target="_blank">here</a></u>.</b></p>
-        </div>
-
-        <div id="the-searchers" class="anchor screening">
-          <h1>4:00PM Friday, July 7th; 7:00PM Saturday, July 8th</h1>
-          <img src="/images/2023summer/the-searchers-1956.jpg" alt="The Searchers (1956) still">
-          <h2>The Searchers (1956)</h2>
-          <h3>John Ford &middot; 119m &middot; 35mm</h3>
-          <p><b>July 7th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=4B3A0778-1C33-4E7D-A502-6817EF0C319F" target="_blank">here</a></u>.</b></p>
-          <p><b>July 8th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=06AB5611-72C8-47AE-B92A-4F2AE4910D44" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div id="a-star-is-born" class="anchor screening">
@@ -89,15 +70,6 @@
           <p><b>July 15th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=06AB5611-72C8-47AE-B92A-4F2AE4910D44" target="_blank">here</a></u>.</b></p>
         </div>
 
-        <div id="meet-me-in-st-louis" class="anchor screening">
-          <h1>4:00PM Friday, July 21st; 7:00PM Saturday, July 22nd</h1>
-          <img src="/images/2023summer/meet-me-in-st-louis-1944.jpg" alt="Meet Me in St. Louis (1944) still">
-          <h2>Meet Me in St. Louis (1944)</h2>
-          <h3>Vincent Minnelli &middot; 113m &middot; 35mm</h3>
-          <p><b>July 21st tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=4B3A0778-1C33-4E7D-A502-6817EF0C319F" target="_blank">here</a></u>.</b></p>
-          <p><b>July 22nd tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=06AB5611-72C8-47AE-B92A-4F2AE4910D44" target="_blank">here</a></u>.</b></p>
-        </div>
-
         <div id="beyond-the-valley-of-the-dolls" class="anchor screening">
           <h1>7:00PM Friday, July 21st; 4:00PM Saturday, July 22nd</h1>
           <img src="/images/2023summer/beyond-the-valley-of-the-dolls-1970.jpg" alt="Beyond the Valley of the Dolls (1970) still">
@@ -106,17 +78,6 @@
           <p>We tried writing a description of this one… and failed miserably. Here’s some of the original promo material instead: “The First Of The Shock Rock! Russ Meyer promised to make the wildest, craziest, funniest, the farthest out Musical-Horror-Sex-Comedy ever released. He has succeeded.” “This is not a sequel– there has NEVER been anything like it!” “The world is full of them, the super-octane girls who are old at twenty… if they get to be twenty.” “This time… they’ve really gone <i>Beyond the Valley of the Dolls</i>.”</p>
           <p><b>July 21st tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=4B3A0778-1C33-4E7D-A502-6817EF0C319F" target="_blank">here</a></u>.</b></p>
           <p><b>July 22nd tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=06AB5611-72C8-47AE-B92A-4F2AE4910D44" target="_blank">here</a></u>.</b></p>
-        </div>
-
-        /** Check that this is the movie */
-
-        <div id="the-flaming-forest" class="anchor screening">
-          <h1>4:00PM Friday, July 28th; 7:00PM Saturday, July 29th</h1>
-          <img src="/images/2023summer/the-flaming-forest-1926.jpg" alt="The Flaming Forest (1926) still">
-          <h2>The Flaming Forest (1926)</h2>
-          <h3>Reginald Barker &middot; 70m &middot; 35mm</h3>
-          <p><b>July 28th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=4B3A0778-1C33-4E7D-A502-6817EF0C319F" target="_blank">here</a></u>.</b></p>
-          <p><b>July 29th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=06AB5611-72C8-47AE-B92A-4F2AE4910D44" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div id="play-it-as-it-lays" class="anchor screening">
@@ -129,15 +90,6 @@
           <p><b>July 29th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=06AB5611-72C8-47AE-B92A-4F2AE4910D44" target="_blank">here</a></u>.</b></p>
         </div>
 
-        <div id="clash-of-the-wolves" class="anchor screening">
-          <h1>4:00PM Friday, August 4th; 7:00PM Saturday, August 5th</h1>
-          <img src="/images/2023summer/clash-of-the-wolves-1925.jpg" alt="Clash of the Wolves (1925) still">
-          <h2>Clash of the Wolves (1925)</h2>
-          <h3>Noel M. Smith &middot; 74m &middot; 35mm</h3>
-          <p><b>August 4th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=4B3A0778-1C33-4E7D-A502-6817EF0C319F" target="_blank">here</a></u>.</b></p>
-          <p><b>August 5th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=06AB5611-72C8-47AE-B92A-4F2AE4910D44" target="_blank">here</a></u>.</b></p>
-        </div>
-
         <div id="point-blank" class="anchor screening">
           <h1>7:00PM Friday, August 4th; 4:00PM Saturday, August 5th</h1>
           <img src="/images/2023summer/point-blank-1976.jpg" alt="Point Blank (1976) still">
@@ -146,15 +98,6 @@
           <p>Betrayed by the man he thought he knew best, Walker (Lee Marvin) returns to L.A. seeking revenge only to be caught up in an endless hunt for his ex-partner, Reese (John Vernon). Equal parts American genre film and European arthouse, <i>Point Blank</i> contains the nihilism of a man who has lost himself in the face of constant double-crossing and is plagued by the remnants of the Second World War. With stellar photography by Philip Lathrop, John Boorman’s major breakthrough is today an enshrined classic that helped to usher in the new age of hard-boiled American crime cinema.</p>
           <p><b>August 4th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=4B3A0778-1C33-4E7D-A502-6817EF0C319F" target="_blank">here</a></u>.</b></p>
           <p><b>August 5th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=06AB5611-72C8-47AE-B92A-4F2AE4910D44" target="_blank">here</a></u>.</b></p>
-        </div>
-
-        <div id="within-the-law" class="anchor screening">
-          <h1>4:00PM Friday, August 11th; 7:00PM Saturday, August 12th</h1>
-          <img src="/images/2023summer/within-the-law-1923.jpg" alt="Within the Law (1923) still">
-          <h2>Within the Law (1923)</h2>
-          <h3>Frank Lloyd &middot; 65m &middot; 35mm</h3>
-          <p><b>August 11th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=4B3A0778-1C33-4E7D-A502-6817EF0C319F" target="_blank">here</a></u>.</b></p>
-          <p><b>August 12th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=06AB5611-72C8-47AE-B92A-4F2AE4910D44" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div id="once-upon-a-time-in-hollywood" class="anchor screening">

@@ -33,22 +33,20 @@
         <div class="series-list">
 
           <div class="series-tile reverse">
-            <a href="/calendar/thursday"><img src="/images/2023summer/no-hard-feelings.jpg" alt="No Hard Feelings (2023) still"></a>
+            <a href="/calendar/silver-screen"><img src="/images/2023summer/carwash-1976.jpg" alt="Carwash (1976) still"></a>
             <div class="series-text">
-              <a href="/calendar/thursday">
-                <p class="title">Special Events</p>
+              <a href="/calendar/silver-screen">
+                <p class="title">Some Dreamers of the Silver Screen: L.A.'67-'76</p>
               </a>
             </div>
           </div>
 
           <div class="series-tile">
-            <a href="/calendar/friday"><img src="/images/2023summer/a-star-is-born-1976.jpg" alt="A Star is Born (1976) still"></a>
+            <a href="/calendar/programmers-picks"><img src="/images/2023summer/the-flaming-forest-1926.jpg" alt="The Flaming Forest (1926) still"></a>
             <div class="series-text">
-              <a href="/calendar/friday">
-                <p class="day">Fridays & Saturdays</p>
-                <p class="title">DocFilms Summer screenings</p>
+              <a href="/calendar/programmers-picks">
+                <p class="title">Programmers' Picks</p>
               </a>
-              <p class="programmer">Programmed by: DocFilms Volunteers</p>
             </div>
           </div>
 

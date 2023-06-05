@@ -31,11 +31,11 @@
             <ul class="carousel__track">
 
               <li class="carousel__slide current-slide">
-                <a href="/calendar/friday#carwash">
+                <a href="/calendar/silver-screen#carwash">
                   <img class="carousel__image" src="/images/2023summer/carwash-1976.jpg" alt="Carwash (1976) still">
                 </a>
                   <div class="description">
-                    <a href="/calendar/friday#carwash">
+                    <a href="/calendar/silver-screen#carwash">
                       <p class="event-title fittext">
                       Carwash (6/30 @ 7:00PM || 7/1 @ 4:00PM)
                       </p>
@@ -46,11 +46,11 @@
               </li>
 
               <li class="carousel__slide">
-                <a href="/calendar/friday#beyond-the-valley-of-the-dolls">
+                <a href="/calendar/silver-screen#beyond-the-valley-of-the-dolls">
                   <img class="carousel__image" src="/images/2023summer/beyond-the-valley-of-the-dolls-1970.jpg" alt="Beyond the Valley of the Dolls (1970) still">
                 </a>
                   <div class="description">
-                    <a href="/calendar/friday#beyond-the-valley-of-the-dolls">
+                    <a href="/calendar/silver-screen#beyond-the-valley-of-the-dolls">
                       <p class="event-title fittext">
                       Beyond the Valley of the Dolls (7/21 @ 7:00PM || 7/22 @ 4:00PM)
                       </p>
@@ -61,11 +61,11 @@
               </li>
 
               <li class="carousel__slide">
-                <a href="/calendar/friday#point-blank">
+                <a href="/calendar/silver-screen#point-blank">
                   <img class="carousel__image" src="/images/2023summer/point-blank-1976.jpg" alt="Point Blank (1976) still">
                 </a>
                 <div clas="description">
-                  <a href="/calendar/friday#point-blank">
+                  <a href="/calendar/silver-screen#point-blank">
                     <p class="event-title fittext">
                       Point Blank (Fri. 8/4 @ 7:00PM || Sun. 8/5 @ 4:00PM)
                     </p>
