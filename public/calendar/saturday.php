@@ -18,8 +18,8 @@
       <div class="screenings-list">
 
         <div class="text-section">
-          <h1>SATURDAY - Dóc: New Releases</h1>
-          <h3>Programmed by: Hannah Halpern and Addison Wood</h3>
+          <h1>SATURDAY - Pending</h1>
+          <h3>Programmed by:</h3>
         </div>
         
         <div id="bob-&-carol-&-ted-&-alice" class="anchor screening">

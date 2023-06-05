@@ -18,17 +18,9 @@
       <div class="screenings-list">
 
         <div class="text-section">
-          <h1>FRIDAY - Sight & Sound: The Greatest?</h1>
-          <h3>Programmed by: Addison Wood</h3>
-
-            <p>The easiest series I’ll ever program; the films pick themselves! Or rather, they’re selected by a body of “more than 1,600 of the most influential international film critics, academics, distributors, etc.” We’ve left a few films out of our selection (<i>Mulholland</i> and <i>In the Mood for Love</i> played last year, and Jeanne Dielman is already cooking veal cutlets on a Wednesday this quarter), but overall the 2022 list, which was hyped up to be a radical break from tradition, really was conventional in most ways. Titles 150–250 hold some surprises—good and bad alike—but the top 100 films are an amalgam of the bog-standard and cinema 101 syllabi, with a few modern darlings sprinkled in.</p>
-
-            <p>So why do we get worked up over the list if it just spews out the collective trends in elitist movie-going over the last ten years? Well for one, it's the history of it all. The Sight and Sound poll has long been an exercise in completionism for budding film buffs. But in the days of Letterboxd and Twitter, does this list still hold its former stature? I’d actually say it does. Titles like <i>Possession</i>, <i>Under the Skin</i>, and directors like Lars von Trier and David Lynch are constants among burgeoning cinefiles; and yet, these nine films are largely made by younger generations of filmmakers, who are reproducing the taste of their filmic forefathers. They’re a little dry, a touch grandiose, and a few overstay their welcome.</p>
-
-            <p>My one kernel of advice for those attending this series: feel free to dislike these films! Hell, as traditional as my taste may be, I really only love a few of the films in this lineup. Way more than 1,600 people have had vastly worse takes on <i>much</i> more important things. So sit back and enjoy; or don’t!</p>
+          <h1>FRIDAY - Pending</h1>
+          <h3>Programmed by: </h3>
         </div>
-
-        /** Remember to get link for tickets */
         
         <div id="bob-&-carol-&-ted-&-alice" class="anchor screening">
           <h1>6:00PM Friday, June 23rd; 8:30PM Saturday, June 24th</h1>
@@ -115,8 +107,6 @@
           <p><b>July 21st tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=4B3A0778-1C33-4E7D-A502-6817EF0C319F" target="_blank">here</a></u>.</b></p>
           <p><b>July 22nd tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=06AB5611-72C8-47AE-B92A-4F2AE4910D44" target="_blank">here</a></u>.</b></p>
         </div>
-
-        /** Check that this is the movie */
 
         <div id="the-flaming-forest" class="anchor screening">
           <h1>4:00PM Friday, July 28th; 7:00PM Saturday, July 29th</h1>
