@@ -22,11 +22,11 @@
         <!-- this is from when cameron (2022) was trying to make a completley locally hosted google calendar by copy-pasting google's code, does not work (yet) -->
         <!-- <iframe src="/calendar/custom_calendar.php?ver=2.0" style="border: 0; padding-bottom: 0rem;" frameborder="0" scrolling="no"></iframe> -->
 
-        <iframe id='month-calendar' src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FChicago&mode=MONTH&src=Y184MzJiMWNjNWE1MTNlYzdiZDMwYWQ4YTNjYWJlYzcxYjE5MWJjYzM3NDkzMTg1ZjBhYmRmMmE0NTJkZjZjZmNjQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%237CB342" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+        <iframe id='month-calendar' src="https://calendar.google.com/calendar/u/3?cid=Y18wZjZlMDY1OWJiYTI0ZTdlMDM5OTI1NzliYmUxYjAyZTc5OTRlNmVhMWY3NWI1OWRkNzc2MTdiZWFkMWU0MmU5QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
         <iframe id='agenda-calendar' src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FChicago&mode=AGENDA&src=Y184MzJiMWNjNWE1MTNlYzdiZDMwYWQ4YTNjYWJlYzcxYjE5MWJjYzM3NDkzMTg1ZjBhYmRmMmE0NTJkZjZjZmNjQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%237CB342" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
-        <h3 style="padding: 1rem 0rem;"><i>Stylized Spring 2023 calendar <u><a href="https://drive.google.com/file/d/1FnskRLtxNhJRzr50aAOf0GUh6-AtOlqK/view?usp=share_link" target="_blank">here</a></u><!--; stylized Winter 2023 booklet <u><a href="https://drive.google.com/file/d/1xW2ho_JBqHTe7wfKraEQDeJAVkMbihTx/view?usp=sharing" target="_blank">here</a></u>.--></i></h3>
+        <h3 style="padding: 1rem 0rem;"><i>Stylized Summer 2023 calendar <u><a href="https://drive.google.com/file/d/1FnskRLtxNhJRzr50aAOf0GUh6-AtOlqK/view?usp=share_link" target="_blank">here</a></u><!--; stylized Winter 2023 booklet <u><a href="https://drive.google.com/file/d/1xW2ho_JBqHTe7wfKraEQDeJAVkMbihTx/view?usp=sharing" target="_blank">here</a></u>.--></i></h3>
 
         <h1>Series this quarter:</h1>
 
