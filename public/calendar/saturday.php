@@ -22,81 +22,149 @@
           <h3>Programmed by: Hannah Halpern and Addison Wood</h3>
         </div>
         
-        <div class="screening">
-          <h1>4:00PM Saturday, March 25th; 8:00PM Saturday, March 25th</h1>
-          <img src="/images/2023spring/corsage-2022.jpeg" alt="Corsage (2022) still">
-          <h2>Corsage (2022)</h2>
-          <h3>Marie Kreutzer &middot; 114m &middot; DCP</h3>
-          <p>On Christmas Eve of 1877, Empress Elisabeth "Sissi" of Austria turns 40, and is forced to relinquish her long-held status as a beautiful young woman. She must determine how to salvage her public image--and how to prove her worth in a society which now deems her worthless. What follows is an irreverent, modern, and subtly anachronistic spin on an iconic figure's story: a luxurious yet understated tale of melancholy, restriction, and rebellion.</p>
-          <p><b>4:00PM tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=AAA38943-D975-48A6-A34A-927A583C6EBD" target="_blank">here</a></u>.</b></p>
-          <p><b>8:00PM tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=3EEC201B-B666-4E09-87BB-A4DB7FD0658B" target="_blank">here</a></u>.</b></p>
+        <div id="bob-&-carol-&-ted-&-alice" class="anchor screening">
+          <h1>6:00PM Friday, June 23rd; 8:30PM Saturday, June 24th</h1>
+          <img src="/images/2023summer/bob-&-carol-&-ted-&-alice-1969.jpg" alt="Bob & Carol & Ted & Alice (1969) still">
+          <h2>Bob & Carol & Ted & Alice (1969)</h2>
+          <h3>Paul Mazursky &middot; 105m &middot; 35mm</h3>
+          <p>It's ‘69, and the sexual mores of the mid-century have been smashed open. X-rated films were winning Best Picture, hippies camped out at a dairy farm upstate, gays were smashing windows, and a little dramedy about an orgy won over audiences across America. Featuring a killer score by Quincy Jones, multiple unshaved chests, and an Oscar-nominated screenplay, Paul Mazursky’s _Bob & Carol & Ted & Alice_ was the little husband and wife-swapping film that could. Bob and Carol, liberated by a New Age retreat, plan a hookup with their more traditional pals, Ted and Alice, in this work of lasciviousness and surprising emotional honesty.</p>
+          <p><b>June 23rd tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=4B3A0778-1C33-4E7D-A502-6817EF0C319F" target="_blank">here</a></u>.</b></p>
+          <p><b>June 24th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=06AB5611-72C8-47AE-B92A-4F2AE4910D44" target="_blank">here</a></u>.</b></p>
         </div>
-        
-        <div id="babylon" class="anchor screening">
-          <h1>4:00PM Saturday, April 1st; 8:00PM Saturday, April 1st</h1>
-          <img src="/images/2023spring/babylon-2022.png" alt="Babylon (2022) still">
-          <h2>Babylon (2022)</h2>
-          <h3>Damien Chazelle &middot; 189m &middot; DCP</h3>
-          <p>Damien Chazelle's <i>Babylon</i> follows an ensemble cast of Margot Robbie, Brad Pitt, Diego Calva and more through the glitz, glamor, and corruption of late '20s Hollywood, in the transition from silent to sound movies. Divisive among critics upon its release, the film is both a condemnation of and a love letter to the world of movies and the Hollywood institution itself. You may love it, you may hate it, but regardless, you'll have a good time at the movies.</p>
-          <p><b>4:00PM tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=26FDDE8C-A744-4DE7-85C5-B795FC1D3B71" target="_blank">here</a></u>.</b></p>
-          <p><b>8:00PM tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=95A8E7DF-61A7-45D7-A201-974A123141CD" target="_blank">here</a></u>.</b></p>
+
+        <div id="the-long-goodbye" class="anchor screening">
+          <h1>8:30PM Friday, June 23rd; 6:00PM Saturday, June 24th</h1>
+          <img src="/images/2023summer/the-long-goodbye-1973.jpg" alt="The Long Goodbye (1973) still">
+          <h2>The Long Goodbye (1973)</h2>
+          <h3>Robert Altman &middot; 112m &middot; DCP</h3>
+          <p><i>The Long Goodbye</i> starts not with a bang, but with a vibe. Elliott Gould’s Philip Marlowe wanders through a 1973 L.A. laden with denizens who have little between their ears. In typical Robert Altman style, he sends Marlowe into a rabbit-hole of dead friends and strangers. Suspicion falls on Marlowe after an old friend’s wife is found dead, but this quickly becomes the least of his worries. Gangsters, alcoholic writers, and detox clinics all join Altman’s cavalcade symphony of Malibu vapidity.</p>
+          <p><b>June 23rd tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=4B3A0778-1C33-4E7D-A502-6817EF0C319F" target="_blank">here</a></u>.</b></p>
+          <p><b>June 24th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=06AB5611-72C8-47AE-B92A-4F2AE4910D44" target="_blank">here</a></u>.</b></p>
         </div>
-        
-        <div id="tar" class="anchor screening">
-          <h1>4:00PM Saturday, April 8th; 8:00PM Saturday, April 8th</h1>
-          <img src="/images/2023spring/tar-2022.jpeg" alt="Tár (2022) still">
-          <h2>Tár (2022)</h2>
-          <h3>Todd Field &middot; 158m &middot; DCP</h3>
-          <p>Lydia Tár has it all—fast cars, a hot wife, and acclaim as the first female chief conductor of the Berlin Philharmonic. She stands in front of her orchestra to give the downbeat to Mahler's Fifth, but a young cellist catches her eye. Shadows and sounds linger in her periphery... genius turned arrogance, past deeds, paranoia, and the rumblings of an orchestrated downfall. Can Tár face her orchestra and her ghosts? Can she obliterate herself for her music?</p>
-          <p><b>4:00PM tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=8642B635-A847-4CDF-921B-FE3051AABDBB" target="_blank">here</a></u>.</b></p>
-          <p><b>8:00PM tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=D874FB78-DE0B-454C-97CA-CCE5F0799408" target="_blank">here</a></u>.</b></p>
+
+        <div id="nashville" class="anchor screening">
+          <h1>4:00PM Friday, June 30th; 7:00PM Saturday, June 31st</h1>
+          <img src="/images/2023summer/nashville-1975.jpg" alt="Nashville (1975) still">
+          <h2>Nashville (1975)</h2>
+          <h3>Robert Altman &middot; 159m &middot; DCP</h3>
+          <p><b>June 30th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=4B3A0778-1C33-4E7D-A502-6817EF0C319F" target="_blank">here</a></u>.</b></p>
+          <p><b>June 31st tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=06AB5611-72C8-47AE-B92A-4F2AE4910D44" target="_blank">here</a></u>.</b></p>
         </div>
-        
-        <div class="screening">
-          <h1>8:00PM Saturday, April 15th</h1>
-          <img src="/images/2023spring/magic-mikes-last-dance-2022.png" alt="Magic Mike's Last Dance (2023) still">
-          <h2>Magic Mike's Last Dance (2023)</h2>
-          <h3>Steven Soderbergh &middot; 112m &middot; DCP</h3>
-          <p>In the final installment of the <i>Magic Mike</i> trilogy, Mike Lane finds himself broke and retired in Florida. After meeting a wealthy socialite at a fundraising event, he takes her offer to go to London. Hoping for one last hurrah, he attempts to bring a group of new, talented dancers into shape. Starring the beautiful-as-always Channing Tatum, <i>Magic Mike’s Last Dance</i> is a tale of redemption set against a backdrop of post-pandemic economic uncertainty.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=39EC3FF5-35DC-44B2-B076-50A8978E0EE0" target="_blank">here</a></u>.</b></p>
+
+        <div id="carwash" class="anchor screening">
+          <h1>7:00PM Friday, June 30th; 4:00PM Saturday, July 1st</h1>
+          <img src="/images/2023summer/carwash-1976.jpg" alt="Carwash (1976) still">
+          <h2>Carwash (1976)</h2>
+          <h3>Michael Schultz &middot; 97m &middot; 35mm</h3>
+          <p>Taking place on a single day of a happening Los Angeles car wash, Michael Schultz’s film is the perfect summer comedy encapsulating the zeitgeist of a rapidly changing American landscape. With an all-star lineup that includes Richard Pryor, Bill Duke, George Carlin, the Pointer Sisters, and Franklyn Ajaye, _Car Wash_ is a hilariously biting flick with an ineffable joie de vivre, and also a major milestone in ‘70s Black studio filmmaking.</p>
+          <p><b>June 30th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=4B3A0778-1C33-4E7D-A502-6817EF0C319F" target="_blank">here</a></u>.</b></p>
+          <p><b>July 1st tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=06AB5611-72C8-47AE-B92A-4F2AE4910D44" target="_blank">here</a></u>.</b></p>
         </div>
-        
-        <div id="eo" class="anchor screening">
-          <h1>4:00PM Saturday, April 22nd; 8:00PM Saturday, April 22nd</h1>
-          <img src="/images/2023spring/eo-2022.jpeg" alt="EO (2022) still">
-          <h2>EO (2022)</h2>
-          <h3>Jerzy Skolimowski &middot; 87m &middot; DCP</h3>
-          <p>This one goes out to Ettore, Hola, Marietta, Mela, Rocco, and Tako. Winner of the 2022 Jury Prize at Cannes, <i>EO</i> centers its eponymous donkey, born and raised in a Polish circus, as he travels across the Polish and Italian countryside. Skolimowski's masterful homage to Bresson, released almost sixty years after <i>Au Hasard Balthazar</i>, provides just as frank an image of humanity from the perspective of an animal, in all its kindness and cruelty.</p>
-          <p><b>4:00PM tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=15BFE01D-3B5C-4561-8935-4FBD2616F465" target="_blank">here</a></u>.</b></p>
-          <p><b>8:00PM tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=2143CC18-FB25-4707-BF6D-7799B08499F1" target="_blank">here</a></u>.</b></p>
+
+        <div id="the-searchers" class="anchor screening">
+          <h1>4:00PM Friday, July 7th; 7:00PM Saturday, July 8th</h1>
+          <img src="/images/2023summer/the-searchers-1956.jpg" alt="The Searchers (1956) still">
+          <h2>The Searchers (1956)</h2>
+          <h3>John Ford &middot; 119m &middot; 35mm</h3>
+          <p><b>July 7th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=4B3A0778-1C33-4E7D-A502-6817EF0C319F" target="_blank">here</a></u>.</b></p>
+          <p><b>July 8th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=06AB5611-72C8-47AE-B92A-4F2AE4910D44" target="_blank">here</a></u>.</b></p>
         </div>
-        
-        <div class="screening">
-          <h1>8:00PM Saturday, April 29th</h1>
-          <img src="/images/2023spring/all-the-beauty-and-the-bloodshed-2022.jpeg" alt="All the Beauty and the Bloodshed (2022) still">
-          <h2>All the Beauty and the Bloodshed (2022)</h2>
-          <h3>Laura Poitras &middot; 122m &middot; DCP</h3>
-          <p>The second documentary ever to win Venice's prestigious Golden Lion, <i>All the Beauty and the Bloodshed</i>  examines photographer-activist Nan Goldin's valiant effort to hold Purdue Pharma responsible for the opioid epidemic. The film paints a compassionate, gritty portrait of the fight against the Sackler family—Purdue's owners—through the lens of an indefatigable, battle-hardened woman. This is a sobering work that deserves to be seen by all.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=1CBDBB55-979F-4311-B75D-67C922371E8E" target="_blank">here</a></u>.</b></p>
+
+        <div id="a-star-is-born" class="anchor screening">
+          <h1>7:00PM Friday, July 7th; 4:00PM Saturday, July 8th</h1>
+          <img src="/images/2023summer/a-star-is-born-1976.jpg" alt="A Star is Born (1976) still">
+          <h2>A Star is Born (1976)</h2>
+          <h3>Frank Pierson &middot; 139m &middot; DCP</h3>
+          <p>Not the first nor the last time this story would be told, but the only version written by Joan Didion. Need we say more? Sure, why not. The 1976  _A Star Is Born_ is the most recognizable adaptation of the classic story despite a generation accustomed to picturing Lady Gaga and Bradley Cooper in the starring roles. Barbara Streisand provides the tunes and Kris Kristofferson brings the raw '70s male sex appeal in the electric story of Esther and John: brought together by rock-and-roll, torn apart by alcohol and jealousy.</p>
+          <p><b>July 7th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=4B3A0778-1C33-4E7D-A502-6817EF0C319F" target="_blank">here</a></u>.</b></p>
+          <p><b>July 8th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=06AB5611-72C8-47AE-B92A-4F2AE4910D44" target="_blank">here</a></u>.</b></p>
         </div>
-        
-        <div class="screening">
-          <h1>8:00PM Saturday, May 6th</h1>
-          <img src="/images/2023spring/godland-2022.jpeg" alt="Godland (2022) still">
-          <h2>Godland (2022)</h2>
-          <h3>Hlynur Pálmason &middot; 143m &middot; DCP</h3>
-          <p>Like its Icelandic setting, <i>Godland</i> is beautiful, elemental, and more than 60% Lutheran. Writer-director Pálmason's third film follows Danish missionary Lucas as he journeys across the subarctic island with local guide Ragnar, lugging a hefty <i>fin de siècle</i>  camera across glacial meltwaters, volcanic mudflats, and others stunning landscapes of scarcity. Shot with natural light and in round-edged Academy ratio, <i>Godland</i> is simply sublime.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=3AC19F62-7101-4D3C-A4E3-AF67200BCD4F" target="_blank">here</a></u>.</b></p>
+
+        <div id="welcome-to-la" class="anchor screening">
+          <h1>7:00PM Friday, July 14th; 4:00PM Saturday, July 15th</h1>
+          <img src="/images/2023summer/welcome-to-la.jpg" alt="Welcome to L.A. (1976) still">
+          <h2>Welcome to L.A. (1976)</h2>
+          <h3>Alan Rudolph &middot; 106m &middot; DCP</h3>
+          <p><b>July 14th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=4B3A0778-1C33-4E7D-A502-6817EF0C319F" target="_blank">here</a></u>.</b></p>
+          <p><b>July 15th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=06AB5611-72C8-47AE-B92A-4F2AE4910D44" target="_blank">here</a></u>.</b></p>
         </div>
-        
-        <div class="screening">
-          <h1>8:00PM Saturday, May 13th</h1>
-          <img src="/images/2023spring/pacifiction-2022.jpeg" alt="Pacifiction (2022) still">
-          <h2><span style="color:red">CANCELLED</span> Pacifiction (2022)</h2>
-          <h3>Albert Serra &middot; 162m &middot; DCP</h3>
-          <p>This post-colonial fever dream of French Polynesia was voted best film of 2022 by <i>Cahiers du Cinéma</i> and "suggests John le Carré by way of David Lynch," per A.O. Scott. It's a slow-burning character study of High Commissioner De Roller (Benoît Magimel, <i>The Piano Teacher</i>), who floats through all walks of island life with an easy charisma. But the lush Tahitian setting pulses with a sense of dread that only grows as political alliances shift and unravel.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=2E4A9ACA-EF9A-4183-99CD-5AC68A8DA72E" target="_blank">here</a></u>.</b></p>
-          <p><b><i style="color:red">Note: this screening was cancelled. Online tickets will be refunded. We are hoping to reschedule, but we apologize for any inconvenience.</i></b></p>
+
+        <div id="meet-me-in-st-louis" class="anchor screening">
+          <h1>4:00PM Friday, July 21st; 7:00PM Saturday, July 22nd</h1>
+          <img src="/images/2023summer/meet-me-in-st-louis-1944.jpg" alt="Meet Me in St. Louis (1944) still">
+          <h2>Meet Me in St. Louis (1944)</h2>
+          <h3>Vincent Minnelli &middot; 113m &middot; 35mm</h3>
+          <p><b>July 21st tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=4B3A0778-1C33-4E7D-A502-6817EF0C319F" target="_blank">here</a></u>.</b></p>
+          <p><b>July 22nd tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=06AB5611-72C8-47AE-B92A-4F2AE4910D44" target="_blank">here</a></u>.</b></p>
+        </div>
+
+        <div id="beyond-the-valley-of-the-dolls" class="anchor screening">
+          <h1>7:00PM Friday, July 21st; 4:00PM Saturday, July 22nd</h1>
+          <img src="/images/2023summer/beyond-the-valley-of-the-dolls-1970.jpg" alt="Beyond the Valley of the Dolls (1970) still">
+          <h2>Beyond the Valley of the Dolls (1970)</h2>
+          <h3>Russ Meyer &middot; 109m &middot; DCP</h3>
+          <p>We tried writing a description of this one… and failed miserably. Here’s some of the original promo material instead: “The First Of The Shock Rock! Russ Meyer promised to make the wildest, craziest, funniest, the farthest out Musical-Horror-Sex-Comedy ever released. He has succeeded.” “This is not a sequel– there has NEVER been anything like it!” “The world is full of them, the super-octane girls who are old at twenty… if they get to be twenty.” “This time… they’ve really gone <i>Beyond the Valley of the Dolls</i>.”</p>
+          <p><b>July 21st tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=4B3A0778-1C33-4E7D-A502-6817EF0C319F" target="_blank">here</a></u>.</b></p>
+          <p><b>July 22nd tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=06AB5611-72C8-47AE-B92A-4F2AE4910D44" target="_blank">here</a></u>.</b></p>
+        </div>
+
+        /** Check that this is the movie */
+
+        <div id="the-flaming-forest" class="anchor screening">
+          <h1>4:00PM Friday, July 28th; 7:00PM Saturday, July 29th</h1>
+          <img src="/images/2023summer/the-flaming-forest-1926.jpg" alt="The Flaming Forest (1926) still">
+          <h2>The Flaming Forest (1926)</h2>
+          <h3>Reginald Barker &middot; 70m &middot; 35mm</h3>
+          <p><b>July 28th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=4B3A0778-1C33-4E7D-A502-6817EF0C319F" target="_blank">here</a></u>.</b></p>
+          <p><b>July 29th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=06AB5611-72C8-47AE-B92A-4F2AE4910D44" target="_blank">here</a></u>.</b></p>
+        </div>
+
+        <div id="play-it-as-it-lays" class="anchor screening">
+          <h1>7:00PM Friday, July 28th; 4:00PM Saturday, July 29th</h1>
+          <img src="/images/2023summer/play-it-as-it-lays-1972.jpg" alt="Play It As It Lays (1972) still">
+          <h2>Play It As It Lays (1972)</h2>
+          <h3>Frank Perry &middot; 99m &middot; 35mm</h3>
+          <p>Here at Doc, we've got Didion fever! Rarely screened publicly, <i>Play It as It Lays</i> captures the sun-drenched burnout of the classic 1970 novel of the same name. Maria, a restless actress brilliantly played by Tuesday Weld, finds herself in a loveless marriage and near constant mental turmoil as she travels back and forth between L.A. and Vegas. Expressing a distinct Didion brand of nihilism, Frank Perry’s _Play It as It Lays_ is perhaps the only big screen adaptation to do the late writer's work justice.</p>
+          <p><b>July 28th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=4B3A0778-1C33-4E7D-A502-6817EF0C319F" target="_blank">here</a></u>.</b></p>
+          <p><b>July 29th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=06AB5611-72C8-47AE-B92A-4F2AE4910D44" target="_blank">here</a></u>.</b></p>
+        </div>
+
+        <div id="clash-of-the-wolves" class="anchor screening">
+          <h1>4:00PM Friday, August 4th; 7:00PM Saturday, August 5th</h1>
+          <img src="/images/2023summer/clash-of-the-wolves-1925.jpg" alt="Clash of the Wolves (1925) still">
+          <h2>Clash of the Wolves (1925)</h2>
+          <h3>Noel M. Smith &middot; 74m &middot; 35mm</h3>
+          <p><b>August 4th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=4B3A0778-1C33-4E7D-A502-6817EF0C319F" target="_blank">here</a></u>.</b></p>
+          <p><b>August 5th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=06AB5611-72C8-47AE-B92A-4F2AE4910D44" target="_blank">here</a></u>.</b></p>
+        </div>
+
+        <div id="point-blank" class="anchor screening">
+          <h1>7:00PM Friday, August 4th; 4:00PM Saturday, August 5th</h1>
+          <img src="/images/2023summer/point-blank-1976.jpg" alt="Point Blank (1976) still">
+          <h2>Point Blank (1976)</h2>
+          <h3>John Boorman &middot; 92m &middot; 35mm</h3>
+          <p>Betrayed by the man he thought he knew best, Walker (Lee Marvin) returns to L.A. seeking revenge only to be caught up in an endless hunt for his ex-partner, Reese (John Vernon). Equal parts American genre film and European arthouse, <i>Point Blank</i> contains the nihilism of a man who has lost himself in the face of constant double-crossing and is plagued by the remnants of the Second World War. With stellar photography by Philip Lathrop, John Boorman’s major breakthrough is today an enshrined classic that helped to usher in the new age of hard-boiled American crime cinema.</p>
+          <p><b>August 4th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=4B3A0778-1C33-4E7D-A502-6817EF0C319F" target="_blank">here</a></u>.</b></p>
+          <p><b>August 5th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=06AB5611-72C8-47AE-B92A-4F2AE4910D44" target="_blank">here</a></u>.</b></p>
+        </div>
+
+        <div id="within-the-law" class="anchor screening">
+          <h1>4:00PM Friday, August 11th; 7:00PM Saturday, August 12th</h1>
+          <img src="/images/2023summer/within-the-law-1923.jpg" alt="Within the Law (1923) still">
+          <h2>Within the Law (1923)</h2>
+          <h3>Frank Lloyd &middot; 65m &middot; 35mm</h3>
+          <p><b>August 11th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=4B3A0778-1C33-4E7D-A502-6817EF0C319F" target="_blank">here</a></u>.</b></p>
+          <p><b>August 12th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=06AB5611-72C8-47AE-B92A-4F2AE4910D44" target="_blank">here</a></u>.</b></p>
+        </div>
+
+        <div id="once-upon-a-time-in-hollywood" class="anchor screening">
+          <h1>7:00PM Friday, August 11th; 4:00PM Saturday, August 12th</h1>
+          <img src="/images/2023summer/once-upon-a-time-in-hollywood-2019.jpg" alt="Once Upon a Time in Hollywood (2019) still">
+          <h2>Once Upon a Time in Hollywood (2019)</h2>
+          <h3>Quentin Tarantino &middot; 160m &middot; 35mm</h3>
+          <p>Okay, but seriously, let’s just have some fun with this last one. Rick Dalton (Leo DiCaprio) and his stunt double Cliff Booth (Brad Pitt) navigate the rapidly declining studio film industry as foreign and indie films seem more promising than ever before. Cliff and Rick rub elbows with all the So-Cal bigwigs and freaks: Sharon Tate, Polanski, Bruce Lee, Mama Cass, and a guy named Charlie Manson who seems to be planning something big. Tarantino’s chillest film to date, <i>Once Upon a Time in Hollywood</i> feels like a perfect summer day ... but remember, something creepy is always lurking in the night.</p>
+          <p><b>August 11th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=4B3A0778-1C33-4E7D-A502-6817EF0C319F" target="_blank">here</a></u>.</b></p>
+          <p><b>August 12th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=06AB5611-72C8-47AE-B92A-4F2AE4910D44" target="_blank">here</a></u>.</b></p>
         </div>
         
       </div>

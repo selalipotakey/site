@@ -16,9 +16,7 @@
       <?php $version='1.2'; include "./includes/dropdown.html";?>
       
       <div class="information">
-      <h1><center>Stay tuned for next quarter!</center></h1>
 
-      <!-- 
       <h1>
           Playing this quarter:
         </h1>
@@ -33,44 +31,45 @@
             <ul class="carousel__track">
 
               <li class="carousel__slide current-slide">
-                <a href="/calendar/thursday-1#shape-of-water">
-                  <img class="carousel__image" src="/images/2023spring/shape-of-water-2017.jpg" alt="The Shape of Water (2017) still">
+                <a href="/calendar/friday#carwash">
+                  <img class="carousel__image" src="/images/2023summer/carwash-1976.jpg" alt="Carwash (1976) still">
                 </a>
                   <div class="description">
-                    <a href="/calendar/thursday-1#shape-of-water">
+                    <a href="/calendar/friday#carwash">
                       <p class="event-title fittext">
-                      The Shape of Water 5/18 @ 7:00PM
+                      Carwash (6/30 @ 7:00PM || 7/1 @ 4:00PM)
                       </p>
                     </a>
-                    <p class="capsule fittext"><i>The Shape of Water</i>, which won the Oscar for Best Picture in 2018, is a quirky, fantastical romantic-fantasy that tells the story of an unexpected—and, yet, somehow natural—love between a mute janitor and an anthropomorphic aquatic creature/weapon held at a Cold War-era government facility. Guillermo del Toro’s poignant tale, which employs masterful set and costume designs, will capture your heart and imagination in a way you never thought possible.</p>
+                    <p class="capsule fittext">Taking place on a single day of a happening Los Angeles car wash, Michael Schultz’s film is the perfect summer comedy encapsulating the zeitgeist of a rapidly changing American landscape. With an all-star lineup that includes Richard Pryor, Bill Duke, George Carlin, the Pointer Sisters, and Franklyn Ajaye, _Car Wash_ is a hilariously biting flick with an ineffable joie de vivre, and also a major milestone in ‘70s Black studio filmmaking.</p>
                   </div>
               </li>
 
               <li class="carousel__slide">
-                <a href="/calendar/thursday-2#history-of-violence">
-                  <img class="carousel__image" src="/images/2023spring/history-of-violence-2005.jpg" alt="A History of Violence (2005) still">
+                <a href="/calendar/friday#beyond-the-valley-of-the-dolls">
+                  <img class="carousel__image" src="/images/2023summer/beyond-the-valley-of-the-dolls-1970.jpg" alt="Beyond the Valley of the Dolls (1970) still">
                 </a>
                   <div class="description">
-                    <a href="/calendar/thursday-2#history-of-violence">
+                    <a href="/calendar/friday#beyond-the-valley-of-the-dolls">
                       <p class="event-title fittext">
-                      A History of Violence 5/18 @ 9:30PM
+                      Beyond the Valley of the Dolls (7/21 @ 7:00PM || 7/22 @ 4:00PM)
                       </p>
                     </a>
-                    <p class="capsule fittext"><i>A History of Violence</i> follows an American family who find themselves thrown into major spotlight after the mild-mannered father (Viggo Mortensen) kills another man in self-defense at a diner. This film is Cronenberg’s first pivot away from body horror, though the director's decades-long interest in transformation of the self is still a prominent motif. Ultimately, <i>A History of Violence</i> is a must-see for Cronenberg fans and skeptics alike.
+                    <p class="capsule fittext">We tried writing a description of this one… and failed miserably. Here’s some of the original promo material instead: “The First Of The Shock Rock! Russ Meyer promised to make the wildest, craziest, funniest, the farthest out Musical-Horror-Sex-Comedy ever released. He has succeeded.” “This is not a sequel– there has NEVER been anything like it!” “The world is full of them, the super-octane girls who are old at twenty… if they get to be twenty.” “This time… they’ve really gone <i>Beyond the Valley of the Dolls</i>.”
                     </p>
                   </div>
               </li>
 
               <li class="carousel__slide">
-                <a href="/calendar/friday#vertigo">
-                  <img class="carousel__image" src="/images/2023spring/vertigo-1958.jpg" alt="Vertigo (1958) still">
+                <a href="/calendar/friday#point-blank">
+                  <img class="carousel__image" src="/images/2023summer/point-blank-1976.jpg" alt="Point Blank (1976) still">
                 </a>
                 <div clas="description">
-                  <a href="/calendar/friday#vertigo">
-                    <p class="event-title fittext">Vertigo (Fri. 5/19 @ 7:00PM || Sun. 5/21 @ 4:00PM)
+                  <a href="/calendar/friday#point-blank">
+                    <p class="event-title fittext">
+                      Point Blank (Fri. 8/4 @ 7:00PM || Sun. 8/5 @ 4:00PM)
                     </p>
                   </a>
-                  <p class="capsule fittext">Although <i>Vertigo</i> only lasted a decade as <i>Sight & Sound</i>'s #1, it isn’t any less impressive as a film. Directed by a promising young talent by the name of Alfred Hitchcock, <i>Vertigo</i> has it all! Our PI Scottie’s in a real mess: obsessed with at least one woman and recovering from a bad case of—surprise, surprise—vertigo, he dives headfirst into a hallucinatory and macabre journey of possession, filled to the brim with intrigue and drop-dead gorgeous style.
+                  <p class="capsule fittext">Betrayed by the man he thought he knew best, Walker (Lee Marvin) returns to L.A. seeking revenge only to be caught up in an endless hunt for his ex-partner, Reese (John Vernon). Equal parts American genre film and European arthouse, <i>Point Blank</i> contains the nihilism of a man who has lost himself in the face of constant double-crossing and is plagued by the remnants of the Second World War. With stellar photography by Philip Lathrop, John Boorman’s major breakthrough is today an enshrined classic that helped to usher in the new age of hard-boiled American crime cinema.
                   </p>
                 </div>
               </li>
@@ -97,56 +96,39 @@
       <div class="screenings-list">
 
         <div class="text-section">
-          <h1>Screening this week:</h1>
-          <h3><i>$7 tickets, theater opens 30 minutes before the screening.</i></h3>
+          <h1>No screenings this week.</h1>
+          <!-- <h3><i>$7 tickets, theater opens 30 minutes before the screening.</i></h3> -->
         </div>
 
-        <div class="screening">
-          <h1>7:00PM Wednesday, May 17th</h1>
-          <img src="/images/2023spring/johanna-darc-of-mongolia-1989.jpeg" alt="Johanna d'Arc of Mongolia (1989) still">
-          <h2>Johanna d'Arc of Mongolia (1989)</h2>
-          <h3>Ulrike Ottinger &middot; 165m &middot; 35mm</h3>
-          <p>An eclectic mix of women passengers on the Trans-Siberian railway—Lady Windermere (Seyrig), an American Broadway actor, a German teacher (Irm Hermann), and an adventurous girl—are taken captive by a hospitable Mongolian princess and experience Mongolia in all its beauty and power. Language and culture pose no boundaries in this colorful whirlwind of a film. One of Seyrig's four collaborations with director Ulrike Ottinger, and also her final film.</p>
-          <p><i>Introduced by Prof. Daniel Morgan, Cinema and Media Studies. Print courtesy of the Academy Film Archive.</i></p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=B3AE78EA-FE5C-454D-8FA2-F20947383707" target="_blank">here</a></u>.</b></p>
+<!--
+        <div id="no-hard-feelings" class="anchor screening">
+          <h1>7:00PM Thursday, June 22nd</h1>
+          <img src="/images/2023spring/no-hard-feelings-2023.jpg" alt="No Hard Feelings (2023) still">
+          <h2>No Hard Feelings (2023)</h2>
+          <h3>Gene Stupnitsky &middot; 103m &middot; DCP</h3>
+          <p><b>June 22nd tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=4B3A0778-1C33-4E7D-A502-6817EF0C319F" target="_blank">here</a></u>.</b></p>
         </div>
 
-        <div class="screening">
-          <h1>7:00PM Thursday, May 18th</h1>
-          <img src="/images/2023spring/shape-of-water-2017.jpg" alt="The Shape of Water (2017) still">
-          <h2>The Shape of Water (2017)</h2>
-          <h3>Guillermo del Toro &middot; 123m &middot; DCP</h3>
-          <p><i>The Shape of Water</i>, which won the Oscar for Best Picture in 2018, is a quirky, fantastical romantic-fantasy that tells the story of an unexpected—and, yet, somehow natural—love between a mute janitor and an anthropomorphic aquatic creature/weapon held at a Cold War-era government facility. Guillermo del Toro’s poignant tale, which employs masterful set and costume designs, will capture your heart and imagination in a way you never thought possible.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=C477D31D-5EB4-4766-AA9D-0FCFEC281416" target="_blank">here</a></u>.</b></p>
+        <div id="bob-&-carol-&-ted-&-alice" class="anchor screening">
+          <h1>6:00PM Friday, June 23rd; 8:30PM Saturday, June 24th</h1>
+          <img src="/images/2023summer/bob-&-carol-&-ted-&-alice-1969.jpg" alt="Bob & Carol & Ted & Alice (1969) still">
+          <h2>Bob & Carol & Ted & Alice (1969)</h2>
+          <h3>Paul Mazursky &middot; 105m &middot; 35mm</h3>
+          <p>It's ‘69, and the sexual mores of the mid-century have been smashed open. X-rated films were winning Best Picture, hippies camped out at a dairy farm upstate, gays were smashing windows, and a little dramedy about an orgy won over audiences across America. Featuring a killer score by Quincy Jones, multiple unshaved chests, and an Oscar-nominated screenplay, Paul Mazursky’s _Bob & Carol & Ted & Alice_ was the little husband and wife-swapping film that could. Bob and Carol, liberated by a New Age retreat, plan a hookup with their more traditional pals, Ted and Alice, in this work of lasciviousness and surprising emotional honesty.</p>
+          <p><b>June 23rd tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=4B3A0778-1C33-4E7D-A502-6817EF0C319F" target="_blank">here</a></u>.</b></p>
+          <p><b>June 24th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=06AB5611-72C8-47AE-B92A-4F2AE4910D44" target="_blank">here</a></u>.</b></p>
         </div>
 
-        <div class="screening">
-          <h1>9:30PM Thursday, May 18th</h1>
-          <img src="/images/2023spring/history-of-violence-2005.jpg" alt="A History of Violence (2005) still">
-          <h2>A History of Violence (2005)</h2>
-          <h3>David Cronenberg &middot; 96m &middot; 35mm</h3>
-          <p><i>A History of Violence</i> follows an American family who find themselves thrown into major spotlight after the mild-mannered father (Viggo Mortensen) kills another man in self-defense at a diner. This film is Cronenberg’s first pivot away from body horror, though the director's decades-long interest in transformation of the self is still a prominent motif. Ultimately, <i>A History of Violence</i> is a must-see for Cronenberg fans and skeptics alike.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=EE4566C6-E627-4A53-94B4-73A050872003" target="_blank">here</a></u>.</b></p>
+        <div id="the-long-goodbye" class="anchor screening">
+          <h1>8:30PM Friday, June 23rd; 6:00PM Saturday, June 24th</h1>
+          <img src="/images/2023summer/the-long-goodbye-1973.jpg" alt="The Long Goodbye (1973) still">
+          <h2>The Long Goodbye (1973)</h2>
+          <h3>Robert Altman &middot; 112m &middot; DCP</h3>
+          <p><i>The Long Goodbye</i> starts not with a bang, but with a vibe. Elliott Gould’s Philip Marlowe wanders through a 1973 L.A. laden with denizens who have little between their ears. In typical Robert Altman style, he sends Marlowe into a rabbit-hole of dead friends and strangers. Suspicion falls on Marlowe after an old friend’s wife is found dead, but this quickly becomes the least of his worries. Gangsters, alcoholic writers, and detox clinics all join Altman’s cavalcade symphony of Malibu vapidity.</p>
+          <p><b>June 23rd tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=4B3A0778-1C33-4E7D-A502-6817EF0C319F" target="_blank">here</a></u>.</b></p>
+          <p><b>June 24th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=06AB5611-72C8-47AE-B92A-4F2AE4910D44" target="_blank">here</a></u>.</b></p>
         </div>
-
-        <div id="vertigo" class="anchor screening">
-          <h1>7:00PM Friday, May 19th; 4:00PM Sunday, May 21st</h1>
-          <img src="/images/2023spring/vertigo-1958.jpg" alt="Vertigo (1958) still">
-          <h2>Vertigo (1958)</h2>
-          <h3>Alfred Hitchcock &middot; 128m &middot; 35mm</h3>
-          <p>Although <i>Vertigo</i> only lasted a decade as <i>Sight & Sound</i>'s #1, it isn’t any less impressive as a film. Directed by a promising young talent by the name of Alfred Hitchcock, <i>Vertigo</i> has it all! Our PI Scottie’s in a real mess: obsessed with at least one woman and recovering from a bad case of—surprise, surprise—vertigo, he dives headfirst into a hallucinatory and macabre journey of possession, filled to the brim with intrigue and drop-dead gorgeous style.</p>
-          <p><b>May 19th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=F53B9DE8-1849-481E-B4FE-A85A97F8A83E" target="_blank">here</a></u>.</b></p>
-          <p><b>May 21st tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=A1E88364-A676-4F37-B22D-EB1EFD16387F" target="_blank">here</a></u>.</b></p>
-        </div>
-
-        <div class="screening">
-          <h1>7:00PM Sunday, May 21st</h1>
-          <img src="/images/2023spring/los-ninos-abandonados-1975.jpg" alt="Los niños abandonados (1975) still">
-          <h2>Born to Film (1982) // Los niños abandonados (1975)</h2>
-          <h3>Danny Lyon &middot; 33m // 63m &middot; DCP</h3>
-          <p>In 1974, Danny Lyon flew to Santa Marta, Colombia and spent twenty days filming a local group of homeless boys. This footage became <i>Los niños abandonados</i>, a compassionate and unblinking portrait of the daily lives of these abandoned children. It is preceded by Lyon's autobiographical short <i>Born to Film</i>, which mixes photographs from his father's archive with footage of himself and his son to create a tender tribute to Lyon's own life and family.</p>
-        </div>
-      -->
+-->
         
     </main>
     

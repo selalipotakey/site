@@ -27,91 +27,152 @@
 
             <p>My one kernel of advice for those attending this series: feel free to dislike these films! Hell, as traditional as my taste may be, I really only love a few of the films in this lineup. Way more than 1,600 people have had vastly worse takes on <i>much</i> more important things. So sit back and enjoy; or don’t!</p>
         </div>
+
+        /** Remember to get link for tickets */
         
-        <div class="screening">
-          <h1>7:00PM Friday, March 24th; 4:00PM Sunday, March 26th</h1>
-          <img src="/images/2023spring/the-godfather-1972.png" alt="The Godfather (1972) still">
-          <h2>The Godfather (1972)</h2>
-          <h3>Francis Ford Coppola &middot; 175m &middot; 35mm</h3>
-          <p>What a way to start the series! The film that launched a thousand imitations and millions of film studies majors. Coppola adapts two-thirds of Mario Puzo’s bestseller, weaving interfamilial strife into an epic tableau of immigrant life in the midcentury. It's an all-American tale of power, corruption, and lies. Innovative cinematography, a classic Nino Rota score, and ultra-quotable lines abound! It’s an offer you can’t… oh, you know how the line goes.</p>
-          <p><b>March 24th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=B04BFA46-5E5A-4497-89B7-15B28AF59C31" target="_blank">here</a></u>.</b></p>
-          <p><b>March 26th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=7F575143-488C-497A-BB79-D206208FDB08" target="_blank">here</a></u>.</b></p>
+        <div id="bob-&-carol-&-ted-&-alice" class="anchor screening">
+          <h1>6:00PM Friday, June 23rd; 8:30PM Saturday, June 24th</h1>
+          <img src="/images/2023summer/bob-&-carol-&-ted-&-alice-1969.jpg" alt="Bob & Carol & Ted & Alice (1969) still">
+          <h2>Bob & Carol & Ted & Alice (1969)</h2>
+          <h3>Paul Mazursky &middot; 105m &middot; 35mm</h3>
+          <p>It's ‘69, and the sexual mores of the mid-century have been smashed open. X-rated films were winning Best Picture, hippies camped out at a dairy farm upstate, gays were smashing windows, and a little dramedy about an orgy won over audiences across America. Featuring a killer score by Quincy Jones, multiple unshaved chests, and an Oscar-nominated screenplay, Paul Mazursky’s _Bob & Carol & Ted & Alice_ was the little husband and wife-swapping film that could. Bob and Carol, liberated by a New Age retreat, plan a hookup with their more traditional pals, Ted and Alice, in this work of lasciviousness and surprising emotional honesty.</p>
+          <p><b>June 23rd tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=4B3A0778-1C33-4E7D-A502-6817EF0C319F" target="_blank">here</a></u>.</b></p>
+          <p><b>June 24th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=06AB5611-72C8-47AE-B92A-4F2AE4910D44" target="_blank">here</a></u>.</b></p>
         </div>
-        
-        <div class="screening">
-          <h1>7:00PM Friday, March 31st</h1>
-          <img src="/images/2023spring/sunrise-a-tale-of-two-humans-1927.jpg" alt="Sunrise: A Song of Two Humans (1927) still">
-          <h2>Sunrise: A Song of Two Humans (1927)</h2>
-          <h3>F. W. Murnau &middot; 94m &middot; 35mm</h3>
-          <p>The best German expressionist film ever made outside of Germany, <i>Sunrise: A Song of Two Humans</i> delivers on the promise of its title. A glorious, melodic wave of emotion, Murnau’s opus is a testament to what the medium of silent film could offer in its final days. <i>Sunrise</i> would go on to win the only once awarded Oscar for “Unique and Artistic Picture." It's a gorgeous film not to be missed, and in Addison's opinion, the best film in this series.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=3F366BB3-A710-40E8-8457-5ABC44329324" target="_blank">here</a></u>.</b></p>
+
+        <div id="the-long-goodbye" class="anchor screening">
+          <h1>8:30PM Friday, June 23rd; 6:00PM Saturday, June 24th</h1>
+          <img src="/images/2023summer/the-long-goodbye-1973.jpg" alt="The Long Goodbye (1973) still">
+          <h2>The Long Goodbye (1973)</h2>
+          <h3>Robert Altman &middot; 112m &middot; DCP</h3>
+          <p><i>The Long Goodbye</i> starts not with a bang, but with a vibe. Elliott Gould’s Philip Marlowe wanders through a 1973 L.A. laden with denizens who have little between their ears. In typical Robert Altman style, he sends Marlowe into a rabbit-hole of dead friends and strangers. Suspicion falls on Marlowe after an old friend’s wife is found dead, but this quickly becomes the least of his worries. Gangsters, alcoholic writers, and detox clinics all join Altman’s cavalcade symphony of Malibu vapidity.</p>
+          <p><b>June 23rd tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=4B3A0778-1C33-4E7D-A502-6817EF0C319F" target="_blank">here</a></u>.</b></p>
+          <p><b>June 24th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=06AB5611-72C8-47AE-B92A-4F2AE4910D44" target="_blank">here</a></u>.</b></p>
         </div>
-        
-        <div id="singin-in-the-rain" class="anchor screening">
-          <h1>7:00PM Friday, April 7th; 4:00PM Sunday, April 9th</h1>
-          <img src="/images/2023spring/singin-in-the-rain-1952.jpg" alt="Singin' in the Rain (1952) still">
-          <h2>Singin' in the Rain (1952)</h2>
-          <h3>Gene Kelly and Stanley Donen &middot; 115m &middot; 35mm</h3>
-          <p>If you didn’t know any better, you might think this film was 115 minutes of Gene Kelly doing nothing but, well, singing in the rain. After all, that is by and large the only image that people use nowadays to reference the damn thing. But <i>Singin’ in the Rain</i> has more to offer than that—a lot more. It’s a bombastic whirlwind: gaudy, colorful, loud, and ever so entertaining in all the right ways. All you <i>La La Land</i> fiends had better show up to this one...</p>
-          <p><b>April 7th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=4B3A0778-1C33-4E7D-A502-6817EF0C319F" target="_blank">here</a></u>.</b></p>
-          <p><b>April 9th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=06AB5611-72C8-47AE-B92A-4F2AE4910D44" target="_blank">here</a></u>.</b></p>
+
+        <div id="nashville" class="anchor screening">
+          <h1>4:00PM Friday, June 30th; 7:00PM Saturday, June 31st</h1>
+          <img src="/images/2023summer/nashville-1975.jpg" alt="Nashville (1975) still">
+          <h2>Nashville (1975)</h2>
+          <h3>Robert Altman &middot; 159m &middot; DCP</h3>
+          <p><b>June 30th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=4B3A0778-1C33-4E7D-A502-6817EF0C319F" target="_blank">here</a></u>.</b></p>
+          <p><b>June 31st tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=06AB5611-72C8-47AE-B92A-4F2AE4910D44" target="_blank">here</a></u>.</b></p>
         </div>
-        
-        <div class="screening">
-          <h1>7:00PM Friday, April 14th</h1>
-          <img src="/images/2023spring/meshes-of-the-afternoon-1943.jpg" alt="Meshes of the Afternoon (1943) // Man with a Movie Camera (1929) still">
-          <h2>Meshes of the Afternoon (1943) // Man with a Movie Camera (1929)</h2>
-          <h3>Maya Deren and Alexander Hammid // Dziga Vertov &middot; 14m // 68m &middot; DCP</h3>
-          <p>Calling all devotees of Soviet cinema! If you think our usual programming is the opiate of the masses, do we have the picture for you. <i>Man with a Movie Camera</i> is one of the rare cinema 101 works that seemingly everyone loves. Vertov’s revolutionary film, sans intertitles (wowza!), is a masterclass of cutting, framing, throwing everything at the wall, and generally being hyper in a uniquely 1920s way. Preceded by <i>Meshes of the Afternoon</i>.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=5DBA34E1-A4D5-402E-B498-E190CB9053E3" target="_blank">here</a></u>.</b></p>
+
+        <div id="carwash" class="anchor screening">
+          <h1>7:00PM Friday, June 30th; 4:00PM Saturday, July 1st</h1>
+          <img src="/images/2023summer/carwash-1976.jpg" alt="Carwash (1976) still">
+          <h2>Carwash (1976)</h2>
+          <h3>Michael Schultz &middot; 97m &middot; 35mm</h3>
+          <p>Taking place on a single day of a happening Los Angeles car wash, Michael Schultz’s film is the perfect summer comedy encapsulating the zeitgeist of a rapidly changing American landscape. With an all-star lineup that includes Richard Pryor, Bill Duke, George Carlin, the Pointer Sisters, and Franklyn Ajaye, _Car Wash_ is a hilariously biting flick with an ineffable joie de vivre, and also a major milestone in ‘70s Black studio filmmaking.</p>
+          <p><b>June 30th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=4B3A0778-1C33-4E7D-A502-6817EF0C319F" target="_blank">here</a></u>.</b></p>
+          <p><b>July 1st tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=06AB5611-72C8-47AE-B92A-4F2AE4910D44" target="_blank">here</a></u>.</b></p>
         </div>
-        
-        <div class="screening">
-          <h1>7:00PM Friday, April 21st</h1>
-          <img src="/images/2023spring/beau-travail-1999.jpeg" alt="Beau Travail (1999) still">
-          <h2>Beau Travail (1999)</h2>
-          <h3>Claire Denis &middot; 93m &middot; DCP</h3>
-          <p>The youngest film to end up on our list has come to unequivocally shape filmmaking in the 21st century. Based on Melville’s <i>Billy Budd</i>, Denis’ film is a meditative and homoerotically-charged work of stunning beauty and catharsis. A simultaneous critique of colonialism, militarism, and repression, <i>Beau Travail</i> has become a recent favorite of directors like Barry Jenkins and Pablo Larraín. It also features the single greatest needle drop in film history.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=85FC5FBE-F486-49A1-89A5-742F598796E5" target="_blank">here</a></u>.</b></p>
+
+        <div id="the-searchers" class="anchor screening">
+          <h1>4:00PM Friday, July 7th; 7:00PM Saturday, July 8th</h1>
+          <img src="/images/2023summer/the-searchers-1956.jpg" alt="The Searchers (1956) still">
+          <h2>The Searchers (1956)</h2>
+          <h3>John Ford &middot; 119m &middot; 35mm</h3>
+          <p><b>July 7th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=4B3A0778-1C33-4E7D-A502-6817EF0C319F" target="_blank">here</a></u>.</b></p>
+          <p><b>July 8th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=06AB5611-72C8-47AE-B92A-4F2AE4910D44" target="_blank">here</a></u>.</b></p>
         </div>
-        
-        <div id="2001" class="anchor screening">
-          <h1>7:00PM Friday, April 28th; 4:00PM Sunday, April 30th</h1>
-          <img src="/images/2023spring/2001-a-space-odyssey-1968.png" alt="2001: A Space Odyssey (1968) still">
-          <h2>2001: A Space Odyssey (1968)</h2>
-          <h3>Stanley Kubrick &middot; 143m &middot; DCP</h3>
-          <p><i>2001: A Space Odyssey</i> is a psychedelic space opera that basically wrote the textbook on everything. A spectacle like no other, Kubrick’s foray into science fiction has had an indelible impact on our culture. Whether it be the monolith, HAL 9000, Strauss, or the space fetus, it's the kind of movie most of us know before we’ve even seen it. But that isn’t to say it lacks surprises—<i>2001</i> packs one hell of a punch, and is a big-screen viewing essential.</p>
-          <p><b>April 28th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=D732F8D7-1ABC-43EA-9D26-AEFD1F58A97E" target="_blank">here</a></u>.</b></p>
-          <p><b>April 30th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=402F0018-1635-4196-85F6-4DA034F0F941" target="_blank">here</a></u>.</b></p>
+
+        <div id="a-star-is-born" class="anchor screening">
+          <h1>7:00PM Friday, July 7th; 4:00PM Saturday, July 8th</h1>
+          <img src="/images/2023summer/a-star-is-born-1976.jpg" alt="A Star is Born (1976) still">
+          <h2>A Star is Born (1976)</h2>
+          <h3>Frank Pierson &middot; 139m &middot; DCP</h3>
+          <p>Not the first nor the last time this story would be told, but the only version written by Joan Didion. Need we say more? Sure, why not. The 1976  _A Star Is Born_ is the most recognizable adaptation of the classic story despite a generation accustomed to picturing Lady Gaga and Bradley Cooper in the starring roles. Barbara Streisand provides the tunes and Kris Kristofferson brings the raw '70s male sex appeal in the electric story of Esther and John: brought together by rock-and-roll, torn apart by alcohol and jealousy.</p>
+          <p><b>July 7th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=4B3A0778-1C33-4E7D-A502-6817EF0C319F" target="_blank">here</a></u>.</b></p>
+          <p><b>July 8th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=06AB5611-72C8-47AE-B92A-4F2AE4910D44" target="_blank">here</a></u>.</b></p>
         </div>
-        
-        <div class="screening">
-          <h1>7:00PM Friday, May 5th</h1>
-          <img src="/images/2023spring/tokyo-story-1953.jpeg" alt="Tokyo Story (1953) still">
-          <h2>Tokyo Story (1953)</h2>
-          <h3>Yasujiro Ozu &middot; 136m &middot; DCP</h3>
-          <p>It’s week 7—we all need a good crying session. <i>Tokyo Story</i> 's movingly epic narrative takes place not across great landscapes, but in confined middle-class Tokyo homes, as an elderly couple visit their family in the bustling postwar metropolis. A hallmark of transcendental filmmaking, Ozu utilizes his signature tatami shots and veteran actors Setsuko Hara and Chishū Ryū to craft a generous, empathetic film about aging in an increasingly chaotic world.</p>
-          <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=74E32CB6-7422-4425-ACA0-BD9196C23842" target="_blank">here</a></u>.</b></p>
+
+        <div id="welcome-to-la" class="anchor screening">
+          <h1>7:00PM Friday, July 14th; 4:00PM Saturday, July 15th</h1>
+          <img src="/images/2023summer/welcome-to-la-1976.jpg" alt="Welcome to L.A. (1976) still">
+          <h2>Welcome to L.A. (1976)</h2>
+          <h3>Alan Rudolph &middot; 106m &middot; DCP</h3>
+          <p><b>July 14th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=4B3A0778-1C33-4E7D-A502-6817EF0C319F" target="_blank">here</a></u>.</b></p>
+          <p><b>July 15th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=06AB5611-72C8-47AE-B92A-4F2AE4910D44" target="_blank">here</a></u>.</b></p>
         </div>
-        
-        <div id="citizen-kane" class="anchor screening">
-          <h1>7:00PM Friday, May 12th; 4:00PM Sunday, May 14th</h1>
-          <img src="/images/2023spring/citizen-kane-1941.jpg" alt="Citizen Kane (1941) still">
-          <h2>Citizen Kane (1941)</h2>
-          <h3>Orson Welles &middot; 119m &middot; 35mm</h3>
-          <p>It’s terrific!</p>
-          <p><b>May 12th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=2D2A7B6B-4177-4AD5-B0EA-8D865132B4F0" target="_blank">here</a></u>.</b></p>
-          <p><b>May 14th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=C796F314-DFBC-4D81-A15F-5C2B60B8C3D9" target="_blank">here</a></u>.</b></p>
+
+        <div id="meet-me-in-st-louis" class="anchor screening">
+          <h1>4:00PM Friday, July 21st; 7:00PM Saturday, July 22nd</h1>
+          <img src="/images/2023summer/meet-me-in-st-louis-1944.jpg" alt="Meet Me in St. Louis (1944) still">
+          <h2>Meet Me in St. Louis (1944)</h2>
+          <h3>Vincent Minnelli &middot; 113m &middot; 35mm</h3>
+          <p><b>July 21st tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=4B3A0778-1C33-4E7D-A502-6817EF0C319F" target="_blank">here</a></u>.</b></p>
+          <p><b>July 22nd tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=06AB5611-72C8-47AE-B92A-4F2AE4910D44" target="_blank">here</a></u>.</b></p>
         </div>
-        
-        <div id="vertigo" class="anchor screening">
-          <h1>7:00PM Friday, May 19th; 4:00PM Sunday, May 21st</h1>
-          <img src="/images/2023spring/vertigo-1958.jpg" alt="Vertigo (1958) still">
-          <h2>Vertigo (1958)</h2>
-          <h3>Alfred Hitchcock &middot; 128m &middot; 35mm</h3>
-          <p>Although <i>Vertigo</i> only lasted a decade as <i>Sight & Sound</i>'s #1, it isn’t any less impressive as a film. Directed by a promising young talent by the name of Alfred Hitchcock, <i>Vertigo</i> has it all! Our PI Scottie’s in a real mess: obsessed with at least one woman and recovering from a bad case of—surprise, surprise—vertigo, he dives headfirst into a hallucinatory and macabre journey of possession, filled to the brim with intrigue and drop-dead gorgeous style.</p>
-          <p><b>May 19th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=F53B9DE8-1849-481E-B4FE-A85A97F8A83E" target="_blank">here</a></u>.</b></p>
-          <p><b>May 21st tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=A1E88364-A676-4F37-B22D-EB1EFD16387F" target="_blank">here</a></u>.</b></p>
+
+        <div id="beyond-the-valley-of-the-dolls" class="anchor screening">
+          <h1>7:00PM Friday, July 21st; 4:00PM Saturday, July 22nd</h1>
+          <img src="/images/2023summer/beyond-the-valley-of-the-dolls-1970.jpg" alt="Beyond the Valley of the Dolls (1970) still">
+          <h2>Beyond the Valley of the Dolls (1970)</h2>
+          <h3>Russ Meyer &middot; 109m &middot; DCP</h3>
+          <p>We tried writing a description of this one… and failed miserably. Here’s some of the original promo material instead: “The First Of The Shock Rock! Russ Meyer promised to make the wildest, craziest, funniest, the farthest out Musical-Horror-Sex-Comedy ever released. He has succeeded.” “This is not a sequel– there has NEVER been anything like it!” “The world is full of them, the super-octane girls who are old at twenty… if they get to be twenty.” “This time… they’ve really gone <i>Beyond the Valley of the Dolls</i>.”</p>
+          <p><b>July 21st tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=4B3A0778-1C33-4E7D-A502-6817EF0C319F" target="_blank">here</a></u>.</b></p>
+          <p><b>July 22nd tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=06AB5611-72C8-47AE-B92A-4F2AE4910D44" target="_blank">here</a></u>.</b></p>
+        </div>
+
+        /** Check that this is the movie */
+
+        <div id="the-flaming-forest" class="anchor screening">
+          <h1>4:00PM Friday, July 28th; 7:00PM Saturday, July 29th</h1>
+          <img src="/images/2023summer/the-flaming-forest-1926.jpg" alt="The Flaming Forest (1926) still">
+          <h2>The Flaming Forest (1926)</h2>
+          <h3>Reginald Barker &middot; 70m &middot; 35mm</h3>
+          <p><b>July 28th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=4B3A0778-1C33-4E7D-A502-6817EF0C319F" target="_blank">here</a></u>.</b></p>
+          <p><b>July 29th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=06AB5611-72C8-47AE-B92A-4F2AE4910D44" target="_blank">here</a></u>.</b></p>
+        </div>
+
+        <div id="play-it-as-it-lays" class="anchor screening">
+          <h1>7:00PM Friday, July 28th; 4:00PM Saturday, July 29th</h1>
+          <img src="/images/2023summer/play-it-as-it-lays-1972.jpg" alt="Play It As It Lays (1972) still">
+          <h2>Play It As It Lays (1972)</h2>
+          <h3>Frank Perry &middot; 99m &middot; 35mm</h3>
+          <p>Here at Doc, we've got Didion fever! Rarely screened publicly, <i>Play It as It Lays</i> captures the sun-drenched burnout of the classic 1970 novel of the same name. Maria, a restless actress brilliantly played by Tuesday Weld, finds herself in a loveless marriage and near constant mental turmoil as she travels back and forth between L.A. and Vegas. Expressing a distinct Didion brand of nihilism, Frank Perry’s _Play It as It Lays_ is perhaps the only big screen adaptation to do the late writer's work justice.</p>
+          <p><b>July 28th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=4B3A0778-1C33-4E7D-A502-6817EF0C319F" target="_blank">here</a></u>.</b></p>
+          <p><b>July 29th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=06AB5611-72C8-47AE-B92A-4F2AE4910D44" target="_blank">here</a></u>.</b></p>
+        </div>
+
+        <div id="clash-of-the-wolves" class="anchor screening">
+          <h1>4:00PM Friday, August 4th; 7:00PM Saturday, August 5th</h1>
+          <img src="/images/2023summer/clash-of-the-wolves-1925.jpg" alt="Clash of the Wolves (1925) still">
+          <h2>Clash of the Wolves (1925)</h2>
+          <h3>Noel M. Smith &middot; 74m &middot; 35mm</h3>
+          <p><b>August 4th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=4B3A0778-1C33-4E7D-A502-6817EF0C319F" target="_blank">here</a></u>.</b></p>
+          <p><b>August 5th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=06AB5611-72C8-47AE-B92A-4F2AE4910D44" target="_blank">here</a></u>.</b></p>
+        </div>
+
+        <div id="point-blank" class="anchor screening">
+          <h1>7:00PM Friday, August 4th; 4:00PM Saturday, August 5th</h1>
+          <img src="/images/2023summer/point-blank-1976.jpg" alt="Point Blank (1976) still">
+          <h2>Point Blank (1976)</h2>
+          <h3>John Boorman &middot; 92m &middot; 35mm</h3>
+          <p>Betrayed by the man he thought he knew best, Walker (Lee Marvin) returns to L.A. seeking revenge only to be caught up in an endless hunt for his ex-partner, Reese (John Vernon). Equal parts American genre film and European arthouse, <i>Point Blank</i> contains the nihilism of a man who has lost himself in the face of constant double-crossing and is plagued by the remnants of the Second World War. With stellar photography by Philip Lathrop, John Boorman’s major breakthrough is today an enshrined classic that helped to usher in the new age of hard-boiled American crime cinema.</p>
+          <p><b>August 4th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=4B3A0778-1C33-4E7D-A502-6817EF0C319F" target="_blank">here</a></u>.</b></p>
+          <p><b>August 5th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=06AB5611-72C8-47AE-B92A-4F2AE4910D44" target="_blank">here</a></u>.</b></p>
+        </div>
+
+        <div id="within-the-law" class="anchor screening">
+          <h1>4:00PM Friday, August 11th; 7:00PM Saturday, August 12th</h1>
+          <img src="/images/2023summer/within-the-law-1923.jpg" alt="Within the Law (1923) still">
+          <h2>Within the Law (1923)</h2>
+          <h3>Frank Lloyd &middot; 65m &middot; 35mm</h3>
+          <p><b>August 11th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=4B3A0778-1C33-4E7D-A502-6817EF0C319F" target="_blank">here</a></u>.</b></p>
+          <p><b>August 12th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=06AB5611-72C8-47AE-B92A-4F2AE4910D44" target="_blank">here</a></u>.</b></p>
+        </div>
+
+        <div id="once-upon-a-time-in-hollywood" class="anchor screening">
+          <h1>7:00PM Friday, August 11th; 4:00PM Saturday, August 12th</h1>
+          <img src="/images/2023summer/once-upon-a-time-in-hollywood-2019.jpg" alt="Once Upon a Time in Hollywood (2019) still">
+          <h2>Once Upon a Time in Hollywood (2019)</h2>
+          <h3>Quentin Tarantino &middot; 160m &middot; 35mm</h3>
+          <p>Okay, but seriously, let’s just have some fun with this last one. Rick Dalton (Leo DiCaprio) and his stunt double Cliff Booth (Brad Pitt) navigate the rapidly declining studio film industry as foreign and indie films seem more promising than ever before. Cliff and Rick rub elbows with all the So-Cal bigwigs and freaks: Sharon Tate, Polanski, Bruce Lee, Mama Cass, and a guy named Charlie Manson who seems to be planning something big. Tarantino’s chillest film to date, <i>Once Upon a Time in Hollywood</i> feels like a perfect summer day ... but remember, something creepy is always lurking in the night.</p>
+          <p><b>August 11th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=4B3A0778-1C33-4E7D-A502-6817EF0C319F" target="_blank">here</a></u>.</b></p>
+          <p><b>August 12th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=06AB5611-72C8-47AE-B92A-4F2AE4910D44" target="_blank">here</a></u>.</b></p>
         </div>
         
       </div>
