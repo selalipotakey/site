@@ -40,7 +40,7 @@
                       Carwash (6/30 @ 7:00PM || 7/1 @ 4:00PM)
                       </p>
                     </a>
-                    <p>Taking place on a single day of a happening Los Angeles car wash, Michael Schultz’s film is the perfect summer comedy encapsulating the zeitgeist of a rapidly changing American landscape. With an all-star lineup that includes Richard Pryor, Bill Duke, George Carlin, the Pointer Sisters, and Franklyn Ajaye, _Car Wash_ is a hilariously biting flick with an ineffable joie de vivre, and also a major milestone in ‘70s Black studio filmmaking.
+                    <p class="capsule fittext">Taking place on a single day of a happening Los Angeles car wash, Michael Schultz’s film is the perfect summer comedy encapsulating the zeitgeist of a rapidly changing American landscape. With an all-star lineup that includes Richard Pryor, Bill Duke, George Carlin, the Pointer Sisters, and Franklyn Ajaye, _Car Wash_ is a hilariously biting flick with an ineffable joie de vivre, and also a major milestone in ‘70s Black studio filmmaking.
                     </p>
                   </div>
               </li>
