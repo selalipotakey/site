@@ -33,7 +33,7 @@
         <div class="series-list">
 
           <div class="series-tile reverse">
-            <a href="/calendar/thursday"><img src="/images/2023summer/thursday.jpg" alt="No Hard Feelings (2023) still"></a>
+            <a href="/calendar/thursday"><img src="/images/2023summer/no-hard-feelings.jpg" alt="No Hard Feelings (2023) still"></a>
             <div class="series-text">
               <a href="/calendar/thursday">
                 <p class="title">Special Events</p>
@@ -42,7 +42,7 @@
           </div>
 
           <div class="series-tile">
-            <a href="/calendar/friday"><img src="/images/2023summer/a-star-is-born-1976.jpeg" alt="A Star is Born (1976) still"></a>
+            <a href="/calendar/friday"><img src="/images/2023summer/a-star-is-born-1976.jpg" alt="A Star is Born (1976) still"></a>
             <div class="series-text">
               <a href="/calendar/friday">
                 <p class="day">Fridays & Saturdays</p>
