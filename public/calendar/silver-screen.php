@@ -63,7 +63,7 @@
 
         <div id="welcome-to-la" class="anchor screening">
           <h1>7:00PM Friday, July 14th; 4:00PM Saturday, July 15th</h1>
-          <img src="/images/2023summer/welcome-to-la.jpg" alt="Welcome to L.A. (1976) still">
+          <img src="/images/2023summer/welcome-to-la-1976.jpg" alt="Welcome to L.A. (1976) still">
           <h2>Welcome to L.A. (1976)</h2>
           <h3>Alan Rudolph &middot; 106m &middot; DCP</h3>
           <p><b>July 14th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=4B3A0778-1C33-4E7D-A502-6817EF0C319F" target="_blank">here</a></u>.</b></p>
