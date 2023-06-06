@@ -52,6 +52,7 @@
           <img src="/images/2023summer/the-flaming-forest-1926.jpg" alt="The Flaming Forest (1926) still">
           <h2>The Flaming Forest (1926)</h2>
           <h3>Reginald Barker &middot; 70m &middot; 35mm</h3>
+          <p><i>Preserved by the Library of Cingress.</i></p>
         </div>
 
         <div id="clash-of-the-wolves" class="anchor screening">
@@ -59,6 +60,7 @@
           <img src="/images/2023summer/clash-of-the-wolves-1925.jpg" alt="Clash of the Wolves (1925) still">
           <h2>Clash of the Wolves (1925)</h2>
           <h3>Noel M. Smith &middot; 74m &middot; 35mm</h3>
+          <p><i>Preserved by the Library of Cingress.</i></p>
         </div>
 
         <div id="within-the-law" class="anchor screening">
@@ -66,6 +68,7 @@
           <img src="/images/2023summer/within-the-law-1923.jpg" alt="Within the Law (1923) still">
           <h2>Within the Law (1923)</h2>
           <h3>Frank Lloyd &middot; 65m &middot; 35mm</h3>
+          <p><i>Preserved by the Library of Cingress.</i></p>
         </div>
         
       </div>
