@@ -45,7 +45,7 @@
         <div id="carwash" class="anchor screening">
           <h1>7:00PM Friday, June 30th; 4:00PM Saturday, July 1st</h1>
           <img src="/images/2023summer/carwash-1976.jpg" alt="Carwash (1976) still">
-          <h2>Carwash (1976)</h2>
+          <h2>Car Wash (1976)</h2>
           <h3>Michael Schultz &middot; 97m &middot; 35mm</h3>
           <p>Taking place on a single day of a happening Los Angeles car wash, Michael Schultz’s film is the perfect summer comedy encapsulating the zeitgeist of a rapidly changing American landscape. With an all-star lineup that includes Richard Pryor, Bill Duke, George Carlin, the Pointer Sisters, and Franklyn Ajaye, <i>Car Wash</i> is a hilariously biting flick with an ineffable joie de vivre, and also a major milestone in ‘70s Black studio filmmaking.</p>
          </div>
