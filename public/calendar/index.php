@@ -42,7 +42,7 @@
           </div>
 
           <div class="series-tile">
-            <a href="/calendar/programmers-picks"><img src="/images/2023summer/the-flaming-forest-1926.jpg" alt="The Flaming Forest (1926) still"></a>
+            <a href="/calendar/programmers-picks"><img src="/images/2023summer/the-searchers-1956.jpg" alt="The Searchers (1956) still"></a>
             <div class="series-text">
               <a href="/calendar/programmers-picks">
                 <p class="title">Programmers' Picks</p>
