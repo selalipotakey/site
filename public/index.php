@@ -31,16 +31,16 @@
             <ul class="carousel__track">
 
               <li class="carousel__slide current-slide">
-                <a href="/calendar/silver-screen#the-long-goodbye">
-                  <img class="carousel__image" src="/images/2023summer/long-goodbye-carousel.jpg" alt="The Long Goodbye (1973) still">
+                <a href="/calendar/silver-screen#carwash">
+                  <img class="carousel__image" src="/images/2023summer/carwash-1976.jpg" alt="Carwash (1976) still">
                 </a>
                   <div class="description">
-                    <a href="/calendar/silver-screen#the-long-goodbye">
+                    <a href="/calendar/silver-screen#carwash">
                       <p class="event-title fittext">
-                      The Long Goodbye (6/23 @ 8:30PM || 6/24 @ 6:00PM)
+                      Car Wash (6/30 @ 7:00PM || 7/1 @ 4:00PM)
                       </p>
                     </a>
-                    <p class="capsule fittext"><i>The Long Goodbye</i> starts not with a bang, but with a vibe. Elliott Gould’s Philip Marlowe wanders through a 1973 L.A. laden with denizens who have little between their ears. In typical Robert Altman style, he sends Marlowe into a rabbit-hole of dead friends and strangers. Suspicion falls on Marlowe after an old friend’s wife is found dead, but this quickly becomes the least of his worries. Gangsters, alcoholic writers, and detox clinics all join Altman’s cavalcade symphony of Malibu vapidity.
+                    <p class="capsule fittext">Taking place on a single day of a happening Los Angeles car wash, Michael Schultz’s film is the perfect summer comedy encapsulating the zeitgeist of a rapidly changing American landscape. With an all-star lineup that includes Richard Pryor, Bill Duke, George Carlin, the Pointer Sisters, and Franklyn Ajaye, _Car Wash_ is a hilariously biting flick with an ineffable joie de vivre, and also a major milestone in ‘70s Black studio filmmaking.
                     </p>
                   </div>
               </li>
