@@ -11,10 +11,18 @@ import os
 # run the script and you're done!
 
 def main():
-    parent_directory = r"C:\Users\camer\docfilms-github\site\database"
+
+    # the file path to the ticketing_links/ directory on your local machine
+    parent_directory = r"/home/cameronpoe/Desktop/docfilms_site_container/site/database/ticketing_links"
+
+    # the file name of the text file you want the links written out to
+    # follow the format YYYY_quarter_ticketing_links.txt
     output_name = r"2023_spring_ticketing_links.txt"
 
+    # outputs a .txt file with just the URLs
     simple_links = True
+
+    # outputs a .txt file with the URLs formatted into an <a href=""></a> attribute in HTML (for easy copy-pasting into the webpages)
     website_hrefs = True
 
     if simple_links:
