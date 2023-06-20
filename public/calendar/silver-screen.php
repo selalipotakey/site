@@ -19,7 +19,6 @@
 
         <div class="text-section">
           <h1>Some Dreamers of the Silver Screen: L.A.'67-'76</h1>
-          <h3>Ticket links will be available soon.</h3>
         </div>
         
         <div id="bob-&-carol-&-ted-&-alice" class="anchor screening">

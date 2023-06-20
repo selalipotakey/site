@@ -19,7 +19,6 @@
 
         <div class="text-section">
           <h1>Programmers' Picks</h1>
-          <h3>Ticket links will be available soon.</h3>
         </div>
 
         <div id="nashville" class="anchor screening">
