@@ -13,7 +13,7 @@ import os
 def main():
 
     # the file path to the ticketing_links/ directory on your local machine
-    parent_directory = r"/Users/selalipotakey/docfilms-git/site/database/ticketing_ids.py"
+    parent_directory = r"/Users/selalipotakey/docfilms-git/site/database/ticketing_links"
 
     # the file name of the text file you want the links written out to
     # follow the format YYYY_quarter_ticketing_links.txt
