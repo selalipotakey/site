@@ -101,22 +101,14 @@
           <h3><i>$5 tickets, theater opens 30 minutes before the screening.</i></h3> 
         </div>
 
-        <div id="no-hard-feelings" class="anchor screening">
-          <h1>7:00PM Thursday, June 22nd</h1>
-          <img src="/images/2023spring/no-hard-feelings-2023.jpg" alt="No Hard Feelings (2023) still">
-          <h2>No Hard Feelings (2023)</h2>
-          <h3>Gene Stupnitsky &middot; 103m &middot; DCP</h3>
-          <p><b>June 22nd tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=4B3A0778-1C33-4E7D-A502-6817EF0C319F" target="_blank">here</a></u>.</b></p>
-        </div>
-
         <div id="bob-&-carol-&-ted-&-alice" class="anchor screening">
           <h1>6:00PM Friday, June 23rd; 8:30PM Saturday, June 24th</h1>
           <img src="/images/2023summer/bob-&-carol-&-ted-&-alice-1969.jpg" alt="Bob & Carol & Ted & Alice (1969) still">
           <h2>Bob & Carol & Ted & Alice (1969)</h2>
           <h3>Paul Mazursky &middot; 105m &middot; 35mm</h3>
-          <p>It's ‘69, and the sexual mores of the mid-century have been smashed open. X-rated films were winning Best Picture, hippies camped out at a dairy farm upstate, gays were smashing windows, and a little dramedy about an orgy won over audiences across America. Featuring a killer score by Quincy Jones, multiple unshaved chests, and an Oscar-nominated screenplay, Paul Mazursky’s _Bob & Carol & Ted & Alice_ was the little husband and wife-swapping film that could. Bob and Carol, liberated by a New Age retreat, plan a hookup with their more traditional pals, Ted and Alice, in this work of lasciviousness and surprising emotional honesty.</p>
-          <p><b>June 23rd tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=4B3A0778-1C33-4E7D-A502-6817EF0C319F" target="_blank">here</a></u>.</b></p>
-          <p><b>June 24th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=06AB5611-72C8-47AE-B92A-4F2AE4910D44" target="_blank">here</a></u>.</b></p>
+          <p>It's ‘69, and the sexual mores of the mid-century have been smashed open. X-rated films were winning Best Picture, hippies camped out at a dairy farm upstate, gays were smashing windows, and a little dramedy about an orgy won over audiences across America. Featuring a killer score by Quincy Jones, multiple unshaved chests, and an Oscar-nominated screenplay, Paul Mazursky’s <i>Bob & Carol & Ted & Alice</i> was the little husband and wife-swapping film that could. Bob and Carol, liberated by a New Age retreat, plan a hookup with their more traditional pals, Ted and Alice, in this work of lasciviousness and surprising emotional honesty.</p>
+          <p><b>June 23rd tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=D2BE94AF-D253-4DC1-9659-5DA1DF6B56F4" target="_blank">here</a></u>.</b></p>
+          <p><b>June 24th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=806A6E51-820A-4242-A0D5-A1595AC3446B" target="_blank">here</a></u>.</b></p>
         </div>
 
         <div id="the-long-goodbye" class="anchor screening">
@@ -125,8 +117,8 @@
           <h2>The Long Goodbye (1973)</h2>
           <h3>Robert Altman &middot; 112m &middot; DCP</h3>
           <p><i>The Long Goodbye</i> starts not with a bang, but with a vibe. Elliott Gould’s Philip Marlowe wanders through a 1973 L.A. laden with denizens who have little between their ears. In typical Robert Altman style, he sends Marlowe into a rabbit-hole of dead friends and strangers. Suspicion falls on Marlowe after an old friend’s wife is found dead, but this quickly becomes the least of his worries. Gangsters, alcoholic writers, and detox clinics all join Altman’s cavalcade symphony of Malibu vapidity.</p>
-          <p><b>June 23rd tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=4B3A0778-1C33-4E7D-A502-6817EF0C319F" target="_blank">here</a></u>.</b></p>
-          <p><b>June 24th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=06AB5611-72C8-47AE-B92A-4F2AE4910D44" target="_blank">here</a></u>.</b></p>
+          <p><b>June 23rd tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=02C5AA50-9084-4D90-AE41-99CCD1910AEB" target="_blank">here</a></u>.</b></p>
+          <p><b>June 24th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=1F73AA9C-BB39-42C8-8A1F-25A9E678C9EC" target="_blank">here</a></u>.</b></p>
         </div>
         
     </main>
