@@ -50,6 +50,15 @@
             </div>
           </div>
 
+          <div class="series-tile reverse">
+            <a href="/calendar/special-events"><img src="/images/2023summer/pacifiction-2022.jpg" alt="Pacifiction (2022) still"></a>
+            <div class="series-text">
+              <a href="/calendar/special-events">
+                <p class="title">Summer 2023 Special Events</p>
+              </a>
+            </div>
+          </div>
+
 <!--
 
           <div class="series-tile reverse">
