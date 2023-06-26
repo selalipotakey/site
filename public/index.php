@@ -101,24 +101,24 @@
           <h3><i>$5 tickets, theater opens 30 minutes before the screening.</i></h3> 
         </div>
 
-        <div id="bob-&-carol-&-ted-&-alice" class="anchor screening">
-          <h1>6:00PM Friday, June 23rd; 8:30PM Saturday, June 24th</h1>
-          <img src="/images/2023summer/bob-&-carol-&-ted-&-alice-1969.jpg" alt="Bob & Carol & Ted & Alice (1969) still">
-          <h2>Bob & Carol & Ted & Alice (1969)</h2>
-          <h3>Paul Mazursky &middot; 105m &middot; 35mm</h3>
-          <p>It's ‘69, and the sexual mores of the mid-century have been smashed open. X-rated films were winning Best Picture, hippies camped out at a dairy farm upstate, gays were smashing windows, and a little dramedy about an orgy won over audiences across America. Featuring a killer score by Quincy Jones, multiple unshaved chests, and an Oscar-nominated screenplay, Paul Mazursky’s <i>Bob & Carol & Ted & Alice</i> was the little husband and wife-swapping film that could. Bob and Carol, liberated by a New Age retreat, plan a hookup with their more traditional pals, Ted and Alice, in this work of lasciviousness and surprising emotional honesty.</p>
-          <p><b>June 23rd tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=D2BE94AF-D253-4DC1-9659-5DA1DF6B56F4" target="_blank">here</a></u>.</b></p>
-          <p><b>June 24th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=806A6E51-820A-4242-A0D5-A1595AC3446B" target="_blank">here</a></u>.</b></p>
+        <div id="nashville" class="anchor screening">
+          <h1>4:00PM Friday, June 30th; 7:00PM Saturday, June 31st</h1>
+          <img src="/images/2023summer/nashville-1975.jpg" alt="Nashville (1975) still">
+          <h2>Nashville (1975)</h2>
+          <h3>Robert Altman &middot; 159m &middot; DCP</h3>
+          <p>The damndest thing you ever saw. Widely regarded as one of Robert Altman’s best works, this all-American satirical epic spans religion, music, and politics. <i>NASHVILLE</i> covers the five days leading up to a presidential candidate gala through the eyes of a massive, 24-person ensemble cast, including an up-and-coming Lily Tomlin, Altman regular Shelley Duvall, and country singers Barbara Jean and Connie White. Bursting at the seams with plot lines, characters, and musical numbers, this grand story captures the county music capital in all its glory, and is the perfect way to ring in this 4th of July weekend.</p>
+          <p><b>June 30th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=FDE9F1F3-7CFA-4D23-9851-B05DED1A9F98" target="_blank">here</a></u>.</b></p>
+          <p><b>June 31st tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=572A111A-7201-4924-A133-DC42CBA70DAE" target="_blank">here</a></u>.</b></p>
         </div>
 
-        <div id="the-long-goodbye" class="anchor screening">
-          <h1>8:30PM Friday, June 23rd; 6:00PM Saturday, June 24th</h1>
-          <img src="/images/2023summer/the-long-goodbye-1973.jpg" alt="The Long Goodbye (1973) still">
-          <h2>The Long Goodbye (1973)</h2>
-          <h3>Robert Altman &middot; 112m &middot; DCP</h3>
-          <p><i>The Long Goodbye</i> starts not with a bang, but with a vibe. Elliott Gould’s Philip Marlowe wanders through a 1973 L.A. laden with denizens who have little between their ears. In typical Robert Altman style, he sends Marlowe into a rabbit-hole of dead friends and strangers. Suspicion falls on Marlowe after an old friend’s wife is found dead, but this quickly becomes the least of his worries. Gangsters, alcoholic writers, and detox clinics all join Altman’s cavalcade symphony of Malibu vapidity.</p>
-          <p><b>June 23rd tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=02C5AA50-9084-4D90-AE41-99CCD1910AEB" target="_blank">here</a></u>.</b></p>
-          <p><b>June 24th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=1F73AA9C-BB39-42C8-8A1F-25A9E678C9EC" target="_blank">here</a></u>.</b></p>
+        <div id="carwash" class="anchor screening">
+          <h1>7:00PM Friday, June 30th; 4:00PM Saturday, July 1st</h1>
+          <img src="/images/2023summer/carwash-1976.jpg" alt="Carwash (1976) still">
+          <h2>Car Wash (1976)</h2>
+          <h3>Michael Schultz &middot; 97m &middot; 35mm</h3>
+          <p>Taking place on a single day of a happening Los Angeles car wash, Michael Schultz’s film is the perfect summer comedy encapsulating the zeitgeist of a rapidly changing American landscape. With an all-star lineup that includes Richard Pryor, Bill Duke, George Carlin, the Pointer Sisters, and Franklyn Ajaye, <i>Car Wash</i> is a hilariously biting flick with an ineffable joie de vivre, and also a major milestone in ‘70s Black studio filmmaking.</p>
+          <p><b>June 30th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=8844C315-6CAC-412C-BFED-E28B63B8F2D9" target="_blank">here</a></u>.</b></p>
+          <p><b>July 1st tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=7D7F31FE-6E57-4F8D-91B6-59AB90010A9F" target="_blank">here</a></u>.</b></p>
         </div>
         
     </main>
