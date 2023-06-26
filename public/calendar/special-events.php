@@ -23,7 +23,7 @@
         
         <div id="pacifiction" class="anchor screening">
           <h1>7:00PM Thursday, June 29rd</h1>
-          <img src="/images/2023summer/pacifiction-2022.jpg" alt="Pacifiction (2022) still">
+          <img src="/images/2023summer/pacifiction-2022.jpeg" alt="Pacifiction (2022) still">
           <h2>Pacifiction (2022)</h2>
           <h3>Albert Serra &middot; 162m &middot; DCP</h3>
           <p>This post-colonial fever dream of French Polynesia was voted best film of 2022 by Cahiers du Cinéma and "suggests John le Carré by way of David Lynch," per A.O. Scott. It's a slow-burning character study of High Commissioner De Roller (Benoît Magimel, The Piano Teacher), who floats through all walks of island life with an easy charisma. But the lush Tahitian setting pulses with a sense of dread that only grows as political alliances shift and unravel.</p>
