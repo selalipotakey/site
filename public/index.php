@@ -114,12 +114,12 @@
         
         <div id="nashville" class="anchor screening">
           <a href="/calendar/programmers-picks#nashville">
-            <img src="/images/2023summer/nashville-1975.jpg" alt="Nashville (1975) still">
-            <h2>Nashville (1975)</h2>
+          <h2>Nashville (1975)</h2>  
+          <img src="/images/2023summer/nashville-1975.jpg" alt="Nashville (1975) still">
           </a>
           <h3>Robert Altman &middot; 159m &middot; DCP</h3>
           <p>The damndest thing you ever saw. Widely regarded as one of Robert Altman’s best works, this all-American satirical epic spans religion, music, and politics. <i>Nashville</i> covers the five days leading up to a presidential candidate gala through the eyes of a massive, 24-person ensemble cast, including an up-and-coming Lily Tomlin, Altman regular Shelley Duvall, and country singers Barbara Jean and Connie White. Bursting at the seams with plot lines, characters, and musical numbers, this grand story captures the county music capital in all its glory, and is the perfect way to ring in this 4th of July weekend.</p>
-          <p><b>June 30th &middot; 4:00PM &middot; <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=FDE9F1F3-7CFA-4D23-9851-B05DED1A9F98" target="_blank">tickets</a></u>.</b></p>
+          <p><b>June 30th &middot; <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=FDE9F1F3-7CFA-4D23-9851-B05DED1A9F98" target="_blank">4:00PM</a></u>.</b></p>
           <p><b>June 31st tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=572A111A-7201-4924-A133-DC42CBA70DAE" target="_blank">here</a></u>.</b></p>
         </div>
 
