@@ -117,7 +117,7 @@
             <img src="/images/2023summer/nashville-1975.jpg" alt="Nashville (1975) still">
             <h2>Nashville (1975)</h2>
           </a>
-          <h3>June 30th 4:00PM &middot; June 31st 7:00PM</h3>
+          <h4>June 30th 4:00PM &middot; June 31st 7:00PM</h4>
           <h3>Robert Altman &middot; 159m &middot; DCP</h3>
           <p>The damndest thing you ever saw. Widely regarded as one of Robert Altman’s best works, this all-American satirical epic spans religion, music, and politics. <i>Nashville</i> covers the five days leading up to a presidential candidate gala through the eyes of a massive, 24-person ensemble cast, including an up-and-coming Lily Tomlin, Altman regular Shelley Duvall, and country singers Barbara Jean and Connie White. Bursting at the seams with plot lines, characters, and musical numbers, this grand story captures the county music capital in all its glory, and is the perfect way to ring in this 4th of July weekend.</p>
           <p><b>June 30th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=FDE9F1F3-7CFA-4D23-9851-B05DED1A9F98" target="_blank">here</a></u>.</b></p>
