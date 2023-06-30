@@ -104,8 +104,8 @@
         <div id="pacifiction" class="anchor screening">
           <h1>7:00PM Thursday, June 29rd</h1>
           <a href="/calendar/special-events#pacifiction">
+            <h2>Pacifiction (2022)</h2>  
             <img src="/images/2023summer/pacifiction-2022.jpeg" alt="Pacifiction (2022) still">
-            <h2>Pacifiction (2022)</h2>
           </a>
           <h3>Albert Serra &middot; 162m &middot; DCP</h3>
           <p>This post-colonial fever dream of French Polynesia was voted best film of 2022 by Cahiers du Cinéma and "suggests John le Carré by way of David Lynch," per A.O. Scott. It's a slow-burning character study of High Commissioner De Roller (Benoît Magimel, The Piano Teacher), who floats through all walks of island life with an easy charisma. But the lush Tahitian setting pulses with a sense of dread that only grows as political alliances shift and unravel.</p>
@@ -114,9 +114,9 @@
         
         <div id="nashville" class="anchor screening">
           <a href="/calendar/programmers-picks#nashville">
-          <img src="/images/2023summer/nashville-1975.jpg" alt="Nashville (1975) still">
-          <h2>Nashville (1975)</h2>  
-        </a>
+            <h2>Nashville (1975)</h2>
+            <img src="/images/2023summer/nashville-1975.jpg" alt="Nashville (1975) still">  
+          </a>
           <h3>Robert Altman &middot; 159m &middot; DCP</h3>
           <p>The damndest thing you ever saw. Widely regarded as one of Robert Altman’s best works, this all-American satirical epic spans religion, music, and politics. <i>Nashville</i> covers the five days leading up to a presidential candidate gala through the eyes of a massive, 24-person ensemble cast, including an up-and-coming Lily Tomlin, Altman regular Shelley Duvall, and country singers Barbara Jean and Connie White. Bursting at the seams with plot lines, characters, and musical numbers, this grand story captures the county music capital in all its glory, and is the perfect way to ring in this 4th of July weekend.</p>
           <p><b>Tickets: June 30th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=FDE9F1F3-7CFA-4D23-9851-B05DED1A9F98" target="_blank">4:00PM</a></u>
@@ -127,8 +127,8 @@
         <div id="carwash" class="anchor screening">
           <h1>7:00PM Friday, June 30th; 4:00PM Saturday, July 1st</h1>
           <a href="/calendar/silver-screen#carwash">
+            <h2>Nashville (1975)</h2>  
             <img src="/images/2023summer/carwash-1976.jpg" alt="Carwash (1976) still">
-            <h2>Car Wash (1976)</h2>
           </a>
           <h3>Michael Schultz &middot; 97m &middot; 35mm</h3>
           <p>Taking place on a single day of a happening Los Angeles car wash, Michael Schultz’s film is the perfect summer comedy encapsulating the zeitgeist of a rapidly changing American landscape. With an all-star lineup that includes Richard Pryor, Bill Duke, George Carlin, the Pointer Sisters, and Franklyn Ajaye, <i>Car Wash</i> is a hilariously biting flick with an ineffable joie de vivre, and also a major milestone in ‘70s Black studio filmmaking.</p>
