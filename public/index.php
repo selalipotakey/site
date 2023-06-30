@@ -108,7 +108,7 @@
           </a>
           <h3>Albert Serra &middot; 162m &middot; DCP</h3>
           <p>This post-colonial fever dream of French Polynesia was voted best film of 2022 by Cahiers du Cinéma and "suggests John le Carré by way of David Lynch," per A.O. Scott. It's a slow-burning character study of High Commissioner De Roller (Benoît Magimel, The Piano Teacher), who floats through all walks of island life with an easy charisma. But the lush Tahitian setting pulses with a sense of dread that only grows as political alliances shift and unravel.</p>
-          <p><b>Tickets: June 29th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=87815B79-7B50-4FD8-A6E3-68D37D1B847E" target="_blank">7:00PM</a></u></b></p>
+          <p><b>This screening has passed.</b></p>
         </div>
         
         <div id="nashville" class="anchor screening">
