@@ -124,7 +124,6 @@
         </div>
 
         <div id="carwash" class="anchor screening">
-          <h1>7:00PM Friday, June 30th; 4:00PM Saturday, July 1st</h1>
           <a href="/calendar/silver-screen#carwash">
             <h2>Nashville (1975)</h2>  
             <img src="/images/2023summer/carwash-1976.jpg" alt="Carwash (1976) still">
