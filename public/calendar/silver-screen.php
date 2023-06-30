@@ -53,7 +53,7 @@
           <h3>Frank Pierson &middot; 139m &middot; DCP</h3>
           <p>Not the first nor the last time this story would be told, but the only version written by Joan Didion. Need we say more? Sure, why not. The 1976  <i>A Star Is Born</i> is the most recognizable adaptation of the classic story despite a generation accustomed to picturing Lady Gaga and Bradley Cooper in the starring roles. Barbara Streisand provides the tunes and Kris Kristofferson brings the raw '70s male sex appeal in the electric story of Esther and John: brought together by rock-and-roll, torn apart by alcohol and jealousy.</p>
           <p><b>Tickets: July 7th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=8487B4C1-76BC-4E7C-B926-227D5F3A07D3" target="_blank">7:00PM</a></u>
-                &middot; July 8th tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=2C2D693D-0E94-4AD3-ADA6-E00F5A229415" target="_blank">4:00PM</a></u>
+                &middot; July 8th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=2C2D693D-0E94-4AD3-ADA6-E00F5A229415" target="_blank">4:00PM</a></u>
           </b></p>
         </div>
 
@@ -82,7 +82,7 @@
           <h3>Frank Perry &middot; 99m &middot; 35mm</h3>
           <p>Here at Doc, we've got Didion fever! Rarely screened publicly, <i>Play It as It Lays</i> captures the sun-drenched burnout of the classic 1970 novel of the same name. Maria, a restless actress brilliantly played by Tuesday Weld, finds herself in a loveless marriage and near constant mental turmoil as she travels back and forth between L.A. and Vegas. Expressing a distinct Didion brand of nihilism, Frank Perry’s <i>Play It as It Lays</i> is perhaps the only big screen adaptation to do the late writer's work justice.</p>
           <p><b>Tickets: July 28th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=52C5E3BC-6C0A-4B88-8E20-BE8CE1DEAFA9" target="_blank">7:00PM</a></u>
-                &middot; July 29th<u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=C6C4F24A-84AF-4D30-8896-28F4CDED38CC" target="_blank">4:00PM</a></u>
+                &middot; July 29th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=C6C4F24A-84AF-4D30-8896-28F4CDED38CC" target="_blank">4:00PM</a></u>
           </b></p>
         </div>
 
