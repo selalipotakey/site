@@ -102,7 +102,6 @@
         </div>
 
         <div id="pacifiction" class="anchor screening">
-          <h1>7:00PM Thursday, June 29rd</h1>
           <a href="/calendar/special-events#pacifiction">
             <h2>Pacifiction (2022)</h2>  
             <img src="/images/2023summer/pacifiction-2022.jpeg" alt="Pacifiction (2022) still">
