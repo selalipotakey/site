@@ -125,7 +125,7 @@
 
         <div id="carwash" class="anchor screening">
           <a href="/calendar/silver-screen#carwash">
-            <h2>Nashville (1975)</h2>  
+            <h2>Car Wash (1976)</h2>  
             <img src="/images/2023summer/carwash-1976.jpg" alt="Carwash (1976) still">
           </a>
           <h3>Michael Schultz &middot; 97m &middot; 35mm</h3>
