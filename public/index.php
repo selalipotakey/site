@@ -97,7 +97,7 @@
       <div class="screenings-list">
 
         <div class="text-section">
-          <h1>This week at DocFilms: </h1>
+          <h1>This Week: </h1>
           <h3><i>$5 tickets, theater opens 30 minutes before the screening.</i></h3> 
         </div>
 
