@@ -42,9 +42,7 @@
           <img src="/images/2023summer/carwash-1976.jpg" alt="Carwash (1976) still">
           <h3>Michael Schultz &middot; 97m &middot; 35mm</h3>
           <p>Taking place on a single day of a happening Los Angeles car wash, Michael Schultz’s film is the perfect summer comedy encapsulating the zeitgeist of a rapidly changing American landscape. With an all-star lineup that includes Richard Pryor, Bill Duke, George Carlin, the Pointer Sisters, and Franklyn Ajaye, <i>Car Wash</i> is a hilariously biting flick with an ineffable joie de vivre, and also a major milestone in ‘70s Black studio filmmaking.</p>
-          <p><b>Tickets: June 30th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=8844C315-6CAC-412C-BFED-E28B63B8F2D9" target="_blank">7:00PM</a></u>
-                &middot; July 1st <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=7D7F31FE-6E57-4F8D-91B6-59AB90010A9F" target="_blank">4:00PM</a></u>
-          </b></p>
+          <p><b>This screening has passed.</a></u></b></p>
         </div>
 
         <div id="a-star-is-born" class="anchor screening">
