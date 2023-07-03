@@ -32,15 +32,15 @@
 
               <li class="carousel__slide current-slide">
                 <a href="/calendar/silver-screen#carwash">
-                  <img class="carousel__image" src="/images/2023summer/carwash-1976.jpg" alt="Carwash (1976) still">
+                  <img class="carousel__image" src="/images/2023summer/welcome-to-la-1976.jpg" alt="Welcome to L.A. (1976) still">
                 </a>
                   <div class="description">
-                    <a href="/calendar/silver-screen#carwash">
+                    <a href="/calendar/silver-screen#welcome-to-la">
                       <p class="event-title fittext">
-                      Car Wash (6/30 @ 7:00PM || 7/1 @ 4:00PM)
+                      Welcome to L.A. (7/14 @ 7:00PM || 7/15 @ 4:00PM)
                       </p>
                     </a>
-                    <p class="capsule fittext">Taking place on a single day of a happening Los Angeles car wash, Michael Schultz’s film is the perfect summer comedy encapsulating the zeitgeist of a rapidly changing American landscape. With an all-star lineup that includes Richard Pryor, Bill Duke, George Carlin, the Pointer Sisters, and Franklyn Ajaye, _Car Wash_ is a hilariously biting flick with an ineffable joie de vivre, and also a major milestone in ‘70s Black studio filmmaking.
+                    <p class="capsule fittext">Want to get to know the city of one-night stands? Here’s your ticket. Keith Carradine, Sissy Spacek, and Harvey Keitel will take you on quite the tour of trysts, affairs, break-ups, and flings. Ostensibly a tale of the music world’s hollow core and a great excuse to look at absolutely miserable hot people, <i>Welcome to L.A.</i> is the cinematic embodiment of <i>summertime sadness</i> (I had to do it). A directorial debut for Alan Rudolph, the AD who cut his teeth on <i>The Long Goodbye</i> and <i>Nashville</i>, this one explodes with a wicked ensemble and a memorable score.
                     </p>
                   </div>
               </li>
@@ -101,37 +101,22 @@
           <h3><i>$5 tickets, theater opens 30 minutes before the screening.</i></h3> 
         </div>
 
-        <div id="pacifiction" class="anchor screening">
-          <a href="/calendar/special-events#pacifiction">
-            <h2>Pacifiction (2022)</h2>  
-            <img src="/images/2023summer/pacifiction-2022.jpeg" alt="Pacifiction (2022) still">
-          </a>
-          <h3>Albert Serra &middot; 162m &middot; DCP</h3>
-          <p>This post-colonial fever dream of French Polynesia was voted best film of 2022 by Cahiers du Cinéma and "suggests John le Carré by way of David Lynch," per A.O. Scott. It's a slow-burning character study of High Commissioner De Roller (Benoît Magimel, The Piano Teacher), who floats through all walks of island life with an easy charisma. But the lush Tahitian setting pulses with a sense of dread that only grows as political alliances shift and unravel.</p>
-          <p><b>This screening has passed.</b></p>
-        </div>
-        
-        <div id="nashville" class="anchor screening">
-          <a href="/calendar/programmers-picks#nashville">
-            <h2>Nashville (1975)</h2>
-            <img src="/images/2023summer/nashville-1975.jpg" alt="Nashville (1975) still">  
-          </a>
-          <h3>Robert Altman &middot; 159m &middot; DCP</h3>
-          <p>The damndest thing you ever saw. Widely regarded as one of Robert Altman’s best works, this all-American satirical epic spans religion, music, and politics. <i>Nashville</i> covers the five days leading up to a presidential candidate gala through the eyes of a massive, 24-person ensemble cast, including an up-and-coming Lily Tomlin, Altman regular Shelley Duvall, and country singers Barbara Jean and Connie White. Bursting at the seams with plot lines, characters, and musical numbers, this grand story captures the county music capital in all its glory, and is the perfect way to ring in this 4th of July weekend.</p>
-          <p><b>Tickets: June 30th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=FDE9F1F3-7CFA-4D23-9851-B05DED1A9F98" target="_blank">4:00PM</a></u>
-                &middot; July 1st <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=572A111A-7201-4924-A133-DC42CBA70DAE" target="_blank">7:00PM</a></u>
+        <div id="the-searchers" class="anchor screening">
+          <h2>The Searchers (1956)</h2>
+          <img src="/images/2023summer/the-searchers-1956.jpg" alt="The Searchers (1956) still">
+          <h3>John Ford &middot; 119m &middot; 35mm</h3>
+          <p><b>Tickets: July 7th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=D6A9D413-22DB-4E48-AC52-8FD9A71B6C67" target="_blank">4:00PM</a></u>
+                &middot; July 8th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=5099868A-972E-4D2D-AC72-013A80917499" target="_blank">7:00PM</a></u>
           </b></p>
         </div>
-
-        <div id="carwash" class="anchor screening">
-          <a href="/calendar/silver-screen#carwash">
-            <h2>Car Wash (1976)</h2>  
-            <img src="/images/2023summer/carwash-1976.jpg" alt="Carwash (1976) still">
-          </a>
-          <h3>Michael Schultz &middot; 97m &middot; 35mm</h3>
-          <p>Taking place on a single day of a happening Los Angeles car wash, Michael Schultz’s film is the perfect summer comedy encapsulating the zeitgeist of a rapidly changing American landscape. With an all-star lineup that includes Richard Pryor, Bill Duke, George Carlin, the Pointer Sisters, and Franklyn Ajaye, <i>Car Wash</i> is a hilariously biting flick with an ineffable joie de vivre, and also a major milestone in ‘70s Black studio filmmaking.</p>
-          <p><b>Tickets: June 30th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=8844C315-6CAC-412C-BFED-E28B63B8F2D9" target="_blank">7:00PM</a></u>
-                &middot; July 1st <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=7D7F31FE-6E57-4F8D-91B6-59AB90010A9F" target="_blank">4:00PM</a></u>
+        
+        <div id="a-star-is-born" class="anchor screening">
+          <h2>A Star is Born (1976)</h2>
+          <img src="/images/2023summer/a-star-is-born-1976.jpg" alt="A Star is Born (1976) still">
+          <h3>Frank Pierson &middot; 139m &middot; DCP</h3>
+          <p>Not the first nor the last time this story would be told, but the only version written by Joan Didion. Need we say more? Sure, why not. The 1976  <i>A Star Is Born</i> is the most recognizable adaptation of the classic story despite a generation accustomed to picturing Lady Gaga and Bradley Cooper in the starring roles. Barbara Streisand provides the tunes and Kris Kristofferson brings the raw '70s male sex appeal in the electric story of Esther and John: brought together by rock-and-roll, torn apart by alcohol and jealousy.</p>
+          <p><b>Tickets: July 7th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=8487B4C1-76BC-4E7C-B926-227D5F3A07D3" target="_blank">7:00PM</a></u>
+                &middot; July 8th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=2C2D693D-0E94-4AD3-ADA6-E00F5A229415" target="_blank">4:00PM</a></u>
           </b></p>
         </div>
         
