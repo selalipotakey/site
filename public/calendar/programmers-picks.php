@@ -33,6 +33,7 @@
           <h2>The Searchers (1956)</h2>
           <img src="/images/2023summer/the-searchers-1956.jpg" alt="The Searchers (1956) still">
           <h3>John Ford &middot; 119m &middot; 35mm</h3>
+          <p>The beloved middle-child western sandwiched between the old-school and revisionists, The Searchers takes a decidedly complex look at one man’s delirious search for his abducted niece. Closer in spirit to Heart of Darkness than Gunsmoke, John Ford subtly questions the ideologies of the American west and its isolated inhabitants driven to humanity’s edge. With the mesmerizing imagery of Monument Valley as a backdrop for the likes of John Wayne and Natalie Wood, The Searchers serves as a touchstone for one of American cinema’s earliest reckonings with the racism of the American west(ern).</p>
           <p><b>Tickets: July 7th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=D6A9D413-22DB-4E48-AC52-8FD9A71B6C67" target="_blank">4:00PM</a></u>
                 &middot; July 8th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=5099868A-972E-4D2D-AC72-013A80917499" target="_blank">7:00PM</a></u>
           </b></p>
