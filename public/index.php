@@ -101,23 +101,23 @@
           <h3><i>$5 tickets, theater opens 30 minutes before the screening.</i></h3> 
         </div>
 
-        <div id="the-searchers" class="anchor screening">
-          <h2>The Searchers (1956)</h2>
-          <img src="/images/2023summer/the-searchers-1956.jpg" alt="The Searchers (1956) still">
-          <h3>John Ford &middot; 119m &middot; 35mm</h3>
-          <p>The beloved middle-child western sandwiched between the old-school and revisionists, The Searchers takes a decidedly complex look at one man’s delirious search for his abducted niece. Closer in spirit to Heart of Darkness than Gunsmoke, John Ford subtly questions the ideologies of the American west and its isolated inhabitants driven to humanity’s edge. With the mesmerizing imagery of Monument Valley as a backdrop for the likes of John Wayne and Natalie Wood, The Searchers serves as a touchstone for one of American cinema’s earliest reckonings with the racism of the American west(ern).</p>
-          <p><b>Tickets: July 7th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=D6A9D413-22DB-4E48-AC52-8FD9A71B6C67" target="_blank">4:00PM</a></u>
-                &middot; July 8th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=5099868A-972E-4D2D-AC72-013A80917499" target="_blank">7:00PM</a></u>
+        <div id="the-maltese-falcon" class="anchor screening">
+          <h2>The Maltese Falcon (1941)</h2>
+          <img src="/images/2023summer/the-maltese-falcon-1941.jpg" alt="The Maltese Falcon (1941) still">
+          <h3>John Huston &middot; 100m &middot; DCP</h3>
+          <p><i>The Maltese Falcon</i> follows private detective Sam Spade (Humphrey Bogart) as his search for the Maltese Falcon statuette entangles him in a web of deceit and murder. With a stellar cast including Mary Astor, Peter Lorre, and Sydney Greenstreet, the film is filled to the brim with twists, double-crosses, and moral ambiguity. Written and directed by John Huston, this film noir classic will provide the perfect escape from the summer heat with its chilling atmospheric cinematography and sharp dialogue. </p>
+          <p><b>Tickets: July 14th 4:00PM (Coming Soon)
+                &middot; July 15th 7:00PM (Coming Soon)
           </b></p>
         </div>
         
-        <div id="a-star-is-born" class="anchor screening">
-          <h2>A Star is Born (1976)</h2>
-          <img src="/images/2023summer/a-star-is-born-1976.jpg" alt="A Star is Born (1976) still">
-          <h3>Frank Pierson &middot; 139m &middot; DCP</h3>
-          <p>Not the first nor the last time this story would be told, but the only version written by Joan Didion. Need we say more? Sure, why not. The 1976  <i>A Star Is Born</i> is the most recognizable adaptation of the classic story despite a generation accustomed to picturing Lady Gaga and Bradley Cooper in the starring roles. Barbara Streisand provides the tunes and Kris Kristofferson brings the raw '70s male sex appeal in the electric story of Esther and John: brought together by rock-and-roll, torn apart by alcohol and jealousy.</p>
-          <p><b>Tickets: July 7th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=8487B4C1-76BC-4E7C-B926-227D5F3A07D3" target="_blank">7:00PM</a></u>
-                &middot; July 8th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=2C2D693D-0E94-4AD3-ADA6-E00F5A229415" target="_blank">4:00PM</a></u>
+        <div id="welcome-to-la" class="anchor screening">
+          <h2>Welcome to L.A. (1976)</h2>
+          <img src="/images/2023summer/welcome-to-la-1976.jpg" alt="Welcome to L.A. (1976) still">
+          <h3>Alan Rudolph &middot; 106m &middot; DCP</h3>
+          <p>Want to get to know the city of one-night stands? Here’s your ticket. Keith Carradine, Sissy Spacek, and Harvey Keitel will take you on quite the tour of trysts, affairs, break-ups, and flings. Ostensibly a tale of the music world’s hollow core and a great excuse to look at absolutely miserable hot people, <i>Welcome to L.A.</i> is the cinematic embodiment of <i>summertime sadness</i> (I had to do it). A directorial debut for Alan Rudolph, the AD who cut his teeth on <i>The Long Goodbye</i> and <i>Nashville</i>, this one explodes with a wicked ensemble and a memorable score.</p>
+          <p><b>Tickets: July 14th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=03E9A5AC-12E9-42DB-96AB-E1B77B35A7B8" target="_blank">7:00PM</a></u>
+                &middot; July 15th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=E7FA8C23-49B7-4B25-961C-7DE98BF6668A" target="_blank">4:00PM</a></u>
           </b></p>
         </div>
         

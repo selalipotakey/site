@@ -39,6 +39,16 @@
           </b></p>
         </div>
 
+        <div id="the-maltese-falcon" class="anchor screening">
+          <h2>The Maltese Falcon (1941)</h2>
+          <img src="/images/2023summer/the-maltese-falcon-1941.jpg" alt="The Maltese Falcon (1941) still">
+          <h3>John Huston &middot; 100m &middot; DCP</h3>
+          <p><i>The Maltese Falcon</i> follows private detective Sam Spade (Humphrey Bogart) as his search for the Maltese Falcon statuette entangles him in a web of deceit and murder. With a stellar cast including Mary Astor, Peter Lorre, and Sydney Greenstreet, the film is filled to the brim with twists, double-crosses, and moral ambiguity. Written and directed by John Huston, this film noir classic will provide the perfect escape from the summer heat with its chilling atmospheric cinematography and sharp dialogue. </p>
+          <p><b>Tickets: July 14th 4:00PM (Coming Soon)
+                &middot; July 15th 7:00PM (Coming Soon)
+          </b></p>
+        </div>
+
         <div id="meet-me-in-st-louis" class="anchor screening">
           <h2>Meet Me in St. Louis (1944)</h2>
           <img src="/images/2023summer/meet-me-in-st-louis-1944.jpg" alt="Meet Me in St. Louis (1944) still">
