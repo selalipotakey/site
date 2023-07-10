@@ -108,8 +108,8 @@
           </a>
           <h3>John Huston &middot; 100m &middot; DCP</h3>
           <p><i>The Maltese Falcon</i> follows private detective Sam Spade (Humphrey Bogart) as his search for the Maltese Falcon statuette entangles him in a web of deceit and murder. With a stellar cast including Mary Astor, Peter Lorre, and Sydney Greenstreet, the film is filled to the brim with twists, double-crosses, and moral ambiguity. Written and directed by John Huston, this film noir classic will provide the perfect escape from the summer heat with its chilling atmospheric cinematography and sharp dialogue. </p>
-          <p><b>Tickets: July 14th 4:00PM (Coming Soon)
-                &middot; July 15th 7:00PM (Coming Soon)
+          <p><b>Tickets: July 14th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=C9046F11-F6C4-470C-9B05-6AC4FB6084D4" target="_blank">4:00PM</a></u>
+                &middot; July 15th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=25C9D5AA-A800-4EE1-8CD7-8698A01D5460" target="_blank">7:00PM</a></u>
           </b></p>
         </div>
         

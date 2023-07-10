@@ -1,50 +1,17 @@
 Doc Films Quarter Pass Summer 2023:
 <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=4A3B9393-7E29-4609-A20F-AE81FD8C827A" target="_blank">here</a></u>.</b></p>
 
-Bob & Carol & Ted & Alice:
-<p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=D2BE94AF-D253-4DC1-9659-5DA1DF6B56F4" target="_blank">here</a></u>.</b></p>
-
-The Long Goodbye:
-<p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=02C5AA50-9084-4D90-AE41-99CCD1910AEB" target="_blank">here</a></u>.</b></p>
-
-The Long Goodbye:
-<p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=1F73AA9C-BB39-42C8-8A1F-25A9E678C9EC" target="_blank">here</a></u>.</b></p>
-
-Bob & Carol & Ted & Alice:
-<p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=806A6E51-820A-4242-A0D5-A1595AC3446B" target="_blank">here</a></u>.</b></p>
-
-Pacifiction:
-<p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=87815B79-7B50-4FD8-A6E3-68D37D1B847E" target="_blank">here</a></u>.</b></p>
-
-Nashville:
-<p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=FDE9F1F3-7CFA-4D23-9851-B05DED1A9F98" target="_blank">here</a></u>.</b></p>
-
-Car Wash:
-<p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=8844C315-6CAC-412C-BFED-E28B63B8F2D9" target="_blank">here</a></u>.</b></p>
-
-Car Wash:
-<p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=7D7F31FE-6E57-4F8D-91B6-59AB90010A9F" target="_blank">here</a></u>.</b></p>
-
-Nashville:
-<p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=572A111A-7201-4924-A133-DC42CBA70DAE" target="_blank">here</a></u>.</b></p>
-
-The Searchers:
-<p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=D6A9D413-22DB-4E48-AC52-8FD9A71B6C67" target="_blank">here</a></u>.</b></p>
-
-A Star Is Born:
-<p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=8487B4C1-76BC-4E7C-B926-227D5F3A07D3" target="_blank">here</a></u>.</b></p>
-
-A Star Is Born:
-<p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=2C2D693D-0E94-4AD3-ADA6-E00F5A229415" target="_blank">here</a></u>.</b></p>
-
-The Searchers:
-<p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=5099868A-972E-4D2D-AC72-013A80917499" target="_blank">here</a></u>.</b></p>
+The Maltese Falcon:
+<p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=C9046F11-F6C4-470C-9B05-6AC4FB6084D4" target="_blank">here</a></u>.</b></p>
 
 Welcome to L.A.:
 <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=03E9A5AC-12E9-42DB-96AB-E1B77B35A7B8" target="_blank">here</a></u>.</b></p>
 
 Welcome to LA:
 <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=E7FA8C23-49B7-4B25-961C-7DE98BF6668A" target="_blank">here</a></u>.</b></p>
+
+The Maltese Falcon:
+<p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=25C9D5AA-A800-4EE1-8CD7-8698A01D5460" target="_blank">here</a></u>.</b></p>
 
 Meet Me in St. Louis:
 <p><b>Tickets can be bought <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=FA70990D-3815-4375-8E96-8FB6C15A6AEC" target="_blank">here</a></u>.</b></p>
