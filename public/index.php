@@ -102,8 +102,10 @@
         </div>
 
         <div id="the-maltese-falcon" class="anchor screening">
-          <h2>The Maltese Falcon (1941)</h2>
-          <img src="/images/2023summer/the-maltese-falcon-1941.jpg" alt="The Maltese Falcon (1941) still">
+          <a href="/calendar/programmers-picks#the-maltese-falcon">
+            <h2>The Maltese Falcon (1941)</h2>
+            <img src="/images/2023summer/the-maltese-falcon-1941.jpg" alt="The Maltese Falcon (1941) still">
+          </a>
           <h3>John Huston &middot; 100m &middot; DCP</h3>
           <p><i>The Maltese Falcon</i> follows private detective Sam Spade (Humphrey Bogart) as his search for the Maltese Falcon statuette entangles him in a web of deceit and murder. With a stellar cast including Mary Astor, Peter Lorre, and Sydney Greenstreet, the film is filled to the brim with twists, double-crosses, and moral ambiguity. Written and directed by John Huston, this film noir classic will provide the perfect escape from the summer heat with its chilling atmospheric cinematography and sharp dialogue. </p>
           <p><b>Tickets: July 14th 4:00PM (Coming Soon)
@@ -112,8 +114,10 @@
         </div>
         
         <div id="welcome-to-la" class="anchor screening">
-          <h2>Welcome to L.A. (1976)</h2>
-          <img src="/images/2023summer/welcome-to-la-1976.jpg" alt="Welcome to L.A. (1976) still">
+          <a href="/calendar/silver-screen#welcome-to-la">  
+            <h2>Welcome to L.A. (1976)</h2>
+            <img src="/images/2023summer/welcome-to-la-1976.jpg" alt="Welcome to L.A. (1976) still">
+          </a>
           <h3>Alan Rudolph &middot; 106m &middot; DCP</h3>
           <p>Want to get to know the city of one-night stands? Here’s your ticket. Keith Carradine, Sissy Spacek, and Harvey Keitel will take you on quite the tour of trysts, affairs, break-ups, and flings. Ostensibly a tale of the music world’s hollow core and a great excuse to look at absolutely miserable hot people, <i>Welcome to L.A.</i> is the cinematic embodiment of <i>summertime sadness</i> (I had to do it). A directorial debut for Alan Rudolph, the AD who cut his teeth on <i>The Long Goodbye</i> and <i>Nashville</i>, this one explodes with a wicked ensemble and a memorable score.</p>
           <p><b>Tickets: July 14th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=03E9A5AC-12E9-42DB-96AB-E1B77B35A7B8" target="_blank">7:00PM</a></u>
