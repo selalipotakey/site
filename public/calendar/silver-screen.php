@@ -42,7 +42,7 @@
           <img src="/images/2023summer/carwash-1976.jpg" alt="Carwash (1976) still">
           <h3>Michael Schultz &middot; 97m &middot; 35mm</h3>
           <p>Taking place on a single day of a happening Los Angeles car wash, Michael Schultz’s film is the perfect summer comedy encapsulating the zeitgeist of a rapidly changing American landscape. With an all-star lineup that includes Richard Pryor, Bill Duke, George Carlin, the Pointer Sisters, and Franklyn Ajaye, <i>Car Wash</i> is a hilariously biting flick with an ineffable joie de vivre, and also a major milestone in ‘70s Black studio filmmaking.</p>
-          <p><b>This screening has passed.</a></u></b></p>
+          <p><b>This screening has passed.</b></p>
         </div>
 
         <div id="a-star-is-born" class="anchor screening">
@@ -50,9 +50,7 @@
           <img src="/images/2023summer/a-star-is-born-1976.jpg" alt="A Star is Born (1976) still">
           <h3>Frank Pierson &middot; 139m &middot; DCP</h3>
           <p>Not the first nor the last time this story would be told, but the only version written by Joan Didion. Need we say more? Sure, why not. The 1976  <i>A Star Is Born</i> is the most recognizable adaptation of the classic story despite a generation accustomed to picturing Lady Gaga and Bradley Cooper in the starring roles. Barbara Streisand provides the tunes and Kris Kristofferson brings the raw '70s male sex appeal in the electric story of Esther and John: brought together by rock-and-roll, torn apart by alcohol and jealousy.</p>
-          <p><b>Tickets: July 7th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=8487B4C1-76BC-4E7C-B926-227D5F3A07D3" target="_blank">7:00PM</a></u>
-                &middot; July 8th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=2C2D693D-0E94-4AD3-ADA6-E00F5A229415" target="_blank">4:00PM</a></u>
-          </b></p>
+          <p><b>This screening has passed.</b></p>
         </div>
 
         <div id="welcome-to-la" class="anchor screening">
