@@ -31,21 +31,6 @@
             <ul class="carousel__track">
 
               <li class="carousel__slide current-slide">
-                <a href="/calendar/silver-screen#carwash">
-                  <img class="carousel__image" src="/images/2023summer/welcome-to-la-1976.jpg" alt="Welcome to L.A. (1976) still">
-                </a>
-                  <div class="description">
-                    <a href="/calendar/silver-screen#welcome-to-la">
-                      <p class="event-title fittext">
-                      Welcome to L.A. (7/14 @ 7:00PM || 7/15 @ 4:00PM)
-                      </p>
-                    </a>
-                    <p class="capsule fittext">Want to get to know the city of one-night stands? Here’s your ticket. Keith Carradine, Sissy Spacek, and Harvey Keitel will take you on quite the tour of trysts, affairs, break-ups, and flings. Ostensibly a tale of the music world’s hollow core and a great excuse to look at absolutely miserable hot people, <i>Welcome to L.A.</i> is the cinematic embodiment of <i>summertime sadness</i> (I had to do it). A directorial debut for Alan Rudolph, the AD who cut his teeth on <i>The Long Goodbye</i> and <i>Nashville</i>, this one explodes with a wicked ensemble and a memorable score.
-                    </p>
-                  </div>
-              </li>
-
-              <li class="carousel__slide">
                 <a href="/calendar/silver-screen#beyond-the-valley-of-the-dolls">
                   <img class="carousel__image" src="/images/2023summer/beyond-the-valley-of-the-dolls-1970.jpg" alt="Beyond the Valley of the Dolls (1970) still">
                 </a>
@@ -68,6 +53,21 @@
                   <a href="/calendar/silver-screen#point-blank">
                     <p class="event-title fittext">
                       Point Blank (Fri. 8/4 @ 7:00PM || Sun. 8/5 @ 4:00PM)
+                    </p>
+                  </a>
+                  <p class="capsule fittext">Betrayed by the man he thought he knew best, Walker (Lee Marvin) returns to L.A. seeking revenge only to be caught up in an endless hunt for his ex-partner, Reese (John Vernon). Equal parts American genre film and European arthouse, <i>Point Blank</i> contains the nihilism of a man who has lost himself in the face of constant double-crossing and is plagued by the remnants of the Second World War. With stellar photography by Philip Lathrop, John Boorman’s major breakthrough is today an enshrined classic that helped to usher in the new age of hard-boiled American crime cinema.
+                  </p>
+                </div>
+              </li>
+
+              <li class="carousel__slide">
+                <a href="/calendar/silver-screen#once-upon-a-time-in-hollywood">
+                  <img class="carousel__image" src="/images/2023summer/once-upon-a-time-in-hollywood-2019.jpg" alt="Once Upon a Time in Hollywod (2019) still">
+                </a>
+                <div clas="description">
+                  <a href="/calendar/silver-screen#once-upon-a-time-in-hollywood">
+                    <p class="event-title fittext">
+                      Once Upon a Time in Hollywood (Fri. 8/11 @ 7:00PM || Sun. 8/12 @ 4:00PM)
                     </p>
                   </a>
                   <p class="capsule fittext">Betrayed by the man he thought he knew best, Walker (Lee Marvin) returns to L.A. seeking revenge only to be caught up in an endless hunt for his ex-partner, Reese (John Vernon). Equal parts American genre film and European arthouse, <i>Point Blank</i> contains the nihilism of a man who has lost himself in the face of constant double-crossing and is plagued by the remnants of the Second World War. With stellar photography by Philip Lathrop, John Boorman’s major breakthrough is today an enshrined classic that helped to usher in the new age of hard-boiled American crime cinema.
@@ -101,27 +101,26 @@
           <h3><i>$5 tickets, theater opens 30 minutes before the screening.</i></h3> 
         </div>
 
-        <div id="the-maltese-falcon" class="anchor screening">
-          <a href="/calendar/programmers-picks#the-maltese-falcon">
-            <h2>The Maltese Falcon (1941)</h2>
-            <img src="/images/2023summer/the-maltese-falcon-1941.jpg" alt="The Maltese Falcon (1941) still">
+        <div id="meet-me-in-st-louis" class="anchor screening">
+          <a href="/calendar/programmers-picks#meet-me-in-st-louis">
+            <h2>Meet Me in St. Louis (1944)</h2>
+            <img src="/images/2023summer/meet-me-in-st-louis-1944.jpg" alt="Meet Me in St. Louis (1944) still">
           </a>
-          <h3>John Huston &middot; 100m &middot; DCP</h3>
-          <p><i>The Maltese Falcon</i> follows private detective Sam Spade (Humphrey Bogart) as his search for the Maltese Falcon statuette entangles him in a web of deceit and murder. With a stellar cast including Mary Astor, Peter Lorre, and Sydney Greenstreet, the film is filled to the brim with twists, double-crosses, and moral ambiguity. Written and directed by John Huston, this film noir classic will provide the perfect escape from the summer heat with its chilling atmospheric cinematography and sharp dialogue. </p>
-          <p><b>Tickets: July 14th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=C9046F11-F6C4-470C-9B05-6AC4FB6084D4" target="_blank">4:00PM</a></u>
-                &middot; July 15th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=25C9D5AA-A800-4EE1-8CD7-8698A01D5460" target="_blank">7:00PM</a></u>
+          <h3>Vincent Minnelli &middot; 113m &middot; 35mm</h3>
+          <p><b>Tickets: July 21st <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=FA70990D-3815-4375-8E96-8FB6C15A6AEC" target="_blank">4:00PM</a></u>
+                &middot; July 22nd <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=CC2F20D7-E879-4976-906F-64AAB0209357" target="_blank">7:00PM</a></u>
           </b></p>
         </div>
         
-        <div id="welcome-to-la" class="anchor screening">
-          <a href="/calendar/silver-screen#welcome-to-la">  
-            <h2>Welcome to L.A. (1976)</h2>
-            <img src="/images/2023summer/welcome-to-la-1976.jpg" alt="Welcome to L.A. (1976) still">
+        <div id="beyond-the-valley-of-the-dolls" class="anchor screening">
+          <a href="/calendar/programmers-picks#meet-me-in-st-louis">
+            <h2>Beyond the Valley of the Dolls (1970)</h2>
+            <img src="/images/2023summer/beyond-the-valley-of-the-dolls-1970.jpg" alt="Beyond the Valley of the Dolls (1970) still">
           </a>
-          <h3>Alan Rudolph &middot; 106m &middot; DCP</h3>
-          <p>Want to get to know the city of one-night stands? Here’s your ticket. Keith Carradine, Sissy Spacek, and Harvey Keitel will take you on quite the tour of trysts, affairs, break-ups, and flings. Ostensibly a tale of the music world’s hollow core and a great excuse to look at absolutely miserable hot people, <i>Welcome to L.A.</i> is the cinematic embodiment of <i>summertime sadness</i> (I had to do it). A directorial debut for Alan Rudolph, the AD who cut his teeth on <i>The Long Goodbye</i> and <i>Nashville</i>, this one explodes with a wicked ensemble and a memorable score.</p>
-          <p><b>Tickets: July 14th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=03E9A5AC-12E9-42DB-96AB-E1B77B35A7B8" target="_blank">7:00PM</a></u>
-                &middot; July 15th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=E7FA8C23-49B7-4B25-961C-7DE98BF6668A" target="_blank">4:00PM</a></u>
+          <h3>Russ Meyer &middot; 109m &middot; DCP</h3>
+          <p>We tried writing a description of this one… and failed miserably. Here’s some of the original promo material instead: “The First Of The Shock Rock! Russ Meyer promised to make the wildest, craziest, funniest, the farthest out Musical-Horror-Sex-Comedy ever released. He has succeeded.” “This is not a sequel– there has NEVER been anything like it!” “The world is full of them, the super-octane girls who are old at twenty… if they get to be twenty.” “This time… they’ve really gone <i>Beyond the Valley of the Dolls</i>.”</p>
+          <p><b>Tickets: July 21st <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=D82B753B-5652-4635-AB5C-4CA4159DE83D" target="_blank">7:00PM</a></u>
+                &middot; July 22nd <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=C0B5BE27-9C48-475C-8516-82D54CDF6E77" target="_blank">4:00PM</a></u>
           </b></p>
         </div>
         
