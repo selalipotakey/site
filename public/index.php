@@ -31,21 +31,6 @@
             <ul class="carousel__track">
 
               <li class="carousel__slide current-slide">
-                <a href="/calendar/silver-screen#beyond-the-valley-of-the-dolls">
-                  <img class="carousel__image" src="/images/2023summer/beyond-the-valley-of-the-dolls-1970.jpg" alt="Beyond the Valley of the Dolls (1970) still">
-                </a>
-                  <div class="description">
-                    <a href="/calendar/silver-screen#beyond-the-valley-of-the-dolls">
-                      <p class="event-title fittext">
-                      Beyond the Valley of the Dolls (7/21 @ 7:00PM || 7/22 @ 4:00PM)
-                      </p>
-                    </a>
-                    <p class="capsule fittext">We tried writing a description of this one… and failed miserably. Here’s some of the original promo material instead: “The First Of The Shock Rock! Russ Meyer promised to make the wildest, craziest, funniest, the farthest out Musical-Horror-Sex-Comedy ever released. He has succeeded.” “This is not a sequel– there has NEVER been anything like it!” “The world is full of them, the super-octane girls who are old at twenty… if they get to be twenty.” “This time… they’ve really gone <i>Beyond the Valley of the Dolls</i>.”
-                    </p>
-                  </div>
-              </li>
-
-              <li class="carousel__slide">
                 <a href="/calendar/silver-screen#point-blank">
                   <img class="carousel__image" src="/images/2023summer/point-blank-1976.jpg" alt="Point Blank (1976) still">
                 </a>
@@ -84,7 +69,7 @@
 
           <div class="carousel__nav">
             <button class="carousel__indicator current-slide"></button>
-            <button class="carousel__indicator"></button>
+            <!--<button class="carousel__indicator"></button>-->
             <button class="carousel__indicator"></button>
           </div>
           
@@ -101,26 +86,27 @@
           <h3><i>$5 tickets, theater opens 30 minutes before the screening.</i></h3> 
         </div>
 
-        <div id="meet-me-in-st-louis" class="anchor screening">
-          <a href="/calendar/programmers-picks#meet-me-in-st-louis">
-            <h2>Meet Me in St. Louis (1944)</h2>
-            <img src="/images/2023summer/meet-me-in-st-louis-1944.jpg" alt="Meet Me in St. Louis (1944) still">
+        <div id="the-flaming-forest" class="anchor screening">
+          <a href="/calendar/programmers-picks#the-flaming-forest">
+          <h2>The Flaming Forest (1926)</h2>
+          <img src="/images/2023summer/the-flaming-forest-1926.jpg" alt="The Flaming Forest (1926) still">
           </a>
-          <h3>Vincent Minnelli &middot; 113m &middot; 35mm</h3>
-          <p><b>Tickets: July 21st <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=FA70990D-3815-4375-8E96-8FB6C15A6AEC" target="_blank">4:00PM</a></u>
-                &middot; July 22nd <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=CC2F20D7-E879-4976-906F-64AAB0209357" target="_blank">7:00PM</a></u>
+          <h3>Reginald Barker &middot; 70m &middot; 35mm</h3>
+          <p><i>Preserved by the Library of Congress.</i></p>
+          <p><b>Tickets: July 28th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=6BAAEE27-3BBC-42EC-A890-45BE3E939C55" target="_blank">4:00PM</a></u>
+                &middot; July 29th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=E5DB43D8-3E87-486A-996A-4C6C1A90FFA6" target="_blank">7:00PM</a></u>
           </b></p>
         </div>
         
-        <div id="beyond-the-valley-of-the-dolls" class="anchor screening">
-          <a href="/calendar/programmers-picks#meet-me-in-st-louis">
-            <h2>Beyond the Valley of the Dolls (1970)</h2>
-            <img src="/images/2023summer/beyond-the-valley-of-the-dolls-1970.jpg" alt="Beyond the Valley of the Dolls (1970) still">
+        <div id="play-it-as-it-lays" class="anchor screening">
+          <a href="/calendar/silver-screen#play-it-as-it-lays">  
+          <h2>Play It As It Lays (1972)</h2>
+          <img src="/images/2023summer/play-it-as-it-lays-1972.jpg" alt="Play It As It Lays (1972) still">
           </a>
-          <h3>Russ Meyer &middot; 109m &middot; DCP</h3>
-          <p>We tried writing a description of this one… and failed miserably. Here’s some of the original promo material instead: “The First Of The Shock Rock! Russ Meyer promised to make the wildest, craziest, funniest, the farthest out Musical-Horror-Sex-Comedy ever released. He has succeeded.” “This is not a sequel– there has NEVER been anything like it!” “The world is full of them, the super-octane girls who are old at twenty… if they get to be twenty.” “This time… they’ve really gone <i>Beyond the Valley of the Dolls</i>.”</p>
-          <p><b>Tickets: July 21st <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=D82B753B-5652-4635-AB5C-4CA4159DE83D" target="_blank">7:00PM</a></u>
-                &middot; July 22nd <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=C0B5BE27-9C48-475C-8516-82D54CDF6E77" target="_blank">4:00PM</a></u>
+          <h3>Frank Perry &middot; 99m &middot; 35mm</h3>
+          <p>Here at Doc, we've got Didion fever! Rarely screened publicly, <i>Play It as It Lays</i> captures the sun-drenched burnout of the classic 1970 novel of the same name. Maria, a restless actress brilliantly played by Tuesday Weld, finds herself in a loveless marriage and near constant mental turmoil as she travels back and forth between L.A. and Vegas. Expressing a distinct Didion brand of nihilism, Frank Perry’s <i>Play It as It Lays</i> is perhaps the only big screen adaptation to do the late writer's work justice.</p>
+          <p><b>Tickets: July 28th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=52C5E3BC-6C0A-4B88-8E20-BE8CE1DEAFA9" target="_blank">7:00PM</a></u>
+                &middot; July 29th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=C6C4F24A-84AF-4D30-8896-28F4CDED38CC" target="_blank">4:00PM</a></u>
           </b></p>
         </div>
         

@@ -86,7 +86,7 @@
         <div id="point-blank" class="anchor screening">
           <h2>Point Blank (1976)</h2>
           <img src="/images/2023summer/point-blank-1976.jpg" alt="Point Blank (1976) still">
-          <h3>John Boorman &middot; 92m &middot; 35mm</h3>
+          <h3>John Boorman &middot; 92m &middot; DCP</h3>
           <p>Betrayed by the man he thought he knew best, Walker (Lee Marvin) returns to L.A. seeking revenge only to be caught up in an endless hunt for his ex-partner, Reese (John Vernon). Equal parts American genre film and European arthouse, <i>Point Blank</i> contains the nihilism of a man who has lost himself in the face of constant double-crossing and is plagued by the remnants of the Second World War. With stellar photography by Philip Lathrop, John Boorman’s major breakthrough is today an enshrined classic that helped to usher in the new age of hard-boiled American crime cinema.</p>
           <p><b>Tickets: August 4th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=22666EE9-8AC2-4156-9B4E-48BE8626BC4C" target="_blank">7:00PM</a></u>
                 &middot; August 5th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=EFE529CF-49A4-4B33-BF53-9A673ED0AE58" target="_blank">4:00PM</a></u>
