@@ -1,6 +1,9 @@
-# I had to install pandas by using miniconda, then
-# I installed pandas using `conda install pandas` in the command line
-# also had to install openpyxl with `conda instsall openpyxl` in the command line
+##################################################################################################
+### This Python code was originally created by Cameron Poe (web chair '21 - '23) and is to be  ###
+### used for the Doc Films website and online screening database. Scroll down to the           ### 
+### `if __name__ == '__main__'` section for more instructions on how to use this code.         ###
+##################################################################################################
+
 import pandas as pd                             # allows excel imports
 from pprint import pprint                       # prints nested lists/dictionaries prettily 
 import os                                       # together with ROOT_DIR, easy way to construct file paths
@@ -892,19 +895,27 @@ def replace_italics(string, already_italicized=False):
 
     return new_string
 
+# `create_website` creates the .php page for each series in a given calendar for a quarter, i.e.
+#   it creates tuesday.php, wednesday.php with all the movies that play in that series. Stores 
+#   all the .php pages in a directory it creates in public/ titles calendar_files_YYYY_Quarter.
+# Inputs:
+#       formatted_capsules, list of XXX ??? 
 def create_website(formatted_capsules):
 
     quarter, year, series_dict = formatted_capsules
 
+    # Attempts to create the directory for the output files. If a directory already exists, it exits with a PathError
     calendar_dir_path = os.path.join(ROOT_DIR, '../public/calendar_files_%s_%s'%(year,quarter))
     try:
         os.mkdir(calendar_dir_path)
     except FileExistsError:
-        print('FIleExistsErorr: Directory `%s` already exists! Please check to make sure you aren\'t trying to overwrite anything important. Then delete directory and try again. Exiting...'%('calendar_%s%s'%(year,quarter)))
+        print('PathError: Directory `%s` already exists! Please check to make sure you aren\'t trying to overwrite anything important. Then delete directory and try again. Exiting...'%('calendar_%s%s'%(year,quarter)))
         exit()
 
+    # Loops through each series
     for slot in series_dict:
 
+        # Creates the name of the .php file by turning everything lowercase and replacing spaces with hyphens
         page_name = ''
         for piece in slot.strip().split():
             page_name += piece.lower() + '-'
@@ -1119,11 +1130,31 @@ def format_archived_screenings(sheetpath):
 
 if __name__ == "__main__":
 
-    quarter, year, exrows_capsules, exrows_series, capsules_path = 'Spring', 2023, 2, 1, r'C:\Users\camer\docfilms-github\site\database\capsules_spreadsheets\Spring 2023 Capsules 3.11.23.xlsx'
-    formatted_capsules = format_capsules_sheet(capsules_path, quarter, year, exrows_capsules, exrows_series, ticketing_urls=False)
-    create_website(formatted_capsules)
+    # This code two main things: it constructs pages for the website and modifies the database. 
+    # I've split this section of the Python code into different sections you can toggle with a Bool 
+    #   so that you can interact with different parts of the website/database without having to rewrite
+    #   the code too much to do so. Simply edit the different variables to the files/info you need for your process
 
-    # exit()
+    # Bool definitions to toggle 
+    CREATE_WEBSITE = True
+
+    # This section takes a capsules spreadsheet and quarter metadata to create .php pages for the website for a new
+    #   quarter's website.
+    if CREATE_WEBSITE:
+        
+        # Change the quarter's metadata here each time:
+        quarter = 'Spring'          # String, The current quarter, to be used in the directory name of outputted files and XXX ???
+        year = 2023                 # Int, The current year, to be used in the directorry name of outputted files and XXX ???
+        exrows_capsules = 2         # Int, The number of example rows in the movies section of the capsules spreadsheet to skip (to skip).
+        exrows_series = 1           # Int, The number of example rows in the series info section of the capsules spreadsheet (to skip).
+        capsules_path = r'/home/cameronpoe/Desktop/docfilms_site_container/site/database/capsules_spreadsheets/Spring 2023 Capsules.xlsx'         # String, The filepath of the .xlsx capsules file on the user's computer.
+        ticketing_urls = True       # Bool, whether the capsules spreadsheet has ticketing URLs in the URL column
+        
+        # Takes the metadata and .xlsx capsules file and formats the information for easy use for both database and website.
+        formatted_capsules = format_capsules_sheet(capsules_path, quarter, year, exrows_capsules, exrows_series, ticketing_urls)
+        
+        # Function that actually creates the .php files.
+        create_website(formatted_capsules)
     
     # format_archived_screenings(r'C:\Users\camer\docfilms-github\site\database\2022-09-05-archive-screenings-for-database.xlsx')
 
