@@ -58,9 +58,7 @@
           <img src="/images/2023summer/welcome-to-la-1976.jpg" alt="Welcome to L.A. (1976) still">
           <h3>Alan Rudolph &middot; 106m &middot; DCP</h3>
           <p>Want to get to know the city of one-night stands? Here’s your ticket. Keith Carradine, Sissy Spacek, and Harvey Keitel will take you on quite the tour of trysts, affairs, break-ups, and flings. Ostensibly a tale of the music world’s hollow core and a great excuse to look at absolutely miserable hot people, <i>Welcome to L.A.</i> is the cinematic embodiment of <i>summertime sadness</i> (I had to do it). A directorial debut for Alan Rudolph, the AD who cut his teeth on <i>The Long Goodbye</i> and <i>Nashville</i>, this one explodes with a wicked ensemble and a memorable score.</p>
-          <p><b>Tickets: July 14th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=03E9A5AC-12E9-42DB-96AB-E1B77B35A7B8" target="_blank">7:00PM</a></u>
-                &middot; July 15th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=E7FA8C23-49B7-4B25-961C-7DE98BF6668A" target="_blank">4:00PM</a></u>
-          </b></p>
+          <p><b>This screening has passed.</b></p>
         </div>
 
         <div id="beyond-the-valley-of-the-dolls" class="anchor screening">
@@ -68,9 +66,7 @@
           <img src="/images/2023summer/beyond-the-valley-of-the-dolls-1970.jpg" alt="Beyond the Valley of the Dolls (1970) still">
           <h3>Russ Meyer &middot; 109m &middot; DCP</h3>
           <p>We tried writing a description of this one… and failed miserably. Here’s some of the original promo material instead: “The First Of The Shock Rock! Russ Meyer promised to make the wildest, craziest, funniest, the farthest out Musical-Horror-Sex-Comedy ever released. He has succeeded.” “This is not a sequel– there has NEVER been anything like it!” “The world is full of them, the super-octane girls who are old at twenty… if they get to be twenty.” “This time… they’ve really gone <i>Beyond the Valley of the Dolls</i>.”</p>
-          <p><b>Tickets: July 21st <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=D82B753B-5652-4635-AB5C-4CA4159DE83D" target="_blank">7:00PM</a></u>
-                &middot; July 22nd <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=C0B5BE27-9C48-475C-8516-82D54CDF6E77" target="_blank">4:00PM</a></u>
-          </b></p>
+          <p><b>This screening has passed.</b></p>
         </div>
 
         <div id="play-it-as-it-lays" class="anchor screening">
@@ -78,9 +74,7 @@
           <img src="/images/2023summer/play-it-as-it-lays-1972.jpg" alt="Play It As It Lays (1972) still">
           <h3>Frank Perry &middot; 99m &middot; 35mm</h3>
           <p>Here at Doc, we've got Didion fever! Rarely screened publicly, <i>Play It as It Lays</i> captures the sun-drenched burnout of the classic 1970 novel of the same name. Maria, a restless actress brilliantly played by Tuesday Weld, finds herself in a loveless marriage and near constant mental turmoil as she travels back and forth between L.A. and Vegas. Expressing a distinct Didion brand of nihilism, Frank Perry’s <i>Play It as It Lays</i> is perhaps the only big screen adaptation to do the late writer's work justice.</p>
-          <p><b>Tickets: July 28th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=52C5E3BC-6C0A-4B88-8E20-BE8CE1DEAFA9" target="_blank">7:00PM</a></u>
-                &middot; July 29th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=C6C4F24A-84AF-4D30-8896-28F4CDED38CC" target="_blank">4:00PM</a></u>
-          </b></p>
+          <p><b>This screening has passed.</b></p>
         </div>
 
         <div id="point-blank" class="anchor screening">

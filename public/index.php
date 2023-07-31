@@ -86,27 +86,28 @@
           <h3><i>$5 tickets, theater opens 30 minutes before the screening.</i></h3> 
         </div>
 
-        <div id="the-flaming-forest" class="anchor screening">
-          <a href="/calendar/programmers-picks#the-flaming-forest">
-          <h2>The Flaming Forest (1926)</h2>
-          <img src="/images/2023summer/the-flaming-forest-1926.jpg" alt="The Flaming Forest (1926) still">
+        <div id="clash-of-the-wolves" class="anchor screening">
+          <a href="/calendar/programmers-picks#clash-of-the-wolves">  
+          <h2>Clash of the Wolves (1925)</h2>
+          <img src="/images/2023summer/clash-of-the-wolves-1925.jpg" alt="Clash of the Wolves (1925) still">
           </a>
-          <h3>Reginald Barker &middot; 70m &middot; 35mm</h3>
+          <h3>Noel M. Smith &middot; 74m &middot; 35mm</h3>
           <p><i>Preserved by the Library of Congress.</i></p>
-          <p><b>Tickets: July 28th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=6BAAEE27-3BBC-42EC-A890-45BE3E939C55" target="_blank">4:00PM</a></u>
-                &middot; July 29th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=E5DB43D8-3E87-486A-996A-4C6C1A90FFA6" target="_blank">7:00PM</a></u>
+          <p>No better way to spend the dog days of summer! Shot on location in what would later become Joshua Tree National Park, <i>THE CLASH OF THE WOLVES</i> tells the story of halfbreed alpha wolf Lobo and borax prospector Dave Weston, who become best friends and butt heads with William “Borax” Horton, the scheming local chemist looking to nab Dave’s newest borax claim. Starring beloved canine star Rin Tin Tin (he does his own stunts!) in his first comedic role, <i>THE CLASH OF THE WOLVES<i> is the silent era predecessor for modern stories of man’s best friend.</p>
+          <p><b>Tickets: August 4th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=42939F3B-150A-434C-B1DB-68EF1AD246DF" target="_blank">4:00PM</a></u>
+                &middot; August 5th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=4F4F6223-07E8-42DF-B1BD-3645C2B48C4C" target="_blank">7:00PM</a></u>
           </b></p>
         </div>
         
-        <div id="play-it-as-it-lays" class="anchor screening">
-          <a href="/calendar/silver-screen#play-it-as-it-lays">  
-          <h2>Play It As It Lays (1972)</h2>
-          <img src="/images/2023summer/play-it-as-it-lays-1972.jpg" alt="Play It As It Lays (1972) still">
+        <div id="point-blank" class="anchor screening">
+          <a href="/calendar/silver-screen#point-blank">
+          <h2>Point Blank (1976)</h2>
+          <img src="/images/2023summer/point-blank-1976.jpg" alt="Point Blank (1976) still">
           </a>
-          <h3>Frank Perry &middot; 99m &middot; 35mm</h3>
-          <p>Here at Doc, we've got Didion fever! Rarely screened publicly, <i>Play It as It Lays</i> captures the sun-drenched burnout of the classic 1970 novel of the same name. Maria, a restless actress brilliantly played by Tuesday Weld, finds herself in a loveless marriage and near constant mental turmoil as she travels back and forth between L.A. and Vegas. Expressing a distinct Didion brand of nihilism, Frank Perry’s <i>Play It as It Lays</i> is perhaps the only big screen adaptation to do the late writer's work justice.</p>
-          <p><b>Tickets: July 28th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=52C5E3BC-6C0A-4B88-8E20-BE8CE1DEAFA9" target="_blank">7:00PM</a></u>
-                &middot; July 29th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=C6C4F24A-84AF-4D30-8896-28F4CDED38CC" target="_blank">4:00PM</a></u>
+          <h3>John Boorman &middot; 92m &middot; DCP</h3>
+          <p>Betrayed by the man he thought he knew best, Walker (Lee Marvin) returns to L.A. seeking revenge only to be caught up in an endless hunt for his ex-partner, Reese (John Vernon). Equal parts American genre film and European arthouse, <i>Point Blank</i> contains the nihilism of a man who has lost himself in the face of constant double-crossing and is plagued by the remnants of the Second World War. With stellar photography by Philip Lathrop, John Boorman’s major breakthrough is today an enshrined classic that helped to usher in the new age of hard-boiled American crime cinema.</p>
+          <p><b>Tickets: August 4th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=22666EE9-8AC2-4156-9B4E-48BE8626BC4C" target="_blank">7:00PM</a></u>
+                &middot; August 5th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=EFE529CF-49A4-4B33-BF53-9A673ED0AE58" target="_blank">4:00PM</a></u>
           </b></p>
         </div>
         

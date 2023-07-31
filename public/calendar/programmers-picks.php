@@ -42,18 +42,14 @@
           <img src="/images/2023summer/the-maltese-falcon-1941.jpg" alt="The Maltese Falcon (1941) still">
           <h3>John Huston &middot; 100m &middot; DCP</h3>
           <p><i>The Maltese Falcon</i> follows private detective Sam Spade (Humphrey Bogart) as his search for the Maltese Falcon statuette entangles him in a web of deceit and murder. With a stellar cast including Mary Astor, Peter Lorre, and Sydney Greenstreet, the film is filled to the brim with twists, double-crosses, and moral ambiguity. Written and directed by John Huston, this film noir classic will provide the perfect escape from the summer heat with its chilling atmospheric cinematography and sharp dialogue. </p>
-          <p><b>Tickets: July 14th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=C9046F11-F6C4-470C-9B05-6AC4FB6084D4" target="_blank">4:00PM</a></u>
-                &middot; July 15th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=25C9D5AA-A800-4EE1-8CD7-8698A01D5460" target="_blank">7:00PM</a></u>
-          </b></p>
+          <p><b>This screening has passed.</b></p>
         </div>
 
         <div id="meet-me-in-st-louis" class="anchor screening">
           <h2>Meet Me in St. Louis (1944)</h2>
           <img src="/images/2023summer/meet-me-in-st-louis-1944.jpg" alt="Meet Me in St. Louis (1944) still">
           <h3>Vincent Minnelli &middot; 113m &middot; 35mm</h3>
-          <p><b>Tickets: July 21st <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=FA70990D-3815-4375-8E96-8FB6C15A6AEC" target="_blank">4:00PM</a></u>
-                &middot; July 22nd <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=CC2F20D7-E879-4976-906F-64AAB0209357" target="_blank">7:00PM</a></u>
-          </b></p>
+          <p><b>This screening has passed.</b></p>
         </div>
 
         <div id="the-flaming-forest" class="anchor screening">
@@ -61,9 +57,7 @@
           <img src="/images/2023summer/the-flaming-forest-1926.jpg" alt="The Flaming Forest (1926) still">
           <h3>Reginald Barker &middot; 70m &middot; 35mm</h3>
           <p><i>Preserved by the Library of Congress.</i></p>
-          <p><b>Tickets: July 28th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=6BAAEE27-3BBC-42EC-A890-45BE3E939C55" target="_blank">4:00PM</a></u>
-                &middot; July 29th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=E5DB43D8-3E87-486A-996A-4C6C1A90FFA6" target="_blank">7:00PM</a></u>
-          </b></p>
+          <p><b>This screening has passed.</b></p>
         </div>
 
         <div id="clash-of-the-wolves" class="anchor screening">
