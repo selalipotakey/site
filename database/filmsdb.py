@@ -1050,13 +1050,13 @@ def create_website(formatted_capsules):
             
             f.write('''
         <div class="screening">
-          <h1>%s</h1>
-          <img src="%s" alt="%s still">
           <h2>%s</h2>
+          <img src="%s" alt="%s still">
           <h3>%s &middot; %s &middot; %s</h3>
-          <p>%s</p>%s%s
+          %s<p>%s</p>%s
         </div>
-        '''%(showtime_string, image_path, title_string, title_string, director_string, runtime_string, format_string, capsule, pub_notes_string, ticketing_string))
+        '''%(title_string, image_path, title_string, director_string, runtime_string, format_string, pub_notes_string, capsule, ticketing_string))
+            #%(showtime_string, image_path, title_string, title_string, director_string, runtime_string, format_string, capsule, pub_notes_string, ticketing_string))
 
         f.write('''
       </div>
