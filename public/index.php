@@ -45,6 +45,21 @@
                 </div>
               </li>
 
+              <li class="carousel__slide">
+                <a href="/calendar/programmers-picks#within-the-law">
+                  <img class="carousel__image" src="/images/2023summer/within-the-law-1923.jpg" alt="Within the Law (1923) still">
+                </a>
+                <div clas="description">
+                  <a href="/calendar/programmers-picks#within-the-law">
+                    <p class="event-title fittext">
+                      Within the Law (Fri. 8/11 @ 4:00PM || Sun. 8/12 @ 7:00PM)
+                    </p>
+                  </a>
+                  <p class="capsule fittext">Directed by one of the founding members of the Academy of Motion Picture Arts and Sciences, WITHIN THE LAW centers Mary Turner, a courageous woman who vows to take vengeance on those who had her wrongfully imprisoned for a crime she did not commit. Norma Talmadge, one of the most popular idols of the silent era and a box-office powerhouse of the early 1920s, leads this silent era melodrama.</p>
+                  </p>
+                </div>
+              </li>
+
             </ul>
           </div>
 
@@ -54,7 +69,7 @@
 
           <div class="carousel__nav">
             <button class="carousel__indicator current-slide"></button>
-            <!--<button class="carousel__indicator"></button>-->
+            <button class="carousel__indicator"></button>
             <!--<button class="carousel__indicator"></button>-->
           </div>
           
@@ -72,7 +87,7 @@
         </div>
 
         <div id="within-the-law" class="anchor screening">
-          <a href="/calendar/programmers-picks#within-the-law-1923">
+          <a href="/calendar/programmers-picks#within-the-law">
             <h2>Within the Law (1923)</h2>
             <img src="/images/2023summer/within-the-law-1923.jpg" alt="Within the Law (1923) still">
           </a>
