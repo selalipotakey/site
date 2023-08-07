@@ -31,21 +31,6 @@
             <ul class="carousel__track">
 
               <li class="carousel__slide current-slide">
-                <a href="/calendar/silver-screen#point-blank">
-                  <img class="carousel__image" src="/images/2023summer/point-blank-1976.jpg" alt="Point Blank (1976) still">
-                </a>
-                <div clas="description">
-                  <a href="/calendar/silver-screen#point-blank">
-                    <p class="event-title fittext">
-                      Point Blank (Fri. 8/4 @ 7:00PM || Sun. 8/5 @ 4:00PM)
-                    </p>
-                  </a>
-                  <p class="capsule fittext">Betrayed by the man he thought he knew best, Walker (Lee Marvin) returns to L.A. seeking revenge only to be caught up in an endless hunt for his ex-partner, Reese (John Vernon). Equal parts American genre film and European arthouse, <i>Point Blank</i> contains the nihilism of a man who has lost himself in the face of constant double-crossing and is plagued by the remnants of the Second World War. With stellar photography by Philip Lathrop, John Boorman’s major breakthrough is today an enshrined classic that helped to usher in the new age of hard-boiled American crime cinema.
-                  </p>
-                </div>
-              </li>
-
-              <li class="carousel__slide">
                 <a href="/calendar/silver-screen#once-upon-a-time-in-hollywood">
                   <img class="carousel__image" src="/images/2023summer/once-upon-a-time-in-hollywood-2019.jpg" alt="Once Upon a Time in Hollywod (2019) still">
                 </a>
@@ -69,8 +54,8 @@
 
           <div class="carousel__nav">
             <button class="carousel__indicator current-slide"></button>
-            <!--<button class="carousel__indicator"></button>,,,-->
-            <button class="carousel__indicator"></button>
+            <!--<button class="carousel__indicator"></button>-->
+            <!--<button class="carousel__indicator"></button>-->
           </div>
           
         </div>
@@ -86,28 +71,28 @@
           <h3><i>$5 tickets, theater opens 30 minutes before the screening.</i></h3> 
         </div>
 
-        <div id="clash-of-the-wolves" class="anchor screening">
-          <a href="/calendar/programmers-picks#clash-of-the-wolves">  
-          <h2>Clash of the Wolves (1925)</h2>
-          <img src="/images/2023summer/clash-of-the-wolves-1925.jpg" alt="Clash of the Wolves (1925) still">
+        <div id="within-the-law" class="anchor screening">
+          <a href="/calendar/programmers-picks#within-the-law-1923">
+            <h2>Within the Law (1923)</h2>
+            <img src="/images/2023summer/within-the-law-1923.jpg" alt="Within the Law (1923) still">
           </a>
-          <h3>Noel M. Smith &middot; 74m &middot; 35mm</h3>
+          <h3>Frank Lloyd &middot; 65m &middot; 35mm</h3>
           <p><i>Preserved by the Library of Congress.</i></p>
-          <p>No better way to spend the dog days of summer! Shot on location in what would later become Joshua Tree National Park, <i>THE CLASH OF THE WOLVES</i> tells the story of halfbreed alpha wolf Lobo and borax prospector Dave Weston, who become best friends and butt heads with William “Borax” Horton, the scheming local chemist looking to nab Dave’s newest borax claim. Starring beloved canine star Rin Tin Tin (he does his own stunts!) in his first comedic role, <i>THE CLASH OF THE WOLVES<i> is the silent era predecessor for modern stories of man’s best friend.</p>
-          <p><b>Tickets: August 4th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=42939F3B-150A-434C-B1DB-68EF1AD246DF" target="_blank">4:00PM</a></u>
-                &middot; August 5th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=4F4F6223-07E8-42DF-B1BD-3645C2B48C4C" target="_blank">7:00PM</a></u>
+          <p>Directed by one of the founding members of the Academy of Motion Picture Arts and Sciences, WITHIN THE LAW centers Mary Turner, a courageous woman who vows to take vengeance on those who had her wrongfully imprisoned for a crime she did not commit. Norma Talmadge, one of the most popular idols of the silent era and a box-office powerhouse of the early 1920s, leads this silent era melodrama.</p>
+          <p><b>Tickets: August 11th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=F54042DE-9031-4614-9610-9AA98AE4E1C5" target="_blank">4:00PM</a></u>
+                &middot; August 12th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=909F7A26-0197-4A57-97A9-2AE53FDC16FC" target="_blank">7:00PM</a></u>
           </b></p>
         </div>
         
-        <div id="point-blank" class="anchor screening">
-          <a href="/calendar/silver-screen#point-blank">
-          <h2>Point Blank (1976)</h2>
-          <img src="/images/2023summer/point-blank-1976.jpg" alt="Point Blank (1976) still">
+        <div id="once-upon-a-time-in-hollywood" class="anchor screening">
+          <a href="/calendar/silver-screen#once-upon-a-time-in-hollywood">
+            <h2>Once Upon a Time in Hollywood (2019)</h2>
+            <img src="/images/2023summer/once-upon-a-time-in-hollywood-2019.jpg" alt="Once Upon a Time in Hollywood (2019) still">
           </a>
-          <h3>John Boorman &middot; 92m &middot; DCP</h3>
-          <p>Betrayed by the man he thought he knew best, Walker (Lee Marvin) returns to L.A. seeking revenge only to be caught up in an endless hunt for his ex-partner, Reese (John Vernon). Equal parts American genre film and European arthouse, <i>Point Blank</i> contains the nihilism of a man who has lost himself in the face of constant double-crossing and is plagued by the remnants of the Second World War. With stellar photography by Philip Lathrop, John Boorman’s major breakthrough is today an enshrined classic that helped to usher in the new age of hard-boiled American crime cinema.</p>
-          <p><b>Tickets: August 4th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=22666EE9-8AC2-4156-9B4E-48BE8626BC4C" target="_blank">7:00PM</a></u>
-                &middot; August 5th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=EFE529CF-49A4-4B33-BF53-9A673ED0AE58" target="_blank">4:00PM</a></u>
+          <h3>Quentin Tarantino &middot; 160m &middot; 35mm</h3>
+          <p>Okay, but seriously, let’s just have some fun with this last one. Rick Dalton (Leo DiCaprio) and his stunt double Cliff Booth (Brad Pitt) navigate the rapidly declining studio film industry as foreign and indie films seem more promising than ever before. Cliff and Rick rub elbows with all the So-Cal bigwigs and freaks: Sharon Tate, Polanski, Bruce Lee, Mama Cass, and a guy named Charlie Manson who seems to be planning something big. Tarantino’s chillest film to date, <i>Once Upon a Time in Hollywood</i> feels like a perfect summer day ... but remember, something creepy is always lurking in the night.</p>
+          <p><b>Tickets: August 11th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=45D33CEE-B291-4B3D-9904-A1A85215112D" target="_blank">7:00PM</a></u>
+                &middot; August 12th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=DA3F7BD4-1FF9-416C-8701-D1D71D839EEE" target="_blank">4:00PM</a></u>
           </b></p>
         </div>
         

@@ -66,9 +66,7 @@
           <h3>Noel M. Smith &middot; 74m &middot; 35mm</h3>
           <p><i>Preserved by the Library of Congress.</i></p>
           <p>No better way to spend the dog days of summer! Shot on location in what would later become Joshua Tree National Park, <i>THE CLASH OF THE WOLVES</i> tells the story of halfbreed alpha wolf Lobo and borax prospector Dave Weston, who become best friends and butt heads with William “Borax” Horton, the scheming local chemist looking to nab Dave’s newest borax claim. Starring beloved canine star Rin Tin Tin (he does his own stunts!) in his first comedic role, <i>THE CLASH OF THE WOLVES<i> is the silent era predecessor for modern stories of man’s best friend.</p>
-          <p><b>Tickets: August 4th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=42939F3B-150A-434C-B1DB-68EF1AD246DF" target="_blank">4:00PM</a></u>
-                &middot; August 5th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=4F4F6223-07E8-42DF-B1BD-3645C2B48C4C" target="_blank">7:00PM</a></u>
-          </b></p>
+          <p><b>This screening has passed</b></p>
         </div>
 
         <div id="within-the-law" class="anchor screening">
@@ -76,6 +74,7 @@
           <img src="/images/2023summer/within-the-law-1923.jpg" alt="Within the Law (1923) still">
           <h3>Frank Lloyd &middot; 65m &middot; 35mm</h3>
           <p><i>Preserved by the Library of Congress.</i></p>
+          <p>Directed by one of the founding members of the Academy of Motion Picture Arts and Sciences, WITHIN THE LAW centers Mary Turner, a courageous woman who vows to take vengeance on those who had her wrongfully imprisoned for a crime she did not commit. Norma Talmadge, one of the most popular idols of the silent era and a box-office powerhouse of the early 1920s, leads this silent era melodrama.</p>
           <p><b>Tickets: August 11th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=F54042DE-9031-4614-9610-9AA98AE4E1C5" target="_blank">4:00PM</a></u>
                 &middot; August 12th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=909F7A26-0197-4A57-97A9-2AE53FDC16FC" target="_blank">7:00PM</a></u>
           </b></p>

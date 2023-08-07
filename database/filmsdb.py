@@ -1137,7 +1137,7 @@ if __name__ == "__main__":
 
     # Bool definitions to toggle 
     CREATE_WEBSITE = True
-
+    
     # This section takes a capsules spreadsheet and quarter metadata to create .php pages for the website for a new
     #   quarter's website.
     if CREATE_WEBSITE:
