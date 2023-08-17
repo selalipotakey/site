@@ -32,7 +32,7 @@
 
               <li class="carousel__slide current-slide">
                 <a href="/calendar/silver-screen#the-long-goodbye">
-                  <img class="carousel__image" src="/images/2023summer/the-long-ggodbye-1973.jpg" alt="The Long Goodbye (1973) still">
+                  <img class="carousel__image" src="/images/2023summer/the-long-goodbye-1973.jpg" alt="The Long Goodbye (1973) still">
                 </a>
                 <div clas="description">
                   <a href="/calendar/silver-screen#once-the-long-goodbye">
@@ -89,8 +89,9 @@
 
         <br><br><br><br><br>
 
+        <h1>DocFilms will be back in the fall!</h1>
+
       </div>
-      <h1>DocFilms will be back in the fall!</h1>
       <!--
       <div class="screenings-list">
 
