@@ -82,7 +82,7 @@
           <img src="/images/2023summer/point-blank-1976.jpg" alt="Point Blank (1976) still">
           <h3>John Boorman &middot; 92m &middot; DCP</h3>
           <p>Betrayed by the man he thought he knew best, Walker (Lee Marvin) returns to L.A. seeking revenge only to be caught up in an endless hunt for his ex-partner, Reese (John Vernon). Equal parts American genre film and European arthouse, <i>Point Blank</i> contains the nihilism of a man who has lost himself in the face of constant double-crossing and is plagued by the remnants of the Second World War. With stellar photography by Philip Lathrop, John Boorman’s major breakthrough is today an enshrined classic that helped to usher in the new age of hard-boiled American crime cinema.</p>
-          <p><b>This screening has passed</b></p>
+          <p><b>This screening has passed.</b></p>
         </div>
 
         <div id="once-upon-a-time-in-hollywood" class="anchor screening">
@@ -90,9 +90,7 @@
           <img src="/images/2023summer/once-upon-a-time-in-hollywood-2019.jpg" alt="Once Upon a Time in Hollywood (2019) still">
           <h3>Quentin Tarantino &middot; 160m &middot; 35mm</h3>
           <p>Okay, but seriously, let’s just have some fun with this last one. Rick Dalton (Leo DiCaprio) and his stunt double Cliff Booth (Brad Pitt) navigate the rapidly declining studio film industry as foreign and indie films seem more promising than ever before. Cliff and Rick rub elbows with all the So-Cal bigwigs and freaks: Sharon Tate, Polanski, Bruce Lee, Mama Cass, and a guy named Charlie Manson who seems to be planning something big. Tarantino’s chillest film to date, <i>Once Upon a Time in Hollywood</i> feels like a perfect summer day ... but remember, something creepy is always lurking in the night.</p>
-          <p><b>Tickets: August 11th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=45D33CEE-B291-4B3D-9904-A1A85215112D" target="_blank">7:00PM</a></u>
-                &middot; August 12th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=DA3F7BD4-1FF9-416C-8701-D1D71D839EEE" target="_blank">4:00PM</a></u>
-          </b></p>
+          <p><b>This screening has passed.</b></p>
         </div>
         
       </div>

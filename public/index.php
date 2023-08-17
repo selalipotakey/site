@@ -18,7 +18,7 @@
       <div class="information">
 
       <h1>
-          Playing this quarter:
+          Past Summer Screenings:
         </h1>
 
         <div class="carousel">
@@ -31,32 +31,44 @@
             <ul class="carousel__track">
 
               <li class="carousel__slide current-slide">
-                <a href="/calendar/silver-screen#once-upon-a-time-in-hollywood">
-                  <img class="carousel__image" src="/images/2023summer/once-upon-a-time-in-hollywood-2019.jpg" alt="Once Upon a Time in Hollywod (2019) still">
+                <a href="/calendar/silver-screen#the-long-goodbye">
+                  <img class="carousel__image" src="/images/2023summer/the-long-ggodbye-1973.jpg" alt="The Long Goodbye (1973) still">
                 </a>
                 <div clas="description">
-                  <a href="/calendar/silver-screen#once-upon-a-time-in-hollywood">
+                  <a href="/calendar/silver-screen#once-the-long-goodbye">
                     <p class="event-title fittext">
-                      Once Upon a Time in Hollywood (Fri. 8/11 @ 7:00PM || Sun. 8/12 @ 4:00PM)
+                      The Long Goodbye (1973)
                     </p>
                   </a>
-                  <p class="capsule fittext">Betrayed by the man he thought he knew best, Walker (Lee Marvin) returns to L.A. seeking revenge only to be caught up in an endless hunt for his ex-partner, Reese (John Vernon). Equal parts American genre film and European arthouse, <i>Point Blank</i> contains the nihilism of a man who has lost himself in the face of constant double-crossing and is plagued by the remnants of the Second World War. With stellar photography by Philip Lathrop, John Boorman’s major breakthrough is today an enshrined classic that helped to usher in the new age of hard-boiled American crime cinema.
-                  </p>
+                  <p class="capsule fittext"><i>The Long Goodbye</i> starts not with a bang, but with a vibe. Elliott Gould’s Philip Marlowe wanders through a 1973 L.A. laden with denizens who have little between their ears. In typical Robert Altman style, he sends Marlowe into a rabbit-hole of dead friends and strangers. Suspicion falls on Marlowe after an old friend’s wife is found dead, but this quickly becomes the least of his worries. Gangsters, alcoholic writers, and detox clinics all join Altman’s cavalcade symphony of Malibu vapidity.</p>
                 </div>
               </li>
 
               <li class="carousel__slide">
-                <a href="/calendar/programmers-picks#within-the-law">
-                  <img class="carousel__image" src="/images/2023summer/within-the-law-1923.jpg" alt="Within the Law (1923) still">
+                <a href="/calendar/programmers-picks#the-searchers">
+                  <img class="carousel__image" src="/images/2023summer/the-searchers-1954.jpg" alt="The Searchers (1954) still">
                 </a>
                 <div clas="description">
-                  <a href="/calendar/programmers-picks#within-the-law">
+                  <a href="/calendar/programmers-picks#the-searchers">
                     <p class="event-title fittext">
-                      Within the Law (Fri. 8/11 @ 4:00PM || Sun. 8/12 @ 7:00PM)
+                      The Searchers (1954)
                     </p>
                   </a>
-                  <p class="capsule fittext">Directed by one of the founding members of the Academy of Motion Picture Arts and Sciences, WITHIN THE LAW centers Mary Turner, a courageous woman who vows to take vengeance on those who had her wrongfully imprisoned for a crime she did not commit. Norma Talmadge, one of the most popular idols of the silent era and a box-office powerhouse of the early 1920s, leads this silent era melodrama.</p>
-                  </p>
+                  <p class="capsule fittext">The beloved middle-child western sandwiched between the old-school and revisionists, The Searchers takes a decidedly complex look at one man’s delirious search for his abducted niece. Closer in spirit to Heart of Darkness than Gunsmoke, John Ford subtly questions the ideologies of the American west and its isolated inhabitants driven to humanity’s edge. With the mesmerizing imagery of Monument Valley as a backdrop for the likes of John Wayne and Natalie Wood, The Searchers serves as a touchstone for one of American cinema’s earliest reckonings with the racism of the American west(ern).</p>
+                </div>
+              </li>
+
+              <li class="carousel__slide">
+                <a href="/calendar/silver-screen#carwash">
+                  <img class="carousel__image" src="/images/2023summer/carwash-1976.jpg" alt="Car Wash (1976) still">
+                </a>
+                <div clas="description">
+                  <a href="/calendar/silver-screen#carwash">
+                    <p class="event-title fittext">
+                      Car Wash (1976) 
+                    </p>
+                  </a>
+                  <p class="capsule fittext">Taking place on a single day of a happening Los Angeles car wash, Michael Schultz’s film is the perfect summer comedy encapsulating the zeitgeist of a rapidly changing American landscape. With an all-star lineup that includes Richard Pryor, Bill Duke, George Carlin, the Pointer Sisters, and Franklyn Ajaye, <i>Car Wash</i> is a hilariously biting flick with an ineffable joie de vivre, and also a major milestone in ‘70s Black studio filmmaking.</p>
                 </div>
               </li>
 
@@ -70,7 +82,7 @@
           <div class="carousel__nav">
             <button class="carousel__indicator current-slide"></button>
             <button class="carousel__indicator"></button>
-            <!--<button class="carousel__indicator"></button>-->
+            <button class="carousel__indicator"></button>
           </div>
           
         </div>
@@ -78,7 +90,8 @@
         <br><br><br><br><br>
 
       </div>
-
+      <h1>DocFilms will be back in the fall!</h1>
+      <!--
       <div class="screenings-list">
 
         <div class="text-section">
@@ -110,6 +123,8 @@
                 &middot; August 12th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=DA3F7BD4-1FF9-416C-8701-D1D71D839EEE" target="_blank">4:00PM</a></u>
           </b></p>
         </div>
+
+-->
         
     </main>
     
