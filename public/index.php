@@ -46,7 +46,7 @@
 
               <li class="carousel__slide">
                 <a href="/calendar/special-events#pacifiction">
-                  <img class="carousel__image" src="/images/2023summer/pacifiction-2022.jpg" alt="Pacifiction (2022) still">
+                  <img class="carousel__image" src="/images/2023summer/pacifiction-2022.jpeg" alt="Pacifiction (2022) still">
                 </a>
                 <div clas="description">
                   <a href="/calendar/special-events#pacifiction">
