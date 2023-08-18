@@ -46,12 +46,12 @@
 
               <li class="carousel__slide">
                 <a href="/calendar/programmers-picks#the-searchers">
-                  <img class="carousel__image" src="/images/2023summer/the-searchers-1954.jpg" alt="The Searchers (1954) still">
+                  <img class="carousel__image" src="/images/2023summer/the-searchers-1956.jpg" alt="The Searchers (1956) still">
                 </a>
                 <div clas="description">
                   <a href="/calendar/programmers-picks#the-searchers">
                     <p class="event-title fittext">
-                      The Searchers (1954)
+                      The Searchers (1956)
                     </p>
                   </a>
                   <p class="capsule fittext">The beloved middle-child western sandwiched between the old-school and revisionists, The Searchers takes a decidedly complex look at one man’s delirious search for his abducted niece. Closer in spirit to Heart of Darkness than Gunsmoke, John Ford subtly questions the ideologies of the American west and its isolated inhabitants driven to humanity’s edge. With the mesmerizing imagery of Monument Valley as a backdrop for the likes of John Wayne and Natalie Wood, The Searchers serves as a touchstone for one of American cinema’s earliest reckonings with the racism of the American west(ern).</p>
