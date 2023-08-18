@@ -111,6 +111,8 @@
             <button class="carousel__indicator current-slide"></button>
             <button class="carousel__indicator"></button>
             <button class="carousel__indicator"></button>
+            <button class="carousel__indicator"></button>
+            <button class="carousel__indicator"></button>
           </div>
           
         </div>
