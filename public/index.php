@@ -89,7 +89,7 @@
 
         <br><br><br><br><br>
 
-        <h1>DocFilms will be back in the fall!</h1>
+        <h1>Doc Films will be back in the fall!</h1>
 
       </div>
       <!--
