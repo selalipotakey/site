@@ -18,7 +18,7 @@
       <div class="information">
 
       <h1>
-          Past Summer Screenings:
+          Past Screenings This Summer:
         </h1>
 
         <div class="carousel">
@@ -41,6 +41,20 @@
                     </p>
                   </a>
                   <p class="capsule fittext"><i>The Long Goodbye</i> starts not with a bang, but with a vibe. Elliott Gould’s Philip Marlowe wanders through a 1973 L.A. laden with denizens who have little between their ears. In typical Robert Altman style, he sends Marlowe into a rabbit-hole of dead friends and strangers. Suspicion falls on Marlowe after an old friend’s wife is found dead, but this quickly becomes the least of his worries. Gangsters, alcoholic writers, and detox clinics all join Altman’s cavalcade symphony of Malibu vapidity.</p>
+                </div>
+              </li>
+
+              <li class="carousel__slide">
+                <a href="/calendar/special-events#pacifiction">
+                  <img class="carousel__image" src="/images/2023summer/pacifiction-2022.jpg" alt="Pacifiction (2022) still">
+                </a>
+                <div clas="description">
+                  <a href="/calendar/special-events#pacifiction">
+                    <p class="event-title fittext">
+                      Pacifiction (2022)
+                    </p>
+                  </a>
+                  <p class="capsule fittext">This post-colonial fever dream of French Polynesia was voted best film of 2022 by Cahiers du Cinéma and "suggests John le Carré by way of David Lynch," per A.O. Scott. It's a slow-burning character study of High Commissioner De Roller (Benoît Magimel, The Piano Teacher), who floats through all walks of island life with an easy charisma. But the lush Tahitian setting pulses with a sense of dread that only grows as political alliances shift and unravel.</p>
                 </div>
               </li>
 
@@ -69,6 +83,20 @@
                     </p>
                   </a>
                   <p class="capsule fittext">Taking place on a single day of a happening Los Angeles car wash, Michael Schultz’s film is the perfect summer comedy encapsulating the zeitgeist of a rapidly changing American landscape. With an all-star lineup that includes Richard Pryor, Bill Duke, George Carlin, the Pointer Sisters, and Franklyn Ajaye, <i>Car Wash</i> is a hilariously biting flick with an ineffable joie de vivre, and also a major milestone in ‘70s Black studio filmmaking.</p>
+                </div>
+              </li>
+
+              <li class="carousel__slide">
+                <a href="/calendar/programmers-picks#the-maltese-falcon">
+                  <img class="carousel__image" src="/images/2023summer/the-maltese-falcon-1941.jpg" alt="The Maltese Falcon (1941) still">
+                </a>
+                <div clas="description">
+                  <a href="/calendar/programmers-picks#the-maltese-falcon">
+                    <p class="event-title fittext">
+                      The Maltese Falcon (1941) 
+                    </p>
+                  </a>
+                  <p class="capsule fittext"><i>The Maltese Falcon</i> follows private detective Sam Spade (Humphrey Bogart) as his search for the Maltese Falcon statuette entangles him in a web of deceit and murder. With a stellar cast including Mary Astor, Peter Lorre, and Sydney Greenstreet, the film is filled to the brim with twists, double-crosses, and moral ambiguity. Written and directed by John Huston, this film noir classic will provide the perfect escape from the summer heat with its chilling atmospheric cinematography and sharp dialogue. </p>
                 </div>
               </li>
 
