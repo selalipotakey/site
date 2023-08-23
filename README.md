@@ -4,9 +4,13 @@ Monorepo for Doc Films' website and screening database.
 
 ## Maintained by Doc Films' web chairs:
 
+Selali Potakey 2023-Present
+
 Cameron Poe 2021-2023
 
 Lindsey Qian 2021-2023
+
+## To-do:
 
 ## Contents of the repo
 
