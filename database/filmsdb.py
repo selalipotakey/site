@@ -18,12 +18,18 @@ from datetime import time
 
 class connection:
     def __init__(self):
-        self.db_server = ''
-        self.db_name = 'screening_database'
-        self.db_user = ''
-        self.db_pass = ''
+
+        # note for later xxx - force the user to initialize the object by specifying the below (so you don't forget what db_name ur using for example)
+
+        # Four things needed to establish a connect to the database using the pymysql package
+        self.db_server = ''                      # literally the url to the database (db.docfilms.org)
+        self.db_name = 'screening_database'      # the database inside the databse host (host is the url before)
+        self.db_user = ''                        # the user you specify in dreamhost, you want to use the one with edit privileges
+        self.db_pass = ''                        # the password for that user, you can it on dreamhost databse settings
 
     def get_creds(self):
+        # note to self xxx -- could change this in future to force you to input databse name each time (to prevent overwriting things)
+
         # self.db_server = input("Input database server: ")
         # self.db_user = input("Input username: ")
         # self.db_pass = getpass('Input password: ')
@@ -66,17 +72,25 @@ class connection:
 
     def new_quarter(self, quarter, year, startdate=None, enddate=None):
         
+        # Statement to ask the database if this quarter in this year are already in the database (in the quarters table, specifically)
         sql_check = 'SELECT `id` FROM `quarters` WHERE UPPER(`quarter`) = UPPER(%s) AND `year` = %s;'
 
+        # Statement to add this quarter and this year into the databse
         sql_insert = 'INSERT INTO `quarters` (`quarter`, `year`, `startdate`, `enddate`) VALUES (%s, %s, %s, %s);'
         
+        # Tells databse to execute the sql_check statement
         self.cursor.execute(sql_check, (quarter, year))
+        
+        # Tells database to give me back the return values of the sql_check statement
         rows = self.cursor.fetchall()
+
+        # Hey, we already have a row (or rows...) in the database, so we're going to exit so you don't accidentally overwrite data
         if len(rows) >= 1:
             print('ERROR: Table `quarters` has one or more records for %s quarter %s.'%(quarter, year))
             print('Warning: To prevent data corruption, you MUST fix this by logging into phpMyAdmin to delete the extraneous quarter WITHOUT corrupting any screenings tied to the extraneous quarter.')
             self.db.close()
             exit()
+        # okay, we are definitevely adding a new quarter in a year, so let's go ahead and add it!
         else:
             print('Notice: Inserting new quarter, %s %s'%(quarter, year))
             self.cursor.execute(sql_insert,(quarter, year, startdate, enddate))
@@ -86,26 +100,33 @@ class connection:
 
     def new_series_formatted_capsules(self, quarter_id, series, slot):
 
+        # Dereference the nested list info into variables for the series
         series_title, programmer_list, essay, series_notes = series[0], series[1], series[2], series[3]       
 
+        # Our SQL statement to the database to insert said series
         sql_insert_series = 'INSERT INTO `series` (`quarters_id`, `name`, `slot`, `essay`, `notes`) VALUES (%s, %s, %s, %s, %s);'
         
+        # Executing SQL statement to a row into the series table, and I'm retrieving the ID of said row.
         self.cursor.execute(sql_insert_series, (quarter_id, series_title, slot, replace_nan_with_none(essay), replace_nan_with_none(series_notes)))
         self.db.commit()
         series_id = self.cursor.lastrowid
 
         if (isinstance(programmer_list, list) and not pd.isna(programmer_list).all()):
 
+            # Creating list of all programmer IDs so I can later add them to the link table
             programmer_id_list = []
 
             for programmer in programmer_list:
 
+                # Tries to retrieve a 2D tuple of IDs from programmers table
                 sql_check_programmer = 'SELECT `id` FROM `programmers` WHERE UPPER(`name`) = UPPER(%s);'
                 self.cursor.execute(sql_check_programmer, (programmer))
                 rows = self.cursor.fetchall()
                 
+                # If the number of rows returned is 1, then we just need the programmer_id
                 if len(rows) == 1:
                     programmer_id = rows[0][0]
+                # If number of rows is 0, then we need to add the programmer and retrieve the new row's ID
                 elif len(rows) == 0:
                     print('Inserting new programmer: %s'%(programmer))
                     sql_insert_programmer = 'INSERT INTO `programmers` (`name`) VALUES (%s);'
@@ -115,11 +136,15 @@ class connection:
 
                 programmer_id_list.append(programmer_id)
             
+
+            # Now, we have a populated series row, we have a populated programmer row(s), let's add those IDs to the linking table
             for programmer_id in programmer_id_list:
+                # Iterates through all the programmer IDs and inserts the programmer ID and series ID into the linking table
                 sql_isnert_programmer_id = 'INSERT INTO `series_programmers` (`programmers_id`, `series_id`) VALUES (%s, %s);'
                 self.cursor.execute(sql_isnert_programmer_id, (programmer_id, series_id))
                 self.db.commit()
 
+        # Returns the series ID so we can use it when inputting the screenings that go in that series
         return series_id
 
     def new_screening_formatted_capsules(self, series_id, screening):
@@ -671,6 +696,8 @@ def format_capsules_sheet(capsules_path, quarter, year, exrows_capsules, exrows_
     # into a pandas dataframe. Handles exceptions if errors are raised.
     # A properly formatted spreadsheet is one with a separate sheet for series info and essays
 
+    # note to self xxx -- this thing should be completely overhauled in favor of a formated_capules class. That way, instead of referencing a capsule spreadsheet's monday series' first screening as formatted_capules[-1][monday][4][1] you want to do like formatted_capules.series[monday][0].title -> make it object oriented
+
     # turns the second sheet (the series info) in the Excel document into a pandas dataframe
     series_df = make_df(capsules_path, 1)
 
@@ -860,12 +887,16 @@ def input_formatted_capsules(formatted_capsules):
 
     quarter, year, series_dict = formatted_capsules
 
+    # We add a new row in the quarters table in the database, returns the id of that row. Handles errors if the quarter already exists
     quarter_id = conn.new_quarter(quarter, year)
+
 
     for slot in series_dict:
 
+        # Added a row to the series table and at least one row to the programmers table and linked the tables with a linking table.
         series_id = conn.new_series_formatted_capsules(quarter_id, series_dict[slot], slot)
 
+        
         for screening in series_dict[slot][-1]:
             conn.new_screening_formatted_capsules(series_id, screening)
 
@@ -1136,7 +1167,8 @@ if __name__ == "__main__":
     #   the code too much to do so. Simply edit the different variables to the files/info you need for your process
 
     # Bool definitions to toggle 
-    CREATE_WEBSITE = True
+    CREATE_WEBSITE = False
+    ADD_QUARTER_TO_DB = True
 
     # This section takes a capsules spreadsheet and quarter metadata to create .php pages for the website for a new
     #   quarter's website.
@@ -1155,6 +1187,19 @@ if __name__ == "__main__":
         
         # Function that actually creates the .php files.
         create_website(formatted_capsules)
+
+    if ADD_QUARTER_TO_DB:
+
+        # Change the quarter's metadata here each time:
+        quarter = 'Winter'          # String, The current quarter, to be used in the directory name of outputted files and XXX ???
+        year = 2023                 # Int, The current year, to be used in the directorry name of outputted files and XXX ???
+        exrows_capsules = 2         # Int, The number of example rows in the movies section of the capsules spreadsheet to skip (to skip).
+        exrows_series = 1           # Int, The number of example rows in the series info section of the capsules spreadsheet (to skip).
+        capsules_path = r'/Users/selalipotakey/docfilms-git/site/database/capsules_spreadsheets/Summer 2023 Capsules.xlsx'         # String, The filepath of the .xlsx capsules file on the user's computer.
+        ticketing_urls = False       # Bool, whether the capsules spreadsheet has ticketing URLs in the URL column
+
+        # Takes the metadata and .xlsx capsules file and formats the information for easy use for both database and website.
+        formatted_capsules = format_capsules_sheet(capsules_path, quarter, year, exrows_capsules, exrows_series, ticketing_urls)
     
     # format_archived_screenings(r'C:\Users\camer\docfilms-github\site\database\2022-09-05-archive-screenings-for-database.xlsx')
 
