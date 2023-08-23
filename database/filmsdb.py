@@ -1043,17 +1043,21 @@ def create_website(formatted_capsules):
             if not pd.isna(pub_notes):
                 pub_notes_string = '''
           <p><i>%s</i></p>'''%replace_italics(pub_notes, already_italicized=True)
-            ticketing_string = ''
+            #ticketing_string = ''
+            ticketing_string = showtime_string
             if not pd.isna(ticketing_link):
+                #ticketing_string = '''
+          #<p><b>Tickets can be bought <u><a href="%s" target="_blank">here</a></u>.</b></p>'''%ticketing_link
                 ticketing_string = '''
-          <p><b>Tickets can be bought <u><a href="%s" target="_blank">here</a></u>.</b></p>'''%ticketing_link
+            <p><b><u><a href="%s" target="_blank">%s</a></u></b></p>'''%(ticketing_link, showtime_string)
             
             f.write('''
         <div class="screening">
           <h2>%s</h2>
           <img src="%s" alt="%s still">
           <h3>%s &middot; %s &middot; %s</h3>
-          %s<p>%s</p>%s
+          %s<p>%s</p>
+          <h2>%s</h2>
         </div>
         '''%(title_string, image_path, title_string, director_string, runtime_string, format_string, pub_notes_string, capsule, ticketing_string))
             #%(showtime_string, image_path, title_string, title_string, director_string, runtime_string, format_string, capsule, pub_notes_string, ticketing_string))
