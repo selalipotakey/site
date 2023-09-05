@@ -1173,6 +1173,7 @@ if __name__ == "__main__":
     # Bool definitions to toggle 
     CREATE_WEBSITE = False
     ADD_QUARTER_TO_DB = True
+    RESET_DB_FROM_SCRATCH = False
 
     # This section takes a capsules spreadsheet and quarter metadata to create .php pages for the website for a new
     #   quarter's website.
@@ -1199,11 +1200,23 @@ if __name__ == "__main__":
         year = 2023                 # Int, The current year, to be used in the directorry name of outputted files and XXX ???
         exrows_capsules = 2         # Int, The number of example rows in the movies section of the capsules spreadsheet to skip (to skip).
         exrows_series = 1           # Int, The number of example rows in the series info section of the capsules spreadsheet (to skip).
-        capsules_path = r'/Users/selalipotakey/docfilms-git/site/database/capsules_spreadsheets/Summer 2023 Capsules.xlsx'         # String, The filepath of the .xlsx capsules file on the user's computer.
+        capsules_path = r'/Users/selalipotakey/docfilms-git/site/database/capsules_spreadsheets/Winter 2023 Capsules.xlsx'         # String, The filepath of the .xlsx capsules file on the user's computer.
         ticketing_urls = False       # Bool, whether the capsules spreadsheet has ticketing URLs in the URL column
 
         # Takes the metadata and .xlsx capsules file and formats the information for easy use for both database and website.
         formatted_capsules = format_capsules_sheet(capsules_path, quarter, year, exrows_capsules, exrows_series, ticketing_urls)
+        input_formatted_capsules(formatted_capsules)
+
+    if RESET_DB_FROM_SCRATCH:
+
+        # Make sure the following database name is what you want to change!
+        database_name = 'docfilmstest'
+
+        # Executes droptables and add all tables
+        # xx edit droptables, force user to enter the database name they want to delete tables from
+        droptables()
+        addtables(database_name)
+
     
     # format_archived_screenings(r'C:\Users\camer\docfilms-github\site\database\2022-09-05-archive-screenings-for-database.xlsx')
 

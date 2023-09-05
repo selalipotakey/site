@@ -158,7 +158,7 @@
         <br>
 
         <h1><a href="/archive"><u>Screening Database</u></a></h1>
-        <p><i>*Note: the screening database catalogues screenings from Fall 2021 through Fall 2022. It is not optimized for searching on mobile.</i></p>
+        <p><i>*Note: the screening database catalogues screenings from Fall 2021 through Summer 2023. It is not optimized for searching on mobile.</i></p>
 
         <br>
 
