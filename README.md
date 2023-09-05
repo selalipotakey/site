@@ -4,9 +4,19 @@ Monorepo for Doc Films' website and screening database.
 
 ## Maintained by Doc Films' web chairs:
 
+Selali Potakey 2023-Present
+
 Cameron Poe 2021-2023
 
 Lindsey Qian 2021-2023
+
+## To-do:
+1. Function to recursively add into either database all .xlsx finalized capsules spreadsheet in a specific folder
+2. Force user to enter database name each time for the databsae you want to query/add things to/delete stuff from/etc.
+3. Show only certain # of results per page <- important now that it has so many screenings
+4. Go back into pre-Fall 2021 capsules spreadsheets, format them to the correct
+5. Get search-by-quarter functionality working (so that we can delete the ugly "2021 series" "2022 series")
+6. Work on a "violates 4-year rule" column.
 
 ## Contents of the repo
 
