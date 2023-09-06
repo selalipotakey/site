@@ -69,14 +69,8 @@
         .ajax-load{
             background: white;
             padding: 10px 0px;
-            max-width: 10%;
+            max-width: 5%;
             height: auto;
-        }
-
-        .center {
-          display: block;
-          margin-left: auto;
-          margin-right: auto;
         }
 
         table.query-results {
@@ -209,7 +203,7 @@
 
       </div>
 
-      <div class="ajax-load text-center" style="display:none" class="center">
+      <div class="ajax-load text-center" style="display:block" class="center">
         <img src="/images/site/loading.gif" alt="loading...">
       </div>
         
