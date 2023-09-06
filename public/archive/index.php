@@ -77,7 +77,6 @@
           display: block;
           margin-left: auto;
           margin-right: auto;
-          width: 50%;
         }
 
         table.query-results {
@@ -210,8 +209,8 @@
 
       </div>
 
-      <div class="ajax-load text-center" style="display:none">
-        <img src="/images/site/loading.gif" alt="loading..." class="center">
+      <div class="ajax-load text-center" style="display:none" class="center">
+        <img src="/images/site/loading.gif" alt="loading...">
       </div>
         
     </main>
