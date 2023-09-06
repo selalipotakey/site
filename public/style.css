@@ -267,9 +267,6 @@ header .menu-btn:checked ~ .menu-icon .nav-icon:after {
 }
 
 
-
-
-
 /* for the main body of a page */
 main {
     position: relative;
@@ -279,7 +276,7 @@ main {
     padding-bottom: var(--footer-height);
 }
 
-/* for screening carosel */
+/* for screening carousel */
 
 /* for contents on a series page */
 .screenings-list {
