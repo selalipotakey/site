@@ -210,7 +210,7 @@
       </div>
 
       <div class="ajax-load text-center" style="display:none">
-        <img src="/images/site/loading.gif" alt="loading..." class="center">
+        <img src="/images/site/loading.gif" alt="loading..." class="center" width="300" height="300">
       </div>
         
     </main>
