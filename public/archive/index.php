@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Archive</title>
-    <!-- <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.js"></script> -->
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.js"></script>
     <link rel="stylesheet" type="text/css" href="/style.css">
     <style>
         form.database-query {
@@ -202,17 +202,15 @@
 
       </div>
 
-      <!-- 
       <div class="ajax-load text-center" style="display:none">
         <p><img src="http://demo.itsolutionstuff.com/plugin/loader.gif">Loading More Screenings</p>
       </div>
-      -->
         
     </main>
     
     <?php include $_SERVER['DOCUMENT_ROOT'] . "/includes/footer.html"; ?>
     <script src="/js/resize-menu.js"></script>
-    <!-- <script src="/js/infinite-scroll.js"></script> -->
+    <script src="/js/infinite-scroll.js"></script>
 
   </body>
 </html>
