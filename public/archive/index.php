@@ -72,6 +72,13 @@
             width: 100%;
         }
 
+        .center {
+          display: block;
+          margin-left: auto;
+          margin-right: auto;
+          width: 50%;
+        }
+
         table.query-results {
           table-layout: fixed;
           width: 100%;
