@@ -69,7 +69,7 @@
         .ajax-load{
             background: white;
             /*padding: 10px 0px;*/
-            max-width: 5%;
+            max-width: 3%;
             height: auto;
             margin-left: 40vw;
             margin-right: 60vw;
