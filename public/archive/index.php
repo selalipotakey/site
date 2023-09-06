@@ -203,7 +203,7 @@
       </div>
 
       <div class="ajax-load text-center" style="display:none">
-        <p><img src="http://demo.itsolutionstuff.com/plugin/loader.gif">Loading More Screenings</p>
+        <p><img src="/images/site/loading.gif">Loading More Screenings</p>
       </div>
         
     </main>
