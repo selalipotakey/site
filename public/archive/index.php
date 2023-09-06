@@ -71,8 +71,8 @@
             /*padding: 10px 0px;*/
             max-width: 5%;
             height: auto;
-            margin-left: (auto - 10px);
-            margin-right: auto;
+            margin-left: 50vw;
+            margin-right: 50vw;
         }
 
         table.query-results {
