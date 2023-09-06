@@ -67,7 +67,7 @@
 
         /* for infinite loading screen xx */
         .ajax-load{
-            background: #e1e1e1;
+            background: white;
             padding: 10px 0px;
             width: 100%;
         }
@@ -203,7 +203,7 @@
       </div>
 
       <div class="ajax-load text-center" style="display:none">
-        <p><img src="/images/site/loading.gif">Loading More Screenings</p>
+        <img src="/images/site/loading.gif" alt="loading..." class="center">
       </div>
         
     </main>
