@@ -73,7 +73,7 @@
         }
 
         img {
-          max-width: 30%;
+          max-width: 10%;
           height: auto;
         }
 
