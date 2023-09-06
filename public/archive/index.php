@@ -72,6 +72,11 @@
             width: 100%;
         }
 
+        img {
+          max-width: 30%;
+          height: auto;
+        }
+
         .center {
           display: block;
           margin-left: auto;
@@ -210,7 +215,7 @@
       </div>
 
       <div class="ajax-load text-center" style="display:none">
-        <img src="/images/site/loading.gif" alt="loading..." class="center" width="300" height="300">
+        <img src="/images/site/loading.gif" alt="loading..." class="center">
       </div>
         
     </main>
