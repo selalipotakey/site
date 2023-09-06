@@ -72,11 +72,6 @@
             width: 100%;
         }
 
-        img {
-          max-width: 10%;
-          height: auto;
-        }
-
         .center {
           display: block;
           margin-left: auto;

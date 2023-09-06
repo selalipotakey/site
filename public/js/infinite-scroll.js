@@ -20,4 +20,8 @@ $.ajax(
             $('.ajax-load').hide();
             $("#post-data").append(data);
         })
+        .fail(function(jqXHR, ajaxOptions, thrownError)
+        {
+            alert('server not responding...');
+        });
 }
