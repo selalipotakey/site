@@ -488,7 +488,7 @@
               </tr>
             </thead>
             <tbody>';
-
+            
             while ($row = $result->fetch_assoc()) {
                 $encoded_get_query = urlencode($_GET['query']);
                 echo "<tr>";
