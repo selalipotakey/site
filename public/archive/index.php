@@ -204,10 +204,6 @@
         ?>
 
       </div>
-
-      <div class="ajax-load text-center" style="display:block">
-        <img src="/images/site/loading.gif" alt="loading...">
-      </div>
         
     </main>
     
