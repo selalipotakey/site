@@ -121,7 +121,7 @@
         <br><br><br><br><br>
 -->
 
-        <h1 style="text-align: center; margin-bottom: 3vw;">Doc Films 2023 Calendar</h1>
+        <h1 style="text-align: center; margin-bottom: 2vw;">Doc Films 2023 Calendar</h1>
 
       </div>
         <img src="images/2023fall/full-cal-aut-23-2.jpg" style="max-width: 95vw; margin: auto; display: block;"></img>
