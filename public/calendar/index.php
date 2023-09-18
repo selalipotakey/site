@@ -32,9 +32,9 @@
         <div class="series-list">
 
           <div class="series-tile reverse">
-            <a href="/calendar/Fall_2023/monday"><img src="/images/2023summer/carwash-1976.jpg" alt="Carwash (1976) still"></a>
+            <a href="/calendar/Fall_2023/monday"><img src="/images/2023fall/m-1931.jpg" alt="M (1931) still"></a>
             <div class="series-text">
-              <a href="/calendar/silver-screen">
+              <a href="/calendar/Fall_2023/monday">
                 <p class="day">Monday</p>
                 <p class="title">Proto-noir: The Roots of the Film Noir Movement</p>
               </a>
@@ -43,7 +43,7 @@
           </div>
 
           <div class="series-tile">
-            <a href="/calendar/Fall_2023/tuesday"><img src="/images/2023summer/the-searchers-1956.jpg" alt="The Searchers (1956) still"></a>
+            <a href="/calendar/Fall_2023/tuesday"><img src="/images/2023fall/the-searchers-1956.jpg" alt="The Searchers (1956) still"></a>
             <div class="series-text">
               <a href="/calendar/programmers-picks">
                 <p class="day">Tuesday</p>
@@ -54,7 +54,7 @@
           </div>
 
           <div class="series-tile reverse">
-            <a href="/calendar/Fall_2023/wednesday"><img src="/images/2023summer/pacifiction-2022.jpeg" alt="Pacifiction (2022) still"></a>
+            <a href="/calendar/Fall_2023/wednesday"><img src="/images/2023fall/pacifiction-2022.jpeg" alt="Pacifiction (2022) still"></a>
             <div class="series-text">
               <a href="/calendar/special-events">
               <p class="day">Wednesday</p>  
@@ -65,7 +65,7 @@
           </div>
 
           <div class="series-tile">
-            <a href="/calendar/Fall_2023/thursday-1"><img src="/images/2023summer/the-searchers-1956.jpg" alt="The Searchers (1956) still"></a>
+            <a href="/calendar/Fall_2023/thursday-1"><img src="/images/2023fall/the-searchers-1956.jpg" alt="The Searchers (1956) still"></a>
             <div class="series-text">
               <a href="/calendar/programmers-picks">
               <p class="day">Thursday I</p>  
@@ -76,7 +76,7 @@
           </div>
 
           <div class="series-tile reverse">
-            <a href="/calendar/Fall_2023/thursday-2"><img src="/images/2023summer/pacifiction-2022.jpeg" alt="Pacifiction (2022) still"></a>
+            <a href="/calendar/Fall_2023/thursday-2"><img src="/images/2023fall/pacifiction-2022.jpeg" alt="Pacifiction (2022) still"></a>
             <div class="series-text">
               <a href="/calendar/special-events">
               <p class="day">Thursday II</p>  
@@ -87,7 +87,7 @@
           </div>
 
           <div class="series-tile">
-            <a href="/calendar/Fall_2023/friday"><img src="/images/2023summer/the-searchers-1956.jpg" alt="The Searchers (1956) still"></a>
+            <a href="/calendar/Fall_2023/friday"><img src="/images/2023fall/the-searchers-1956.jpg" alt="The Searchers (1956) still"></a>
             <div class="series-text">
               <a href="/calendar/programmers-picks">
               <p class="day">Friday</p>  
@@ -98,7 +98,7 @@
           </div>
 
           <div class="series-tile reverse">
-            <a href="/calendar/Fall_2023/saturday"><img src="/images/2023summer/pacifiction-2022.jpeg" alt="Pacifiction (2022) still"></a>
+            <a href="/calendar/Fall_2023/saturday"><img src="/images/2023fall/pacifiction-2022.jpeg" alt="Pacifiction (2022) still"></a>
             <div class="series-text">
               <a href="/calendar/special-events">
               <p class="day">Saturday</p>  
@@ -108,7 +108,7 @@
           </div>
 
           <div class="series-tile">
-            <a href="/calendar/Fall_2023/sunday"><img src="/images/2023summer/the-searchers-1956.jpg" alt="The Searchers (1956) still"></a>
+            <a href="/calendar/Fall_2023/sunday"><img src="/images/2023fall/the-searchers-1956.jpg" alt="The Searchers (1956) still"></a>
             <div class="series-text">
               <a href="/calendar/programmers-picks">
               <p class="day">Sunday</p>  
@@ -119,7 +119,7 @@
           </div>
 
           <div class="series-tile reverse">
-            <a href="/calendar/Fall_2023/special-events"><img src="/images/2023summer/pacifiction-2022.jpeg" alt="Pacifiction (2022) still"></a>
+            <a href="/calendar/Fall_2023/special-events"><img src="/images/2023fall/pacifiction-2022.jpeg" alt="Pacifiction (2022) still"></a>
             <div class="series-text">
               <a href="/calendar/special-events">
               <p class="title">SPECIAL EVENTS</p>
