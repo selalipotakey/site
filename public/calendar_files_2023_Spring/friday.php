@@ -19,11 +19,10 @@
 
         <div class="text-section">
           <h1>FRIDAY - Amour Four</h1>
-          <h3>Programmed by: Cyrus</h3>
+          <h3>Programmed by: Cyrus Westerlund</h3>
 
             <p>When looking for the impetus for this Amour Fou series, look no further than the scene in <i>Badlands</i>, where the young and impressionable Holly is dancing in the woods with her mysterious (and maybe dangerous) boyfriend Kit to the Mickey and Sylvia classic “Love is Strange.” It is a moment where two outsiders—one innocent, another not so much—share a moment of romantic intimacy away from the unapproving eyes of common society. It is a moment that we alone are able to see on the screen. TAB While there have been many films about love stories between the dashing and beautiful, the “Amour Fou,” or “crazy love” casts the camera on cinema’s more off-kilter lovers, whether they be outsiders, adulterers, freaks, or sinners. These oddball romances challenge the audience by forcing them to imagine perspectives beyond their own conventional ones. Whether through the eyes of a teenage girl toward a man ten years her senior who looks like James Dean and takes her to places she’s never been, or a gentle young man enticed into a spree of violence and crime by a femme fatale, the Amour Fou offers peculiar subjects that one would not find in other romance films, and are instead often controversial or even disturbing. However, they are also layered texts with complex characters, who have even thornier motivations and desires. This leads to stories that are immensely tantalizing, even at their most salacious. If it's so wrong, why does it feel so right?</p>
             
-            <p><b>Cyrus Westerlund</b></p>
         </div>
         
         <div class="screening">
