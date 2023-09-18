@@ -30,10 +30,10 @@
         
         <div class="screening">
           <h2>The Godfather (1972)</h2>
-          <img src="/images/2023spring/the-godfather-1972.jpg" alt="The Godfather (1972) still">
+          <img src="/images/2023spring/the-godfather-1972.png" alt="The Godfather (1972) still">
           <h3>Francis Ford Coppola &middot; 175m &middot; 35mm</h3>
           <p>What a way to start the series! The film that launched a thousand imitations and millions of film studies majors. Coppola adapts two-thirds of Mario Puzo’s bestseller, weaving interfamilial strife into an epic tableau of immigrant life in the midcentury. It's an all-American tale of power, corruption, and lies. Innovative cinematography, a classic Nino Rota score, and ultra-quotable lines abound! It’s an offer you can’t… oh, you know how the line goes.</p>
-          <h2>7:00PM Friday, March 24th; 4:00PM Sunday, March 26th</h2>
+          <h2>7:00PM Friday, March 24th &middot; 4:00PM Sunday, March 26th</h2>
         </div>
         
         <div class="screening">
@@ -49,7 +49,7 @@
           <img src="/images/2023spring/singin-in-the-rain-1952.jpg" alt="Singin' in the Rain (1952) still">
           <h3>Gene Kelly and Stanley Donen &middot; 115m &middot; 35mm</h3>
           <p>If you didn’t know any better, you might think this film was 115 minutes of Gene Kelly doing nothing but, well, singing in the rain. After all, that is by and large the only image that people use nowadays to reference the damn thing. But <i>Singin’ in the Rain</i> has more to offer than that—a lot more. It’s a bombastic whirlwind: gaudy, colorful, loud, and ever so entertaining in all the right ways. All you <i>La La Land</i> fiends had better show up to this one...</p>
-          <h2>7:00PM Friday, April 7th; 4:00PM Sunday, April 9th</h2>
+          <h2>7:00PM Friday, April 7th &middot; 4:00PM Sunday, April 9th</h2>
         </div>
         
         <div class="screening">
@@ -70,15 +70,15 @@
         
         <div class="screening">
           <h2>2001: A Space Odyssey (1968)</h2>
-          <img src="/images/2023spring/2001-a-space-odyssey-1968.jpg" alt="2001: A Space Odyssey (1968) still">
+          <img src="/images/2023spring/2001-a-space-odyssey-1968.png" alt="2001: A Space Odyssey (1968) still">
           <h3>Stanley Kubrick &middot; 143m &middot; DCP</h3>
           <p><i>2001: A Space Odyssey</i> is a psychedelic space opera that basically wrote the textbook on everything. A spectacle like no other, Kubrick’s foray into science fiction has had an indelible impact on our culture. Whether it be the monolith, HAL 9000, Strauss, or the space fetus, it's the kind of movie most of us know before we’ve even seen it. But that isn’t to say it lacks surprises—<i>2001</i> packs one hell of a punch, and is a big-screen viewing essential.</p>
-          <h2>7:00PM Friday, April 28th; 4:00PM Sunday, April 30th</h2>
+          <h2>7:00PM Friday, April 28th &middot; 4:00PM Sunday, April 30th</h2>
         </div>
         
         <div class="screening">
           <h2>Tokyo Story (1953)</h2>
-          <img src="/images/2023spring/tokyo-story-1953.jpg" alt="Tokyo Story (1953) still">
+          <img src="/images/2023spring/tokyo-story-1953.jpeg" alt="Tokyo Story (1953) still">
           <h3>Yasujiro Ozu &middot; 136m &middot; DCP</h3>
           <p>It’s week 7—we all need a good crying session. <i>Tokyo Story</i> 's movingly epic narrative takes place not across great landscapes, but in confined middle-class Tokyo homes, as an elderly couple visit their family in the bustling postwar metropolis. A hallmark of transcendental filmmaking, Ozu utilizes his signature tatami shots and veteran actors Setsuko Hara and Chishū Ryū to craft a generous, empathetic film about aging in an increasingly chaotic world.</p>
           <h2>7:00PM Friday, May 5th</h2>
@@ -86,10 +86,10 @@
         
         <div class="screening">
           <h2>Citizen Kane (1941)</h2>
-          <img src="/images/2023spring/citizen-kane-1941.jpg" alt="Citizen Kane (1941) still">
+          <img src="/images/2023spring/citizen-kane-1941.jpeg" alt="Citizen Kane (1941) still">
           <h3>Orson Welles &middot; 119m &middot; 35mm</h3>
           <p>It’s terrific!</p>
-          <h2>7:00PM Friday, May 12th; 4:00PM Sunday, May 14th</h2>
+          <h2>7:00PM Friday, May 12th &middot; 4:00PM Sunday, May 14th</h2>
         </div>
         
         <div class="screening">
@@ -97,7 +97,7 @@
           <img src="/images/2023spring/vertigo-1958.jpg" alt="Vertigo (1958) still">
           <h3>Alfred Hitchcock &middot; 128m &middot; 35mm</h3>
           <p>Although <i>Vertigo</i> only lasted a decade as <i>Sight & Sound</i>'s #1, it isn’t any less impressive as a film. Directed by a promising young talent by the name of Alfred Hitchcock, <i>Vertigo</i> has it all! Our PI Scottie’s in a real mess: obsessed with at least one woman and recovering from a bad case of—surprise, surprise—vertigo, he dives headfirst into a hallucinatory and macabre journey of possession, filled to the brim with intrigue and drop-dead gorgeous style.</p>
-          <h2>7:00PM Friday, May 19th; 4:00PM Sunday, May 21st</h2>
+          <h2>7:00PM Friday, May 19th &middot; 4:00PM Sunday, May 21st</h2>
         </div>
         
       </div>
