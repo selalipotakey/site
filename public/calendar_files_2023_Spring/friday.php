@@ -29,7 +29,7 @@
         </div>
         
         <div class="screening">
-          <h2>The Godfather (1972)</h2>
+          <h1>The Godfather (1972)</h1>
           <img src="/images/2023spring/the-godfather-1972.png" alt="The Godfather (1972) still">
           <h3>Francis Ford Coppola &middot; 175m &middot; 35mm</h3>
           <p>What a way to start the series! The film that launched a thousand imitations and millions of film studies majors. Coppola adapts two-thirds of Mario Puzo’s bestseller, weaving interfamilial strife into an epic tableau of immigrant life in the midcentury. It's an all-American tale of power, corruption, and lies. Innovative cinematography, a classic Nino Rota score, and ultra-quotable lines abound! It’s an offer you can’t… oh, you know how the line goes.</p>
