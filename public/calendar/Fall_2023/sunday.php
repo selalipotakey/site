@@ -19,11 +19,10 @@
 
         <div class="text-section">
           <h1>SUNDAY - Open Veins: Postcolonial Cinema of the Luso-Hispanic World</h1>
-          <h3>Programmed by: Addison Wood</h3>
+          <h3>Sponsored by the UChicago Forum For Free Inquiry and Expression.</h3>
 
             <p>First and foremost, a massive and heartfelt thank you to Tom Ginsburg, Tony Banout, Nora Titone, our guest speakers, and the Forum on Free Inquiry & Expression. Without them, we would never have been able to present this series. <br> So, what exactly do these films have in common with one another? Truth be told, very little. The connective tissue between each work is in essence the legacy of Iberian colonialism in the Americas, Africa, and the Philippines. We have tried to bring these works together, not in order to form a narrative or thematic link, but rather to showcase a collection of critically underseen, highly influential films. Films which have sadly faced an uphill battle in international viewership, whether due to censorship in their own countries or neglect by film’s old guard. <br> Varying in scope and scale, these works were created outside the bounds of the traditional world cinematic canon, if such a thing really exists. But chances are at least one of these films is your favorite director’s favorite deepcut. <br> Programmer’s Highlights: <i>Mueda</i>, <i>Blood of the Condor</i>, <i>Manila in the Claws of Light</i>.</p>
             
-            <p><b>Sponsored by the UChicago Forum For Free Inquiry and Expression.</b></p>
         </div>
         
         <div class="screening">

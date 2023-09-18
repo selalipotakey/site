@@ -115,7 +115,7 @@
               <p class="day">Sunday</p>  
               <p class="title">Open Veins: Postcolonial Cinema of the Luso-Hispanic World</p>
               </a>
-              <p class="programmer">Programmed by: Addison Wood</p>
+              <p class="programmer">Sponsored by the UChicago Forum For Free Inquiry and Expression.</p>
             </div>
           </div>
 
