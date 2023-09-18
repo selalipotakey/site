@@ -126,7 +126,7 @@
       </div>
         <img src="images/2023fall/full-cal-aut-23-2.jpg" style="max-width: 95vw; margin: auto; display: block;"></img>
         <img src="images/2023fall/full-cal-aut-23-1.jpg" style="max-width: 95vw; margin: auto; display: block;"></img>
-        <p style="text-align: center;">Design Credits to Eli Harrel</p>
+        <p style="text-align: center;">Design Credits to Eli Harrell</p>
       <!--
       <div class="screenings-list">
 
