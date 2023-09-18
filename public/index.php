@@ -122,10 +122,10 @@
 -->
 
         <h1>Doc Films will be back in the fall!</h1>
-        <img src="images/2023fall/full-cal-aut-23-1.jpg"></img>
-        <img src="images/2023fall/full-cal-aut-23-2.jpg"></img>
 
       </div>
+        <img src="images/2023fall/full-cal-aut-23-1.jpg"></img>
+        <img src="images/2023fall/full-cal-aut-23-2.jpg"></img>
       <!--
       <div class="screenings-list">
 
