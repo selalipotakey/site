@@ -121,11 +121,12 @@
         <br><br><br><br><br>
 -->
 
-        <h1 style="text-align: center;">Doc Films is back!</h1>
+        <h1 style="text-align: center;">Doc Films 2023 Calendar</h1>
 
       </div>
         <img src="images/2023fall/full-cal-aut-23-2.jpg" style="max-width: 95vw; margin: auto; display: block;"></img>
         <img src="images/2023fall/full-cal-aut-23-1.jpg" style="max-width: 95vw; margin: auto; display: block;"></img>
+        <p style="text-align: center;">Design Credits to Eli Harrel</p>
       <!--
       <div class="screenings-list">
 
