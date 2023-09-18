@@ -108,7 +108,7 @@
           </div>
 
           <div class="series-tile">
-            <a href="/calendar/Fall_2023/sunday"><img src="/images/2023fall/the-wind-of-ayahuasca-1983.jpg" alt="The Wind of Ayahuasca (1983) still"></a>
+            <a href="/calendar/Fall_2023/sunday"><img src="/images/2023fall/the-wind-of-ayahuasca-1982.jpg" alt="The Wind of Ayahuasca (1982) still"></a>
             <div class="series-text">
               <a href="/calendar/sunday">
               <p class="day">Sunday</p>  
