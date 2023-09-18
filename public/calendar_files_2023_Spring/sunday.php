@@ -36,7 +36,7 @@
         
         <div class="screening">
           <h2>Fear and Desire (1951) // Day of the Fight (1952)</h2>
-          <img src="/images/2023spring/fear-and-desire-1951.jpg" alt="Fear and Desire (1951) // Day of the Fight (1952) still">
+          <img src="/images/2023spring/fear-and-desire-1951.jpeg" alt="Fear and Desire (1951) // Day of the Fight (1952) still">
           <h3>Stanley Kubrick // Stanley Kubrick &middot; 72m // 16m &middot; 35mm</h3>
           
           <p><i>Preserved by the Library of Congress.</i></p><p>Stanley Kubrick’s feature directorial debut, <i>Fear and Desire</i> was produced with a small crew of 15 people and an original shoestring budget of only $10,000, raised largely by Kubrick’s family. An anti-war film released under the context of the Korean War, Kubrick reportedly quit his job as a staff photographer for <i>Look</i> Magazine to make the film. Preceded by <i>Day of the Fight</i> a short documentary produced by Kubrick during his days with <i>Look</i> Magazine.</p>
@@ -45,7 +45,7 @@
         
         <div class="screening">
           <h2>La Pointe Courte (1955)</h2>
-          <img src="/images/2023spring/la-pointe-courte-1955.jpg" alt="La Pointe Courte (1955) still">
+          <img src="/images/2023spring/la-pointe-courte-1955.jpeg" alt="La Pointe Courte (1955) still">
           <h3>Agnès Varda &middot; 80m &middot; DCP</h3>
           <p>A professional photographer before becoming a filmmaker, Varda cited a fluid relationship between her photography and filmmaking. Of <i>La Pointe Courte</i>, Varda recounted “I started making films with the sole experience of photography, that's to say, where to place the camera, at what distance, with which lens and what lights?” The film moseys through a port city in France, loosely following a couple contemplating their marriage, a fisherman, and a regatta.</p>
           <h2>7:00PM Sunday, April 9th</h2>
@@ -53,7 +53,7 @@
         
         <div class="screening">
           <h2>Le Joli Mai (1963)</h2>
-          <img src="/images/2023spring/le-joli-mai-1963.jpg" alt="Le Joli Mai (1963) still">
+          <img src="/images/2023spring/le-joli-mai-1963.jpeg" alt="Le Joli Mai (1963) still">
           <h3>Chris Marker and Pierre Lhomme &middot; 165m &middot; DCP</h3>
           <p>Following the end of World War II, Chris Marker began traveling the world as a journalist and photographer. His experiments in photography led him to an interest in filmmaking, and an acquaintance with the Left Bank film movement. His first film, <i>La Jetée</i>, was constructed almost entirely from still photographs. Co-directed with Pierre Lhomme, <i>Le Joli Mai</i> is Marker's first feature-length film and documents street interviews with everyday Parisians.</p>
           <h2>7:00PM Sunday, April 16th</h2>
@@ -61,7 +61,7 @@
         
         <div class="screening">
           <h2>Being John Malkovich (1999)</h2>
-          <img src="/images/2023spring/being-john-malkovich-1999.jpg" alt="Being John Malkovich (1999) still">
+          <img src="/images/2023spring/being-john-malkovich-1999.png" alt="Being John Malkovich (1999) still">
           <h3>Spike Jonze &middot; 113m &middot; DCP</h3>
           <p>Spike Jonze got his start as a teenager taking photographs of BMX riders and skateboarders for the <i>Transworld Skateboarding</i> magazine. The style he developed led him to direct music videos and soon after, feature films. <i>Being John Malkovich</i> was Jonze’s feature debut, a collaborative effort with writer Charlie Kaufman. The film follows a puppeteer (John Cusack) who, while working odd-jobs, discovers a hidden portal into the mind of John Malkovich.</p>
           <h2>7:00PM Sunday, April 23rd</h2>
@@ -85,7 +85,7 @@
         
         <div class="screening">
           <h2>Office Killer (1997)</h2>
-          <img src="/images/2023spring/office-killer-1997.jpg" alt="Office Killer (1997) still">
+          <img src="/images/2023spring/office-killer-1997.jpeg" alt="Office Killer (1997) still">
           <h3>Cindy Sherman &middot; 95m &middot; Digital</h3>
           <p>As a photographer, Cindy Sherman is regarded for her conceptual self-portrait photography, which probes questions of identity, celebrity, and representation. Sherman made her feature film debut with <i>Office Killer</i>, a camp horror film about a copy editor (Carol Kane) who tumbles into a murderous rampage directed at her co-workers. At once comedy, horror, melodrama, noir, and feminist art piece, this film is sure to surprise, provoke, and tickle the senses.</p>
           <h2>7:00PM Sunday, May 14th</h2>

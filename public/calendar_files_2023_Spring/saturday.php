@@ -18,10 +18,9 @@
       <div class="screenings-list">
 
         <div class="text-section">
-          <h1>SATURDAY - Dóc: New Releases</h1>
+          <h1>SATURDAY - Dcc: New Releases</h1>
           <h3>Programmed by: Hannah Halpern and Addison Wood</h3>
-
-            <p>new movies! some are good, some are bad; some even get awards! come and see 'em. [oh my god please don't use this.]</p>
+            <p>New movies! Some are good, some are bad; some even get awards! Come and see 'em. [oh my god please don't use this.]</p>
         </div>
         
         <div class="screening">
