@@ -32,9 +32,9 @@
         <div class="series-list">
 
           <div class="series-tile reverse">
-            <a href="/calendar/Fall_2023/monday"><img src="/images/2023fall/m-1931.jpg" alt="M (1931) still"></a>
+            <a href="/calendar/Fall_2023/monday.php"><img src="/images/2023fall/m-1931.jpg" alt="M (1931) still"></a>
             <div class="series-text">
-              <a href="/calendar/Fall_2023/monday">
+              <a href="/calendar/Fall_2023/monday.php">
                 <p class="day">Monday</p>
                 <p class="title">Proto-noir: The Roots of the Film Noir Movement</p>
               </a>
