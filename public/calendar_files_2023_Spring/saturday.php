@@ -18,7 +18,7 @@
       <div class="screenings-list">
 
         <div class="text-section">
-          <h1>SATURDAY - New Releases</h1>
+          <h1>SATURDAY - New Releases + Miscellaneous Screenings</h1>
           
         </div>
         
