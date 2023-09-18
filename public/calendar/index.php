@@ -110,7 +110,7 @@
           <div class="series-tile">
             <a href="/calendar/Fall_2023/sunday"><img src="/images/2023fall/the-wind-of-ayahuasca-1982.jpg" alt="The Wind of Ayahuasca (1982) still"></a>
             <div class="series-text">
-              <a href="/calendar/sunday">
+              <a href="/calendar/Fall_2023/sunday">
               <p class="day">Sunday</p>  
               <p class="title">Open Veins: Postcolonial Cinema of the Luso-Hispanic World</p>
               </a>
