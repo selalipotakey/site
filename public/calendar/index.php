@@ -32,9 +32,9 @@
         <div class="series-list">
 
           <div class="series-tile reverse">
-            <a href="/calendar/Fall_2023/monday.php"><img src="/images/2023fall/m-1931.jpg" alt="M (1931) still"></a>
+            <a href="/calendar/Fall_2023/monday"><img src="/images/2023fall/m-1931.jpg" alt="M (1931) still"></a>
             <div class="series-text">
-              <a href="/calendar/Fall_2023/monday.php">
+              <a href="/calendar/Fall_2023/monday">
                 <p class="day">Monday</p>
                 <p class="title">Proto-noir: The Roots of the Film Noir Movement</p>
               </a>
@@ -43,9 +43,9 @@
           </div>
 
           <div class="series-tile">
-            <a href="/calendar/Fall_2023/tuesday"><img src="/images/2023fall/the-searchers-1956.jpg" alt="The Searchers (1956) still"></a>
+            <a href="/calendar/Fall_2023/tuesday"><img src="/images/2023fall/wise-blood-1979.jpg" alt="Wise Blood (1979) still"></a>
             <div class="series-text">
-              <a href="/calendar/programmers-picks">
+              <a href="/calendar/Fall_2023/tuesday">
                 <p class="day">Tuesday</p>
                 <p class="title">False Preachers</p>
               </a>
@@ -54,9 +54,9 @@
           </div>
 
           <div class="series-tile reverse">
-            <a href="/calendar/Fall_2023/wednesday"><img src="/images/2023fall/pacifiction-2022.jpeg" alt="Pacifiction (2022) still"></a>
+            <a href="/calendar/Fall_2023/wednesday"><img src="/images/2023fall/brokeback-mountain-2005.jpg" alt="Brokeback Mountain (2005) still"></a>
             <div class="series-text">
-              <a href="/calendar/special-events">
+              <a href="/calendar/Fall_2023/wednesday">
               <p class="day">Wednesday</p>  
               <p class="title">The Films of Ang Lee</p>
               </a>
@@ -65,9 +65,9 @@
           </div>
 
           <div class="series-tile">
-            <a href="/calendar/Fall_2023/thursday-1"><img src="/images/2023fall/the-searchers-1956.jpg" alt="The Searchers (1956) still"></a>
+            <a href="/calendar/Fall_2023/thursday-1"><img src="/images/2023fall/trainspotting-1996.jpg" alt="Trainspotting (1996) still"></a>
             <div class="series-text">
-              <a href="/calendar/programmers-picks">
+              <a href="/calendar/Fall_2023/thursday-1">
               <p class="day">Thursday I</p>  
               <p class="title">In the Club: 90s Electronic Music and Beyond</p>
               </a>
@@ -76,9 +76,9 @@
           </div>
 
           <div class="series-tile reverse">
-            <a href="/calendar/Fall_2023/thursday-2"><img src="/images/2023fall/pacifiction-2022.jpeg" alt="Pacifiction (2022) still"></a>
+            <a href="/calendar/Fall_2023/thursday-2"><img src="/images/2023fall/combat-shock-1984.jpg" alt="Combat Shock (1984) still"></a>
             <div class="series-text">
-              <a href="/calendar/special-events">
+              <a href="/calendar/Fall_2023/thursday-2">
               <p class="day">Thursday II</p>  
               <p class="title">Depths of the Grindhouse</p>
               </a>
@@ -87,9 +87,9 @@
           </div>
 
           <div class="series-tile">
-            <a href="/calendar/Fall_2023/friday"><img src="/images/2023fall/the-searchers-1956.jpg" alt="The Searchers (1956) still"></a>
+            <a href="/calendar/Fall_2023/friday"><img src="/images/2023fall/harold-and-maude-1971.jpg" alt="Harold and Maude (1971) still"></a>
             <div class="series-text">
-              <a href="/calendar/programmers-picks">
+              <a href="/calendar/Fall_2023/friday">
               <p class="day">Friday</p>  
               <p class="title">Amour Four</p>
               </a>
@@ -98,9 +98,9 @@
           </div>
 
           <div class="series-tile reverse">
-            <a href="/calendar/Fall_2023/saturday"><img src="/images/2023fall/pacifiction-2022.jpeg" alt="Pacifiction (2022) still"></a>
+            <a href="/calendar/Fall_2023/saturday"><img src="/images/2023fall/barbie-2023.jpg" alt="Barbie (2023) still"></a>
             <div class="series-text">
-              <a href="/calendar/special-events">
+              <a href="/calendar/Fall_2023/saturday">
               <p class="day">Saturday</p>  
               <p class="title">New Releases & Miscellaneous Screenings</p>
               </a>
@@ -108,9 +108,9 @@
           </div>
 
           <div class="series-tile">
-            <a href="/calendar/Fall_2023/sunday"><img src="/images/2023fall/the-searchers-1956.jpg" alt="The Searchers (1956) still"></a>
+            <a href="/calendar/Fall_2023/sunday"><img src="/images/2023fall/the-wind-of-ayahuasca-1983.jpg" alt="The Wind of Ayahuasca (1983) still"></a>
             <div class="series-text">
-              <a href="/calendar/programmers-picks">
+              <a href="/calendar/sunday">
               <p class="day">Sunday</p>  
               <p class="title">Open Veins: Postcolonial Cinema of the Luso-Hispanic World</p>
               </a>
@@ -119,9 +119,9 @@
           </div>
 
           <div class="series-tile reverse">
-            <a href="/calendar/Fall_2023/special-events"><img src="/images/2023fall/pacifiction-2022.jpeg" alt="Pacifiction (2022) still"></a>
+            <a href="/calendar/Fall_2023/special-events"><img src="/images/2023fall/la-la-land-2016.jpg" alt="La La Land (2016) still"></a>
             <div class="series-text">
-              <a href="/calendar/special-events">
+              <a href="/calendar/Fall_2023/special-events">
               <p class="title">SPECIAL EVENTS</p>
               </a>
             </div>
