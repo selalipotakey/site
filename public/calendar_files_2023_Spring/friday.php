@@ -29,7 +29,7 @@
         </div>
         
         <div class="screening">
-          <h1>The Godfather (1972)</h1>
+          <h2>The Godfather (1972)</h2>
           <img src="/images/2023spring/the-godfather-1972.png" alt="The Godfather (1972) still">
           <h3>Francis Ford Coppola &middot; 175m &middot; 35mm</h3>
           <p>What a way to start the series! The film that launched a thousand imitations and millions of film studies majors. Coppola adapts two-thirds of Mario Puzo’s bestseller, weaving interfamilial strife into an epic tableau of immigrant life in the midcentury. It's an all-American tale of power, corruption, and lies. Innovative cinematography, a classic Nino Rota score, and ultra-quotable lines abound! It’s an offer you can’t… oh, you know how the line goes.</p>
@@ -62,7 +62,7 @@
         
         <div class="screening">
           <h2>Beau Travail (1999)</h2>
-          <img src="/images/2023spring/beau-travail-1999.jpg" alt="Beau Travail (1999) still">
+          <img src="/images/2023spring/beau-travail-1999.jpeg" alt="Beau Travail (1999) still">
           <h3>Claire Denis &middot; 93m &middot; DCP</h3>
           <p>The youngest film to end up on our list has come to unequivocally shape filmmaking in the 21st century. Based on Melville’s <i>Billy Budd</i>, Denis’ film is a meditative and homoerotically-charged work of stunning beauty and catharsis. A simultaneous critique of colonialism, militarism, and repression, <i>Beau Travail</i> has become a recent favorite of directors like Barry Jenkins and Pablo Larraín. It also features the single greatest needle drop in film history.</p>
           <h2>7:00PM Friday, April 21st</h2>
