@@ -1053,7 +1053,7 @@ def create_website(formatted_capsules):
                 showtime = datetime.strptime(showtime_tuple[1], '%H:%M:%S').time()
                 showtime_string += f'{showtime:%I}:{showtime:%M}{showtime:%p} {showdate:%A}, {showdate:%B} {ordinalize_date(showdate.day)}'.lstrip("0").replace(" 0", " ")
                 showtime_string += '&middot; '
-            showtime_string = showtime_string.strip('; ').strip()
+            showtime_string = showtime_string.strip('&middot; ').strip()
                 
             format_string = ''
             def all_equal(iterator):
