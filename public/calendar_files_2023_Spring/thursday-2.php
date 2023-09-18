@@ -61,7 +61,7 @@
           <h2>Ganja & Hess (1973)</h2>
           <img src="/images/2023fall/ganja-and-hess-1973.jpg" alt="Ganja & Hess (1973) still">
           <h3>Bill Gunn &middot; 112m &middot; DCP</h3>
-          <p>An anthropologist s<br>bed with an ancient dagger by his assistant turns into a vampire. When the assistant’s wife comes looking for her husband, she finds out the anthropologist's secret and falls in love. Tasked with creating a ‘Black vampire film,’ Bill Gunn created one of the most unique pieces of horror (and art) with beautiful, experimental cinematography, structure, and a distinct atmosphere birthed partly from its low budget. Not to be missed.</p>
+          <p>An anthropologist stabbed with an ancient dagger by his assistant turns into a vampire. When the assistant’s wife comes looking for her husband, she finds out the anthropologist's secret and falls in love. Tasked with creating a ‘Black vampire film,’ Bill Gunn created one of the most unique pieces of horror (and art) with beautiful, experimental cinematography, structure, and a distinct atmosphere birthed partly from its low budget. Not to be missed.</p>
           <h2>9:30PM Thursday, October 26th</h2>
         </div>
         
