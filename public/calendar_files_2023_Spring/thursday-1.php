@@ -21,9 +21,8 @@
           <h1>THURSDAY 1 - In the Club: 90s Electronic Music and Beyond</h1>
           <h3>Programmed by: Addison Wood</h3>
 
-            <p>If your weekends are marred by tinnitus and sore teeth, then boy do we have the series for you! TAB The new state-of-the-art sound system of the Max Palevsky Cinema will be pushed to its limits with <i>In the Club</i>, a look at all things electronic music 1995 and beyond. You want it? We got it! A <i>Clockwork Orange</i> themed bar rife with Scotland’s most loveable heroin addicts? Check. The Weeknd circa 2012 crooning to a packed house? Check. A reggaetón dance crew with pyromaniacal tendencies? Check. A gay BDSM club called the Rectum? Umm, weird you should ask, but yeah we got that too. TAB Here at Doc we won’t judge you for getting to bed early. You can get the best of 4 AM at 7 PM in the luxury and comfort of Ida Noyes Hall. We can’t always promise a good night, but it’ll sure be memorable.</p>
+            <p>If your weekends are marred by tinnitus and sore teeth, then boy do we have the series for you! <br> The new state-of-the-art sound system of the Max Palevsky Cinema will be pushed to its limits with <i>In the Club</i>, a look at all things electronic music 1995 and beyond. You want it? We got it! A <i>Clockwork Orange</i> themed bar rife with Scotland’s most loveable heroin addicts? Check. The Weeknd circa 2012 crooning to a packed house? Check. A reggaetón dance crew with pyromaniacal tendencies? Check. A gay BDSM club called the Rectum? Umm, weird you should ask, but yeah we got that too. <br> Here at Doc we won’t judge you for getting to bed early. You can get the best of 4 AM at 7 PM in the luxury and comfort of Ida Noyes Hall. We can’t always promise a good night, but it’ll sure be memorable.</p>
             
-            <p><b>Addison Wood</b></p>
         </div>
         
         <div class="screening">
