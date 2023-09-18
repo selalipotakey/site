@@ -1184,7 +1184,7 @@ if __name__ == "__main__":
         year = 2023                 # Int, The current year, to be used in the directorry name of outputted files and XXX ???
         exrows_capsules = 2         # Int, The number of example rows in the movies section of the capsules spreadsheet to skip (to skip).
         exrows_series = 1           # Int, The number of example rows in the series info section of the capsules spreadsheet (to skip).
-        capsules_path = r'/Users/selalipotakey/docfilms-git/site/database/capsules_spreadsheets/Spring 2023 Capsules.xlsx'         # String, The filepath of the .xlsx capsules file on the user's computer.
+        capsules_path = r'/Users/selalipotakey/docfilms-git/site/database/capsules_spreadsheets/Fall 2023 Capsules.xlsx'         # String, The filepath of the .xlsx capsules file on the user's computer.
         ticketing_urls = False       # Bool, whether the capsules spreadsheet has ticketing URLs in the URL column
         
         # Takes the metadata and .xlsx capsules file and formats the information for easy use for both database and website.
