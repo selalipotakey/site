@@ -91,7 +91,7 @@
             <div class="series-text">
               <a href="/calendar/Fall_2023/friday">
               <p class="day">Friday</p>  
-              <p class="title">Amour Four</p>
+              <p class="title">Amour Fou</p>
               </a>
               <p class="programmer">Programmed by: Cyrus Westerlund</p>
             </div>

@@ -14,6 +14,7 @@
     <main>
 
       <?php $version='1.2'; include "./includes/dropdown.html";?>
+      <!--
       
       <div class="information">
 
@@ -118,8 +119,11 @@
         </div>
 
         <br><br><br><br><br>
+-->
 
         <h1>Doc Films will be back in the fall!</h1>
+        <img src="images/full-cal-aut-23-1.jpg"></img>
+        <img src="images/full-cal-aut-23-2.jpg"></img>
 
       </div>
       <!--
