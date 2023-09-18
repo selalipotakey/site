@@ -22,39 +22,107 @@
         <!-- this is from when cameron (2022) was trying to make a completley locally hosted google calendar by copy-pasting google's code, does not work (yet) -->
         <!-- <iframe src="/calendar/custom_calendar.php?ver=2.0" style="border: 0; padding-bottom: 0rem;" frameborder="0" scrolling="no"></iframe> -->
 
-        <iframe id='month-calendar' src="https://calendar.google.com/calendar/embed?src=c_0f6e0659bba24e7e03992579bbe1b02e7994e6ea1f75b59dd77617bead1e42e9%40group.calendar.google.com&ctz=America%2FChicago" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+        <iframe id='month-calendar'src="https://calendar.google.com/calendar/embed?src=c_4fc3c45e628e887f98469415227560c128c1bb24156da8dadec5ea688afa0997%40group.calendar.google.com&ctz=America%2FChicago" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+        <iframe id='agenda-calendar'src="https://calendar.google.com/calendar/embed?src=c_4fc3c45e628e887f98469415227560c128c1bb24156da8dadec5ea688afa0997%40group.calendar.google.com&ctz=America%2FChicago" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
-        <iframe id='agenda-calendar' src="https://calendar.google.com/calendar/embed?src=c_0f6e0659bba24e7e03992579bbe1b02e7994e6ea1f75b59dd77617bead1e42e9%40group.calendar.google.com&ctz=America%2FChicago" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
-        <h3 style="padding: 1rem 0rem;"><i>Stylized Summer 2023 calendar <u><a href="https://drive.google.com/file/d/1CzuClOQONkkR2ofjLKJhpHiDRpd5o7Du/view?usp=sharing" target="_blank">here</a></u><!--; stylized Winter 2023 booklet <u><a href="https://drive.google.com/file/d/1xW2ho_JBqHTe7wfKraEQDeJAVkMbihTx/view?usp=sharing" target="_blank">here</a></u>.--></i></h3>
+        <!--<h3 style="padding: 1rem 0rem;"><i>Stylized Fall 2023 calendar <u><a href="https://drive.google.com/file/d/1CzuClOQONkkR2ofjLKJhpHiDRpd5o7Du/view?usp=sharing" target="_blank">here</a></u>-->
 
         <h1>Series this quarter:</h1>
 
         <div class="series-list">
 
           <div class="series-tile reverse">
-            <a href="/calendar/silver-screen"><img src="/images/2023summer/carwash-1976.jpg" alt="Carwash (1976) still"></a>
+            <a href="/calendar/Fall_2023/monday"><img src="/images/2023summer/carwash-1976.jpg" alt="Carwash (1976) still"></a>
             <div class="series-text">
               <a href="/calendar/silver-screen">
-                <p class="title">Some Dreamers of the Silver Screen: L.A.'67-'76</p>
+                <p class="day">Monday</p>
+                <p class="title">Proto-noir: The Roots of the Film Noir Movement</p>
+              </a>
+              <p class="programmer">Programmed by: Kathleen Geier</p>
+            </div>
+          </div>
+
+          <div class="series-tile">
+            <a href="/calendar/Fall_2023/tuesday"><img src="/images/2023summer/the-searchers-1956.jpg" alt="The Searchers (1956) still"></a>
+            <div class="series-text">
+              <a href="/calendar/programmers-picks">
+                <p class="day">Tuesday</p>
+                <p class="title">False Preachers</p>
+              </a>
+              <p class="programmer">Programmed by: Hannah Ozmun</p>
+            </div>
+          </div>
+
+          <div class="series-tile reverse">
+            <a href="/calendar/Fall_2023/wednesday"><img src="/images/2023summer/pacifiction-2022.jpeg" alt="Pacifiction (2022) still"></a>
+            <div class="series-text">
+              <a href="/calendar/special-events">
+              <p class="day">Wednesday</p>  
+              <p class="title">The Films of Ang Lee</p>
+              </a>
+              <p class="programmer">Programmed by: Wei Lu</p>
+            </div>
+          </div>
+
+          <div class="series-tile">
+            <a href="/calendar/Fall_2023/thursday-1"><img src="/images/2023summer/the-searchers-1956.jpg" alt="The Searchers (1956) still"></a>
+            <div class="series-text">
+              <a href="/calendar/programmers-picks">
+              <p class="day">Thursday I</p>  
+              <p class="title">In the Club: 90s Electronic Music and Beyond</p>
+              </a>
+              <p class="programmer">Programmed by: Addison Wood</p>
+            </div>
+          </div>
+
+          <div class="series-tile reverse">
+            <a href="/calendar/Fall_2023/thursday-2"><img src="/images/2023summer/pacifiction-2022.jpeg" alt="Pacifiction (2022) still"></a>
+            <div class="series-text">
+              <a href="/calendar/special-events">
+              <p class="day">Thursday II</p>  
+              <p class="title">Depths of the Grindhouse</p>
+              </a>
+              <p class="programmer">Programmed by: Max Newman and Brian McKendry</p>
+            </div>
+          </div>
+
+          <div class="series-tile">
+            <a href="/calendar/Fall_2023/friday"><img src="/images/2023summer/the-searchers-1956.jpg" alt="The Searchers (1956) still"></a>
+            <div class="series-text">
+              <a href="/calendar/programmers-picks">
+              <p class="day">Friday</p>  
+              <p class="title">Amour Four</p>
+              </a>
+              <p class="programmer">Programmed by: Cyrus Westerlund</p>
+            </div>
+          </div>
+
+          <div class="series-tile reverse">
+            <a href="/calendar/Fall_2023/saturday"><img src="/images/2023summer/pacifiction-2022.jpeg" alt="Pacifiction (2022) still"></a>
+            <div class="series-text">
+              <a href="/calendar/special-events">
+              <p class="day">Saturday</p>  
+              <p class="title">New Releases & Miscellaneous Screenings</p>
               </a>
             </div>
           </div>
 
           <div class="series-tile">
-            <a href="/calendar/programmers-picks"><img src="/images/2023summer/the-searchers-1956.jpg" alt="The Searchers (1956) still"></a>
+            <a href="/calendar/Fall_2023/sunday"><img src="/images/2023summer/the-searchers-1956.jpg" alt="The Searchers (1956) still"></a>
             <div class="series-text">
               <a href="/calendar/programmers-picks">
-                <p class="title">Programmers' Picks</p>
+              <p class="day">Sunday</p>  
+              <p class="title">Open Veins: Postcolonial Cinema of the Luso-Hispanic World</p>
               </a>
+              <p class="programmer">Programmed by: Addison Wood</p>
             </div>
           </div>
 
           <div class="series-tile reverse">
-            <a href="/calendar/special-events"><img src="/images/2023summer/pacifiction-2022.jpeg" alt="Pacifiction (2022) still"></a>
+            <a href="/calendar/Fall_2023/special-events"><img src="/images/2023summer/pacifiction-2022.jpeg" alt="Pacifiction (2022) still"></a>
             <div class="series-text">
               <a href="/calendar/special-events">
-                <p class="title">Summer 2023 Special Events</p>
+              <p class="title">SPECIAL EVENTS</p>
               </a>
             </div>
           </div>
@@ -68,7 +136,7 @@
                 <p class="day">Thursday I</p>
                 <p class="title">The Three Amigos of Cinema</p>
               </a>
-              <p class="programmer">Programmed by: Rocco Fantini</p>
+              <p class="programmer">Programmed by: </p>
             </div>
           </div>
 
