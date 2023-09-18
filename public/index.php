@@ -125,7 +125,7 @@
 
       </div>
         <img src="images/2023fall/Autumn Calendar Pictures/FULLcal.jpg" style="max-width: 95vw; margin: auto; display: block;"></img>
-        <img src="images/2023fall/FULLseries.jpg" style="max-width: 95vw; margin: auto; display: block;"></img>
+        <img src="images/2023fall/Autumn Calendar Pictures/FULLseries.jpg" style="max-width: 95vw; margin: auto; display: block;"></img>
         <p style="text-align: center;">Designed by Eli Harrell</p>
       <!--
       <div class="screenings-list">
