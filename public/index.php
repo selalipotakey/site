@@ -124,8 +124,8 @@
         <h1 style="text-align: center;">Doc Films is back!</h1>
 
       </div>
-        <img src="images/2023fall/full-cal-aut-23-1.jpg" style="max-width: 95vw; margin: auto; display: block;"></img>
         <img src="images/2023fall/full-cal-aut-23-2.jpg" style="max-width: 95vw; margin: auto; display: block;"></img>
+        <img src="images/2023fall/full-cal-aut-23-1.jpg" style="max-width: 95vw; margin: auto; display: block;"></img>
       <!--
       <div class="screenings-list">
 
