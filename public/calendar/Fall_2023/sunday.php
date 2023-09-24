@@ -30,6 +30,7 @@
           <img src="/images/2023fall/el-grito-1968.jpg" alt="El grito (1968) still">
           <h3>Leobardo López Aretche &middot; 104m &middot; Digital</h3>
           <p>A rare visual artifact of the Tlatelolco massacre, <i>El grito</i> remained unreleased in Mexico for fifty years, becoming a touchstone of censorship during the reign of the PRI party. A glimpse into the final hours of peaceful protest, music, and an ominous police presence, this documentary captures the leadup to the largest flash point in Mexican politics following the revolution. <i>El grito</i> is only now becoming recognized as a significant record of Mexico’s darkest moment.</p>
+          <p><i>Film provided by Filmoteco UNAM. Introduced by Prof. Tom Ginsburg of the Forum for Free Inquiry and Expression. Discussion with Professors Mauricio Tenorio (History) and Tom Ginsburg (Law) after the screening. There will be food sponsored by the Forum for Free Inquiry and Expression and the Parrhesia Program for Public Discourse</i></p>
           <h2>6:30PM Sunday, October 1st</h2>
         </div>
         
