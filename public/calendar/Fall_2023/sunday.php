@@ -37,7 +37,8 @@
           <h2>Pixote (1980)</h2>
           <img src="/images/2023fall/pixote-1980.jpg" alt="Pixote (1980) still">
           <h3>Héctor Babenco &middot; 128m &middot; DCP</h3>
-          <p>Centered around the titular child gangster who must constantly escape the threat of sexual violence, <i>Pixote</i> calls upon the life experiences of its cast members to create an embodiment of favela life, eschewing tropes of poverty porn in favor of an approach like De Sica's. Featuring a heart-rending performance by Fernando Ramos da Silva, who was killed by police after completing the film, <i>Pixote</i> presents the institutional failings of a modern Brazil in the bleakest manner imaginable.</p>
+          
+          <p><i>Speaker Notes TBD --- possibly Brodwyn Fischer</i></p><p>Centered around the titular child gangster who must constantly escape the threat of sexual violence, <i>Pixote</i> calls upon the life experiences of its cast members to create an embodiment of favela life, eschewing tropes of poverty porn in favor of an approach like De Sica's. Featuring a heart-rending performance by Fernando Ramos da Silva, who was killed by police after completing the film, <i>Pixote</i> presents the institutional failings of a modern Brazil in the bleakest manner imaginable.</p>
           <h2>6:30PM Sunday, October 8th</h2>
         </div>
         
