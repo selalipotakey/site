@@ -29,8 +29,7 @@
           <h2>El grito (1968)</h2>
           <img src="/images/2023fall/el-grito-1968.jpg" alt="El grito (1968) still">
           <h3>Leobardo López Aretche &middot; 104m &middot; Digital</h3>
-          
-          <p><i>Film provided by Filmoteco UNAM. ntroduced by Tom Ginsburg of the Forum for Free Inquiry and Expression.</i></p><p>A rare visual artifact of the Tlatelolco massacre, <i>El Grito</i> remained unreleased in Mexico for fifty years, becoming a touchstone of censorship during the reign of the PRI party. A glimpse into the final hours of peaceful protest, music, and an ominous police presence, this documentary captures the leadup to the largest flash point in Mexican politics following the revolution. <i>El Grito</i> is only now becoming recognized as a significant record of Mexico’s darkest moment.</p>
+          <p>A rare visual artifact of the Tlatelolco massacre, <i>El grito</i> remained unreleased in Mexico for fifty years, becoming a touchstone of censorship during the reign of the PRI party. A glimpse into the final hours of peaceful protest, music, and an ominous police presence, this documentary captures the leadup to the largest flash point in Mexican politics following the revolution. <i>El grito</i> is only now becoming recognized as a significant record of Mexico’s darkest moment.</p>
           <h2>6:30PM Sunday, October 1st</h2>
         </div>
         
@@ -38,8 +37,7 @@
           <h2>Pixote (1980)</h2>
           <img src="/images/2023fall/pixote-1980.jpg" alt="Pixote (1980) still">
           <h3>Héctor Babenco &middot; 128m &middot; DCP</h3>
-          
-          <p><i>Speaker Notes TBD --- possibly Brodwyn Fischer</i></p><p>Centered around the titular child gangster who must constantly escape the threat of sexual violence, <i>Pixote</i> calls upon the life experiences of its cast members to create an embodiment of favela life, eschewing tropes of poverty porn in favor of an approach like De Sica's. Featuring a heart-rending performance by Fernando Ramos da Silva, who was killed by police after completing the film, <i>Pixote</i> presents the institutional failings of a modern Brazil in the bleakest manner imaginable.</p>
+          <p>Centered around the titular child gangster who must constantly escape the threat of sexual violence, <i>Pixote</i> calls upon the life experiences of its cast members to create an embodiment of favela life, eschewing tropes of poverty porn in favor of an approach like De Sica's. Featuring a heart-rending performance by Fernando Ramos da Silva, who was killed by police after completing the film, <i>Pixote</i> presents the institutional failings of a modern Brazil in the bleakest manner imaginable.</p>
           <h2>6:30PM Sunday, October 8th</h2>
         </div>
         
