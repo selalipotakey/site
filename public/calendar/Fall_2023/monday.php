@@ -71,7 +71,7 @@
           <img src="/images/2023fall/sabotage-1936.jpg" alt="Sabotage (1936) still">
           <h3>Alfred Hitchcock &middot; 76m &middot; 35mm</h3>
           <p>This loose adaptation of Joseph Conrad’s <i>The Secret Agent</i> is one of Hitchcock’s darkest films. Sylvia Sidney stars as a woman who is horrified to discover that her husband is a terrorist agent. <i>Sabotage</i> was not a box office hit and Hitch himself later felt that its famous “boy with the bomb” sequence was a mistake. However, its stature has grown over the years, and critics such as Pauline Kael have hailed it as the masterpiece of his British period.</p>
-          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=8D8E654A-0D44-4856-8859-97147FB19725" target="_blank">7:00PM</a></u> Monday, November 6th</h2>
+          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp" target="_blank">7:00PM</a></u> Monday, November 6th</h2>
         </div>
         
         <div class="screening">
