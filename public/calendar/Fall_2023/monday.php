@@ -79,7 +79,7 @@
           <img src="/images/2023fall/you-only-live-once-1937.jpg" alt="You Only Live Once (1937) still">
           <h3>Fritz Lang &middot; 86m &middot; DCP</h3>
           <p>Reformed ex-convict Eddie Taylor (Henry Fonda) can’t catch a break; when he’s framed for murder, he goes on the lam with his lawyer’s sympathetic secretary (Sylvia Sidney). Fritz Lang’s haunting, socially conscious melodrama has been called his best American film. Critic Dave Kehr noted that Lang’s style here had a huge influence on film noir: “it’s always night, usually raining, and the camera hovers over the characters like the heavy hand of fate.”</p>
-          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=8D8E654A-0D44-4856-8859-97147FB19725" target="_blank">7:00PM</a></u> Monday, November 13th</h2>
+          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp" target="_blank">7:00PM</a></u> Monday, November 13th</h2>
         </div>
         
         <div class="screening">
