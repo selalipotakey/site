@@ -22,13 +22,12 @@
           
         </div>
         
-        <div class="screening">
+        <div id="the-blues-brothers" class="anchor screening">
           <h2>The Blues Brothers (1980)</h2>
           <img src="/images/2023fall/the-blues-brothers-1980.jpg" alt="The Blues Brothers (1980) still">
           <h3>John Landis &middot; 133m &middot; DCP</h3>
-          
           <p><i>A Night Owls Event, with Professors Agnes Callard and Daniel Morgan. Free with Night Owls QR Code Sign-in.</i></p><p>Newly released ex-con Jake Blues reunites with his brother Elwood, and the titular Blues Brothers embark on a mission to raise enough money to save their childhood orphanage. Jake and Elwood set out to bring their old band back together, but the process is not without obstacles: the brothers careen around Chicago in a chaotic frenzy of explosive car chases, trains that come a little too close for comfort, and a bevy of enemies including the police.</p>
-          <h2><u><a href="" target="_blank">6:30PM</a></u> Monday, September 25th</h2>
+          <h2>6:30PM Monday, September 25th</h2>
         </div>
         
         <div class="screening">

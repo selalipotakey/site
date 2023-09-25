@@ -25,7 +25,7 @@
             
         </div>
         
-        <div class="screening">
+        <div id="crouching-tiger-hidden-dragon" class="anchor screening">
           <h2>Crouching Tiger, Hidden Dragon (2000)</h2>
           <img src="/images/2023fall/crouching-tiger-hidden-dragon-2000.jpg" alt="Crouching Tiger, Hidden Dragon (2000) still">
           <h3>Ang Lee &middot; 120m &middot; 35mm</h3>

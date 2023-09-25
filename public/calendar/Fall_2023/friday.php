@@ -25,7 +25,7 @@
             
         </div>
         
-        <div class="screening">
+        <div id="harold-and-maude" class="anchor screening">
           <h2>Harold and Maude (1971)</h2>
           <img src="/images/2023fall/harold-and-maude-1971.jpg" alt="Harold and Maude (1971) still">
           <h3>Hal Ashby &middot; 91m &middot; 35mm</h3>

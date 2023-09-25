@@ -25,7 +25,7 @@
             
         </div>
         
-        <div class="screening">
+        <div id="the-social-network" class="anchor screening">
           <h2>The Social Network (2010)</h2>
           <img src="/images/2023fall/the-social-network-2010.jpg" alt="The Social Network (2010) still">
           <h3>David Fincher &middot; 120m &middot; DCP</h3>

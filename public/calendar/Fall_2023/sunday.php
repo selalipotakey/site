@@ -25,7 +25,7 @@
             
         </div>
         
-        <div class="screening">
+        <div id="el-grito" class="anchor screening">
           <h2>El grito (1968)</h2>
           <img src="/images/2023fall/el-grito-1968.jpg" alt="El grito (1968) still">
           <h3>Leobardo López Aretche &middot; 104m &middot; Digital</h3>

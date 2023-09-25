@@ -26,7 +26,7 @@
             <p><b>Supported by The Martin Marty Center at the University of Chicago Divinity School.</b></p>
         </div>
         
-        <div class="screening">
+        <div id="the-night-of-the-hunter" class="anchor screening">
           <h2>The Night of the Hunter (1955)</h2>
           <img src="/images/2023fall/the-night-of-the-hunter-1955.jpg" alt="The Night of the Hunter (1955) still">
           <h3>Charles Laughton &middot; 92m &middot; DCP</h3>

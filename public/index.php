@@ -16,10 +16,9 @@
       <?php $version='1.2'; include "./includes/dropdown.html";?>
       
       <div class="information">
-      <!--
 
       <h1>
-          Past Screenings This Summer:
+          Upcoming Screenings:
         </h1>
 
         <div class="carousel">
@@ -32,72 +31,44 @@
             <ul class="carousel__track">
 
               <li class="carousel__slide current-slide">
-                <a href="/calendar/silver-screen#the-long-goodbye">
-                  <img class="carousel__image" src="/images/2023summer/the-long-goodbye-1973.jpg" alt="The Long Goodbye (1973) still">
+                <a href="/calendar/Fall_2023/wednesday#crouching-tiger-hidden-dragon">
+                  <img class="carousel__image" src="/images/2023fall/crouching-tiger-hidden-dragon-2000.jpg" alt="Crouching Tiger, Hidden Dragon (2000) still">
                 </a>
                 <div clas="description">
-                  <a href="/calendar/silver-screen#once-the-long-goodbye">
+                  <a href="/calendar/Fall_2023/wednesday#crouching-tiger-hidden-dragon">
                     <p class="event-title fittext">
-                      The Long Goodbye (1973)
+                      Crouching Tiger, Hidden Dragon (2000)
                     </p>
                   </a>
-                  <p class="capsule fittext"><i>The Long Goodbye</i> starts not with a bang, but with a vibe. Elliott Gould’s Philip Marlowe wanders through a 1973 L.A. laden with denizens who have little between their ears. In typical Robert Altman style, he sends Marlowe into a rabbit-hole of dead friends and strangers. Suspicion falls on Marlowe after an old friend’s wife is found dead, but this quickly becomes the least of his worries. Gangsters, alcoholic writers, and detox clinics all join Altman’s cavalcade symphony of Malibu vapidity.</p>
+                  <p class="capsule fittext">One of the most acclaimed films of the 21st-century, <i>Crouching Tiger, Hidden Dragon</i> follows a stolen mystical sword and two warriors’ (Chow Yun-fat and Michelle Yeoh) quest to retrieve it. Grand in its scope and mesmerizing in its execution—in part due to Yuen Woo-Ping’s intricate, masterfully-crafted fight choreography—Ang Lee’s film is an enthralling visual experience not to be missed.</p>
                 </div>
               </li>
 
               <li class="carousel__slide">
-                <a href="/calendar/special-events#pacifiction">
-                  <img class="carousel__image" src="/images/2023summer/pacifiction-2022.jpeg" alt="Pacifiction (2022) still">
+                <a href="/calendar/Fall_2023/thursday-1#the-social-network">
+                  <img class="carousel__image" src="/images/2023fall/the-social-network.jpg" alt="The Social Network (2010) still">
                 </a>
                 <div clas="description">
-                  <a href="/calendar/special-events#pacifiction">
+                  <a href="/calendar/Fall_2023/thursday-1#the-social-network">
                     <p class="event-title fittext">
-                      Pacifiction (2022)
+                      The Social Network (2010)
                     </p>
                   </a>
-                  <p class="capsule fittext">This post-colonial fever dream of French Polynesia was voted best film of 2022 by Cahiers du Cinéma and "suggests John le Carré by way of David Lynch," per A.O. Scott. It's a slow-burning character study of High Commissioner De Roller (Benoît Magimel, The Piano Teacher), who floats through all walks of island life with an easy charisma. But the lush Tahitian setting pulses with a sense of dread that only grows as political alliances shift and unravel.</p>
+                  <p class="capsule fittext">Whether prescient or dated, we aren’t exactly sure. 2000s bright-eyed Zuckerberg collides with David Fincher’s cinematic sleekness and Sorkin’s verbose pizzazz. <i>The Social Network</i> dissects social media's birth at a microcosmic level: a who’s who of dorky college dropouts and deadbeats opening the Pandora’s box that would become Facebook. Ideal for freshmen entering college life, the movie features a killer score by Trent Reznor and Atticus Ross.</p>
                 </div>
               </li>
 
               <li class="carousel__slide">
-                <a href="/calendar/programmers-picks#the-searchers">
-                  <img class="carousel__image" src="/images/2023summer/the-searchers-1956.jpg" alt="The Searchers (1956) still">
+                <a href="/calendar/Fall_2023/friday#harold-and-maude">
+                  <img class="carousel__image" src="/images/2023summer/harold-and-maude-1971.jpg" alt="Harold and Maude (1971) still">
                 </a>
                 <div clas="description">
-                  <a href="/calendar/programmers-picks#the-searchers">
+                  <a href="/calendar/Fall_2023/friday#harold-and-maude">
                     <p class="event-title fittext">
-                      The Searchers (1956)
+                      Harold and Maude (1971)
                     </p>
                   </a>
-                  <p class="capsule fittext">The beloved middle-child western sandwiched between the old-school and revisionists, The Searchers takes a decidedly complex look at one man’s delirious search for his abducted niece. Closer in spirit to Heart of Darkness than Gunsmoke, John Ford subtly questions the ideologies of the American west and its isolated inhabitants driven to humanity’s edge. With the mesmerizing imagery of Monument Valley as a backdrop for the likes of John Wayne and Natalie Wood, The Searchers serves as a touchstone for one of American cinema’s earliest reckonings with the racism of the American west(ern).</p>
-                </div>
-              </li>
-
-              <li class="carousel__slide">
-                <a href="/calendar/silver-screen#carwash">
-                  <img class="carousel__image" src="/images/2023summer/carwash-1976.jpg" alt="Car Wash (1976) still">
-                </a>
-                <div clas="description">
-                  <a href="/calendar/silver-screen#carwash">
-                    <p class="event-title fittext">
-                      Car Wash (1976) 
-                    </p>
-                  </a>
-                  <p class="capsule fittext">Taking place on a single day of a happening Los Angeles car wash, Michael Schultz’s film is the perfect summer comedy encapsulating the zeitgeist of a rapidly changing American landscape. With an all-star lineup that includes Richard Pryor, Bill Duke, George Carlin, the Pointer Sisters, and Franklyn Ajaye, <i>Car Wash</i> is a hilariously biting flick with an ineffable joie de vivre, and also a major milestone in ‘70s Black studio filmmaking.</p>
-                </div>
-              </li>
-
-              <li class="carousel__slide">
-                <a href="/calendar/programmers-picks#the-maltese-falcon">
-                  <img class="carousel__image" src="/images/2023summer/the-maltese-falcon-1941.jpg" alt="The Maltese Falcon (1941) still">
-                </a>
-                <div clas="description">
-                  <a href="/calendar/programmers-picks#the-maltese-falcon">
-                    <p class="event-title fittext">
-                      The Maltese Falcon (1941) 
-                    </p>
-                  </a>
-                  <p class="capsule fittext"><i>The Maltese Falcon</i> follows private detective Sam Spade (Humphrey Bogart) as his search for the Maltese Falcon statuette entangles him in a web of deceit and murder. With a stellar cast including Mary Astor, Peter Lorre, and Sydney Greenstreet, the film is filled to the brim with twists, double-crosses, and moral ambiguity. Written and directed by John Huston, this film noir classic will provide the perfect escape from the summer heat with its chilling atmospheric cinematography and sharp dialogue. </p>
+                  <p class="capsule fittext">Harold is a morose young man whose obsession with death is distasteful to his wealthy socialite mother. When he meets Maude, a 79-year-old free spirit who lives life to the fullest—even in spite of the law—the two strike up an odd friendship and a deep affection. Both a black comedy and an innocent romance, <i>Harold and Maude</i> highlights love that exists between members of society’s strange and outcast, with a classic soundtrack by Cat Stevens.</p>
                 </div>
               </li>
 
@@ -112,55 +83,105 @@
             <button class="carousel__indicator current-slide"></button>
             <button class="carousel__indicator"></button>
             <button class="carousel__indicator"></button>
-            <button class="carousel__indicator"></button>
-            <button class="carousel__indicator"></button>
           </div>
           
         </div>
 
         <br><br><br><br><br>
--->
-
-        <h1 style="text-align: center; margin-bottom: 1vw;">Doc Films Fall 2023 Calendar</h1>
 
       </div>
-        <img src="images/2023fall/Autumn Calendar Pictures/FULLcal.jpg" style="max-width: 95vw; margin: auto; margin-bottom: 2vw; display: block;"></img>
-        <img src="images/2023fall/Autumn Calendar Pictures/FULLseries.jpg" style="max-width: 95vw; margin: auto; display: block;"></img>
-        <h2 style="text-align: center; font-size: 1.5rem; margin-top: 1vw; margin-bottom: 1vw;">Designed by Eli Harrell</h2>
-      <!--
       <div class="screenings-list">
 
         <div class="text-section">
           <h1>This Week: </h1>
-          <h3><i>$5 tickets, theater opens 30 minutes before the screening.</i></h3> 
+          <h3><i>$7 tickets, theater opens 30 minutes before the screening.</i></h3> 
         </div>
 
-        <div id="within-the-law" class="anchor screening">
-          <a href="/calendar/programmers-picks#within-the-law">
-            <h2>Within the Law (1923)</h2>
-            <img src="/images/2023summer/within-the-law-1923.jpg" alt="Within the Law (1923) still">
+        <div id="the-blues-brothers" class="anchor screening">
+          <a href="calendar/Fall_2023/special_events#the-blues-brothers">
+            <h2>The Blues Brothers (1980)</h2>
+            <img src="/images/2023fall/the-blues-brothers-1980.jpg" alt="The Blues Brothers (1980) still">
           </a>
-          <h3>Frank Lloyd &middot; 105m &middot; 35mm</h3>
-          <p><i>Preserved by the Library of Congress.</i></p>
-          <p>Directed by one of the founding members of the Academy of Motion Picture Arts and Sciences, WITHIN THE LAW centers Mary Turner, a courageous woman who vows to take vengeance on those who had her wrongfully imprisoned for a crime she did not commit. Norma Talmadge, one of the most popular idols of the silent era and a box-office powerhouse of the early 1920s, leads this silent era melodrama.</p>
-          <p><b>Tickets: August 11th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=F54042DE-9031-4614-9610-9AA98AE4E1C5" target="_blank">4:00PM</a></u>
-                &middot; August 12th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=909F7A26-0197-4A57-97A9-2AE53FDC16FC" target="_blank">7:00PM</a></u>
-          </b></p>
+          <h3>John Landis &middot; 133m &middot; DCP</h3>
+          <p><i>A Night Owls Event, with Professors Agnes Callard and Daniel Morgan. Free with Night Owls QR Code Sign-in.</i></p><p>Newly released ex-con Jake Blues reunites with his brother Elwood, and the titular Blues Brothers embark on a mission to raise enough money to save their childhood orphanage. Jake and Elwood set out to bring their old band back together, but the process is not without obstacles: the brothers careen around Chicago in a chaotic frenzy of explosive car chases, trains that come a little too close for comfort, and a bevy of enemies including the police.</p>
+          <h2>6:30PM Monday, September 25th</h2>
+        </div>
+
+        <div id="the-night-of-the-hunter" class="anchor screening">
+          <a href="/calendar/Fall_2023/tuesday#the-night-of-the-hunter">
+            <h2>The Night of the Hunter (1955)</h2>
+            <img src="/images/2023fall/the-night-of-the-hunter-1955.jpg" alt="The Night of the Hunter (1955) still">
+          </a>
+          <h3>Charles Laughton &middot; 92m &middot; DCP</h3>
+          <p>A diabolical traveling preacher marries a gullible widow, hoping to pocket the $10,000 hidden away by her late husband. Set in the Depression-era South, <i>The Night of the Hunter</i> follows her children as they flee their stepfather by starlight. Equal parts horror, comedy, and fantasy, <i>The Night of the Hunter</i> echoes tropes of silent film with striking shadowplay and an unforgettable performance by 61-year-old Lillian Gish.</p>
+          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=215612BB-EC15-4DB7-8F1D-FFA7E73ACAAE" target="_blank">7:00PM</a></u> Tuesday, September 26th</h2>
         </div>
         
-        <div id="once-upon-a-time-in-hollywood" class="anchor screening">
-          <a href="/calendar/silver-screen#once-upon-a-time-in-hollywood">
-            <h2>Once Upon a Time in Hollywood (2019)</h2>
-            <img src="/images/2023summer/once-upon-a-time-in-hollywood-2019.jpg" alt="Once Upon a Time in Hollywood (2019) still">
+        <div id="crouching-tiger-hidden-dragon" class="anchor screening">
+          <a href="/calendar/Fall_2023/wednesday#crouching-tiger-hidden-dragon">
+            <h2>Crouching Tiger, Hidden Dragon (2000)</h2>
+            <img src="/images/2023fall/crouching-tiger-hidden-dragon-2000.jpg" alt="Crouching Tiger, Hidden Dragon (2000) still">
           </a>
-          <h3>Quentin Tarantino &middot; 160m &middot; 35mm</h3>
-          <p>Okay, but seriously, let’s just have some fun with this last one. Rick Dalton (Leo DiCaprio) and his stunt double Cliff Booth (Brad Pitt) navigate the rapidly declining studio film industry as foreign and indie films seem more promising than ever before. Cliff and Rick rub elbows with all the So-Cal bigwigs and freaks: Sharon Tate, Polanski, Bruce Lee, Mama Cass, and a guy named Charlie Manson who seems to be planning something big. Tarantino’s chillest film to date, <i>Once Upon a Time in Hollywood</i> feels like a perfect summer day ... but remember, something creepy is always lurking in the night.</p>
-          <p><b>Tickets: August 11th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=45D33CEE-B291-4B3D-9904-A1A85215112D" target="_blank">7:00PM</a></u>
-                &middot; August 12th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=DA3F7BD4-1FF9-416C-8701-D1D71D839EEE" target="_blank">4:00PM</a></u>
-          </b></p>
+          <h3>Ang Lee &middot; 120m &middot; 35mm</h3>
+          <p>One of the most acclaimed films of the 21st-century, <i>Crouching Tiger, Hidden Dragon</i> follows a stolen mystical sword and two warriors’ (Chow Yun-fat and Michelle Yeoh) quest to retrieve it. Grand in its scope and mesmerizing in its execution—in part due to Yuen Woo-Ping’s intricate, masterfully-crafted fight choreography—Ang Lee’s film is an enthralling visual experience not to be missed.</p>
+          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=1ECB3BF4-EAEC-4D91-8DCF-4992BDE2EF75" target="_blank">7:00PM</a></u> Wednesday, September 27th</h2>
         </div>
 
--->
+        <div id="the-social-network" class="anchor screening">
+          <a href="calendar/Fall_2023/thursday-1#the-social-network">
+            <h2>The Social Network (2010)</h2>
+            <img src="/images/2023fall/the-social-network-2010.jpg" alt="The Social Network (2010) still">
+          </a>
+          <h3>David Fincher &middot; 120m &middot; DCP</h3>
+          <p>Whether prescient or dated, we aren’t exactly sure. 2000s bright-eyed Zuckerberg collides with David Fincher’s cinematic sleekness and Sorkin’s verbose pizzazz. <i>The Social Network</i> dissects social media's birth at a microcosmic level: a who’s who of dorky college dropouts and deadbeats opening the Pandora’s box that would become Facebook. Ideal for freshmen entering college life, the movie features a killer score by Trent Reznor and Atticus Ross.</p>
+          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=450FE98C-C79B-4E66-984B-6708924F0E25" target="_blank">7:00PM</a></u> Thursday, September 28th</h2>
+        </div>
+
+        <div id="god-told-me-to" class="anchor screening">
+          <a href="/calendar/Fall_2023/thursday-2#god-told-me-to">
+            <h2>God Told Me To (1976)</h2>
+            <img src="/images/2023fall/god-told-me-to-1976.jpg" alt="God Told Me To (1976) still">
+          </a>
+          <h3>Larry Cohen &middot; 91m &middot; DCP</h3>
+          <p>A series of mass shootings and murders carried out by seemingly unconnected people all claiming God told them to are investigated by New York City detective Peter Nicholas. Shit spirals out of control as Nicholas’ childhood is put into question and possibly related to the incidents. Larry Cohen creates a tense thriller that incorporate science-fiction and horror elements, all against the backdrop of the bustle of 70s NYC—with an Andy Kaufman cameo.</p>
+          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=FEC338A2-9FC2-485C-89E8-DE1C5EEF3853" target="_blank">9:30PM</a></u> Thursday, September 28th</h2>
+        </div>
+
+        <div id="harold-and-maude" class="anchor screening">
+          <a href="calendar/Fall_2023/friday#harold-and-maude">
+            <h2>Harold and Maude (1971)</h2>
+            <img src="/images/2023fall/harold-and-maude-1971.jpg" alt="Harold and Maude (1971) still">
+          </a>
+          <h3>Hal Ashby &middot; 91m &middot; 35mm</h3>
+          <p>Harold is a morose young man whose obsession with death is distasteful to his wealthy socialite mother. When he meets Maude, a 79-year-old free spirit who lives life to the fullest—even in spite of the law—the two strike up an odd friendship and a deep affection. Both a black comedy and an innocent romance, <i>Harold and Maude</i> highlights love that exists between members of society’s strange and outcast, with a classic soundtrack by Cat Stevens.</p>
+          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=8D585F57-A65B-4A0A-BBE4-76BCF458624E" target="_blank">7:00PM</a></u> Friday, September 29th</h2>
+        </div>
+
+        <div id="past-lives" class="anchor screening">
+          <a href="calendar/Fall_2023/saturday#past-lives">
+            <h2>Past Lives (2023)</h2>
+            <img src="/images/2023fall/past-lives-2023.jpg" alt="Past Lives (2023) still">
+          </a>
+          <h3>Celine Song &middot; 106m &middot; DCP</h3>
+          <p>Celine Song wrote this screenplay for herself, but we're all glad she did. After settling in New York with her husband (John Magaro), Nora encounters her childhood sweetheart Hae Sung (Teo Yoo) and is faced with the lines of fate tying her not only to Hae Sung, but also to who she used to be. Based off of Song's experiences as a Korean immigrant, <i>Past Lives</i> presents a romantic drama that patiently explores inexpressible connections and the what-if’s.</p>
+          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=5C0B5A02-46C6-4387-9459-1278F13D40CE" target="_blank">7:00PM</a></u> Saturday, October 7th</h2>
+        </div>
+
+        <div id="el-grito" class="anchor screening">
+          <a href="calendar/Fall_2023/sunday#el-grito">
+            <h2>El grito (1968)</h2>
+            <img src="/images/2023fall/el-grito-1968.jpg" alt="El grito (1968) still">
+          </a>
+          <h3>Leobardo López Aretche &middot; 104m &middot; Digital</h3>
+          <p>A rare visual artifact of the Tlatelolco massacre, <i>El grito</i> remained unreleased in Mexico for fifty years, becoming a touchstone of censorship during the reign of the PRI party. A glimpse into the final hours of peaceful protest, music, and an ominous police presence, this documentary captures the leadup to the largest flash point in Mexican politics following the revolution. <i>El grito</i> is only now becoming recognized as a significant record of Mexico’s darkest moment.</p>
+          <p><i>Film provided by Filmoteco UNAM. Introduced by Prof. Tom Ginsburg of the Forum for Free Inquiry and Expression. Discussion with Professors Mauricio Tenorio (History) and Tom Ginsburg (Law) after the screening. There will be food sponsored by the Forum for Free Inquiry and Expression and the Parrhesia Program for Public Discourse</i></p>
+          <h2>6:30PM Sunday, October 1st</h2>
+        </div>
+
+    <h1 style="text-align: center; margin-bottom: 1vw;">Doc Films Fall 2023 Calendar</h1>
+    <img src="images/2023fall/Autumn Calendar Pictures/FULLcal.jpg" style="max-width: 95vw; margin: auto; margin-bottom: 2vw; display: block;"></img>
+    <img src="images/2023fall/Autumn Calendar Pictures/FULLseries.jpg" style="max-width: 95vw; margin: auto; display: block;"></img>
+    <h2 style="text-align: center; font-size: 1.5rem; margin-top: 1vw; margin-bottom: 1vw;">Designed by Eli Harrell</h2>
         
     </main>
     

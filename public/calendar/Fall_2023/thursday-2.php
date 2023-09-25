@@ -25,7 +25,7 @@
             
         </div>
         
-        <div class="screening">
+        <div id="god-told-me-to" class="anchor screening">
           <h2>God Told Me To (1976)</h2>
           <img src="/images/2023fall/god-told-me-to-1976.jpg" alt="God Told Me To (1976) still">
           <h3>Larry Cohen &middot; 91m &middot; DCP</h3>

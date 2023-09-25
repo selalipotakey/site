@@ -22,7 +22,7 @@
           
         </div> 
         
-        <div class="screening">
+        <div id="past-lives" class="anchor screening">
           <h2>Past Lives (2023)</h2>
           <img src="/images/2023fall/past-lives-2023.jpg" alt="Past Lives (2023) still">
           <h3>Celine Song &middot; 106m &middot; DCP</h3>
