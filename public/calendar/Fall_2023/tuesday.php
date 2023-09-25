@@ -39,7 +39,7 @@
           <img src="/images/2023fall/salesman-1969.jpg" alt="Salesman (1969) still">
           <h3>Albert, David Maysles, and Charlotte Zwerin &middot; 91m &middot; DCP</h3>
           <p>The door-to-door salesmen in this Maysles brothers documentary aren’t exactly preachers—but they are in the business of religion as they try to sell large, expensive Bibles to working-class Catholics. A portrait of mid-century consumerism and suburban ennui, <i>Salesman</i> follows its subjects from house to house as they pitch the Good Book and swap notes about the day’s successes and failures.</p>
-          <h2><u><a href="" target="_blank">7:00PM</a></u> Tuesday, October 3rd</h2>
+          <h2>7:00PM Tuesday, October 3rd</h2>
         </div>
         
         <div class="screening">
@@ -63,7 +63,7 @@
           <img src="/images/2023fall/marjoe-1972.jpg" alt="Marjoe (1972) still">
           <h3>Howard Smith and Sarah Kernochan &middot; 88m &middot; Digital</h3>
           <p>Marjoe Gortner started preaching in Pentecostal revivals when he was four years old. Now in his late 20’s, Marjoe doesn’t believe in God - but continues to make his living on the revival circuit. In this Academy Award winning documentary, Marjoe takes camera crews behind the scenes of Pentecostal revivals, explaining the tricks of the trade while coming clean about his double life.</p>
-          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=C522062D-81A4-4BAF-9053-7EDA0CAC9B70" target="_blank">7:00PM</a></u> Tuesday, October 24th</h2>
+          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp" target="_blank">7:00PM</a></u> Tuesday, October 24th</h2>
         </div>
         
         <div class="screening">
