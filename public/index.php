@@ -179,7 +179,7 @@
         </div>
 
     <h1 style="text-align: center; margin-bottom: 1vw;">Doc Films Fall 2023 Calendar</h1>
-    <img src="images/2023fall/Autumn Calendar Pictures/FULLcal.jpg" style="max-width: 95vw; margin: auto; margin-bottom: 2vw; display: block;"></img>
+    <img src="images/2023fall/Autumn Calendar Pictures/FULLcal.jpg" style="max-width: 95vw; margin: auto; margin-bottom: 2vw; display: block; align-self: center;"></img>
     <img src="images/2023fall/Autumn Calendar Pictures/FULLseries.jpg" style="max-width: 95vw; margin: auto; display: block;"></img>
     <h2 style="text-align: center; font-size: 1.5rem; margin-top: 1vw; margin-bottom: 1vw;">Designed by Eli Harrell</h2>
         
