@@ -54,7 +54,7 @@
           <img src="/images/2023fall/i-am-a-fugitive-from-a-chain-gang-1932.jpg" alt="I Am a Fugitive from a Chain Gang (1932) still">
           <h3>Mervyn LeRoy &middot; 92m &middot; 35mm</h3>          
           <p><i>Preserved by the Library of Congress</i></p><p>Down-on-his-luck World War I vet James Allen is railroaded onto a brutal Southern chain gang for a crime he didn’t commit. He escapes to Chicago, but after his past catches up to him, he is forced back to a life on the run. Based on a true story, this gripping and harrowing film is probably the best of the Warner Brothers’ hardboiled Depression-era social conscience pictures. Its gut-punch of an ending is one of the greatest in Hollywood history.</p>
-          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=C522062D-81A4-4BAF-9053-7EDA0CAC9B70" target="_blank">7:00PM</a></u> Monday, October 23rd</h2>
+          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp" target="_blank">7:00PM</a></u> Monday, October 23rd</h2>
         </div>
         
         <div class="screening">
