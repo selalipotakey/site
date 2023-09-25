@@ -7,7 +7,7 @@
     <link rel="stylesheet" type="text/css" href="/style.css">
   </head>
 
-  <body>
+  <body> 
     
     <?php include $_SERVER['DOCUMENT_ROOT'] . "/includes/header.html" ?>
   
@@ -30,7 +30,7 @@
           <img src="/images/2023fall/crouching-tiger-hidden-dragon-2000.jpg" alt="Crouching Tiger, Hidden Dragon (2000) still">
           <h3>Ang Lee &middot; 120m &middot; 35mm</h3>
           <p>One of the most acclaimed films of the 21st-century, <i>Crouching Tiger, Hidden Dragon</i> follows a stolen mystical sword and two warriors’ (Chow Yun-fat and Michelle Yeoh) quest to retrieve it. Grand in its scope and mesmerizing in its execution—in part due to Yuen Woo-Ping’s intricate, masterfully-crafted fight choreography—Ang Lee’s film is an enthralling visual experience not to be missed.</p>
-          <h2>7:00PM Wednesday, September 27th</h2>
+          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=1ECB3BF4-EAEC-4D91-8DCF-4992BDE2EF75" target="_blank">7:00PM</a></u> Wednesday, September 27th</h2>
         </div>
         
         <div class="screening">
@@ -38,7 +38,8 @@
           <img src="/images/2023fall/brokeback-mountain-2005.jpg" alt="Brokeback Mountain (2005) still">
           <h3>Ang Lee &middot; 134m &middot; 35mm</h3>
           <p>It’s hard to overstate the significance of <i>Brokeback Mountain</i>. Devastatingly beautiful and incredibly profound, the film revolves around the secret, decades-long relationship between cowboys Ennis Del Mar (Heath Ledger) and Jack Twist (Jack Gyllenhaal). <i>Brokeback Mountain</i> is both a brilliant and important film that won Ang Lee the Academy Award for Best Director and proved that serious LGBTQ stories belong in mainstream media. Doc was actually the Chicago premiere for this film!</p>
-          <h2>7:00PM Wednesday, October 4th&middot; 12:00PM Sunday, October 8th</h2>
+          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=5CF43FDC-6682-47E4-BF1F-BE837D2FD56A" target="_blank">7:00PM</a></u> Wednesday, October 4th&middot; 
+          <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=9C344886-98E7-43A4-8118-452D0F357683" target="_blank">12:00PM</a></u> Sunday, October 8th</h2>
         </div>
         
         <div class="screening">
@@ -46,7 +47,7 @@
           <img src="/images/2023fall/sense-and-sensibility-1995.jpg" alt="Sense and Sensibility (1995) still">
           <h3>Ang Lee &middot; 136m &middot; 35mm</h3>
           <p>Sisters Elinor (Emma Thompson) and Marianne (Kate Winslet) grapple with financial hardship, societal expectations, and their different approaches to love. Thompson won the Academy Award for her screenplay, making her the only person to have won an Oscar for both screenwriting and acting. A tender and witty film,<i>Sense and Sensibility</i> demonstrates Ang Lee’s versatility as a director and is widely considered one of the best adaptations of an Austen work.</p>
-          <h2>7:00PM Wednesday, October 11th</h2>
+          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=140BC31E-4733-4851-9C5E-0975A9034D63" target="_blank">7:00PM</a></u> Wednesday, October 11th</h2>
         </div>
         
         <div class="screening">
@@ -54,7 +55,7 @@
           <img src="/images/2023fall/life-of-pi-2012.jpg" alt="Life of Pi (2012) still">
           <h3>Ang Lee &middot; 127m &middot; DCP</h3>
           <p>Ang Lee’s <i>Life of Pi</i>, based on Yann Martel’s novel of the same name, is perhaps his most gorgeous film. Deeply thought-provoking and emotionally rich, it depicts the adventure of a boy nicknamed Pi stranded in the middle of the ocean…with a Bengal tiger. The film's breathtaking visuals and philosophical narrative earned it critical acclaim and several Academy Awards, including Best Director. Come for the tiger, stay for a hopeful, beautiful experience.</p>
-          <h2>7:00PM Wednesday, October 18th</h2>
+          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=E5277679-5B4C-4282-BE71-A668EF3D5C05" target="_blank">7:00PM</a></u> Wednesday, October 18th</h2>
         </div>
         
         <div class="screening">
@@ -62,7 +63,8 @@
           <img src="/images/2023fall/the-ice-storm-1997.jpg" alt="The Ice Storm (1997) still">
           <h3>Ang Lee &middot; 112m &middot; 35mm</h3>
           <p>With a plot containing enough family dysfunction to rival, and to some—<i>surpass</i>— <i>American Beauty</i>, <i>The Ice Storm</i> is a study on bleak, melancholic suburbia. Over the course of a Thanksgiving weekend (and under the threat of a severe ice storm), two families deal with adultery, substance abuse, and isolation in a time of personal and social unrest. <i>The Ice Storm</i> is not only among the best of Lee’s work, but is also one the finest films of its decade.</p>
-          <h2>7:00PM Wednesday, October 25th&middot; 4:00PM Saturday, October 28th</h2>
+          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=C522062D-81A4-4BAF-9053-7EDA0CAC9B70" target="_blank">7:00PM</a></u> Wednesday, October 25th&middot; 
+          <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=C522062D-81A4-4BAF-9053-7EDA0CAC9B70" target="_blank">4:00PM</a></u> Saturday, October 28th</h2>
         </div>
         
         <div class="screening">
@@ -70,7 +72,7 @@
           <img src="/images/2023fall/lust-caution-2007.jpg" alt="Lust, Caution (2007) still">
           <h3>Ang Lee &middot; 158m &middot; 35mm</h3>
           <p>This erotic espionage thriller won Ang Lee his second Golden Lion at the Venice Film Festival. Tang Wei stars as Wong Chia Chi, a young university student who joins a resistance against the Japanese puppet government in Shanghai. She is tasked with seducing and killing Mr. Yee (Tony Leung), a high-ranking official, but as the assassination plot advances, Chia Chi’s loyalty to the resistance—and her feelings for Mr. Yee—become increasingly complicated.</p>
-          <h2>7:00PM Wednesday, November 1st</h2>
+          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=8D8E654A-0D44-4856-8859-97147FB19725" target="_blank">7:00PM</a></u> Wednesday, November 1st</h2>
         </div>
         
         <div class="screening">
@@ -78,7 +80,7 @@
           <img src="/images/2023fall/pushing-hands-1991.jpg" alt="Pushing Hands (1991) still">
           <h3>Ang Lee &middot; 105m &middot; DCP</h3>
           <p>More than 30 years later, Ang Lee’s feature debut remains a testament to his skill as a director. The first in his "Father Knows Best" trilogy, <i>Pushing Hands</i> is centered on Mr. Chu—a Tai Chi master—who moves from Beijing to New York to stay with his son’s family. It's a warm and touching film, shaped by themes like clashing cultures and generational differences, which continue to appear in Lee’s later works.</p>
-          <h2>7:00PM Wednesday, November 8th</h2>
+          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=8D8E654A-0D44-4856-8859-97147FB19725" target="_blank">7:00PM</a></u> Wednesday, November 8th</h2>
         </div>
         
         <div class="screening">
@@ -86,7 +88,7 @@
           <img src="/images/2023fall/ride-with-the-devil-1999.jpg" alt="Ride with the Devil (1999) still">
           <h3>Ang Lee &middot; 138m &middot; Digital</h3>
           <p>Ang Lee’s (non-typical) take on the Western! Set during the American Civil War, it follows friends Jake Roedel (Tobey Maguire) and Jack Bull Chiles (Skeet Ulrich) who join the Irregulars, a guerilla warfare unit fighting for the Confederacy. Notable for its exploration of unconventional narratives, an intimate, character-driven story, and Frederick Elmes’ beautiful cinematography,<i>Ride with the Devil</i>is one of Lee’s most interesting films.</p>
-          <h2>7:00PM Wednesday, November 15th</h2>
+          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=72E64D67-E486-4039-AE7B-370F5EBBC2B6" target="_blank">7:00PM</a></u> Wednesday, November 15th</h2>
         </div>
         
         <div class="screening">
@@ -94,7 +96,7 @@
           <img src="/images/2023fall/hulk-2003.jpg" alt="Hulk (2003) still">
           <h3>Ang Lee &middot; 138m &middot; 35mm</h3>
           <p>Visually ambitious and incredibly dynamic, <i>Hulk</i> is unlike any other superhero film, bursting with bold creativity and technical innovation. It explores the origins of Hulk—the green-skinned monster that Dr. Bruce Banner transforms into after an experiment gone wrong—and is noteworthy for its portrayal of the character’s emotional aspects. Ang Lee’s <i>Hulk</i> is a must-see for those wanting both thrilling action and a nuanced depiction of Bruce Banner.</p>
-          <h2>7:00PM Wednesday, November 29th</h2>
+          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=E130A604-6B91-48EF-BA65-B4FAC10E34EC" target="_blank">7:00PM</a></u> Wednesday, November 29th</h2>
         </div>
         
       </div>

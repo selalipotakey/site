@@ -11,7 +11,7 @@
     
     <?php include $_SERVER['DOCUMENT_ROOT'] . "/includes/header.html" ?>
   
-    <main>
+    <main> 
 
       <?php include $_SERVER['DOCUMENT_ROOT'] . "/includes/dropdown.html" ?>
 

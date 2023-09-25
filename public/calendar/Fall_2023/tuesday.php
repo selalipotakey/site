@@ -6,7 +6,7 @@
     <title>Tuesday</title>
     <link rel="stylesheet" type="text/css" href="/style.css">
   </head>
-
+ 
   <body>
     
     <?php include $_SERVER['DOCUMENT_ROOT'] . "/includes/header.html" ?>
@@ -31,7 +31,7 @@
           <img src="/images/2023fall/the-night-of-the-hunter-1955.jpg" alt="The Night of the Hunter (1955) still">
           <h3>Charles Laughton &middot; 92m &middot; DCP</h3>
           <p>A diabolical traveling preacher marries a gullible widow, hoping to pocket the $10,000 hidden away by her late husband. Set in the Depression-era South, <i>The Night of the Hunter</i> follows her children as they flee their stepfather by starlight. Equal parts horror, comedy, and fantasy, <i>The Night of the Hunter</i> echoes tropes of silent film with striking shadowplay and an unforgettable performance by 61-year-old Lillian Gish.</p>
-          <h2>7:00PM Tuesday, September 26th</h2>
+          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=215612BB-EC15-4DB7-8F1D-FFA7E73ACAAE" target="_blank">7:00PM</a></u> Tuesday, September 26th</h2>
         </div>
         
         <div class="screening">
@@ -39,7 +39,7 @@
           <img src="/images/2023fall/salesman-1969.jpg" alt="Salesman (1969) still">
           <h3>Albert, David Maysles, and Charlotte Zwerin &middot; 91m &middot; DCP</h3>
           <p>The door-to-door salesmen in this Maysles brothers documentary aren’t exactly preachers—but they are in the business of religion as they try to sell large, expensive Bibles to working-class Catholics. A portrait of mid-century consumerism and suburban ennui, <i>Salesman</i> follows its subjects from house to house as they pitch the Good Book and swap notes about the day’s successes and failures.</p>
-          <h2>7:00PM Tuesday, October 3rd</h2>
+          <h2><u><a href="" target="_blank">7:00PM</a></u> Tuesday, October 3rd</h2>
         </div>
         
         <div class="screening">
@@ -47,7 +47,7 @@
           <img src="/images/2023fall/wise-blood-1979.jpg" alt="Wise Blood (1979) still">
           <h3>John Huston &middot; 106m &middot; Digital</h3>
           <p>John Huston’s <i>Wise Blood</i> captures the absurd, grotesque, yet revelatory tenor of Flannery O’Connor’s acclaimed novel. Wild-eyed Hazel Motes (Brad Dourif) becomes a self-proclaimed prophet of the Church Without Christ: “where the blind don’t see and the lame don’t walk and what’s dead stays that way." Motes battles a rival street preacher (Harry Dean Stanton) for souls - including his own.</p>
-          <h2>7:00PM Tuesday, October 10th</h2>
+          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=97B68625-C8F3-4051-8621-26DA78EBD65F" target="_blank">7:00PM</a></u> Tuesday, October 10th</h2>
         </div>
         
         <div class="screening">
@@ -55,7 +55,7 @@
           <img src="/images/2023fall/body-and-soul-1925.jpg" alt="Body and Soul (1925) still">
           <h3>Oscar Micheaux &middot; 102m &middot; DCP</h3>
           <p>27-year-old Paul Robeson made his acting debut in Oscar Micheaux’s <i>Body and Soul</i> playing the roles of identical twins - one honest but poor, the other a crooked preacher - who are in love with the same woman. Micheaux was forced to cut “immoral” and “sacrilegious” scenes; while the director’s cut has never been recovered, <i>Body and Soul</i> is one of Micheaux’s few surviving silent films.</p>
-          <h2>7:00PM Tuesday, October 17th</h2>
+          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=E5277679-5B4C-4282-BE71-A668EF3D5C05" target="_blank">7:00PM</a></u> Tuesday, October 17th</h2>
         </div>
         
         <div class="screening">
@@ -63,7 +63,7 @@
           <img src="/images/2023fall/marjoe-1972.jpg" alt="Marjoe (1972) still">
           <h3>Howard Smith and Sarah Kernochan &middot; 88m &middot; Digital</h3>
           <p>Marjoe Gortner started preaching in Pentecostal revivals when he was four years old. Now in his late 20’s, Marjoe doesn’t believe in God - but continues to make his living on the revival circuit. In this Academy Award winning documentary, Marjoe takes camera crews behind the scenes of Pentecostal revivals, explaining the tricks of the trade while coming clean about his double life.</p>
-          <h2>7:00PM Tuesday, October 24th</h2>
+          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=C522062D-81A4-4BAF-9053-7EDA0CAC9B70" target="_blank">7:00PM</a></u> Tuesday, October 24th</h2>
         </div>
         
         <div class="screening">
@@ -71,7 +71,7 @@
           <img src="/images/2023fall/buck-and-the-preacher-1972.jpg" alt="Buck and the Preacher (1972) still">
           <h3>Sidney Poitier &middot; 102m &middot; 35mm</h3>
           <p>Sidney Poitier stars in <i>Buck and the Preacher</i>, his directorial debut. Poitier’s protagonist strikes a fragile balance in the Reconstruction-era Southwest, seeking settlement for Black Americans by negotiating with indigenous tribes, all while avoiding white bounty hunters. The sudden entrance of a grifting man of the cloth (Harry Belafonte) threatens to throw Buck’s entire operation into chaos.</p>
-          <h2>7:00PM Tuesday, October 31st</h2>
+          <h2><u><a href="" target="_blank">7:00PM</a></u> Tuesday, October 31st</h2>
         </div>
         
         <div class="screening">
@@ -79,7 +79,7 @@
           <img src="/images/2023fall/the-miracle-woman-1931.jpg" alt="The Miracle Woman (1931) still">
           <h3>Frank Capra &middot; 90m &middot; 35mm</h3>
           <p>One of many collaborations between director Frank Capra and leading lady Barbara Stanwyck, <i>The Miracle Woman</i> follows Florence Fallon, a preacher’s daughter who becomes disillusioned with religion and stages phony miracles for a paying audience. Inspired by real-life evangelist Aimee Semple McPherson, Sister Fallon is torn between her act and a chance at love.</p>
-          <h2>7:00PM Tuesday, November 7th</h2>
+          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=8D8E654A-0D44-4856-8859-97147FB19725" target="_blank">7:00PM</a></u> Tuesday, November 7th</h2>
         </div>
         
         <div class="screening">
@@ -87,7 +87,7 @@
           <img src="/images/2023fall/the-night-of-the-iguana-1964.jpg" alt="The Night of the Iguana (1964) still">
           <h3>John Huston &middot; 125m &middot; DCP</h3>
           <p>Adapted from the play by Tennessee Williams, John Huston’s <i>The Night of the Iguana</i> follows the social and psychological decline of T. Lawrence Shannon (Richard Burton), a defrocked minister who now drives a tour bus in Puerto Vallarta. Shannon attempts to strand a bus of Baptist school teachers at a remote motel, where he sorts out his life with the help of two women (Ava Gardner and Deborah Kerr).</p>
-          <h2>7:00PM Tuesday, November 14th</h2>
+          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=DEDFB205-2516-494B-BB6D-1148B4ACE3BC" target="_blank">7:00PM</a></u> Tuesday, November 14th</h2>
         </div>
         
         <div class="screening">
@@ -95,7 +95,7 @@
           <img src="/images/2023fall/the-apostle-1997.jpg" alt="The Apostle (1997) still">
           <h3>Robert Duvall &middot; 134m &middot; DCP</h3>
           <p>Robert Duvall wrote, directed, financed, and starred in <i>The Apostle</i>, a humanistic portrait of a Pentecostal preacher named Sonny who goes on the run after killing his wife’s lover. Re-christening himself, Sonny lands in a small Louisiana town and begins preaching on a local radio station. Without cynicism, <i>The Apostle</i> captures the rhythm, artistry, and humanity of charismatic preaching.</p>
-          <h2>7:00PM Tuesday, November 28th</h2>
+          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=A81A10C4-BE7D-4C31-A29F-3ADBBDF465E5" target="_blank">7:00PM</a></u> Tuesday, November 28th</h2>
         </div>
         
       </div>
