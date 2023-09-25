@@ -46,7 +46,7 @@
           <img src="/images/2023fall/le-jour-se-leve-1939.jpg" alt="Le jour se lève (1939) still">
           <h3>Marcel Carné &middot; 93m &middot; DCP</h3>
           <p>A factory worker (Jean Gabin) kills a man, then holes himself up in his apartment. As he awaits the police, he thinks back on the events that turned him into a murderer. Scripted by the poet Jaques Prévert, this melancholy masterpiece of poetic realism is distinguished by its gorgeously atmospheric filmmaking and Gabin’s utterly iconic performance. Its aura of fatalistic despair parallels the mood of France on the brink of world war.</p>
-          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=E5277679-5B4C-4282-BE71-A668EF3D5C05" target="_blank">7:00PM</a></u> Monday, October 16th</h2>
+          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp" target="_blank">7:00PM</a></u> Monday, October 16th</h2>
         </div>
         
         <div class="screening">
