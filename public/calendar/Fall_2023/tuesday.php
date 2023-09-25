@@ -55,7 +55,7 @@
           <img src="/images/2023fall/body-and-soul-1925.jpg" alt="Body and Soul (1925) still">
           <h3>Oscar Micheaux &middot; 102m &middot; DCP</h3>
           <p>27-year-old Paul Robeson made his acting debut in Oscar Micheaux’s <i>Body and Soul</i> playing the roles of identical twins - one honest but poor, the other a crooked preacher - who are in love with the same woman. Micheaux was forced to cut “immoral” and “sacrilegious” scenes; while the director’s cut has never been recovered, <i>Body and Soul</i> is one of Micheaux’s few surviving silent films.</p>
-          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=E5277679-5B4C-4282-BE71-A668EF3D5C05" target="_blank">7:00PM</a></u> Tuesday, October 17th</h2>
+          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp" target="_blank">7:00PM</a></u> Tuesday, October 17th</h2>
         </div>
         
         <div class="screening">
@@ -63,7 +63,7 @@
           <img src="/images/2023fall/marjoe-1972.jpg" alt="Marjoe (1972) still">
           <h3>Howard Smith and Sarah Kernochan &middot; 88m &middot; Digital</h3>
           <p>Marjoe Gortner started preaching in Pentecostal revivals when he was four years old. Now in his late 20’s, Marjoe doesn’t believe in God - but continues to make his living on the revival circuit. In this Academy Award winning documentary, Marjoe takes camera crews behind the scenes of Pentecostal revivals, explaining the tricks of the trade while coming clean about his double life.</p>
-          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp" target="_blank">7:00PM</a></u> Tuesday, October 24th</h2>
+          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=C522062D-81A4-4BAF-9053-7EDA0CAC9B70" target="_blank">7:00PM</a></u> Tuesday, October 24th</h2>
         </div>
         
         <div class="screening">
