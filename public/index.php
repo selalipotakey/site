@@ -46,7 +46,7 @@
 
               <li class="carousel__slide">
                 <a href="/calendar/Fall_2023/thursday-1#the-social-network">
-                  <img class="carousel__image" src="/images/2023fall/the-social-network.jpg" alt="The Social Network (2010) still">
+                  <img class="carousel__image" src="/images/2023fall/the-social-network-2010.jpg" alt="The Social Network (2010) still">
                 </a>
                 <div clas="description">
                   <a href="/calendar/Fall_2023/thursday-1#the-social-network">
@@ -60,7 +60,7 @@
 
               <li class="carousel__slide">
                 <a href="/calendar/Fall_2023/friday#harold-and-maude">
-                  <img class="carousel__image" src="/images/2023summer/harold-and-maude-1971.jpg" alt="Harold and Maude (1971) still">
+                  <img class="carousel__image" src="/images/2023fall/harold-and-maude-1971.jpg" alt="Harold and Maude (1971) still">
                 </a>
                 <div clas="description">
                   <a href="/calendar/Fall_2023/friday#harold-and-maude">
