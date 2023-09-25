@@ -46,8 +46,8 @@
           <img src="/images/2023fall/trainspotting-1996.jpg" alt="Trainspotting (1996) still">
           <h3>Danny Boyle &middot; 93m &middot; DCP</h3>
           <p>Cool Britannia’s heroin addiction comedy, <i>Trainspotting</i> takes the highs and lows of junkie Mark Renton (Ewan McGregor) and throws on a mountain of nightmarish pop culture that would give the Scottish Highlands an inferiority complex. Bringing the thick Scottish brogue of Irvine Welsh’s cult novel to the silver screen, <i>Trainspotting</i> invites you to dive into ‘80s Edinburgh—all to the tune of Iggy Pop, Goldie, Blur and Underworld (to name a few).</p>
-          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=E5D37239-C269-4DD9-A03A-A5EEB46028E5" target="_blank">7:00PM</a></u>T hursday, October 12th&middot; 
-          <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=E5277679-5B4C-4282-BE71-A668EF3D5C05" target="_blank">4:30PM</a></u> Sunday, October 15th</h2>
+          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=E5D37239-C269-4DD9-A03A-A5EEB46028E5" target="_blank">7:00PM</a></u>Thursday, October 12th&middot; 
+          <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=979E377D-D5C0-4D0E-ABC2-C82E224AA848" target="_blank">4:30PM</a></u> Sunday, October 15th</h2>
         </div>
         
         <div class="screening">
@@ -55,7 +55,7 @@
           <img src="/images/2023fall/irreversible-2002.jpg" alt="Irréversible (2002) still">
           <h3>Gaspar Noé &middot; 97m &middot; DCP</h3>
           <p>Inverting the rape-revenge genre, <i>Irréversible</i> combines dizzying camerawork and a stomach-churning score by Daft Punk’s Thomas Bangalter. Infamously unwatchable, it dwells on the most base forms of hatred and disgust and makes us reckon with humanity’s id in the face of modernity. Noé’s tapestry of two men (Vincent Cassel, Albert Dupontel) avenging their lover (Monica Bellucci) is canonized and shunned for its onslaught of cruelty towards the viewer.</p>
-          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=C522062D-81A4-4BAF-9053-7EDA0CAC9B70" target="_blank">7:00PM</a></u> Thursday, October 26th</h2>
+          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=329D6497-32FA-4425-8500-406CCCE090CD" target="_blank">7:00PM</a></u> Thursday, October 26th</h2>
         </div>
         
         <div class="screening">
@@ -63,7 +63,7 @@
           <img src="/images/2023fall/when-the-beat-drops-2018.jpg" alt="When the Beat Drops (2018) still">
           <h3>Jamal Sims &middot; 85m &middot; Digital</h3>
           <p>We all need an emotional boost after last week's pick. The one documentary to make it into this series, <i>When the Beat Drops</i> highlights the work of the Black and queer artists at the forefront of Atlanta’s bucking scene. Directed by choreographer Jamal Sims in a film only a dancer could make, <i>When the Beat Drops</i> is a propulsive showcase of contemporary underground dance and a powerful examination of the profound sacrifices artists make for their craft.</p>
-          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=8D8E654A-0D44-4856-8859-97147FB19725" target="_blank">7:00PM</a></u> Thursday, November 2nd</h2>
+          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=FF237121-2045-4AC6-BC4C-DDB3C4791EE2" target="_blank">7:00PM</a></u> Thursday, November 2nd</h2>
         </div>
         
         <div class="screening">
@@ -71,8 +71,8 @@
           <img src="/images/2023fall/strange-days-1995.jpg" alt="Strange Days (1995) still">
           <h3>Kathryn Bigelow &middot; 145m &middot; 35mm</h3>
           <p>A Y2K cyberpunk thriller with Ralph Fiennes and Angela Bassett, directed by Kathryn Bigelow, based on a James Cameron story, with music by PJ Harvey– <i>Strange Days</i> must have been a smash hit! As it turns out, audiences were unprepared for the scathing commentary on Clinton-era racism and misogyny, and the uncanny predictions on technology. Seen as a hidden gem of ‘90s sci-fi maximalism, <i>Strange Days</i> has earned a reevaluation as a socially conscious, forward-thinking take on the near-future dystopia.</p>
-          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=8D8E654A-0D44-4856-8859-97147FB19725" target="_blank">7:00PM</a></u> Thursday, November 9th&middot; 
-          <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=8D8E654A-0D44-4856-8859-97147FB19725" target="_blank">3:00PM</a></u> Sunday, November 12th</h2>
+          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=B38B8D99-2534-4D40-9CFA-D07676EE3091" target="_blank">7:00PM</a></u> Thursday, November 9th&middot; 
+          <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=2711D647-88AC-48FE-9FFA-3CE946B49E69" target="_blank">3:00PM</a></u> Sunday, November 12th</h2>
         </div>
         
         <div class="screening">
@@ -83,7 +83,7 @@
           <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=5A3BA927-6A51-4F23-B5CE-B5FE62DF2BE2" target="_blank">7:00PM</a></u> Thursday, November 16th&middot; 
           <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=6901A86E-298A-4342-951F-3BB583F010D5" target="_blank">4:00PM</a></u> Saturday, November 18th</h2>
         </div>
-        
+         
         <div class="screening">
           <h2>Ema (2019)</h2>
           <img src="/images/2023fall/ema-2019.jpg" alt="Ema (2019) still">

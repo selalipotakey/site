@@ -32,7 +32,7 @@
           <p>A series of mass shootings and murders carried out by seemingly unconnected people all claiming God told them to are investigated by New York City detective Peter Nicholas. Shit spirals out of control as Nicholas’ childhood is put into question and possibly related to the incidents. Larry Cohen creates a tense thriller that incorporate science-fiction and horror elements, all against the backdrop of the bustle of 70s NYC—with an Andy Kaufman cameo.</p>
           <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=FEC338A2-9FC2-485C-89E8-DE1C5EEF3853" target="_blank">9:30PM</a></u> Thursday, September 28th</h2>
         </div>
-        
+         
         <div class="screening">
           <h2>The Driller Killer (1979)</h2>
           <img src="/images/2023fall/the-driller-killer-1979.jpg" alt="The Driller Killer (1979) still">
@@ -62,7 +62,7 @@
           <img src="/images/2023fall/ganja-and-hess-1973.jpg" alt="Ganja & Hess (1973) still">
           <h3>Bill Gunn &middot; 112m &middot; DCP</h3>
           <p>An anthropologist stabbed with an ancient dagger by his assistant turns into a vampire. When the assistant’s wife comes looking for her husband, she finds out the anthropologist's secret and falls in love. Tasked with creating a ‘Black vampire film,’ Bill Gunn created one of the most unique pieces of horror (and art) with beautiful, experimental cinematography, structure, and a distinct atmosphere birthed partly from its low budget. Not to be missed.</p>
-          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=C522062D-81A4-4BAF-9053-7EDA0CAC9B70" target="_blank">9:30PM</a></u> Thursday, October 26th</h2>
+          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=D6C3C9A1-1251-4C0C-A2E7-7E7425274754" target="_blank">9:30PM</a></u> Thursday, October 26th</h2>
         </div>
         
         <div class="screening">
@@ -70,7 +70,7 @@
           <img src="/images/2023fall/a-womans-torment-1977.jpg" alt="A Woman's Torment (1977) still">
           <h3>Roberta Findlay &middot; 84m &middot; DCP</h3>
           <p>Originally a porno, we offer director Roberta Findlay’s preferred R-rated cut. Don and Frances are having marriage problems, in part due to Frances’ deeply traumatized sister Karen who overhears them discussing sending her to an asylum. Karen runs away to an empty beach house and starts killing people as her mental state deteriorates. This horror sexploitation film’s clever editing and distinct approach to horror make for a compelling experience.</p>
-          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=8D8E654A-0D44-4856-8859-97147FB19725" target="_blank">9:30PM</a></u> Thursday, November 2nd</h2>
+          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=18C1DA64-F425-4204-9CBA-886768C9C476" target="_blank">9:30PM</a></u> Thursday, November 2nd</h2>
         </div>
         
         <div class="screening">
@@ -78,7 +78,7 @@
           <img src="/images/2023fall/seeds-of-sin-1968.jpg" alt="Seeds (of Sin) (1968) still">
           <h3>Andy Milligan &middot; 84m &middot; Digital</h3>
           <p>A family of shitty kids and a miserable-ass mother get together for Christmas dinner. Drama ensues as secrets are revealed and soon a killer starts murdering the family members in gruesome ways. To some, this movie is just perverse and full of bad taste, reeking of a 42nd Street crowd's appetite, but beneath it there is a claustrophobic vision that may be of interest to enjoyers of such visceral experiences.</p>
-          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=8D8E654A-0D44-4856-8859-97147FB19725" target="_blank">9:30PM</a></u> Thursday, November 9th</h2>
+          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=CFED8C44-F5EA-4267-9738-480720F1480D" target="_blank">9:30PM</a></u> Thursday, November 9th</h2>
         </div>
         
         <div class="screening">

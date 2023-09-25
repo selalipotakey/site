@@ -49,13 +49,13 @@
           <p>John Huston’s <i>Wise Blood</i> captures the absurd, grotesque, yet revelatory tenor of Flannery O’Connor’s acclaimed novel. Wild-eyed Hazel Motes (Brad Dourif) becomes a self-proclaimed prophet of the Church Without Christ: “where the blind don’t see and the lame don’t walk and what’s dead stays that way." Motes battles a rival street preacher (Harry Dean Stanton) for souls - including his own.</p>
           <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=97B68625-C8F3-4051-8621-26DA78EBD65F" target="_blank">7:00PM</a></u> Tuesday, October 10th</h2>
         </div>
-        
+         
         <div class="screening">
           <h2>Body and Soul (1925)</h2>
           <img src="/images/2023fall/body-and-soul-1925.jpg" alt="Body and Soul (1925) still">
           <h3>Oscar Micheaux &middot; 102m &middot; DCP</h3>
           <p>27-year-old Paul Robeson made his acting debut in Oscar Micheaux’s <i>Body and Soul</i> playing the roles of identical twins - one honest but poor, the other a crooked preacher - who are in love with the same woman. Micheaux was forced to cut “immoral” and “sacrilegious” scenes; while the director’s cut has never been recovered, <i>Body and Soul</i> is one of Micheaux’s few surviving silent films.</p>
-          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp" target="_blank">7:00PM</a></u> Tuesday, October 17th</h2>
+          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=954335C2-CC80-41D5-ADFA-97B41D72DEE9" target="_blank">7:00PM</a></u> Tuesday, October 17th</h2>
         </div>
         
         <div class="screening">
@@ -63,7 +63,7 @@
           <img src="/images/2023fall/marjoe-1972.jpg" alt="Marjoe (1972) still">
           <h3>Howard Smith and Sarah Kernochan &middot; 88m &middot; Digital</h3>
           <p>Marjoe Gortner started preaching in Pentecostal revivals when he was four years old. Now in his late 20’s, Marjoe doesn’t believe in God - but continues to make his living on the revival circuit. In this Academy Award winning documentary, Marjoe takes camera crews behind the scenes of Pentecostal revivals, explaining the tricks of the trade while coming clean about his double life.</p>
-          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=C522062D-81A4-4BAF-9053-7EDA0CAC9B70" target="_blank">7:00PM</a></u> Tuesday, October 24th</h2>
+          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=A6FA7653-3CB7-4A11-A375-EF4E86D66714" target="_blank">7:00PM</a></u> Tuesday, October 24th</h2>
         </div>
         
         <div class="screening">
@@ -79,7 +79,7 @@
           <img src="/images/2023fall/the-miracle-woman-1931.jpg" alt="The Miracle Woman (1931) still">
           <h3>Frank Capra &middot; 90m &middot; 35mm</h3>
           <p>One of many collaborations between director Frank Capra and leading lady Barbara Stanwyck, <i>The Miracle Woman</i> follows Florence Fallon, a preacher’s daughter who becomes disillusioned with religion and stages phony miracles for a paying audience. Inspired by real-life evangelist Aimee Semple McPherson, Sister Fallon is torn between her act and a chance at love.</p>
-          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=8D8E654A-0D44-4856-8859-97147FB19725" target="_blank">7:00PM</a></u> Tuesday, November 7th</h2>
+          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=025E45AA-A86E-4799-AC7A-F7A637BD5096" target="_blank">7:00PM</a></u> Tuesday, November 7th</h2>
         </div>
         
         <div class="screening">

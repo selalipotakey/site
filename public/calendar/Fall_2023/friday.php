@@ -20,7 +20,7 @@
         <div class="text-section">
           <h1>FRIDAY - Amour Fou</h1>
           <h3>Programmed by: Cyrus Westerlund</h3>
-
+ 
             <p>When looking for the impetus for this Amour Fou series, look no further than the scene in <i>Badlands</i>, where the young and impressionable Holly is dancing in the woods with her mysterious (and maybe dangerous) boyfriend Kit to the Mickey and Sylvia classic “Love is Strange.” It is a moment where two outsiders—one innocent, another not so much—share a moment of romantic intimacy away from the unapproving eyes of common society. It is a moment that we alone are able to see on the screen. TAB While there have been many films about love stories between the dashing and beautiful, the “Amour Fou,” or “crazy love” casts the camera on cinema’s more off-kilter lovers, whether they be outsiders, adulterers, freaks, or sinners. These oddball romances challenge the audience by forcing them to imagine perspectives beyond their own conventional ones. Whether through the eyes of a teenage girl toward a man ten years her senior who looks like James Dean and takes her to places she’s never been, or a gentle young man enticed into a spree of violence and crime by a femme fatale, the Amour Fou offers peculiar subjects that one would not find in other romance films, and are instead often controversial or even disturbing. However, they are also layered texts with complex characters, who have even thornier motivations and desires. This leads to stories that are immensely tantalizing, even at their most salacious. If it's so wrong, why does it feel so right?</p>
             
         </div>
@@ -47,7 +47,7 @@
           <h3>John Cassavetes &middot; 155m &middot; DCP</h3>
           <p>As lonely housewife Mabel becomes increasingly unhappy and unstable, her husband Nick, an L.A. construction worker, begins to think Mabel will be a danger to their children and himself, despite her love for them. Written by Cassavetes when Gena Rowlands desired a play about the difficulties faced by contemporary women, <i>A Woman Under the Influence</i> contains two of the most wrought and heart-breaking performances of a couple desperately in love but ostensibly incompatible.</p>
           <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=E5277679-5B4C-4282-BE71-A668EF3D5C05" target="_blank">7:00PM</a></u> Friday, October 13th&middot; 
-          <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=E5277679-5B4C-4282-BE71-A668EF3D5C05" target="_blank">4:00PM</a></u> Saturday, October 14th</h2>
+          <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=E01A60FA-ABB4-469D-A3E7-06AD1090278D" target="_blank">4:00PM</a></u> Saturday, October 14th</h2>
         </div>
         
         <div class="screening">
@@ -55,7 +55,7 @@
           <img src="/images/2023fall/badlands-1973.jpg" alt="Badlands (1973) still">
           <h3>Terrence Malick &middot; 94m &middot; DCP</h3>
           <p>In a dead-end South Dakota town, Holly, a lonely teenage girl, meets Kit, a handsome 20-something garbage collector. Kit’s charming nature belies underlying violent tendencies that Holly is unaware of. When Holly’s father disapproves of their relationship, Kit murders him and the two escape to the badlands of Montana. Based on the real Starkweather killing spree, <i>Badlands</i> is a poetic juxtaposition of innocence, natural beauty, and human violence.</p>
-          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=3B4964B6-2FAD-4028-916D-0A67663C366B" target="_blank">7:00PM</a></u> Friday, October 20th&middot; 
+          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=3B4D03F5-AEA0-4D74-A875-ED53A26A299F" target="_blank">7:00PM</a></u> Friday, October 20th&middot; 
           <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=C522062D-81A4-4BAF-9053-7EDA0CAC9B70" target="_blank">3:00PM</a></u> Sunday, October 22nd</h2>
         </div>
         
@@ -64,7 +64,7 @@
           <img src="/images/2023fall/thirst-2009.jpg" alt="Thirst (2009) still">
           <h3>Park Chan-wook &middot; 134m &middot; DCP</h3>
           <p>When Sang-hyun, a respected priest, selflessly volunteers for an experimental procedure to cure a deadly virus, he is infected and killed--only to be brought back as a vampire through a mysterious blood transfusion. Now, his increasingly waning faith must face his new insatiable craving for blood, as well as his newfound desire for the wife of his childhood friend, Tae-ju. <i>Thirst</i> is an erotic thriller about losing control of one’s sinful impulses.</p>
-          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=C522062D-81A4-4BAF-9053-7EDA0CAC9B70" target="_blank">7:00PM</a></u> Friday, October 27th</h2>
+          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=5511B7BA-AD7D-4290-B654-AA055AE314EB" target="_blank">7:00PM</a></u> Friday, October 27th</h2>
         </div>
         
         <div class="screening">
@@ -72,7 +72,7 @@
           <img src="/images/2023fall/a-story-from-chikamatsu-1954.jpg" alt="A Story from Chikamatsu (1954) still">
           <h3>Kenji Mizoguchi &middot; 102m &middot; DCP</h3>
           <p>In 17th century Kyoto, Osan, the wife of a wealthy scroll-maker, is falsely accused of having an affair with Mohei, her husband’s apprentice. When the two are sentenced to death in order to avoid humiliation for her husband, they go on the run. Considered one of Mizoguchi’s late masterpieces, <i>A Story from Chikamatsu</i> (aka <i>The Crucified Lovers</i>) details the journey of two star-crossed paramours bound by fate.</p>
-          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=8D8E654A-0D44-4856-8859-97147FB19725" target="_blank">7:00PM</a></u> Friday, November 3rd</h2>
+          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=EDDC181D-85E5-4AB5-9C0C-B945D187FEDE" target="_blank">7:00PM</a></u> Friday, November 3rd</h2>
         </div>
         
         <div class="screening">
@@ -80,8 +80,8 @@
           <img src="/images/2023fall/gun-crazy-1950.jpg" alt="Gun Crazy (1950) still">
           <h3>Joseph H. Lewis &middot; 87m &middot; 35mm</h3>
           <p>Bart Tare, an ex-army man with a lifelong fixation on guns, meets Annie Starr, a sharpshooting carnival worker. The two strike up a hot-blooded romance centered around their shared fascination with firearms. When they find themselves broke and unemployed, Annie suggests they embark on a crime spree. An audacious and exhilarating film noir, <i>Gun Crazy</i> is a precursor to every lovers-on-the-run story that followed, including the ones of the French New Wave.</p>
-          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=8D8E654A-0D44-4856-8859-97147FB19725" target="_blank">7:00PM</a></u> Friday, November 10th&middot; 
-          <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=8D8E654A-0D44-4856-8859-97147FB19725" target="_blank">7:00PM</a></u> Saturday, November 11th</h2>
+          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=427FF70E-BEBB-4DE7-A10A-126992B99299" target="_blank">7:00PM</a></u> Friday, November 10th&middot; 
+          <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=C347C578-EAF3-4A1F-B959-68D2C6BBBD1D" target="_blank">7:00PM</a></u> Saturday, November 11th</h2>
         </div>
         
         <div class="screening">

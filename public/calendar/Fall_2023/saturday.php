@@ -20,7 +20,7 @@
         <div class="text-section">
           <h1>SATURDAY - New Releases & Miscellaneous Screenings</h1>
           
-        </div>
+        </div> 
         
         <div class="screening">
           <h2>Past Lives (2023)</h2>
@@ -35,7 +35,7 @@
           <img src="/images/2023fall/spiderman-across-the-spiderverse-2023.jpg" alt="Spider-Man: Across the Spider-Verse (2023) still">
           <h3>Joaquim Dos Santos, Kemp Powers, and Justin K. Thompson &middot; 140m &middot; DCP</h3>
           <p>This bildungsroman follows two spider-people from different universes, Miles Morales and Gwen Stacey, who refuse to be boxed into a simple hero's arc. The lauded visual and auditory experience created by 1,000 animators, Daniel Pemberton, and Metro Boomin reinforce the film’s narrative-breaking style and masterful execution of the multiverse. The story is so big, it can't fit into one movie. You'll simply have to come back to Doc to catch the next one.</p>
-          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=E5277679-5B4C-4282-BE71-A668EF3D5C05" target="_blank">7:00PM</a></u> Saturday, October 14th</h2>
+          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=0AFB1C65-9169-4DDD-B11A-9A795C0CCC99" target="_blank">7:00PM</a></u> Saturday, October 14th</h2>
         </div>
 
         <div class="screening">
@@ -52,7 +52,7 @@
           <h3>Ira Sachs &middot; 92m &middot; DCP</h3>
           <p>Director Tomas (Franz Rogowski) creates a maelstrom when he leaves his husband (Ben Whishaw) for a woman he meets at his film’s wrap party, Agathe (Adèle Exarchopolous). Of course, he is unable to completely end his marriage or his affair. Rogowski, clad in mesh and crop tops against a backdrop of artist abodes and Parisian parties, makes Tomas a fascinating, if not slightly repulsive, character. In other words, <i>Passages</i> fucks. Literally (rated NC-17).</p>
           <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=A9B02C55-4FBF-420C-A060-F073B8F6B103" target="_blank">7:00PM</a></u> Saturday, October 28th&middot; 
-          <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=A9B02C55-4FBF-420C-A060-F073B8F6B103" target="_blank">3:00PM</a></u>  Sunday, October 29th</h2>
+          <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=DFA6729B-2CD8-40B9-AC91-9205C5E482EB" target="_blank">3:00PM</a></u>  Sunday, October 29th</h2>
         </div>
 
         <div class="screening">
@@ -60,8 +60,8 @@
           <img src="/images/2023fall/barbie-2023.jpg" alt="Barbie (2023) still">
           <h3>Greta Gerwig &middot; 114m &middot; DCP</h3>
           <p><i>In the beginning, there was Barbie</i>. And then, there were <i>Barbillion</i>! It felt like a party — and we're bringing this party to Doc. Join us on your rollerblades, boats, rocket ships, and bicycles to celebrate a film about individualism, cognitive dissonance, and Kens discovering the patriarchy. Plus, Gerwig cites Demy, Tati, Kubrick, Gene Kelly musicals, and more as filmic influences. Come see what <i>that's</i> all about. The dress code is hot pink.</p>
-          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=8D8E654A-0D44-4856-8859-97147FB19725" target="_blank">7:00PM</a></u> Saturday, November 4th&middot; 
-          <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=8D8E654A-0D44-4856-8859-97147FB19725" target="_blank">4:00PM</a></u> Saturday, November 4th</h2>
+          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=036BB2C5-D25B-4B3C-A245-8CCF49ECC7EF" target="_blank">7:00PM</a></u> Saturday, November 4th&middot; 
+          <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=4EC12E1F-4DE9-43AF-BE08-AA8B7EAB4923" target="_blank">4:00PM</a></u> Saturday, November 4th</h2>
         </div>
         
       </div>

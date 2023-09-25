@@ -30,6 +30,15 @@
           <p><i>A Night Owls Event, with Professors Agnes Callard and Daniel Morgan. Free with Night Owls QR Code Sign-in.</i></p><p>Newly released ex-con Jake Blues reunites with his brother Elwood, and the titular Blues Brothers embark on a mission to raise enough money to save their childhood orphanage. Jake and Elwood set out to bring their old band back together, but the process is not without obstacles: the brothers careen around Chicago in a chaotic frenzy of explosive car chases, trains that come a little too close for comfort, and a bevy of enemies including the police.</p>
           <h2><u><a href="" target="_blank">6:30PM</a></u> Monday, September 25th</h2>
         </div>
+        
+        <div class="screening">
+          <h2>Taxi Driver (1976)</h2>
+          <img src="/images/2023fall/taxi-driver-1976.jpg" alt="Taxi Driver (1976) still">
+          <h3>Martin Scorsese &middot; 114m &middot; 35mm</h3>
+          <p>Disturbed insomniac Travis Bickle (Robert De Niro) roams the grimy underbelly of 70s New York City as a taxi driver, taking chagrined notice of what he sees as repulsive social decay. Between visits to porn theaters, noting down witticisms in his diary, and an obsessive infatuation with a campaign volunteer (Cybill Shepard), Bickle becomes fixated on purging social ills by means of rescuing adolescent sex worker Iris (Jodie Foster) from her sinister pimp.</p>
+          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=ADFD2081-AF72-433D-8221-423EF2FA805C" target="_blank">4:00PM</a></u> Saturday, September 30th&middot
+          <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=4C6F521C-D321-49FE-9162-EA1A6C2A4CEA" target="_blank">3:00PM</a></u> Sunday, October 1st</h2>
+        </div>
 
         <div class="screening">
           <h2>La La Land (2016)</h2>
@@ -40,20 +49,11 @@
         </div>
         
         <div class="screening">
-          <h2>Taxi Driver (1976)</h2>
-          <img src="/images/2023fall/taxi-driver-1976.jpg" alt="Taxi Driver (1976) still">
-          <h3>Martin Scorsese &middot; 114m &middot; 35mm</h3>
-          <p>Disturbed insomniac Travis Bickle (Robert De Niro) roams the grimy underbelly of 70s New York City as a taxi driver, taking chagrined notice of what he sees as repulsive social decay. Between visits to porn theaters, noting down witticisms in his diary, and an obsessive infatuation with a campaign volunteer (Cybill Shepard), Bickle becomes fixated on purging social ills by means of rescuing adolescent sex worker Iris (Jodie Foster) from her sinister pimp.</p>
-          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=ADFD2081-AF72-433D-8221-423EF2FA805C" target="_blank">4:00PM</a></u> Saturday, September 30th&middot
-          <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=4C6F521C-D321-49FE-9162-EA1A6C2A4CEA" target="_blank">3:00PM</a></u> Sunday, October 1st</h2>
-        </div>
-        
-        <div class="screening">
           <h2>Swimming Pool (2003)</h2>
           <img src="/images/2023fall/swimming-pool-2003.jpg" alt="Swimming Pool (2003) still">
           <h3>François Ozon &middot; 102m &middot; 35mm</h3>
           <p>20 years ago, a couple had their first date at Doc Films. The movie was Ozon’s <i>Swimming Pool</i> … Now here we are, hopefully with a romantic prospect by our side. Because there's no better date-night activity than watching this sizzling, slow-burn erotic thriller starring Charlotte Rampling as a writer whose holiday takes a turn when an unexpected guest shows up. Here’s to Meredith and Alex — may we all find true love at the movies, especially at Doc!</p>
-          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=E5277679-5B4C-4282-BE71-A668EF3D5C05" target="_blank">7:00PM</a></u> Thursday, October 19th</h2>
+          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=D235680B-A92B-407E-8A3F-94924EC08C1D" target="_blank">7:00PM</a></u> Thursday, October 19th</h2>
         </div>
         
         <div class="screening">

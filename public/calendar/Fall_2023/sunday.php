@@ -14,7 +14,7 @@
     <main> 
 
       <?php include $_SERVER['DOCUMENT_ROOT'] . "/includes/dropdown.html" ?>
-
+ 
       <div class="screenings-list">
 
         <div class="text-section">

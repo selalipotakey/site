@@ -46,7 +46,7 @@
           <img src="/images/2023fall/le-jour-se-leve-1939.jpg" alt="Le jour se lève (1939) still">
           <h3>Marcel Carné &middot; 93m &middot; DCP</h3>
           <p>A factory worker (Jean Gabin) kills a man, then holes himself up in his apartment. As he awaits the police, he thinks back on the events that turned him into a murderer. Scripted by the poet Jaques Prévert, this melancholy masterpiece of poetic realism is distinguished by its gorgeously atmospheric filmmaking and Gabin’s utterly iconic performance. Its aura of fatalistic despair parallels the mood of France on the brink of world war.</p>
-          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp" target="_blank">7:00PM</a></u> Monday, October 16th</h2>
+          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=B1906156-BC83-4D11-AFF4-1158A4E63112" target="_blank">7:00PM</a></u> Monday, October 16th</h2>
         </div>
         
         <div class="screening">
@@ -54,7 +54,7 @@
           <img src="/images/2023fall/i-am-a-fugitive-from-a-chain-gang-1932.jpg" alt="I Am a Fugitive from a Chain Gang (1932) still">
           <h3>Mervyn LeRoy &middot; 92m &middot; 35mm</h3>          
           <p><i>Preserved by the Library of Congress</i></p><p>Down-on-his-luck World War I vet James Allen is railroaded onto a brutal Southern chain gang for a crime he didn’t commit. He escapes to Chicago, but after his past catches up to him, he is forced back to a life on the run. Based on a true story, this gripping and harrowing film is probably the best of the Warner Brothers’ hardboiled Depression-era social conscience pictures. Its gut-punch of an ending is one of the greatest in Hollywood history.</p>
-          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp" target="_blank">7:00PM</a></u> Monday, October 23rd</h2>
+          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=CDC099D2-EE9A-4D7C-911B-6BDB70402279" target="_blank">7:00PM</a></u> Monday, October 23rd</h2>
         </div>
         
         <div class="screening">
@@ -65,13 +65,13 @@
           <p><i>Preserved by the Library of Congress.</i></p><p>In this protofeminist protonoir, Olga (Aline MacMahon) and her sister (Ann Dvorak) run a gas station in the middle of the Mojave desert. When a shady character from Olga’s past shows up, the sisters’ hard-won independence is threatened. Packed with drama, lust, and sweaty longing, and featuring arresting cinematography, a powerful performance by Method pioneer MacMahon, and a shocking ending, this is a pre-code gem you won’t want to miss.</p>
           <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=D30D3AB2-FFDF-4AEB-B94A-A1600BA45E25" target="_blank">7:00PM</a></u> Monday, October 30th</h2>
         </div>
-        
+         
         <div class="screening">
           <h2>Sabotage (1936)</h2>
           <img src="/images/2023fall/sabotage-1936.jpg" alt="Sabotage (1936) still">
           <h3>Alfred Hitchcock &middot; 76m &middot; 35mm</h3>
           <p>This loose adaptation of Joseph Conrad’s <i>The Secret Agent</i> is one of Hitchcock’s darkest films. Sylvia Sidney stars as a woman who is horrified to discover that her husband is a terrorist agent. <i>Sabotage</i> was not a box office hit and Hitch himself later felt that its famous “boy with the bomb” sequence was a mistake. However, its stature has grown over the years, and critics such as Pauline Kael have hailed it as the masterpiece of his British period.</p>
-          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp" target="_blank">7:00PM</a></u> Monday, November 6th</h2>
+          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=CEB1B7C5-0099-475B-A269-C6CA3DEB27E3" target="_blank">7:00PM</a></u> Monday, November 6th</h2>
         </div>
         
         <div class="screening">
@@ -79,7 +79,7 @@
           <img src="/images/2023fall/you-only-live-once-1937.jpg" alt="You Only Live Once (1937) still">
           <h3>Fritz Lang &middot; 86m &middot; DCP</h3>
           <p>Reformed ex-convict Eddie Taylor (Henry Fonda) can’t catch a break; when he’s framed for murder, he goes on the lam with his lawyer’s sympathetic secretary (Sylvia Sidney). Fritz Lang’s haunting, socially conscious melodrama has been called his best American film. Critic Dave Kehr noted that Lang’s style here had a huge influence on film noir: “it’s always night, usually raining, and the camera hovers over the characters like the heavy hand of fate.”</p>
-          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp" target="_blank">7:00PM</a></u> Monday, November 13th</h2>
+          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=94E3169A-2FED-4927-9B02-EAA50E1CF3E9" target="_blank">7:00PM</a></u> Monday, November 13th</h2>
         </div>
         
         <div class="screening">

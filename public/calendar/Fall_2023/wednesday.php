@@ -55,7 +55,7 @@
           <img src="/images/2023fall/life-of-pi-2012.jpg" alt="Life of Pi (2012) still">
           <h3>Ang Lee &middot; 127m &middot; DCP</h3>
           <p>Ang Lee’s <i>Life of Pi</i>, based on Yann Martel’s novel of the same name, is perhaps his most gorgeous film. Deeply thought-provoking and emotionally rich, it depicts the adventure of a boy nicknamed Pi stranded in the middle of the ocean…with a Bengal tiger. The film's breathtaking visuals and philosophical narrative earned it critical acclaim and several Academy Awards, including Best Director. Come for the tiger, stay for a hopeful, beautiful experience.</p>
-          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=E5277679-5B4C-4282-BE71-A668EF3D5C05" target="_blank">7:00PM</a></u> Wednesday, October 18th</h2>
+          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=24C1E36E-EF4B-43E6-AE94-FC7ADE0469AC" target="_blank">7:00PM</a></u> Wednesday, October 18th</h2>
         </div>
         
         <div class="screening">
@@ -63,8 +63,8 @@
           <img src="/images/2023fall/the-ice-storm-1997.jpg" alt="The Ice Storm (1997) still">
           <h3>Ang Lee &middot; 112m &middot; 35mm</h3>
           <p>With a plot containing enough family dysfunction to rival, and to some—<i>surpass</i>— <i>American Beauty</i>, <i>The Ice Storm</i> is a study on bleak, melancholic suburbia. Over the course of a Thanksgiving weekend (and under the threat of a severe ice storm), two families deal with adultery, substance abuse, and isolation in a time of personal and social unrest. <i>The Ice Storm</i> is not only among the best of Lee’s work, but is also one the finest films of its decade.</p>
-          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=C522062D-81A4-4BAF-9053-7EDA0CAC9B70" target="_blank">7:00PM</a></u> Wednesday, October 25th&middot; 
-          <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=C522062D-81A4-4BAF-9053-7EDA0CAC9B70" target="_blank">4:00PM</a></u> Saturday, October 28th</h2>
+          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=00FE2409-114E-4771-8D86-168821B37588" target="_blank">7:00PM</a></u> Wednesday, October 25th&middot; 
+          <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=65DD554C-37CC-4BB9-A78F-42DBEBCA0423" target="_blank">4:00PM</a></u> Saturday, October 28th</h2>
         </div>
         
         <div class="screening">
@@ -72,7 +72,7 @@
           <img src="/images/2023fall/lust-caution-2007.jpg" alt="Lust, Caution (2007) still">
           <h3>Ang Lee &middot; 158m &middot; 35mm</h3>
           <p>This erotic espionage thriller won Ang Lee his second Golden Lion at the Venice Film Festival. Tang Wei stars as Wong Chia Chi, a young university student who joins a resistance against the Japanese puppet government in Shanghai. She is tasked with seducing and killing Mr. Yee (Tony Leung), a high-ranking official, but as the assassination plot advances, Chia Chi’s loyalty to the resistance—and her feelings for Mr. Yee—become increasingly complicated.</p>
-          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=8D8E654A-0D44-4856-8859-97147FB19725" target="_blank">7:00PM</a></u> Wednesday, November 1st</h2>
+          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=E1DB2F38-04CD-4566-A5DC-8030F510308F" target="_blank">7:00PM</a></u> Wednesday, November 1st</h2>
         </div>
         
         <div class="screening">
@@ -80,7 +80,7 @@
           <img src="/images/2023fall/pushing-hands-1991.jpg" alt="Pushing Hands (1991) still">
           <h3>Ang Lee &middot; 105m &middot; DCP</h3>
           <p>More than 30 years later, Ang Lee’s feature debut remains a testament to his skill as a director. The first in his "Father Knows Best" trilogy, <i>Pushing Hands</i> is centered on Mr. Chu—a Tai Chi master—who moves from Beijing to New York to stay with his son’s family. It's a warm and touching film, shaped by themes like clashing cultures and generational differences, which continue to appear in Lee’s later works.</p>
-          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=8D8E654A-0D44-4856-8859-97147FB19725" target="_blank">7:00PM</a></u> Wednesday, November 8th</h2>
+          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=EEDCF4A7-986D-4A2A-9EFF-0D48EDA812B0" target="_blank">7:00PM</a></u> Wednesday, November 8th</h2>
         </div>
         
         <div class="screening">
@@ -90,7 +90,7 @@
           <p>Ang Lee’s (non-typical) take on the Western! Set during the American Civil War, it follows friends Jake Roedel (Tobey Maguire) and Jack Bull Chiles (Skeet Ulrich) who join the Irregulars, a guerilla warfare unit fighting for the Confederacy. Notable for its exploration of unconventional narratives, an intimate, character-driven story, and Frederick Elmes’ beautiful cinematography,<i>Ride with the Devil</i>is one of Lee’s most interesting films.</p>
           <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=72E64D67-E486-4039-AE7B-370F5EBBC2B6" target="_blank">7:00PM</a></u> Wednesday, November 15th</h2>
         </div>
-        
+         
         <div class="screening">
           <h2>Hulk (2003)</h2>
           <img src="/images/2023fall/hulk-2003.jpg" alt="Hulk (2003) still">
