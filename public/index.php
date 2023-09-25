@@ -157,14 +157,25 @@
           <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=8D585F57-A65B-4A0A-BBE4-76BCF458624E" target="_blank">7:00PM</a></u> Friday, September 29th</h2>
         </div>
 
-        <div id="past-lives" class="anchor screening">
-          <a href="calendar/Fall_2023/saturday#past-lives">
-            <h2>Past Lives (2023)</h2>
-            <img src="/images/2023fall/past-lives-2023.jpg" alt="Past Lives (2023) still">
+        <div id="taxi-driver" class="anchor screening">
+          <a href="calendar/Fall_2023/special-events#taxi-driver">
+            <h2>Taxi Driver (1976)</h2>
+            <img src="/images/2023fall/taxi-driver-1976.jpg" alt="Taxi Driver (1976) still">
           </a>
-          <h3>Celine Song &middot; 106m &middot; DCP</h3>
-          <p>Celine Song wrote this screenplay for herself, but we're all glad she did. After settling in New York with her husband (John Magaro), Nora encounters her childhood sweetheart Hae Sung (Teo Yoo) and is faced with the lines of fate tying her not only to Hae Sung, but also to who she used to be. Based off of Song's experiences as a Korean immigrant, <i>Past Lives</i> presents a romantic drama that patiently explores inexpressible connections and the what-if’s.</p>
-          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=5C0B5A02-46C6-4387-9459-1278F13D40CE" target="_blank">7:00PM</a></u> Saturday, October 7th</h2>
+          <h3>Martin Scorsese &middot; 114m &middot; 35mm</h3>
+          <p>Disturbed insomniac Travis Bickle (Robert De Niro) roams the grimy underbelly of 70s New York City as a taxi driver, taking chagrined notice of what he sees as repulsive social decay. Between visits to porn theaters, noting down witticisms in his diary, and an obsessive infatuation with a campaign volunteer (Cybill Shepard), Bickle becomes fixated on purging social ills by means of rescuing adolescent sex worker Iris (Jodie Foster) from her sinister pimp.</p>
+          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=ADFD2081-AF72-433D-8221-423EF2FA805C" target="_blank">4:00PM</a></u> Saturday, September 30th&middot
+          <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=4C6F521C-D321-49FE-9162-EA1A6C2A4CEA" target="_blank">3:00PM</a></u> Sunday, October 1st</h2>
+        </div>
+
+        <div id="la-la-land" class="anchor screening">
+          <a href="calendar/Fall_2023/special-events#la-la-land">
+            <h2>La La Land (2016)</h2>
+            <img src="/images/2023fall/la-la-land-2016.jpg" alt="La La Land (2016) still">
+          </a>
+          <h3>Damien Chazelle &middot; 128m &middot; DCP</h3>
+          <p>And this one’s for the fools who dream. Over the years, <i>La La Land</i> has garnered quite the reputation, whether for its iconic dance sequences, accolades, or the infamous Best Picture snafu. This dazzling musical drama centers Mia (Emma Stone) and Sebastian (Ryan Gosling), two determined souls looking to achieve their dreams in the city of stars. A story of both enchantment and heartache, <i>La La Land</i> is the perfect love letter to the road to stardom.</p>
+          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=DDBB18ED-CEC9-4E6A-B866-15BF6D3C9380" target="_blank">7:00PM</a></u> Saturday, September 30th</h2>
         </div>
 
         <div id="el-grito" class="anchor screening">

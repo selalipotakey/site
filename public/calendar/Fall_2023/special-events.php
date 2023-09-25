@@ -30,7 +30,7 @@
           <h2>6:30PM Monday, September 25th</h2>
         </div>
         
-        <div class="screening">
+        <div id="taxi-driver" class="anchor screening">
           <h2>Taxi Driver (1976)</h2>
           <img src="/images/2023fall/taxi-driver-1976.jpg" alt="Taxi Driver (1976) still">
           <h3>Martin Scorsese &middot; 114m &middot; 35mm</h3>
@@ -39,7 +39,7 @@
           <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=4C6F521C-D321-49FE-9162-EA1A6C2A4CEA" target="_blank">3:00PM</a></u> Sunday, October 1st</h2>
         </div>
 
-        <div class="screening">
+        <div id="la-la-land" class="anchor screening">
           <h2>La La Land (2016)</h2>
           <img src="/images/2023fall/la-la-land-2016.jpg" alt="La La Land (2016) still">
           <h3>Damien Chazelle &middot; 128m &middot; DCP</h3>
