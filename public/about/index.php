@@ -65,7 +65,7 @@
         <p class="board">Hannah Yang</p>
         <p class="board">doc@docfilms.org</p>
         <br>
-        <p class="board"><b>Programming Chairs</b></p>
+        <p class="board"><b>Programming Chair</b></p>
         <p class="board">Addison Wood</p>
         <p class="board">programming@docfilms.org</p>
         <br>
