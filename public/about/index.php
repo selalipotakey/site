@@ -66,7 +66,7 @@
         <p class="board">doc@docfilms.org</p>
         <br>
         <p class="board"><b>Programming Chairs</b></p>
-        <p class="board">Colby Lundak and Addison Wood</p>
+        <p class="board">Addison Wood</p>
         <p class="board">programming@docfilms.org</p>
         <br>
         <p class="board"><b>Volunteer Chair</b></p>
