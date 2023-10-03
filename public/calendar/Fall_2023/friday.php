@@ -33,7 +33,7 @@
           <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=8D585F57-A65B-4A0A-BBE4-76BCF458624E" target="_blank">7:00PM</a></u> Friday, September 29th</h2>
         </div>
         
-        <div class="screening">
+        <div id="lost-highway" class="anchor screening">
           <h2>Lost Highway (1997)</h2>
           <img src="/images/2023fall/lost-highway-1997.jpg" alt="Lost Highway (1997) still">
           <h3>David Lynch &middot; 134m &middot; DCP</h3>

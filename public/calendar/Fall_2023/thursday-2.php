@@ -33,7 +33,7 @@
           <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=FEC338A2-9FC2-485C-89E8-DE1C5EEF3853" target="_blank">9:30PM</a></u> Thursday, September 28th</h2>
         </div>
          
-        <div class="screening">
+        <div id="the-driller-killer" class="anchor screening">
           <h2>The Driller Killer (1979)</h2>
           <img src="/images/2023fall/the-driller-killer-1979.jpg" alt="The Driller Killer (1979) still">
           <h3>Abel Ferrara &middot; 96m &middot; 35mm</h3>

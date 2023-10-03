@@ -33,7 +33,7 @@
           <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=1ECB3BF4-EAEC-4D91-8DCF-4992BDE2EF75" target="_blank">7:00PM</a></u> Wednesday, September 27th</h2>
         </div>
         
-        <div class="screening">
+        <div id="brokeback-mountain" class="anchor screening">
           <h2>Brokeback Mountain (2005)</h2>
           <img src="/images/2023fall/brokeback-mountain-2005.jpg" alt="Brokeback Mountain (2005) still">
           <h3>Ang Lee &middot; 134m &middot; 35mm</h3>

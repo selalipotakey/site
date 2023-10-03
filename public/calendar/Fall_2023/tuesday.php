@@ -34,7 +34,7 @@
           <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=215612BB-EC15-4DB7-8F1D-FFA7E73ACAAE" target="_blank">7:00PM</a></u> Tuesday, September 26th</h2>
         </div>
         
-        <div class="screening">
+        <div id="salesman" class="anchor screening">
           <h2>Salesman (1969)</h2>
           <img src="/images/2023fall/salesman-1969.jpg" alt="Salesman (1969) still">
           <h3>Albert, David Maysles, and Charlotte Zwerin &middot; 91m &middot; DCP</h3>

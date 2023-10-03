@@ -33,7 +33,7 @@
           <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=450FE98C-C79B-4E66-984B-6708924F0E25" target="_blank">7:00PM</a></u> Thursday, September 28th</h2>
         </div>
         
-        <div class="screening">
+        <div id="uncut-gems" class="anchor screening">
           <h2>Uncut Gems (2019)</h2>
           <img src="/images/2023fall/uncut-gems-2019.jpg" alt="Uncut Gems (2019) still">
           <h3>Josh and Benny Safdie &middot; 135m &middot; DCP</h3>

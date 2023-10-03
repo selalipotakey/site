@@ -34,7 +34,7 @@
           <h2>6:30PM Sunday, October 1st</h2>
         </div>
         
-        <div class="screening">
+        <div id="pixote" class="anchor screening">
           <h2>Pixote (1980)</h2>
           <img src="/images/2023fall/pixote-1980.jpg" alt="Pixote (1980) still">
           <h3>Héctor Babenco &middot; 128m &middot; DCP</h3>
