@@ -37,7 +37,7 @@
           <h2>The Driller Killer (1979)</h2>
           <img src="/images/2023fall/the-driller-killer-1979.jpg" alt="The Driller Killer (1979) still">
           <h3>Abel Ferrara &middot; 96m &middot; 35mm</h3>
-          <p>Abel Ferrara directs and stars in this overlooked horror masterpiece about a painter whose lack of success, rent, and noisy neighbors cause him to begin a murder rampage around the city with a power drill. Cleverly capturing many of the anxieties induced by the city and offering one of the strangest performances you’ll see from an actor, <i>The Driller Killer</i> is one of few movies to have a no-wave soundtrack, which complements the atmosphere perfectly.</p>
+          <p><i>Print courtesy of the American Genre Film Archive</i></p><p>Abel Ferrara directs and stars in this overlooked horror masterpiece about a painter whose lack of success, rent, and noisy neighbors cause him to begin a murder rampage around the city with a power drill. Cleverly capturing many of the anxieties induced by the city and offering one of the strangest performances you’ll see from an actor, <i>The Driller Killer</i> is one of few movies to have a no-wave soundtrack, which complements the atmosphere perfectly.</p>
           <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=71F365B0-070B-4174-9E63-0084E2F1EBF9" target="_blank">9:30PM</a></u> Thursday, October 5th</h2>
         </div>
         

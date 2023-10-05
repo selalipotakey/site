@@ -144,7 +144,7 @@
             <img src="/images/2023fall/the-driller-killer-1979.jpg" alt="The Driller Killer (1979) still">
           </a>
           <h3>Abel Ferrara &middot; 96m &middot; 35mm</h3>
-          <p>Abel Ferrara directs and stars in this overlooked horror masterpiece about a painter whose lack of success, rent, and noisy neighbors cause him to begin a murder rampage around the city with a power drill. Cleverly capturing many of the anxieties induced by the city and offering one of the strangest performances you’ll see from an actor, <i>The Driller Killer</i> is one of few movies to have a no-wave soundtrack, which complements the atmosphere perfectly.</p>
+          <p><i>Print courtesy of the American Genre Film Archive</i></p><p>Abel Ferrara directs and stars in this overlooked horror masterpiece about a painter whose lack of success, rent, and noisy neighbors cause him to begin a murder rampage around the city with a power drill. Cleverly capturing many of the anxieties induced by the city and offering one of the strangest performances you’ll see from an actor, <i>The Driller Killer</i> is one of few movies to have a no-wave soundtrack, which complements the atmosphere perfectly.</p>
           <h3>Thursday, October 5th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=71F365B0-070B-4174-9E63-0084E2F1EBF9" target="_blank">9:30PM</a></u></h3>
         </div>
 
@@ -177,7 +177,7 @@
           <p>Centered around the titular child gangster who must constantly escape the threat of sexual violence, <i>Pixote</i> calls upon the life experiences of its cast members to create an embodiment of favela life, eschewing tropes of poverty porn in favor of an approach like De Sica's. Featuring a heart-rending performance by Fernando Ramos da Silva, who was killed by police after completing the film, <i>Pixote</i> presents the institutional failings of a modern Brazil in the bleakest manner imaginable.</p>
           <h3>Sunday, October 8th 6:30PM</h3>
         </div>
-        
+
       </div>
 
     <h1 style="text-align: center; margin-bottom: 1vw;">Doc Films Fall 2023 Calendar</h1>
