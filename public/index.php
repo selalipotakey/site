@@ -44,11 +44,10 @@
                 <div clas="description">
                   <a href="/calendar/Fall_2023/thursday-2#trainspotting">
                     <p class="event-title fittext">
-                      Trainspotting (1996)
+                      Trainspotting (1996) &middot; Danny Boyle &middot; October 12, 2023 &middot; October 15, 2023 &middot;
                     </p>
                   </a>
-                  <p class="capsule fittext">Cool Britannia’s heroin addiction comedy, <i>Trainspotting</i> takes the highs and lows of junkie Mark Renton (Ewan McGregor) and throws on a mountain of nightmarish pop culture that would give the Scottish Highlands an inferiority complex. Bringing the thick Scottish brogue of Irvine Welsh’s cult novel to the silver screen, <i>Trainspotting</i> invites you to dive into ‘80s Edinburgh—all to the tune of Iggy Pop, Goldie, Blur and Underworld (to name a few).</p>
-                </div>
+                  </div>
               </li>
 
               <li class="carousel__slide">
