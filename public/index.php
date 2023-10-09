@@ -31,10 +31,9 @@
                 <div clas="description">
                   <a href="/calendar/Fall_2023/tuesday#wise-blood">
                     <p class="event-title fittext" style="color: white;">
-                      Wise Blood (1979)
+                      Wise Blood (1979) &middot; October 10
                     </p>
                   </a>
-                  <p class="capsule fittext">John Huston’s <i>Wise Blood</i> captures the absurd, grotesque, yet revelatory tenor of Flannery O’Connor’s acclaimed novel. Wild-eyed Hazel Motes (Brad Dourif) becomes a self-proclaimed prophet of the Church Without Christ: “where the blind don’t see and the lame don’t walk and what’s dead stays that way." Motes battles a rival street preacher (Harry Dean Stanton) for souls - including his own.</p>
                 </div>
               </li>
 
