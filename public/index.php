@@ -21,7 +21,7 @@
           Upcoming Screenings:
         </h1>
 
-        <div class="carousel" style="background-color: black;">
+        <div class="carousel" style="background-color: black; color: white;">
 
           <button class="carousel__button carousel__button--left is-hidden">
             <img src="/images/site/chevron_left.svg" alt="left carousel button">
