@@ -15,7 +15,7 @@
 
       <?php $version='1.2'; include "./includes/dropdown.html";?>
 
-        <div class="carousel" style="max-width: 90vw;">
+        <div class="carousel" style="max-width: 90vw; background-color: black;">
 
           <button class="carousel__button carousel__button--left is-hidden">
             <img src="/images/site/chevron_left.svg" alt="left carousel button">
@@ -30,7 +30,7 @@
                 </a>
                 <div clas="description">
                   <a href="/calendar/Fall_2023/tuesday#wise-blood">
-                    <p class="event-title fittext">
+                    <p class="event-title fittext" style="color: white;">
                       Wise Blood (1979)
                     </p>
                   </a>
