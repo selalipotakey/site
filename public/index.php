@@ -15,71 +15,6 @@
 
       <?php $version='1.2'; include "./includes/dropdown.html";?>
 
-      <div class="carousel__track-container">
-            <ul class="carousel__track">
-
-              <li class="carousel__slide current-slide">
-                <a href="/calendar/Fall_2023/tuesday#wise-blood">
-                  <img class="carousel__image" src="/images/2023fall/wise-blood-1979.jpg" alt="Wise Blood (1979) still">
-                </a>
-                <div clas="description">
-                  <a href="/calendar/Fall_2023/tuesday#wise-blood">
-                    <p class="event-title fittext">
-                      Wise Blood (1979)
-                    </p>
-                  </a>
-                  <p class="capsule fittext">John Huston’s <i>Wise Blood</i> captures the absurd, grotesque, yet revelatory tenor of Flannery O’Connor’s acclaimed novel. Wild-eyed Hazel Motes (Brad Dourif) becomes a self-proclaimed prophet of the Church Without Christ: “where the blind don’t see and the lame don’t walk and what’s dead stays that way." Motes battles a rival street preacher (Harry Dean Stanton) for souls - including his own.</p>
-                </div>
-              </li>
-
-              <li class="carousel__slide">
-                <a href="/calendar/Fall_2023/thursday-2#trainspotting">
-                  <img class="carousel__image" src="/images/2023fall/trainspotting-1996.jpg" alt="Trainspotting (1996) still">
-                </a>
-                <div clas="description">
-                  <a href="/calendar/Fall_2023/thursday-2#trainspotting">
-                    <p class="event-title fittext">
-                      Trainspotting (1996)
-                    </p>
-                  </a>
-                  <p class="capsule fittext">Cool Britannia’s heroin addiction comedy, <i>Trainspotting</i> takes the highs and lows of junkie Mark Renton (Ewan McGregor) and throws on a mountain of nightmarish pop culture that would give the Scottish Highlands an inferiority complex. Bringing the thick Scottish brogue of Irvine Welsh’s cult novel to the silver screen, <i>Trainspotting</i> invites you to dive into ‘80s Edinburgh—all to the tune of Iggy Pop, Goldie, Blur and Underworld (to name a few).</p>
-                </div>
-              </li>
-
-              <li class="carousel__slide">
-                <a href="/calendar/Fall_2023/saturday#spider-man">
-                  <img class="carousel__image" src="/images/2023fall/spiderman-across-the-spiderverse-2023.jpg" alt="Spider-Man Across the Spider-Verse (2023) still">
-                </a>
-                <div clas="description">
-                  <a href="/calendar/Fall_2023/saturday#spider-man">
-                    <p class="event-title fittext">
-                      Spider-Man: Across the Spider-Verse (2023)
-                    </p>
-                  </a>
-                  <p class="capsule fittext">This bildungsroman follows two spider-people from different universes, Miles Morales and Gwen Stacey, who refuse to be boxed into a simple hero's arc. The lauded visual and auditory experience created by 1,000 animators, Daniel Pemberton, and Metro Boomin reinforce the film’s narrative-breaking style and masterful execution of the multiverse. The story is so big, it can't fit into one movie. You'll simply have to come back to Doc to catch the next one.</p>
-                </div>
-              </li>
-
-            </ul>
-          </div>
-
-          <button class="carousel__button carousel__button--right">
-            <img src="/images/site/chevron_right.svg" alt="right carousel button">
-          </button>
-
-          <div class="carousel__nav">
-            <button class="carousel__indicator current-slide"></button>
-            <button class="carousel__indicator"></button>
-            <button class="carousel__indicator"></button>
-          </div>
-          
-        </div>
-      
-      <div class="information">
-      <h1>
-          Upcoming Screenings:
-        </h1>
-<!--
         <div class="carousel">
 
           <button class="carousel__button carousel__button--left is-hidden">
@@ -143,7 +78,7 @@
             <button class="carousel__indicator"></button>
             <button class="carousel__indicator"></button>
           </div>
--->
+
         </div>
         <br><br><br><br><br>
 
