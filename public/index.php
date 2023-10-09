@@ -31,7 +31,7 @@
                 <div clas="description">
                   <a href="/calendar/Fall_2023/tuesday#wise-blood">
                     <p class="event-title fittext" style="color: white;">
-                      Wise Blood (1979) &middot; John Huston &middot; October 10, 2023
+                      Wise Blood (1979) &middot; John Huston &middot; October 10, 2023 &middot;
                     </p>
                   </a>
                 </div>
