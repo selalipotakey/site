@@ -76,11 +76,10 @@
         </div>
       
       <div class="information">
-
       <h1>
           Upcoming Screenings:
         </h1>
-
+<!--
         <div class="carousel">
 
           <button class="carousel__button carousel__button--left is-hidden">
@@ -144,9 +143,8 @@
             <button class="carousel__indicator"></button>
             <button class="carousel__indicator"></button>
           </div>
-          
+-->
         </div>
-
         <br><br><br><br><br>
 
       </div>
