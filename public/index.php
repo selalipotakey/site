@@ -14,8 +14,12 @@
     <main>
 
       <?php $version='1.2'; include "./includes/dropdown.html";?>
-
-        <div class="carousel" style="max-width: 90vw; background-color: black;">
+      
+      <div class="information">
+      <h1>
+          Upcoming Screenings:
+        </h1>
+        <div class="carousel">
 
           <button class="carousel__button carousel__button--left is-hidden">
             <img src="/images/site/chevron_left.svg" alt="left carousel button">
@@ -30,10 +34,11 @@
                 </a>
                 <div clas="description">
                   <a href="/calendar/Fall_2023/tuesday#wise-blood">
-                    <p class="event-title fittext" style="color: white;">
-                      Wise Blood (1979) &middot; John Huston &middot; October 10, 2023 &middot;
+                    <p class="event-title fittext">
+                      Wise Blood (1979)
                     </p>
                   </a>
+                  <p class="capsule fittext">John Huston’s <i>Wise Blood</i> captures the absurd, grotesque, yet revelatory tenor of Flannery O’Connor’s acclaimed novel. Wild-eyed Hazel Motes (Brad Dourif) becomes a self-proclaimed prophet of the Church Without Christ: “where the blind don’t see and the lame don’t walk and what’s dead stays that way." Motes battles a rival street preacher (Harry Dean Stanton) for souls - including his own.</p>
                 </div>
               </li>
 
@@ -43,11 +48,12 @@
                 </a>
                 <div clas="description">
                   <a href="/calendar/Fall_2023/thursday-2#trainspotting">
-                    <p class="event-title fittext" style="color: white;">
-                      Trainspotting (1996) &middot; Danny Boyle &middot; October 12, 2023 &middot; October 15, 2023 &middot;
+                    <p class="event-title fittext">
+                      Trainspotting (1996)
                     </p>
                   </a>
-                  </div>
+                  <p class="capsule fittext">Cool Britannia’s heroin addiction comedy, <i>Trainspotting</i> takes the highs and lows of junkie Mark Renton (Ewan McGregor) and throws on a mountain of nightmarish pop culture that would give the Scottish Highlands an inferiority complex. Bringing the thick Scottish brogue of Irvine Welsh’s cult novel to the silver screen, <i>Trainspotting</i> invites you to dive into ‘80s Edinburgh—all to the tune of Iggy Pop, Goldie, Blur and Underworld (to name a few).</p>
+                </div>
               </li>
 
               <li class="carousel__slide">
@@ -76,7 +82,6 @@
             <button class="carousel__indicator"></button>
             <button class="carousel__indicator"></button>
           </div>
-
         </div>
         <br><br><br><br><br>
 
