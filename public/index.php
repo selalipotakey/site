@@ -15,7 +15,7 @@
 
       <?php $version='1.2'; include "./includes/dropdown.html";?>
 
-        <div class="carousel">
+        <div class="carousel" style="max-width: 90vw;">
 
           <button class="carousel__button carousel__button--left is-hidden">
             <img src="/images/site/chevron_left.svg" alt="left carousel button">
