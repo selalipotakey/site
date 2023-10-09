@@ -43,7 +43,7 @@
                 </a>
                 <div clas="description">
                   <a href="/calendar/Fall_2023/thursday-2#trainspotting">
-                    <p class="event-title fittext">
+                    <p class="event-title fittext" style="color: white;">
                       Trainspotting (1996) &middot; Danny Boyle &middot; October 12, 2023 &middot; October 15, 2023 &middot;
                     </p>
                   </a>
