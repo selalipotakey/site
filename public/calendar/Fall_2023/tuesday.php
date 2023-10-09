@@ -42,7 +42,7 @@
           <h2>7:00PM Tuesday, October 3rd</h2>
         </div>
         
-        <div class="screening">
+        <div id="wise-blood" class="screening">
           <h2>Wise Blood (1979)</h2>
           <img src="/images/2023fall/wise-blood-1979.jpg" alt="Wise Blood (1979) still">
           <h3>John Huston &middot; 106m &middot; Digital</h3>

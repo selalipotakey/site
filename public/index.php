@@ -97,85 +97,86 @@
           <h3><i>$7 tickets, theater opens 30 minutes before the screening.</i></h3> 
         </div>
 
-        <div id="m" class="anchor screening">
+        <div id="scarface" class="anchor screening">
           <a href="calendar/Fall_2023/monday#m">
-            <h2>M (1931)</h2>
-            <img src="/images/2023fall/m-1931.jpg" alt="M (1931) still">
+            <h2>Scarface (1932)</h2>
+            <img src="/images/2023fall/scarface-1932.jpg" alt="Scarface (1932) still">
           </a>
-          <h3>Fritz Lang &middot; 110m &middot; Digital</h3>
-          <p>In a city plagued by a shocking series of child murders, the cops and the criminals alike organize to catch the killer. Scripted by Lang’s wife Thea von Harbou, this stunning work was Lang’s first sound film and his own personal favorite. <i>M</i> combines dazzling visual and sonic inventiveness with an incisive critique of an entire society. Peter Lorre’s extraordinary performance as the killer manages to be both terrifying and sympathetic.</p>
-          <h3>Monday, October 2nd <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=08FDA0D2-0990-4D57-86B8-17E6893D047B" target="_blank">7:00PM</a></u></h2>
+          <h3>Howard Hawks &middot; 93m &middot; DCP</h3>
+          <p>This wild ride of a gangster film portrays the rise and fall of a Chicago gangster (Paul Muni) modeled on Al Capone. Its gleeful blend of anarchic comedy and brutal violence outraged censors, who held up the release of the film for over a year. But Hawks’ singular vision inspired generations of filmmakers—including François Truffaut, who wrote, “[<i>Scarface</i>] isn’t literature. It may be dance or poetry. It is certainly cinema.”</p>
+          <h3><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=73FE7067-9420-4219-B541-5C609A46C62A" target="_blank">7:00PM</a></u> Monday, October 9th</h3>
         </div>
 
-        <div id="salesman" class="anchor screening">
-          <a href="/calendar/Fall_2023/tuesday#salesman-1969">
-            <h2>Salesman (1969)</h2>
-            <img src="/images/2023fall/salesman-1969.jpg" alt="Salesman (1969) still">
+        <div id="wise-blood" class="anchor screening">
+          <a href="/calendar/Fall_2023/tuesday#wise-blood-1979">
+            <h2>Wise Blood (1979)</h2>
+            <img src="/images/2023fall/wise-blood-1979.jpg" alt="Wise Blood (1969) still">
           </a>
-          <h3>Albert, David Maysles, and Charlotte Zwerin &middot; 91m &middot; DCP</h3>
-          <p>The door-to-door salesmen in this Maysles brothers documentary aren’t exactly preachers—but they are in the business of religion as they try to sell large, expensive Bibles to working-class Catholics. A portrait of mid-century consumerism and suburban ennui, <i>Salesman</i> follows its subjects from house to house as they pitch the Good Book and swap notes about the day’s successes and failures.</p>
-          <h3>Tuesday, October 3rd 7:00PM</h2>
+          <h3>John Huston &middot; 106m &middot; Digital</h3>
+          <p>John Huston’s <i>Wise Blood</i> captures the absurd, grotesque, yet revelatory tenor of Flannery O’Connor’s acclaimed novel. Wild-eyed Hazel Motes (Brad Dourif) becomes a self-proclaimed prophet of the Church Without Christ: “where the blind don’t see and the lame don’t walk and what’s dead stays that way." Motes battles a rival street preacher (Harry Dean Stanton) for souls - including his own.</p>
+          <h3><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=97B68625-C8F3-4051-8621-26DA78EBD65F" target="_blank">7:00PM</a></u> Tuesday, October 10th</h3>
         </div>
         
-        <div id="brokeback-mountain" class="anchor screening">
-          <a href="/calendar/Fall_2023/wednesday#brokeback-mountain">
-            <h2>Brokeback Mountain (2005)</h2>
-            <img src="/images/2023fall/brokeback-mountain-2005.jpg" alt="Brokeback Mountain (2005) still">
+        <div id="sense-and-sensibility" class="anchor screening">
+          <a href="/calendar/Fall_2023/wednesday#sense-and-sensibility">
+            <h2>Sense and Sensibility (1995)</h2>
+            <img src="/images/2023fall/sense-and-sensibility-1995.jpg" alt="Sense and Sensibility (1995) still">
           </a>
-          <h3>Ang Lee &middot; 134m &middot; 35mm</h3>
-          <p>It’s hard to overstate the significance of <i>Brokeback Mountain</i>. Devastatingly beautiful and incredibly profound, the film revolves around the secret, decades-long relationship between cowboys Ennis Del Mar (Heath Ledger) and Jack Twist (Jack Gyllenhaal). <i>Brokeback Mountain</i> is both a brilliant and important film that won Ang Lee the Academy Award for Best Director and proved that serious LGBTQ stories belong in mainstream media. Doc was actually the Chicago premiere for this film!</p>
-          <h3>Wednesday, October 4th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=5CF43FDC-6682-47E4-BF1F-BE837D2FD56A" target="_blank">7:00PM</a></u>&middot; 
-              Sunday, October 8th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=9C344886-98E7-43A4-8118-452D0F357683" target="_blank">12:00PM</a></u></h3>
+          <h3>Ang Lee &middot; 136m &middot; 35mm</h3>
+          <p>Sisters Elinor (Emma Thompson) and Marianne (Kate Winslet) grapple with financial hardship, societal expectations, and their different approaches to love. Thompson won the Academy Award for her screenplay, making her the only person to have won an Oscar for both screenwriting and acting. A tender and witty film,<i>Sense and Sensibility</i> demonstrates Ang Lee’s versatility as a director and is widely considered one of the best adaptations of an Austen work.</p>
+          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=140BC31E-4733-4851-9C5E-0975A9034D63" target="_blank">7:00PM</a></u> Wednesday, October 11th</h2>
         </div>
 
-        <div id="uncut-gems" class="anchor screening">
-          <a href="calendar/Fall_2023/thursday-1#uncut-gems">
-            <h2>Uncut Gems (2019)</h2>
-            <img src="/images/2023fall/uncut-gems-2019.jpg" alt="Uncut Gems (2019) still">
+        <div id="trainspotting" class="anchor screening">
+          <a href="calendar/Fall_2023/thursday-1#trainspotting">
+            <h2>Trainspotting (1996)</h2>
+            <img src="/images/2023fall/trainspotting-1996.jpg" alt="Trainspotting (1996) still">
           </a>
-          <h3>Josh and Benny Safdie &middot; 135m &middot; DCP</h3>
-          <p>Telling the tale of Howie Ratner (Adam Sandler), a Diamond District mogul who always defaults to ante, this Safdie Brothers joint will push your palm sweat into overdrive as Howie’s successive parlays become more outlandish than the last. With a cast including LaKeith Stanfield, The Weeknd, Kevin Garnett himself, and seemingly every 2010s New York <i>character</i>, <i>Uncut Gems</i> is a whirlwind of basketball, Passover, and tricked out Furbies. Come for Julia Fox, stay for Oneohtrix Poi—Daniel Lopatin.</p>
-          <h3>Thursday, October 5th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=EE45172E-7F7C-4402-8222-1808F84E531B" target="_blank">7:00PM</a></u></h3>
+          <h3>Danny Boyle &middot; 93m &middot; DCP</h3>
+          <p>Cool Britannia’s heroin addiction comedy, <i>Trainspotting</i> takes the highs and lows of junkie Mark Renton (Ewan McGregor) and throws on a mountain of nightmarish pop culture that would give the Scottish Highlands an inferiority complex. Bringing the thick Scottish brogue of Irvine Welsh’s cult novel to the silver screen, <i>Trainspotting</i> invites you to dive into ‘80s Edinburgh—all to the tune of Iggy Pop, Goldie, Blur and Underworld (to name a few).</p>
+          <h3><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=E5D37239-C269-4DD9-A03A-A5EEB46028E5" target="_blank">7:00PM</a></u>Thursday, October 12th&middot; 
+          <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=979E377D-D5C0-4D0E-ABC2-C82E224AA848" target="_blank">4:30PM</a></u> Sunday, October 15th</h3>
         </div>
 
-        <div id="the-driller-killer" class="anchor screening">
-          <a href="/calendar/Fall_2023/thursday-2#the-driller-killer">
-            <h2>The Driller Killer (1979)</h2>
-            <img src="/images/2023fall/the-driller-killer-1979.jpg" alt="The Driller Killer (1979) still">
+        <div id="basket-case" class="anchor screening">
+          <a href="/calendar/Fall_2023/thursday-2#basket-case">
+            <h2>Basket Case (1982)</h2>
+            <img src="/images/2023fall/basket-case-1982.jpg" alt="Basket Case (1982) still">
           </a>
-          <h3>Abel Ferrara &middot; 96m &middot; 35mm</h3>
-          <p><i>Print courtesy of the American Genre Film Archive</i></p><p>Abel Ferrara directs and stars in this overlooked horror masterpiece about a painter whose lack of success, rent, and noisy neighbors cause him to begin a murder rampage around the city with a power drill. Cleverly capturing many of the anxieties induced by the city and offering one of the strangest performances you’ll see from an actor, <i>The Driller Killer</i> is one of few movies to have a no-wave soundtrack, which complements the atmosphere perfectly.</p>
-          <h3>Thursday, October 5th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=71F365B0-070B-4174-9E63-0084E2F1EBF9" target="_blank">9:30PM</a></u></h3>
+          <h3>Frank Henenlotter &middot; 91m &middot; DCP</h3>
+          <p>Shot on 16mm and a low budget, <i>Basket Case</i> has become a cult classic horror movie. Duane Bradley goes around New York City carrying a mutant creature who can talk to him telepathically in a basket. Together, they are on a mission to get revenge on the doctor that did them wrong in the past. How are they related, and what wrong was done? <i>Basket Case</i> is a classic good time with cheap but surprisingly good gore effects and an atmosphere of grime.</p>
+          <h3><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=412931CD-2443-4542-BC05-600A3E3B9827" target="_blank">9:30PM</a></u> Thursday, October 12th</h3>
         </div>
 
-        <div id="lost-highway" class="anchor screening">
-          <a href="calendar/Fall_2023/friday#lost-highway">
-            <h2>Lost Highway (1997)</h2>
-            <img src="/images/2023fall/lost-highway-1997.jpg" alt="Lost Highway (1997) still">
+        <div id="a-woman-under-the-influence" class="anchor screening">
+          <a href="calendar/Fall_2023/friday#a-woman-under-the-influence">
+            <h2>A Woman Under the Influence (1974)</h2>
+            <img src="/images/2023fall/a-woman-under-the-influence-1974.jpg" alt="A Woman Under the Influence (1974) still">
           </a>
-          <h3>David Lynch &middot; 134m &middot; DCP</h3>
-          <p>Fred, a Los Angeles saxophonist, continuously recieves VHS tapes of his home, which become increasingly cryptic. Meanwhile, he has surreal dreams which cause him to suspect that his wife is not exactly who she seems. One of Lynch’s most confounding puzzles, <i>Lost Highway</i> is a frightening dreamscape of memory, identity, and desire better seen than explained.</p>
-          <h3>Friday, October 6th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=0B2CFC04-BDCC-4E22-8F6A-93FB98977A93" target="_blank">7:00PM</a></u></h3>
+          <h3>John Cassavetes &middot; 155m &middot; DCP</h3>
+          <p>As lonely housewife Mabel becomes increasingly unhappy and unstable, her husband Nick, an L.A. construction worker, begins to think Mabel will be a danger to their children and himself, despite her love for them. Written by Cassavetes when Gena Rowlands desired a play about the difficulties faced by contemporary women, <i>A Woman Under the Influence</i> contains two of the most wrought and heart-breaking performances of a couple desperately in love but ostensibly incompatible.</p>
+          <h3><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=E5277679-5B4C-4282-BE71-A668EF3D5C05" target="_blank">7:00PM</a></u> Friday, October 13th&middot; 
+          <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=E01A60FA-ABB4-469D-A3E7-06AD1090278D" target="_blank">4:00PM</a></u> Saturday, October 14th</h3>
         </div>
 
-        <div id="past-lives" class="anchor screening">
-          <a href="calendar/Fall_2023/saturday#past-lives">
-            <h2>Past Lives (2023)</h2>
-            <img src="/images/2023fall/past-lives-2023.jpg" alt="Past Lives (2023) still">
+        <div id="spider-man" class="anchor screening">
+          <a href="calendar/Fall_2023/saturday#spider-man">
+            <h2>Spider-Man: Across the Spider-Verse (2023)</h2>
+            <img src="/images/2023fall/spider-man-across-the-spider-verse-2023.jpg" alt="Spider-Man: Across the Spider-Verse (2023) still">
           </a>
-          <h3>Celine Song &middot; 106m &middot; DCP</h3>
-          <p>Celine Song wrote this screenplay for herself, but we're all glad she did. After settling in New York with her husband (John Magaro), Nora encounters her childhood sweetheart Hae Sung (Teo Yoo) and is faced with the lines of fate tying her not only to Hae Sung, but also to who she used to be. Based off of Song's experiences as a Korean immigrant, <i>Past Lives</i> presents a romantic drama that patiently explores inexpressible connections and the what-if’s.</p>
-          <h3>Saturday, October 7th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=5C0B5A02-46C6-4387-9459-1278F13D40CE" target="_blank">7:00PM</a></u></h3>
+          <h3>Joaquim Dos Santos, Kemp Powers, and Justin K. Thompson &middot; 140m &middot; DCP</h3>
+          <p>This bildungsroman follows two spider-people from different universes, Miles Morales and Gwen Stacey, who refuse to be boxed into a simple hero's arc. The lauded visual and auditory experience created by 1,000 animators, Daniel Pemberton, and Metro Boomin reinforce the film’s narrative-breaking style and masterful execution of the multiverse. The story is so big, it can't fit into one movie. You'll simply have to come back to Doc to catch the next one.</p>
+          <h3><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=0AFB1C65-9169-4DDD-B11A-9A795C0CCC99" target="_blank">7:00PM</a></u> Saturday, October 14th</h3>
         </div>
 
-        <div id="pixote" class="anchor screening">
+        <div id="de-cierta-manera" class="anchor screening">
           <a href="calendar/Fall_2023/sunday#pixote">
-            <h2>Pixote (1980)</h2>
-            <img src="/images/2023fall/pixote-1980.jpg" alt="Pixote (1980) still">
+            <h2>De cierta manera (1977) // Mueda, Memory and Massacre (1979)</h2>
+            <img src="/images/2023fall/de-cierta-manera-1977.jpg" alt="De cierta manera (1977) // Mueda, Memory and Massacre (1979) still">
           </a>
-          <h3>Héctor Babenco &middot; 128m &middot; DCP</h3>
-          <p>Centered around the titular child gangster who must constantly escape the threat of sexual violence, <i>Pixote</i> calls upon the life experiences of its cast members to create an embodiment of favela life, eschewing tropes of poverty porn in favor of an approach like De Sica's. Featuring a heart-rending performance by Fernando Ramos da Silva, who was killed by police after completing the film, <i>Pixote</i> presents the institutional failings of a modern Brazil in the bleakest manner imaginable.</p>
-          <h3>Sunday, October 8th 6:30PM</h3>
+          <h3>Sara Gómez // Ruy Guerra &middot; 73m // 80m &middot; DCP</h3>
+          <p><i>5 minutes in between films</i></p><p>This double feature shows two radically different approaches to docufiction as a tool to examine post-colonial independence. <i>De cierta manera</i>, completed by a team of filmmakers after director Sara Gómez’s untimely death, foregrounds the love story of Yolanda and Mario, two people formerly separated by race and class following the Cuban Revolution. <i>Mueda</i>, the story of the real-life 1960 massacre of Mozambicans protesting for independence, is both a fiction and a documentary which tracks the development of the massacre’s recreation by locals who lived through the War of Independence.</p>
+          <h3>6:30PM Sunday, October 15th</h3>
         </div>
 
       </div>

@@ -41,7 +41,7 @@
           <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=71F365B0-070B-4174-9E63-0084E2F1EBF9" target="_blank">9:30PM</a></u> Thursday, October 5th</h2>
         </div>
         
-        <div class="screening">
+        <div id="basket-case" class="screening">
           <h2>Basket Case (1982)</h2>
           <img src="/images/2023fall/basket-case-1982.jpg" alt="Basket Case (1982) still">
           <h3>Frank Henenlotter &middot; 91m &middot; DCP</h3>

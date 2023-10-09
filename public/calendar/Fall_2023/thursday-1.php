@@ -41,7 +41,7 @@
           <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=EE45172E-7F7C-4402-8222-1808F84E531B" target="_blank">7:00PM</a></u> Thursday, October 5th</h2>
         </div>
         
-        <div class="screening">
+        <div id="trainspotting" class="screening">
           <h2>Trainspotting (1996)</h2>
           <img src="/images/2023fall/trainspotting-1996.jpg" alt="Trainspotting (1996) still">
           <h3>Danny Boyle &middot; 93m &middot; DCP</h3>

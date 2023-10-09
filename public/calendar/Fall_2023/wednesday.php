@@ -42,7 +42,7 @@
           <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=9C344886-98E7-43A4-8118-452D0F357683" target="_blank">12:00PM</a></u> Sunday, October 8th</h2>
         </div>
         
-        <div class="screening">
+        <div id="sense-and-sensibility" class="screening">
           <h2>Sense and Sensibility (1995)</h2>
           <img src="/images/2023fall/sense-and-sensibility-1995.jpg" alt="Sense and Sensibility (1995) still">
           <h3>Ang Lee &middot; 136m &middot; 35mm</h3>

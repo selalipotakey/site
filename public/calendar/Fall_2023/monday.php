@@ -33,7 +33,7 @@
           <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=08FDA0D2-0990-4D57-86B8-17E6893D047B" target="_blank">7:00PM</a></u> Monday, October 2nd</h2>
         </div>
         
-        <div class="screening">
+        <div id= "scarface" class="screening">
           <h2>Scarface (1932)</h2>
           <img src="/images/2023fall/scarface-1932.jpg" alt="Scarface (1932) still">
           <h3>Howard Hawks &middot; 93m &middot; DCP</h3>

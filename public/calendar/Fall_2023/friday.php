@@ -41,7 +41,7 @@
           <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=0B2CFC04-BDCC-4E22-8F6A-93FB98977A93" target="_blank">7:00PM</a></u> Friday, October 6th</h2>
         </div>
         
-        <div class="screening">
+        <div id="a-woman-under-the-influence" class="screening">
           <h2>A Woman Under the Influence (1974)</h2>
           <img src="/images/2023fall/a-woman-under-the-influence-1974.jpg" alt="A Woman Under the Influence (1974) still">
           <h3>John Cassavetes &middot; 155m &middot; DCP</h3>

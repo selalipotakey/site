@@ -30,7 +30,7 @@
           <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=5C0B5A02-46C6-4387-9459-1278F13D40CE" target="_blank">7:00PM</a></u> Saturday, October 7th</h2>
         </div>
         
-        <div class="screening">
+        <div id="spider-man" class="screening">
           <h2>Spider-Man: Across the Spider-Verse (2023)</h2>
           <img src="/images/2023fall/spiderman-across-the-spiderverse-2023.jpg" alt="Spider-Man: Across the Spider-Verse (2023) still">
           <h3>Joaquim Dos Santos, Kemp Powers, and Justin K. Thompson &middot; 140m &middot; DCP</h3>
