@@ -40,7 +40,7 @@
                       Wise Blood (1979)
                     </p>
                   </a>
-                  <p class="capsule fittext">One of the most acclaimed films of the 21st-century, <i>Crouching Tiger, Hidden Dragon</i> follows a stolen mystical sword and two warriors’ (Chow Yun-fat and Michelle Yeoh) quest to retrieve it. Grand in its scope and mesmerizing in its execution—in part due to Yuen Woo-Ping’s intricate, masterfully-crafted fight choreography—Ang Lee’s film is an enthralling visual experience not to be missed.</p>
+                  <p class="capsule fittext">John Huston’s <i>Wise Blood</i> captures the absurd, grotesque, yet revelatory tenor of Flannery O’Connor’s acclaimed novel. Wild-eyed Hazel Motes (Brad Dourif) becomes a self-proclaimed prophet of the Church Without Christ: “where the blind don’t see and the lame don’t walk and what’s dead stays that way." Motes battles a rival street preacher (Harry Dean Stanton) for souls - including his own.</p>
                 </div>
               </li>
 
@@ -54,7 +54,7 @@
                       Trainspotting (1996)
                     </p>
                   </a>
-                  <p class="capsule fittext">Whether prescient or dated, we aren’t exactly sure. 2000s bright-eyed Zuckerberg collides with David Fincher’s cinematic sleekness and Sorkin’s verbose pizzazz. <i>The Social Network</i> dissects social media's birth at a microcosmic level: a who’s who of dorky college dropouts and deadbeats opening the Pandora’s box that would become Facebook. Ideal for freshmen entering college life, the movie features a killer score by Trent Reznor and Atticus Ross.</p>
+                  <p class="capsule fittext">Cool Britannia’s heroin addiction comedy, <i>Trainspotting</i> takes the highs and lows of junkie Mark Renton (Ewan McGregor) and throws on a mountain of nightmarish pop culture that would give the Scottish Highlands an inferiority complex. Bringing the thick Scottish brogue of Irvine Welsh’s cult novel to the silver screen, <i>Trainspotting</i> invites you to dive into ‘80s Edinburgh—all to the tune of Iggy Pop, Goldie, Blur and Underworld (to name a few).</p>
                 </div>
               </li>
 
@@ -68,7 +68,7 @@
                       Spider-Man: Across the Spider-Verse (2023)
                     </p>
                   </a>
-                  <p class="capsule fittext">Harold is a morose young man whose obsession with death is distasteful to his wealthy socialite mother. When he meets Maude, a 79-year-old free spirit who lives life to the fullest—even in spite of the law—the two strike up an odd friendship and a deep affection. Both a black comedy and an innocent romance, <i>Harold and Maude</i> highlights love that exists between members of society’s strange and outcast, with a classic soundtrack by Cat Stevens.</p>
+                  <p class="capsule fittext">This bildungsroman follows two spider-people from different universes, Miles Morales and Gwen Stacey, who refuse to be boxed into a simple hero's arc. The lauded visual and auditory experience created by 1,000 animators, Daniel Pemberton, and Metro Boomin reinforce the film’s narrative-breaking style and masterful execution of the multiverse. The story is so big, it can't fit into one movie. You'll simply have to come back to Doc to catch the next one.</p>
                 </div>
               </li>
 
