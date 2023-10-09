@@ -162,7 +162,7 @@
         <div id="spider-man" class="anchor screening">
           <a href="calendar/Fall_2023/saturday#spider-man">
             <h2>Spider-Man: Across the Spider-Verse (2023)</h2>
-            <img src="/images/2023fall/spider-man-across-the-spiderverse-2023.jpg" alt="Spider-Man: Across the Spider-Verse (2023) still">
+            <img src="/images/2023fall/spiderman-across-the-spiderverse-2023.jpg" alt="Spider-Man: Across the Spider-Verse (2023) still">
           </a>
           <h3>Joaquim Dos Santos, Kemp Powers, and Justin K. Thompson &middot; 140m &middot; DCP</h3>
           <p>This bildungsroman follows two spider-people from different universes, Miles Morales and Gwen Stacey, who refuse to be boxed into a simple hero's arc. The lauded visual and auditory experience created by 1,000 animators, Daniel Pemberton, and Metro Boomin reinforce the film’s narrative-breaking style and masterful execution of the multiverse. The story is so big, it can't fit into one movie. You'll simply have to come back to Doc to catch the next one.</p>
