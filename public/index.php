@@ -31,13 +31,13 @@
             <ul class="carousel__track">
 
               <li class="carousel__slide current-slide">
-                <a href="/calendar/Fall_2023/wednesday#crouching-tiger-hidden-dragon">
-                  <img class="carousel__image" src="/images/2023fall/crouching-tiger-hidden-dragon-2000.jpg" alt="Crouching Tiger, Hidden Dragon (2000) still">
+                <a href="/calendar/Fall_2023/tuesday#wise-blood">
+                  <img class="carousel__image" src="/images/2023fall/wise-blood-1979.jpg" alt="Wise Blood (1979) still">
                 </a>
                 <div clas="description">
-                  <a href="/calendar/Fall_2023/wednesday#crouching-tiger-hidden-dragon">
+                  <a href="/calendar/Fall_2023/tuesday#wise-blood">
                     <p class="event-title fittext">
-                      Crouching Tiger, Hidden Dragon (2000)
+                      Wise Blood (1979)
                     </p>
                   </a>
                   <p class="capsule fittext">One of the most acclaimed films of the 21st-century, <i>Crouching Tiger, Hidden Dragon</i> follows a stolen mystical sword and two warriors’ (Chow Yun-fat and Michelle Yeoh) quest to retrieve it. Grand in its scope and mesmerizing in its execution—in part due to Yuen Woo-Ping’s intricate, masterfully-crafted fight choreography—Ang Lee’s film is an enthralling visual experience not to be missed.</p>
@@ -45,13 +45,13 @@
               </li>
 
               <li class="carousel__slide">
-                <a href="/calendar/Fall_2023/thursday-1#the-social-network">
-                  <img class="carousel__image" src="/images/2023fall/the-social-network-2010.jpg" alt="The Social Network (2010) still">
+                <a href="/calendar/Fall_2023/thursday-2#trainspotting">
+                  <img class="carousel__image" src="/images/2023fall/trainspotting-1996.jpg" alt="Trainspotting (1996) still">
                 </a>
                 <div clas="description">
-                  <a href="/calendar/Fall_2023/thursday-1#the-social-network">
+                  <a href="/calendar/Fall_2023/thursday-2#trainspotting">
                     <p class="event-title fittext">
-                      The Social Network (2010)
+                      Trainspotting (1996)
                     </p>
                   </a>
                   <p class="capsule fittext">Whether prescient or dated, we aren’t exactly sure. 2000s bright-eyed Zuckerberg collides with David Fincher’s cinematic sleekness and Sorkin’s verbose pizzazz. <i>The Social Network</i> dissects social media's birth at a microcosmic level: a who’s who of dorky college dropouts and deadbeats opening the Pandora’s box that would become Facebook. Ideal for freshmen entering college life, the movie features a killer score by Trent Reznor and Atticus Ross.</p>
@@ -59,13 +59,13 @@
               </li>
 
               <li class="carousel__slide">
-                <a href="/calendar/Fall_2023/friday#harold-and-maude">
-                  <img class="carousel__image" src="/images/2023fall/harold-and-maude-1971.jpg" alt="Harold and Maude (1971) still">
+                <a href="/calendar/Fall_2023/saturday#spider-man">
+                  <img class="carousel__image" src="/images/2023fall/spiderman-across-the-spiderverse-2023.jpg" alt="Spider-Man Across the Spider-Verse (2023) still">
                 </a>
                 <div clas="description">
-                  <a href="/calendar/Fall_2023/friday#harold-and-maude">
+                  <a href="/calendar/Fall_2023/saturday#spider-man">
                     <p class="event-title fittext">
-                      Harold and Maude (1971)
+                      Spider-Man: Across the Spider-Verse (2023)
                     </p>
                   </a>
                   <p class="capsule fittext">Harold is a morose young man whose obsession with death is distasteful to his wealthy socialite mother. When he meets Maude, a 79-year-old free spirit who lives life to the fullest—even in spite of the law—the two strike up an odd friendship and a deep affection. Both a black comedy and an innocent romance, <i>Harold and Maude</i> highlights love that exists between members of society’s strange and outcast, with a classic soundtrack by Cat Stevens.</p>
