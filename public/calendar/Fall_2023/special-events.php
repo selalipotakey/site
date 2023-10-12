@@ -54,6 +54,15 @@
           <p>20 years ago, a couple had their first date at Doc Films. The movie was Ozon’s <i>Swimming Pool</i> … Now here we are, hopefully with a romantic prospect by our side. Because there's no better date-night activity than watching this sizzling, slow-burn erotic thriller starring Charlotte Rampling as a writer whose holiday takes a turn when an unexpected guest shows up. Here’s to Meredith and Alex — may we all find true love at the movies, especially at Doc!</p>
           <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=D235680B-A92B-407E-8A3F-94924EC08C1D" target="_blank">7:00PM</a></u> Thursday, October 19th</h2>
         </div>
+
+        <div class="screening">
+          <h2>Catalyst (2024)</h2>
+          <img src="/images/2023fall/catalyst-2024.png" alt="Catalyst (2024) still">
+          <h3>Dave Steck &middot; 42m &middot; DCP</h3>
+          <p><i>The film will be followed by a post-screening Q&A with people involved in the movie on both sides of the camera. The talkback panel includes: Dave Steck (filmmaker), Duro Wicks (co-producer, featured subject), and Sara Chapman (Media Burn Archive).</i></p>
+          <p>An independent documentary film about how Duro “Shame Love Tempo” Wicks fell in love with Hip Hop and helped give it a home on the Chicago music scene of the early 1990's. It examines what made Hip Hop blow up in Chicago so much later than in other cities, how a tiny 100 watt college station became Chicago’s Hip Hop radio powerhouse, why it was so difficult for a young Black entrepreneur to get a party started, and a time when social, political and economic conditions ultimately proved to make Duro’s dream unsustainable, even though it was more successful than anyone ever imagined it could be.</p>
+          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=74CBB65B-6CBB-4CCF-87DE-AB961CC30770" target="_blank">4:00PM</a></u> Wednesday, October 25th</h2>
+        </div>
         
         <div class="screening">
           <h2>The Exorcist (1973)</h2>
