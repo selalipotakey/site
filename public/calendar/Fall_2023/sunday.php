@@ -47,7 +47,7 @@
           <img src="/images/2023fall/de-cierta-manera-1977.jpg" alt="De cierta manera (1977) // Mueda, Memory and Massacre (1979) still">
           <h3>Sara Gómez // Ruy Guerra &middot; 73m // 80m &middot; DCP</h3>
           <p><i>Updates to the screening: Mueda, Memory and Massacre (1979) is rescheduled for a later time. We apologize for the inconvenience.</i></p><p>This double feature shows two radically different approaches to docufiction as a tool to examine post-colonial independence. <i>De cierta manera</i>, completed by a team of filmmakers after director Sara Gómez’s untimely death, foregrounds the love story of Yolanda and Mario, two people formerly separated by race and class following the Cuban Revolution. <i>Mueda</i>, the story of the real-life 1960 massacre of Mozambicans protesting for independence, is both a fiction and a documentary which tracks the development of the massacre’s recreation by locals who lived through the War of Independence.</p>
-          <h2>6:30PM Sunday, October 15th</h2>
+          <h3>6:30PM Sunday, October 15th</h3>
         </div>
         
         <div class="screening">
@@ -56,7 +56,7 @@
           <h3>Jorge Sanjinés // Luis Buñuel &middot; 70m // 76m &middot; Digital // 35mm</h3>
           
           <p><i>5 minutes in between films.</i></p><p>Banned upon release, <i>Blood of the Condor</i>  tells the story of Indigenous people’s struggle against forced sterilization in the Andes. <i>Los Olvidados</i>, Luis Buñuel’s social realist fever dream, follows a group of children who fall through the cracks of the Mexican state’s welfare programs. Combining European arthouse visuals with Latin American modernity, these films were hotbeds of controversy in their day and now serve as towering works capturing the zeitgeist of their time.</p>
-          <h2>6:30PM Sunday, October 22nd</h2>
+          <h3>6:30PM Sunday, October 22nd</h3>
         </div>
         
         <div class="screening">
@@ -64,7 +64,7 @@
           <img src="/images/2023fall/manila-in-the-claws-of-light-1975.jpg" alt="Manila in the Claws of Light (1975) still">
           <h3>Lino Brocka &middot; 125m &middot; DCP</h3>
           <p>Directed by a titan of Filipino cinema, Lino Brocka, <i>Manila</i> confronts urban strife with melodramatic flair as provincial Julio (Bembol Roco) makes his way into Manila in search of his missing love Ligaya (Hilda Koronel). A recounting of one man’s attempt to fight against the gargantua of city life and a record of 70s Manila, Brocka’s epic is a masterclass in the characterization of urbanity’s ability to suffocate those who enter its darkness.</p>
-          <h2>6:30PM Sunday, October 29th</h2>
+          <h3>6:30PM Sunday, October 29th</h3>
         </div>
         
         <div class="screening">
@@ -73,7 +73,7 @@
           <h3>Patricio Guzmán &middot; 262m &middot; DCP</h3>
           
           <p><i>There will be an intermission.</i></p><p>Described by Pauline Kael as a testament to what Marxism in film could produce, this epic documentary spans the years leading up to and following the 1973 coup in Chile led by Augusto Pinochet and backed by the CIA (and distinguished alumni of UChicago). A massive undertaking for the filmmakers, and to some degree the audience, <i>The Battle of Chile</i> reveals the open wound created by right-wing authoritarianism and the dashed hopes of a nation’s social democracy.</p>
-          <h2>2:00PM Sunday, November 5th</h2>
+          <h3>2:00PM Sunday, November 5th</h3>
         </div>
         
         <div class="screening">
@@ -81,7 +81,7 @@
           <img src="/images/2023fall/sambizanga-1972.jpg" alt="Sambizanga (1972) still">
           <h3>Sarah Maldoror &middot; 97m &middot; DCP</h3>
           <p>Made near the end of the Angolan War of Independence, <i>Sambizanga</i> is a rallying cry against Portuguese colonialism. A period piece set in the early days of the thirteen-year conflict, Maria (Elisa Andrade) searches for her husband, who has been imprisoned for his dissidence against the regime. Creating a moving portrait of countless Angolan freedom fighters, director Sarah Maldoror casts a particular gaze towards the role of women in anti-colonial struggle.</p>
-          <h2>6:30PM Sunday, November 12th</h2>
+          <h3>6:30PM Sunday, November 12th</h3>
         </div>
         
         <div class="screening">
@@ -90,7 +90,7 @@
           <h3>Kidlat Tahimik &middot; 93m &middot; Digital</h3>
           
           <p><i>Introduced by Professor Ian Bryce Jones, Cinema and Media Studies.</i></p><p>A staple of South-East Asian Third Cinema, <i>Perfumed Nightmare</i> recounts the comic escapades of a jeepney driver intent on travelling to space. Quickly disillusioned by the toil of Western Europe, Kidlat (the main character and the director Kidlat Tahimik) transforms the film into a highly inventive satire of modern life and the supposed first world.</p>
-          <h2>6:30PM Sunday, November 19th</h2>
+          <h3>6:30PM Sunday, November 19th</h3>
         </div>
         
         <div class="screening">
@@ -98,7 +98,7 @@
           <img src="/images/2023fall/the-wind-of-ayahuasca-1982.jpg" alt="The Wind of Ayahuasca (1982) still">
           <h3>Nora de Izcue &middot; 85m &middot; DCP</h3>
           <p>When the sociologist Miguel arrives in rural Peru, he quickly becomes entranced by the folkloric traditions of the land, as well as Nexy, a mysterious local haunted by her past. What follows is a hallucinatory dream of a film as Nexy disappears and Miguel attempts to use the psychedelic to learn about his lost companion. A visually arresting debut and the first Peruvian feature directed by a woman, this tropical romance exudes an energy entirely its own.</p>
-          <h2>6:30PM Sunday, December 3rd</h2>
+          <h3>6:30PM Sunday, December 3rd</h3>
         </div>
         
       </div>
