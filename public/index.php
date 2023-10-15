@@ -38,7 +38,7 @@
                       De Cierta Manera (1977)
                     </p>
                   </a>
-                  <p class="capsule fittext"><i>Updates to the screening: Mueda, Memory and Massacre (1979) is rescheduled for a later time. We apologize for the inconvenience.</i><i>Mueda</i>, the story of the real-life 1960 massacre of Mozambicans protesting for independence, is both a fiction and a documentary which tracks the development of the massacre’s recreation by locals who lived through the War of Independence.</p>
+                  <p class="capsule fittext"><i>Updates to the screening: Mueda, Memory and Massacre (1979) is rescheduled for a later time. We apologize for the inconvenience. </i><i>Mueda</i>, the story of the real-life 1960 massacre of Mozambicans protesting for independence, is both a fiction and a documentary which tracks the development of the massacre’s recreation by locals who lived through the War of Independence.</p>
                 </div>
               </li>
 
