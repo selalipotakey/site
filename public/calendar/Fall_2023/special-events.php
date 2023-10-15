@@ -77,7 +77,7 @@
           <img src="/images/2023fall/bad-black-2016.jpg" alt="Bad Black (2016) still">
           <h3>Nabwana Isaac Godfrey Geoffrey &middot; 68m &middot; DCP</h3>
           <p>From the Ugandan slum studio Wakaliwood of cult <i>Who Killed Captain Alex?</i> fame comes this gonzo action-comedy. After Bad Black (Nalwanga Gloria), the biggest mafiosa in Uganda’s capital city, steals from an American doctor, he must team up with Kung fu kid Wesley Snipes (Rolean Kasule) to take back his family heirloom. Bear witness to the dizzying action and witty script born of a self-taught MacGyver director and a whopping $65 budget.</p>
-          <h3><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=BEE7C099-FFDA-43BA-9DA8-D79A70BDF56F" target="_blank">7:00PM</a></u> Saturday, November 18th&middot; 
+          <h3><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=BEE7C099-FFDA-43BA-9DA8-D79A70BDF56F" target="_blank">7:00PM</a></u> Saturday, November 18th &middot; 
           <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=03DDB219-41B8-4253-80A0-03F9DC907EB8" target="_blank">3:00PM</a></u> Sunday, November 19th</h3>
         </div>
         
@@ -95,7 +95,7 @@
           <img src="/images/2023fall/full-metal-jacket-1987.jpg" alt="Full Metal Jacket (1987) still">
           <h3>Stanley Kubrick &middot; 116m &middot; 35mm</h3>
           <p>Based on a 1979 novel, Stanley Kubrick's <i>Full Metal Jacket</i> follows two privates as they struggle through rigorous military training, each earning a pejorative nickname from their hard-as-nails drill sergeant: 'Joker'  (Matthew Modine) and 'Pyle' (Vincent D'Onofrio). When Joker graduates to a journalist and is sent into the thick of the battlefield, he finds himself ensconced within the Battle of Hué, facing danger, loss, and moral dilemmas.</p>
-          <h3><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=57F01004-C4A6-42EF-9899-1585A3F1E52A" target="_blank">7:00PM</a></u> Saturday, December 2nd&middot; 
+          <h3><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=57F01004-C4A6-42EF-9899-1585A3F1E52A" target="_blank">7:00PM</a></u> Saturday, December 2nd &middot; 
           <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=DC770C90-8025-4916-984F-7317F2D986F9" target="_blank">3:00PM</a></u> Sunday, December 3rd</h3>
         </div>
         

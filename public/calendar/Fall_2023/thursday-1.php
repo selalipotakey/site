@@ -46,7 +46,7 @@
           <img src="/images/2023fall/trainspotting-1996.jpg" alt="Trainspotting (1996) still">
           <h3>Danny Boyle &middot; 93m &middot; DCP</h3>
           <p>Cool Britannia’s heroin addiction comedy, <i>Trainspotting</i> takes the highs and lows of junkie Mark Renton (Ewan McGregor) and throws on a mountain of nightmarish pop culture that would give the Scottish Highlands an inferiority complex. Bringing the thick Scottish brogue of Irvine Welsh’s cult novel to the silver screen, <i>Trainspotting</i> invites you to dive into ‘80s Edinburgh—all to the tune of Iggy Pop, Goldie, Blur and Underworld (to name a few).</p>
-          <h3><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=E5D37239-C269-4DD9-A03A-A5EEB46028E5" target="_blank">7:00PM</a></u>Thursday, October 12th&middot; 
+          <h3><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=E5D37239-C269-4DD9-A03A-A5EEB46028E5" target="_blank">7:00PM</a></u>Thursday, October 12th &middot; 
           <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=979E377D-D5C0-4D0E-ABC2-C82E224AA848" target="_blank">4:30PM</a></u> Sunday, October 15th</h3>
         </div>
         
@@ -71,7 +71,7 @@
           <img src="/images/2023fall/strange-days-1995.jpg" alt="Strange Days (1995) still">
           <h3>Kathryn Bigelow &middot; 145m &middot; 35mm</h3>
           <p>A Y2K cyberpunk thriller with Ralph Fiennes and Angela Bassett, directed by Kathryn Bigelow, based on a James Cameron story, with music by PJ Harvey– <i>Strange Days</i> must have been a smash hit! As it turns out, audiences were unprepared for the scathing commentary on Clinton-era racism and misogyny, and the uncanny predictions on technology. Seen as a hidden gem of ‘90s sci-fi maximalism, <i>Strange Days</i> has earned a reevaluation as a socially conscious, forward-thinking take on the near-future dystopia.</p>
-          <h3><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=B38B8D99-2534-4D40-9CFA-D07676EE3091" target="_blank">7:00PM</a></u> Thursday, November 9th&middot; 
+          <h3><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=B38B8D99-2534-4D40-9CFA-D07676EE3091" target="_blank">7:00PM</a></u> Thursday, November 9th &middot; 
           <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=2711D647-88AC-48FE-9FFA-3CE946B49E69" target="_blank">3:00PM</a></u> Sunday, November 12th</h3>
         </div>
         
@@ -80,7 +80,7 @@
           <img src="/images/2023fall/millennium-mambo-2001.jpg" alt="Millennium Mambo (2001) still">
           <h3>Hou Hsiao-hsien &middot; 119m &middot; DCP</h3>
           <p>Weren’t satisfied by our last Y2K spectacular? Well, here’s <i>Millennium Mambo</i>, the more melancholy take on the new millennium and one of Hou Hsiao-Hsien’s finest works. In the spirit of films like Wong Kar-Wai’s <i>Love Trilogy</i>, <i>Millennium Mambo</i> captures the ennui of youth and lost time as it charts Vicky’s (Shu Qi) bygone time on the dance floor in a rapidly changing Taipei.</p>
-          <h3><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=5A3BA927-6A51-4F23-B5CE-B5FE62DF2BE2" target="_blank">7:00PM</a></u> Thursday, November 16th&middot; 
+          <h3><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=5A3BA927-6A51-4F23-B5CE-B5FE62DF2BE2" target="_blank">7:00PM</a></u> Thursday, November 16th &middot; 
           <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=6901A86E-298A-4342-951F-3BB583F010D5" target="_blank">4:00PM</a></u> Saturday, November 18th</h3>
         </div>
          
