@@ -167,11 +167,12 @@
 
         <div id="de-cierta-manera" class="anchor screening">
           <a href="calendar/Fall_2023/sunday#pixote">
-            <h2>De cierta manera (1977) // Mueda, Memory and Massacre (1979)</h2>
+            <h2>De cierta manera (1977)</h2>
             <img src="/images/2023fall/de-cierta-manera-1977.jpg" alt="De cierta manera (1977) // Mueda, Memory and Massacre (1979) still">
           </a>
-          <h3>Sara Gómez // Ruy Guerra &middot; 73m // 80m &middot; DCP</h3>
-          <p><i>5 minutes in between films</i></p><p>This double feature shows two radically different approaches to docufiction as a tool to examine post-colonial independence. <i>De cierta manera</i>, completed by a team of filmmakers after director Sara Gómez’s untimely death, foregrounds the love story of Yolanda and Mario, two people formerly separated by race and class following the Cuban Revolution. <i>Mueda</i>, the story of the real-life 1960 massacre of Mozambicans protesting for independence, is both a fiction and a documentary which tracks the development of the massacre’s recreation by locals who lived through the War of Independence.</p>
+          <h3>Sara Gómez &middot; 73m &middot; DCP</h3>
+          <p><i>Updates to the screening: Mueda, Memory and Massacre (1979) is rescheduled for a later time.</i></p>
+          <p>This double feature shows two radically different approaches to docufiction as a tool to examine post-colonial independence. <i>De cierta manera</i>, completed by a team of filmmakers after director Sara Gómez’s untimely death, foregrounds the love story of Yolanda and Mario, two people formerly separated by race and class following the Cuban Revolution. <i>Mueda</i>, the story of the real-life 1960 massacre of Mozambicans protesting for independence, is both a fiction and a documentary which tracks the development of the massacre’s recreation by locals who lived through the War of Independence.</p>
           <h3>Sunday, October 15th 6:30PM</h3>
         </div>
 
