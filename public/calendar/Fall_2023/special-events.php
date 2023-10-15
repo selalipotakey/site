@@ -35,7 +35,7 @@
           <img src="/images/2023fall/taxi-driver-1976.jpg" alt="Taxi Driver (1976) still">
           <h3>Martin Scorsese &middot; 114m &middot; 35mm</h3>
           <p>Disturbed insomniac Travis Bickle (Robert De Niro) roams the grimy underbelly of 70s New York City as a taxi driver, taking chagrined notice of what he sees as repulsive social decay. Between visits to porn theaters, noting down witticisms in his diary, and an obsessive infatuation with a campaign volunteer (Cybill Shepard), Bickle becomes fixated on purging social ills by means of rescuing adolescent sex worker Iris (Jodie Foster) from her sinister pimp.</p>
-          <h3><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=ADFD2081-AF72-433D-8221-423EF2FA805C" target="_blank">4:00PM</a></u> Saturday, September 30th&middot
+          <h3><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=ADFD2081-AF72-433D-8221-423EF2FA805C" target="_blank">4:00PM</a></u> Saturday, September 30th &middot;
           <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=4C6F521C-D321-49FE-9162-EA1A6C2A4CEA" target="_blank">3:00PM</a></u> Sunday, October 1st</h3>
         </div>
 
