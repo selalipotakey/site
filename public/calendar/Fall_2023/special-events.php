@@ -47,7 +47,7 @@
           <h3><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=DDBB18ED-CEC9-4E6A-B866-15BF6D3C9380" target="_blank">7:00PM</a></u> Saturday, September 30th</h3>
         </div>
         
-        <div class="screening">
+        <div id="swimming-pool" class="screening">
           <h2>Swimming Pool (2003)</h2>
           <img src="/images/2023fall/swimming-pool-2003.jpg" alt="Swimming Pool (2003) still">
           <h3>François Ozon &middot; 102m &middot; 35mm</h3>

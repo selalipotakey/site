@@ -50,7 +50,7 @@
           <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=140BC31E-4733-4851-9C5E-0975A9034D63" target="_blank">7:00PM</a></u> Wednesday, October 11th</h2>
         </div>
         
-        <div class="screening">
+        <div id="life-of-pi" class="screening">
           <h2>Life of Pi (2012)</h2>
           <img src="/images/2023fall/life-of-pi-2012.jpg" alt="Life of Pi (2012) still">
           <h3>Ang Lee &middot; 127m &middot; DCP</h3>

@@ -108,87 +108,95 @@
           <h3><i>$7 tickets, theater opens 30 minutes before the screening.</i></h3> 
         </div>
 
-        <div id="scarface" class="anchor screening">
-          <a href="calendar/Fall_2023/monday#m">
-            <h2>Scarface (1932)</h2>
-            <img src="/images/2023fall/scarface-1932.jpg" alt="Scarface (1932) still">
+        <div id="jour-se-leve" class="anchor screening">
+          <a href="calendar/Fall_2023/monday#jour-se-leve">
+            <h2>Le jour se léve (1939)</h2>
+            <img src="/images/2023fall/le-jour-se-leve-1939.jpg" alt="Le jour se léve (1939) still">
           </a>
-          <h3>Howard Hawks &middot; 93m &middot; DCP</h3>
-          <p>This wild ride of a gangster film portrays the rise and fall of a Chicago gangster (Paul Muni) modeled on Al Capone. Its gleeful blend of anarchic comedy and brutal violence outraged censors, who held up the release of the film for over a year. But Hawks’ singular vision inspired generations of filmmakers—including François Truffaut, who wrote, “[<i>Scarface</i>] isn’t literature. It may be dance or poetry. It is certainly cinema.”</p>
-          <h3>Monday, October 9th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=73FE7067-9420-4219-B541-5C609A46C62A" target="_blank">7:00PM</a></u></h3>
+          <h3>Marcel Carné &middot; 93m &middot; DCP</h3>
+          <p>A factory worker (Jean Gabin) kills a man, then holes himself up in his apartment. As he awaits the police, he thinks back on the events that turned him into a murderer. Scripted by the poet Jaques Prévert, this melancholy masterpiece of poetic realism is distinguished by its gorgeously atmospheric filmmaking and Gabin’s utterly iconic performance. Its aura of fatalistic despair parallels the mood of France on the brink of world war.</p>
+          <h3><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=B1906156-BC83-4D11-AFF4-1158A4E63112" target="_blank">7:00PM</a></u> Monday, October 16th</h3>
         </div>
 
-        <div id="wise-blood" class="anchor screening">
-          <a href="/calendar/Fall_2023/tuesday#wise-blood-1979">
-            <h2>Wise Blood (1979)</h2>
-            <img src="/images/2023fall/wise-blood-1979.jpg" alt="Wise Blood (1969) still">
+        <div id="body-and-soul" class="anchor screening">
+          <a href="/calendar/Fall_2023/tuesday#body-and-soul-1925">
+            <h2>Body and Soul (1925)</h2>
+            <img src="/images/2023fall/body-and-soul-1925.jpg" alt="Body and Soul (1925) still">
           </a>
-          <h3>John Huston &middot; 106m &middot; Digital</h3>
-          <p>John Huston’s <i>Wise Blood</i> captures the absurd, grotesque, yet revelatory tenor of Flannery O’Connor’s acclaimed novel. Wild-eyed Hazel Motes (Brad Dourif) becomes a self-proclaimed prophet of the Church Without Christ: “where the blind don’t see and the lame don’t walk and what’s dead stays that way." Motes battles a rival street preacher (Harry Dean Stanton) for souls - including his own.</p>
-          <h3>Tuesday, October 10th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=97B68625-C8F3-4051-8621-26DA78EBD65F" target="_blank">7:00PM</a></u></h3>
+          <h3>Oscar Micheaux &middot; 102m &middot; DCP</h3>
+          <p>27-year-old Paul Robeson made his acting debut in Oscar Micheaux’s <i>Body and Soul</i> playing the roles of identical twins - one honest but poor, the other a crooked preacher - who are in love with the same woman. Micheaux was forced to cut “immoral” and “sacrilegious” scenes; while the director’s cut has never been recovered, <i>Body and Soul</i> is one of Micheaux’s few surviving silent films.</p>
+          <h3><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=954335C2-CC80-41D5-ADFA-97B41D72DEE9" target="_blank">7:00PM</a></u> Tuesday, October 17th</h3>
         </div>
         
-        <div id="sense-and-sensibility" class="anchor screening">
-          <a href="/calendar/Fall_2023/wednesday#sense-and-sensibility">
-            <h2>Sense and Sensibility (1995)</h2>
-            <img src="/images/2023fall/sense-and-sensibility-1995.jpg" alt="Sense and Sensibility (1995) still">
+        <div id="life-of-pi" class="anchor screening">
+          <a href="/calendar/Fall_2023/wednesday#life-of-pi">
+            <h2>Life of Pi (20212)</h2>
+            <img src="/images/2023fall/life-of-pi-2012.jpg" alt="Life of Pi (2012) still">
           </a>
-          <h3>Ang Lee &middot; 136m &middot; 35mm</h3>
-          <p>Sisters Elinor (Emma Thompson) and Marianne (Kate Winslet) grapple with financial hardship, societal expectations, and their different approaches to love. Thompson won the Academy Award for her screenplay, making her the only person to have won an Oscar for both screenwriting and acting. A tender and witty film,<i>Sense and Sensibility</i> demonstrates Ang Lee’s versatility as a director and is widely considered one of the best adaptations of an Austen work.</p>
-          <h3>Wednesday, October 11th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=140BC31E-4733-4851-9C5E-0975A9034D63" target="_blank">7:00PM</a></u></h3>
+          <h3>Ang Lee &middot; 127m &middot; DCP</h3>
+          <p>Ang Lee’s <i>Life of Pi</i>, based on Yann Martel’s novel of the same name, is perhaps his most gorgeous film. Deeply thought-provoking and emotionally rich, it depicts the adventure of a boy nicknamed Pi stranded in the middle of the ocean…with a Bengal tiger. The film's breathtaking visuals and philosophical narrative earned it critical acclaim and several Academy Awards, including Best Director. Come for the tiger, stay for a hopeful, beautiful experience.</p>
+          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=24C1E36E-EF4B-43E6-AE94-FC7ADE0469AC" target="_blank">7:00PM</a></u> Wednesday, October 18th</h2>
         </div>
 
-        <div id="trainspotting" class="anchor screening">
-          <a href="calendar/Fall_2023/thursday-1#trainspotting">
-            <h2>Trainspotting (1996)</h2>
-            <img src="/images/2023fall/trainspotting-1996.jpg" alt="Trainspotting (1996) still">
+        <div id="irreversible" class="anchor screening">
+          <a href="calendar/Fall_2023/thursday-1#irreversible">
+            <h2>Irréversible (2002)</h2>
+            <img src="/images/2023fall/irreversible-2002.jpg" alt="Irréversible (2002) still">
           </a>
-          <h3>Danny Boyle &middot; 93m &middot; DCP</h3>
-          <p>Cool Britannia’s heroin addiction comedy, <i>Trainspotting</i> takes the highs and lows of junkie Mark Renton (Ewan McGregor) and throws on a mountain of nightmarish pop culture that would give the Scottish Highlands an inferiority complex. Bringing the thick Scottish brogue of Irvine Welsh’s cult novel to the silver screen, <i>Trainspotting</i> invites you to dive into ‘80s Edinburgh—all to the tune of Iggy Pop, Goldie, Blur and Underworld (to name a few).</p>
-          <h3>Thursday, October 12th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=E5D37239-C269-4DD9-A03A-A5EEB46028E5" target="_blank">7:00PM</a></u> &middot; 
-              Sunday, October 15th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=979E377D-D5C0-4D0E-ABC2-C82E224AA848" target="_blank">4:30PM</a></u></h3>
+          <h3>Gaspar Noé &middot; 97m &middot; DCP</h3>
+          <p>Inverting the rape-revenge genre, <i>Irréversible</i> combines dizzying camerawork and a stomach-churning score by Daft Punk’s Thomas Bangalter. Infamously unwatchable, it dwells on the most base forms of hatred and disgust and makes us reckon with humanity’s id in the face of modernity. Noé’s tapestry of two men (Vincent Cassel, Albert Dupontel) avenging their lover (Monica Bellucci) is canonized and shunned for its onslaught of cruelty towards the viewer.</p>
+          <h3><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=329D6497-32FA-4425-8500-406CCCE090CD" target="_blank">7:00PM</a></u> Thursday, October 26th</h3>
         </div>
 
-        <div id="basket-case" class="anchor screening">
-          <a href="/calendar/Fall_2023/thursday-2#basket-case">
-            <h2>Basket Case (1982)</h2>
-            <img src="/images/2023fall/basket-case-1982.jpg" alt="Basket Case (1982) still">
+        <div id="swimming-pool" class="anchor screening">
+          <a href="/calendar/Fall_2023/special-events#swimming-pool">
+            <h2> Swimming Pool (2003)</h2>
+            <img src="/images/2023fall/swimming-pool-2003.jpg" alt="Swimming Pool (2003) still">
           </a>
-          <h3>Frank Henenlotter &middot; 91m &middot; DCP</h3>
-          <p>Shot on 16mm and a low budget, <i>Basket Case</i> has become a cult classic horror movie. Duane Bradley goes around New York City carrying a mutant creature who can talk to him telepathically in a basket. Together, they are on a mission to get revenge on the doctor that did them wrong in the past. How are they related, and what wrong was done? <i>Basket Case</i> is a classic good time with cheap but surprisingly good gore effects and an atmosphere of grime.</p>
-          <h3>Thursday, October 12th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=412931CD-2443-4542-BC05-600A3E3B9827" target="_blank">9:30PM</a></u></h3>
+          <h3>François Ozon &middot; 102m &middot; 35mm</h3>
+          <p>20 years ago, a couple had their first date at Doc Films. The movie was Ozon’s <i>Swimming Pool</i> … Now here we are, hopefully with a romantic prospect by our side. Because there's no better date-night activity than watching this sizzling, slow-burn erotic thriller starring Charlotte Rampling as a writer whose holiday takes a turn when an unexpected guest shows up. Here’s to Meredith and Alex — may we all find true love at the movies, especially at Doc!</p>
+          <h3><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=D235680B-A92B-407E-8A3F-94924EC08C1D" target="_blank">7:00PM</a></u> Thursday, October 19th</h3>
         </div>
 
-        <div id="a-woman-under-the-influence" class="anchor screening">
-          <a href="calendar/Fall_2023/friday#a-woman-under-the-influence">
+        <div id="red-roses" class="anchor screening">
+          <a href="/calendar/Fall_2023/thursday-2#red-roses">
+            <h2>Red Roses of Passion (1966)</h2>
+            <img src="/images/2023fall/red-roses-of-passion-1966.jpg" alt="Red Roses of Passion (1966) still">
+          </a>
+          <h3>Joseph W. Sarno &middot; 80m &middot; DCP</h3>
+          <p>In this sexploitation film, Carla is sick of life with her aunt who berates her for her relationships with men. After being introduced by a tarot card reader to a cult that worships Pan, Carla uses the erotic power of roses to make her Aunt and cousin sex-crazed. Soon, though, she starts to see the cult as a more sinister force… This movie is soaked in the atmosphere of a noir but incorporates hints of fantasy and other genres to create something unique.</p>
+          <h3><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=3B4964B6-2FAD-4028-916D-0A67663C366B" target="_blank">9:30PM</a></u> Thursday, October 19th</h3>
+        </div>
+
+        <div id="badlands" class="anchor screening">
+          <a href="calendar/Fall_2023/friday#badlands">
             <h2>A Woman Under the Influence (1974)</h2>
-            <img src="/images/2023fall/a-woman-under-the-influence-1974.jpg" alt="A Woman Under the Influence (1974) still">
+            <img src="/images/2023fall/badlands-1973.jpg" alt="Badlands (1973) still">
           </a>
-          <h3>John Cassavetes &middot; 155m &middot; DCP</h3>
-          <p>As lonely housewife Mabel becomes increasingly unhappy and unstable, her husband Nick, an L.A. construction worker, begins to think Mabel will be a danger to their children and himself, despite her love for them. Written by Cassavetes when Gena Rowlands desired a play about the difficulties faced by contemporary women, <i>A Woman Under the Influence</i> contains two of the most wrought and heart-breaking performances of a couple desperately in love but ostensibly incompatible.</p>
-          <h3>Friday, October 13th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=E5277679-5B4C-4282-BE71-A668EF3D5C05" target="_blank">7:00PM</a></u> &middot; 
-              Saturday, October 14th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=E01A60FA-ABB4-469D-A3E7-06AD1090278D" target="_blank">4:00PM</a></u></h3>
+          <h3>Terrence Malick &middot; 94m &middot; DCP</h3>
+          <p>In a dead-end South Dakota town, Holly, a lonely teenage girl, meets Kit, a handsome 20-something garbage collector. Kit’s charming nature belies underlying violent tendencies that Holly is unaware of. When Holly’s father disapproves of their relationship, Kit murders him and the two escape to the badlands of Montana. Based on the real Starkweather killing spree, <i>Badlands</i> is a poetic juxtaposition of innocence, natural beauty, and human violence.</p>
+          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=3B4D03F5-AEA0-4D74-A875-ED53A26A299F" target="_blank">7:00PM</a></u> Friday, October 20th&middot; 
+          <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=C522062D-81A4-4BAF-9053-7EDA0CAC9B70" target="_blank">3:00PM</a></u> Sunday, October 22nd</h2>
         </div>
 
-        <div id="spider-man" class="anchor screening">
-          <a href="calendar/Fall_2023/saturday#spider-man">
-            <h2>Spider-Man: Across the Spider-Verse (2023)</h2>
-            <img src="/images/2023fall/spiderman-across-the-spiderverse-2023.jpg" alt="Spider-Man: Across the Spider-Verse (2023) still">
+        <div id="indiana-jones" class="anchor screening">
+          <a href="calendar/Fall_2023/saturday#indiana-jones">
+            <h2>Indiana Jones and the Dial of Destiny (2023)</h2>
+            <img src="/images/2023fall/indiana-jones-and-the-dial-of-destiny-2023.jpg" alt="Indiana Jones and the Dial of Destiny (2023) still">
           </a>
-          <h3>Joaquim Dos Santos, Kemp Powers, and Justin K. Thompson &middot; 140m &middot; DCP</h3>
-          <p>This bildungsroman follows two spider-people from different universes, Miles Morales and Gwen Stacey, who refuse to be boxed into a simple hero's arc. The lauded visual and auditory experience created by 1,000 animators, Daniel Pemberton, and Metro Boomin reinforce the film’s narrative-breaking style and masterful execution of the multiverse. The story is so big, it can't fit into one movie. You'll simply have to come back to Doc to catch the next one.</p>
-          <h3>Saturday, October 14th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=0AFB1C65-9169-4DDD-B11A-9A795C0CCC99" target="_blank">7:00PM</a></u></h3>
+          <h3>James Mangold &middot; 154m &middot; DCP</h3>
+          <p>The fifth and final film in the ever-iconic Indiana Jones Series, <i>Indiana Jones and the Dial of Destiny</i>  features an aging Harrison Ford, reprising his role of punching Nazis and exploring tombs to much fanfare. This time searching for the infamous Dial of Archimedes, <i>the Dial of Destiny</i> is as action-packed as ever. Come see machine learning CGI work its magic on Ford's iconic face. Oh, and Phoebe Waller-Bridge of <i>Fleabag</i> is in it.</p>
+          <h3><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=76229C7E-71C6-4440-A4F1-324E85C5CC0F" target="_blank">2:00PM</a></u> Saturday, October 21st</h3>
         </div>
 
-        <div id="de-cierta-manera" class="anchor screening">
-          <a href="calendar/Fall_2023/sunday#de-cierta-manera">
-            <h2>De cierta manera (1977) // Muerda, Memory and Massacre (1979)</h2>
-            <img src="/images/2023fall/de-cierta-manera-1977.jpg" alt="De cierta manera (1977) // Mueda, Memory and Massacre (1979) still">
+        <div id="condor" class="anchor screening">
+          <a href="calendar/Fall_2023/sunday#condor">
+            <h2>Blood of the Condor (1969) // Los Olividados (1950)</h2>
+            <img src="/images/2023fall/blood-of-the-condor-1969.jpg" alt="Blood of the Condor (1969) // Los Olividados (1950) still">
           </a>
-          <h3>Sara Gómez // Ruy Guerra &middot; 73m // 80m &middot; DCP</h3>
-          <p><i>Updates to the screening: Mueda, Memory and Massacre (1979) is rescheduled for a later time. We apologize for the inconvenience.</i></p>
-          <p>This double feature shows two radically different approaches to docufiction as a tool to examine post-colonial independence. <i>De cierta manera</i>, completed by a team of filmmakers after director Sara Gómez’s untimely death, foregrounds the love story of Yolanda and Mario, two people formerly separated by race and class following the Cuban Revolution. <i>Mueda</i>, the story of the real-life 1960 massacre of Mozambicans protesting for independence, is both a fiction and a documentary which tracks the development of the massacre’s recreation by locals who lived through the War of Independence.</p>
-          <h3>Sunday, October 15th 6:30PM</h3>
+          <h3>Jorge Sanjinés // Luis Buñuel &middot; 70m // 76m &middot; Digital // 35mm</h3>
+          <p><i>5 minutes in between films.</i></p><p>Banned upon release, <i>Blood of the Condor</i>  tells the story of Indigenous people’s struggle against forced sterilization in the Andes. <i>Los Olvidados</i>, Luis Buñuel’s social realist fever dream, follows a group of children who fall through the cracks of the Mexican state’s welfare programs. Combining European arthouse visuals with Latin American modernity, these films were hotbeds of controversy in their day and now serve as towering works capturing the zeitgeist of their time.</p>
+          <h3>6:30PM Sunday, October 22nd</h3>
         </div>
 
       </div>

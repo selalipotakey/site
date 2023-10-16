@@ -50,11 +50,10 @@
           <h3>6:30PM Sunday, October 15th</h3>
         </div>
         
-        <div class="screening">
+        <div id="condor" class="screening">
           <h2>Blood of the Condor (1969) // Los Olvidados (1950)</h2>
           <img src="/images/2023fall/blood-of-the-condor-1969.jpg" alt="Blood of the Condor (1969) // Los Olvidados (1950) still">
           <h3>Jorge Sanjinés // Luis Buñuel &middot; 70m // 76m &middot; Digital // 35mm</h3>
-          
           <p><i>5 minutes in between films.</i></p><p>Banned upon release, <i>Blood of the Condor</i>  tells the story of Indigenous people’s struggle against forced sterilization in the Andes. <i>Los Olvidados</i>, Luis Buñuel’s social realist fever dream, follows a group of children who fall through the cracks of the Mexican state’s welfare programs. Combining European arthouse visuals with Latin American modernity, these films were hotbeds of controversy in their day and now serve as towering works capturing the zeitgeist of their time.</p>
           <h3>6:30PM Sunday, October 22nd</h3>
         </div>

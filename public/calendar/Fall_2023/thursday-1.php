@@ -50,7 +50,7 @@
           <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=979E377D-D5C0-4D0E-ABC2-C82E224AA848" target="_blank">4:30PM</a></u> Sunday, October 15th</h3>
         </div>
         
-        <div class="screening">
+        <div id="irreversible" class="screening">
           <h2>Irréversible (2002)</h2>
           <img src="/images/2023fall/irreversible-2002.jpg" alt="Irréversible (2002) still">
           <h3>Gaspar Noé &middot; 97m &middot; DCP</h3>

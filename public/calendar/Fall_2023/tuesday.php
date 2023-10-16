@@ -50,7 +50,7 @@
           <h3><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=97B68625-C8F3-4051-8621-26DA78EBD65F" target="_blank">7:00PM</a></u> Tuesday, October 10th</h3>
         </div>
          
-        <div class="screening">
+        <div id="body-and-soul" class="screening">
           <h2>Body and Soul (1925)</h2>
           <img src="/images/2023fall/body-and-soul-1925.jpg" alt="Body and Soul (1925) still">
           <h3>Oscar Micheaux &middot; 102m &middot; DCP</h3>

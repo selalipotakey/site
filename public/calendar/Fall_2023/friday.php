@@ -50,7 +50,7 @@
           <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=E01A60FA-ABB4-469D-A3E7-06AD1090278D" target="_blank">4:00PM</a></u> Saturday, October 14th</h2>
         </div>
         
-        <div class="screening">
+        <div id="badlands" class="screening">
           <h2>Badlands (1973)</h2>
           <img src="/images/2023fall/badlands-1973.jpg" alt="Badlands (1973) still">
           <h3>Terrence Malick &middot; 94m &middot; DCP</h3>
