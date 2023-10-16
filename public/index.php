@@ -155,13 +155,13 @@
 
         <div id="badlands" class="anchor screening">
           <a href="calendar/Fall_2023/friday#badlands">
-            <h2>A Woman Under the Influence (1974)</h2>
+            <h2>Badlands (1973)</h2>
             <img src="/images/2023fall/badlands-1973.jpg" alt="Badlands (1973) still">
           </a>
           <h3>Terrence Malick &middot; 94m &middot; DCP</h3>
           <p>In a dead-end South Dakota town, Holly, a lonely teenage girl, meets Kit, a handsome 20-something garbage collector. Kit’s charming nature belies underlying violent tendencies that Holly is unaware of. When Holly’s father disapproves of their relationship, Kit murders him and the two escape to the badlands of Montana. Based on the real Starkweather killing spree, <i>Badlands</i> is a poetic juxtaposition of innocence, natural beauty, and human violence.</p>
-          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=3B4D03F5-AEA0-4D74-A875-ED53A26A299F" target="_blank">7:00PM</a></u> Friday, October 20th&middot; 
-          <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=C522062D-81A4-4BAF-9053-7EDA0CAC9B70" target="_blank">3:00PM</a></u> Sunday, October 22nd</h2>
+          <h3><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=3B4D03F5-AEA0-4D74-A875-ED53A26A299F" target="_blank">7:00PM</a></u> Friday, October 20th&middot; 
+          <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=C522062D-81A4-4BAF-9053-7EDA0CAC9B70" target="_blank">3:00PM</a></u> Sunday, October 22nd</h3>
         </div>
 
         <div id="indiana-jones" class="anchor screening">
