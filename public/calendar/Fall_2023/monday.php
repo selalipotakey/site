@@ -66,7 +66,7 @@
           <h3><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=D30D3AB2-FFDF-4AEB-B94A-A1600BA45E25" target="_blank">7:00PM</a></u> Monday, October 30th</h3>
         </div>
          
-        <div class="screening">
+        <div id="sabotage" class="screening">
           <h2>Sabotage (1936)</h2>
           <img src="/images/2023fall/sabotage-1936.jpg" alt="Sabotage (1936) still">
           <h3>Alfred Hitchcock &middot; 76m &middot; 35mm</h3>

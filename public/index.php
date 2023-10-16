@@ -29,58 +29,44 @@
             <ul class="carousel__track">
 
               <li class="carousel__slide current-slide">
-                <a href="/calendar/Fall_2023/sunday#de-cierta-manera">
-                  <img class="carousel__image" src="/images/2023fall/de-cierta-manera-1977.jpg" alt="De Cierta Manera (1977) still">
+                <a href="/calendar/Fall_2023/monday#sabotage">
+                  <img class="carousel__image" src="/images/2023fall/sabotage-1936.jpg" alt="Sabotage (1936) still">
                 </a>
                 <div clas="description">
-                  <a href="/calendar/Fall_2023/sunday#de-cierta-manera">
+                  <a href="/calendar/Fall_2023/monday#sabotage">
                     <p class="event-title fittext">
-                      De Cierta Manera (1977) // Muerda, Memory and Massacre (1979)
+                      Sabotage (1936)
                     </p>
                   </a>
-                  <p class="capsule fittext"><i>Updates to the screening: Mueda, Memory and Massacre (1979) is rescheduled for a later time. We apologize for the inconvenience. </i><i>Mueda</i>, the story of the real-life 1960 massacre of Mozambicans protesting for independence, is both a fiction and a documentary which tracks the development of the massacre’s recreation by locals who lived through the War of Independence.</p>
+                  <p class="capsule fittext">This loose adaptation of Joseph Conrad’s <i>The Secret Agent</i> is one of Hitchcock’s darkest films. Sylvia Sidney stars as a woman who is horrified to discover that her husband is a terrorist agent. <i>Sabotage</i> was not a box office hit and Hitch himself later felt that its famous “boy with the bomb” sequence was a mistake. However, its stature has grown over the years, and critics such as Pauline Kael have hailed it as the masterpiece of his British period.</p>
                 </div>
               </li>
 
               <li class="carousel__slide">
-                <a href="/calendar/Fall_2023/tuesday#wise-blood">
-                  <img class="carousel__image" src="/images/2023fall/wise-blood-1979.jpg" alt="Wise Blood (1979) still">
+                <a href="/calendar/Fall_2023/wednesday#lust-caution">
+                  <img class="carousel__image" src="/images/2023fall/lust-caution-2007.jpg" alt="Lust, Caution (2007) still">
                 </a>
                 <div clas="description">
-                  <a href="/calendar/Fall_2023/tuesday#wise-blood">
+                  <a href="/calendar/Fall_2023/wednesday#lust-caution">
                     <p class="event-title fittext">
-                      Wise Blood (1979)
+                      Lust, Caution (2007)
                     </p>
                   </a>
-                  <p class="capsule fittext">John Huston’s <i>Wise Blood</i> captures the absurd, grotesque, yet revelatory tenor of Flannery O’Connor’s acclaimed novel. Wild-eyed Hazel Motes (Brad Dourif) becomes a self-proclaimed prophet of the Church Without Christ: “where the blind don’t see and the lame don’t walk and what’s dead stays that way." Motes battles a rival street preacher (Harry Dean Stanton) for souls - including his own.</p>
+                  <p class="capsule fittext">This erotic espionage thriller won Ang Lee his second Golden Lion at the Venice Film Festival. Tang Wei stars as Wong Chia Chi, a young university student who joins a resistance against the Japanese puppet government in Shanghai. She is tasked with seducing and killing Mr. Yee (Tony Leung), a high-ranking official, but as the assassination plot advances, Chia Chi’s loyalty to the resistance—and her feelings for Mr. Yee—become increasingly complicated.</p>
                 </div>
               </li>
 
               <li class="carousel__slide">
-                <a href="/calendar/Fall_2023/thursday-2#trainspotting">
-                  <img class="carousel__image" src="/images/2023fall/trainspotting-1996.jpg" alt="Trainspotting (1996) still">
+                <a href="/calendar/Fall_2023/special-events#swimming-pool">
+                  <img class="carousel__image" src="/images/2023fall/swimming-pool-2003.jpg" alt="Swimming Pool (2003) still">
                 </a>
                 <div clas="description">
-                  <a href="/calendar/Fall_2023/thursday-2#trainspotting">
+                  <a href="/calendar/Fall_2023/specia-events#swimming-pool">
                     <p class="event-title fittext">
-                      Trainspotting (1996)
+                      Swimming Pool (2003)
                     </p>
                   </a>
-                  <p class="capsule fittext">Cool Britannia’s heroin addiction comedy, <i>Trainspotting</i> takes the highs and lows of junkie Mark Renton (Ewan McGregor) and throws on a mountain of nightmarish pop culture that would give the Scottish Highlands an inferiority complex. Bringing the thick Scottish brogue of Irvine Welsh’s cult novel to the silver screen, <i>Trainspotting</i> invites you to dive into ‘80s Edinburgh—all to the tune of Iggy Pop, Goldie, Blur and Underworld (to name a few).</p>
-                </div>
-              </li>
-
-              <li class="carousel__slide">
-                <a href="/calendar/Fall_2023/saturday#spider-man">
-                  <img class="carousel__image" src="/images/2023fall/spiderman-across-the-spiderverse-2023.jpg" alt="Spider-Man Across the Spider-Verse (2023) still">
-                </a>
-                <div clas="description">
-                  <a href="/calendar/Fall_2023/saturday#spider-man">
-                    <p class="event-title fittext">
-                      Spider-Man: Across the Spider-Verse (2023)
-                    </p>
-                  </a>
-                  <p class="capsule fittext">This bildungsroman follows two spider-people from different universes, Miles Morales and Gwen Stacey, who refuse to be boxed into a simple hero's arc. The lauded visual and auditory experience created by 1,000 animators, Daniel Pemberton, and Metro Boomin reinforce the film’s narrative-breaking style and masterful execution of the multiverse. The story is so big, it can't fit into one movie. You'll simply have to come back to Doc to catch the next one.</p>
+                  <p class="capsule fittext">20 years ago, a couple had their first date at Doc Films. The movie was Ozon’s <i>Swimming Pool</i> … Now here we are, hopefully with a romantic prospect by our side. Because there's no better date-night activity than watching this sizzling, slow-burn erotic thriller starring Charlotte Rampling as a writer whose holiday takes a turn when an unexpected guest shows up. Here’s to Meredith and Alex — may we all find true love at the movies, especially at Doc!</p>
                 </div>
               </li>
 
@@ -93,7 +79,6 @@
 
           <div class="carousel__nav">
             <button class="carousel__indicator current-slide"></button>
-            <button class="carousel__indicator"></button>
             <button class="carousel__indicator"></button>
             <button class="carousel__indicator"></button>
           </div>
@@ -135,7 +120,7 @@
           </a>
           <h3>Ang Lee &middot; 127m &middot; DCP</h3>
           <p>Ang Lee’s <i>Life of Pi</i>, based on Yann Martel’s novel of the same name, is perhaps his most gorgeous film. Deeply thought-provoking and emotionally rich, it depicts the adventure of a boy nicknamed Pi stranded in the middle of the ocean…with a Bengal tiger. The film's breathtaking visuals and philosophical narrative earned it critical acclaim and several Academy Awards, including Best Director. Come for the tiger, stay for a hopeful, beautiful experience.</p>
-          <h2><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=24C1E36E-EF4B-43E6-AE94-FC7ADE0469AC" target="_blank">7:00PM</a></u> Wednesday, October 18th</h2>
+          <h3><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=24C1E36E-EF4B-43E6-AE94-FC7ADE0469AC" target="_blank">7:00PM</a></u> Wednesday, October 18th</h3>
         </div>
 
         <div id="irreversible" class="anchor screening">
