@@ -91,6 +91,7 @@
         <div class="text-section">
           <h1>This Week: </h1>
           <h3><i>$7 tickets, theater opens 30 minutes before the screening.</i></h3> 
+          <h3><i>We are Cash Only at the moment, we apologize for the inconvenience.</i></h3> 
         </div>
 
         <div id="jour-se-leve" class="anchor screening">
