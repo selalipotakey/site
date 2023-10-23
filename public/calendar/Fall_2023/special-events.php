@@ -63,7 +63,7 @@
           <p>An independent documentary film about how Duro “Shame Love Tempo” Wicks fell in love with Hip Hop and helped give it a home on the Chicago music scene of the early 1990's. It examines what made Hip Hop blow up in Chicago so much later than in other cities, how a tiny 100 watt college station became Chicago’s Hip Hop radio powerhouse, why it was so difficult for a young Black entrepreneur to get a party started, and a time when social, political and economic conditions ultimately proved to make Duro’s dream unsustainable, even though it was more successful than anyone ever imagined it could be.</p>
           <h3><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=74CBB65B-6CBB-4CCF-87DE-AB961CC30770" target="_blank">4:00PM</a></u> Wednesday, October 25th</h3>
         </div>
-
+<!--
         <div id="caligari" class="anchor screening">
           <h2>Dr. Caligari ()</h2>
           <img src="images/2023fall/caligari-.jpg" alt="Dr. Caligari () still">
@@ -72,7 +72,7 @@
           <p></p>
           <h3><u><a href="" target="__blank"></a></u></h3>
         </div>
-        
+-->
         <div class="screening">
           <h2>The Exorcist (1973)</h2>
           <img src="/images/2023fall/the-exorcist-1973.jpg" alt="The Exorcist (1973) still">

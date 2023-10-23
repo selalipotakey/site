@@ -50,7 +50,7 @@
           <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=979E377D-D5C0-4D0E-ABC2-C82E224AA848" target="_blank">4:30PM</a></u> Sunday, October 15th</h3>
         </div>
         
-        <div id="irreversible" class="screening">
+        <div id="irreversible" class="anchor screening">
           <h2>Irréversible (2002)</h2>
           <img src="/images/2023fall/irreversible-2002.jpg" alt="Irréversible (2002) still">
           <h3>Gaspar Noé &middot; 97m &middot; DCP</h3>
@@ -58,7 +58,7 @@
           <h3><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=329D6497-32FA-4425-8500-406CCCE090CD" target="_blank">7:00PM</a></u> Thursday, October 26th</h3>
         </div>
         
-        <div class="screening">
+        <div id="the-beat" class="anchor screening">
           <h2>When the Beat Drops (2018)</h2>
           <img src="/images/2023fall/when-the-beat-drops-2018.jpg" alt="When the Beat Drops (2018) still">
           <h3>Jamal Sims &middot; 85m &middot; Digital</h3>

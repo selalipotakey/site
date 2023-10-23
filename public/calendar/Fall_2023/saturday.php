@@ -38,7 +38,7 @@
           <h3><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=0AFB1C65-9169-4DDD-B11A-9A795C0CCC99" target="_blank">7:00PM</a></u> Saturday, October 14th</h3>
         </div>
 
-        <div id="indiana-jones" class="screening">
+        <div id="indiana-jones" class="anchor screening">
           <h2>Indiana Jones and the Dial of Destiny (2023)</h2>
           <img src="/images/2023fall/indiana-jones-and-the-dial-of-destiny-2023.jpg" alt="Indiana Jones and the Dial of Destiny (2023) still">
           <h3>James Mangold &middot; 154m &middot; DCP</h3>
@@ -46,7 +46,7 @@
           <h3><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=76229C7E-71C6-4440-A4F1-324E85C5CC0F" target="_blank">2:00PM</a></u> Saturday, October 21st</h3>
         </div>
         
-        <div class="screening">
+        <div id="passages" class="anchor screening">
           <h2>Passages (2023)</h2>
           <img src="/images/2023fall/passages-2023.jpg" alt="Passages (2023) still">
           <h3>Ira Sachs &middot; 92m &middot; DCP</h3>

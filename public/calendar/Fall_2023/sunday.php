@@ -42,7 +42,7 @@
           <h2>6:30PM Sunday, October 8th</h2>
         </div>
         
-        <div id="de-cierta-manera" class="screening">
+        <div id="de-cierta-manera" class="anchor screening">
           <h2>De cierta manera (1977) // Mueda, Memory and Massacre (1979)</h2>
           <img src="/images/2023fall/de-cierta-manera-1977.jpg" alt="De cierta manera (1977) // Mueda, Memory and Massacre (1979) still">
           <h3>Sara Gómez // Ruy Guerra &middot; 73m // 80m &middot; DCP</h3>
@@ -50,7 +50,7 @@
           <h3>6:30PM Sunday, October 15th</h3>
         </div>
         
-        <div id="condor" class="screening">
+        <div id="condor" class="anchor screening">
           <h2>Blood of the Condor (1969) // Los Olvidados (1950)</h2>
           <img src="/images/2023fall/blood-of-the-condor-1969.jpg" alt="Blood of the Condor (1969) // Los Olvidados (1950) still">
           <h3>Jorge Sanjinés // Luis Buñuel &middot; 70m // 76m &middot; Digital // 35mm</h3>
@@ -58,7 +58,7 @@
           <h3>6:30PM Sunday, October 22nd</h3>
         </div>
         
-        <div class="screening">
+        <div id="manila" class="anchor screening">
           <h2>Manila in the Claws of Light (1975)</h2>
           <img src="/images/2023fall/manila-in-the-claws-of-light-1975.jpg" alt="Manila in the Claws of Light (1975) still">
           <h3>Lino Brocka &middot; 125m &middot; DCP</h3>

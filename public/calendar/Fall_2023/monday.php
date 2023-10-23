@@ -41,7 +41,7 @@
           <h3><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=73FE7067-9420-4219-B541-5C609A46C62A" target="_blank">7:00PM</a></u> Monday, October 9th</h3>
         </div>
         
-        <div id="jour-se-leve" class="screening">
+        <div id="jour-se-leve" class="anchor screening">
           <h2>Le jour se lève (1939)</h2>
           <img src="/images/2023fall/le-jour-se-leve-1939.jpg" alt="Le jour se lève (1939) still">
           <h3>Marcel Carné &middot; 93m &middot; DCP</h3>
@@ -49,7 +49,7 @@
           <h3><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=B1906156-BC83-4D11-AFF4-1158A4E63112" target="_blank">7:00PM</a></u> Monday, October 16th</h3>
         </div>
         
-        <div class="screening">
+        <div id="fugitive" class="anchor screening">
           <h2>I Am a Fugitive from a Chain Gang (1932)</h2>
           <img src="/images/2023fall/i-am-a-fugitive-from-a-chain-gang-1932.jpg" alt="I Am a Fugitive from a Chain Gang (1932) still">
           <h3>Mervyn LeRoy &middot; 92m &middot; 35mm</h3>          

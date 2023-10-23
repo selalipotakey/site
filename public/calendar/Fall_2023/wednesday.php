@@ -50,7 +50,7 @@
           <h3><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=140BC31E-4733-4851-9C5E-0975A9034D63" target="_blank">7:00PM</a></u> Wednesday, October 11th</h3>
         </div>
         
-        <div id="life-of-pi" class="screening">
+        <div id="life-of-pi" class="anchor screening">
           <h2>Life of Pi (2012)</h2>
           <img src="/images/2023fall/life-of-pi-2012.jpg" alt="Life of Pi (2012) still">
           <h3>Ang Lee &middot; 127m &middot; DCP</h3>
@@ -58,7 +58,7 @@
           <h3><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=24C1E36E-EF4B-43E6-AE94-FC7ADE0469AC" target="_blank">7:00PM</a></u> Wednesday, October 18th</h3>
         </div>
         
-        <div class="screening">
+        <div id="ice-storm" class="anchor screening">
           <h2>The Ice Storm (1997)</h2>
           <img src="/images/2023fall/the-ice-storm-1997.jpg" alt="The Ice Storm (1997) still">
           <h3>Ang Lee &middot; 112m &middot; 35mm</h3>

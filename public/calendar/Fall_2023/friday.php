@@ -50,7 +50,7 @@
           <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=E01A60FA-ABB4-469D-A3E7-06AD1090278D" target="_blank">4:00PM</a></u> Saturday, October 14th</h3>
         </div>
         
-        <div id="badlands" class="screening">
+        <div id="badlands" class="anchor screening">
           <h2>Badlands (1973)</h2>
           <img src="/images/2023fall/badlands-1973.jpg" alt="Badlands (1973) still">
           <h3>Terrence Malick &middot; 94m &middot; DCP</h3>
@@ -59,7 +59,7 @@
           <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=C522062D-81A4-4BAF-9053-7EDA0CAC9B70" target="_blank">3:00PM</a></u> Sunday, October 22nd</h3>
         </div>
         
-        <div class="screening">
+        <div id="thirst" class="anchor screening">
           <h2>Thirst (2009)</h2>
           <img src="/images/2023fall/thirst-2009.jpg" alt="Thirst (2009) still">
           <h3>Park Chan-wook &middot; 134m &middot; DCP</h3>

@@ -49,7 +49,7 @@
           <h3><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=412931CD-2443-4542-BC05-600A3E3B9827" target="_blank">9:30PM</a></u> Thursday, October 12th</h3>
         </div>
         
-        <div id="red-roses" class="screening">
+        <div id="red-roses" class="anchor screening">
           <h2>Red Roses of Passion (1966)</h2>
           <img src="/images/2023fall/red-roses-of-passion-1966.jpg" alt="Red Roses of Passion (1966) still">
           <h3>Joseph W. Sarno &middot; 80m &middot; DCP</h3>
@@ -57,7 +57,7 @@
           <h3><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=3B4964B6-2FAD-4028-916D-0A67663C366B" target="_blank">9:30PM</a></u> Thursday, October 19th</h3>
         </div>
         
-        <div class="screening">
+        <div id="ganja" class="anchor screening">
           <h2>Ganja & Hess (1973)</h2>
           <img src="/images/2023fall/ganja-and-hess-1973.jpg" alt="Ganja & Hess (1973) still">
           <h3>Bill Gunn &middot; 112m &middot; DCP</h3>
