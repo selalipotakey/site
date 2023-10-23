@@ -15,7 +15,7 @@
 
       <?php $version='1.2'; include "./includes/dropdown.html";?>
       <?php $version='1.2'; include "./includes/carousel.html";?>
-      
+      <!--
       <div class="information">
       <h1>
           Upcoming Screenings:
@@ -87,7 +87,7 @@
         <br><br><br><br><br>
 
       </div>
-
+-->
       <div class="screenings-list">
 
         <div class="text-section">
