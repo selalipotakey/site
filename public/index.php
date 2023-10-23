@@ -10,18 +10,98 @@
   <body>
     
     <?php $version='1.2'; include "./includes/header.html";?>
+    <?php $version='1.2'; include "./includes/carousel.html";?>
   
     <main>
 
       <?php $version='1.2'; include "./includes/dropdown.html";?>
       <?php $version='1.2'; include "./includes/carousel.html";?>
+      <!--
+      <div class="information">
+      <h1>
+          Upcoming Screenings:
+        </h1>
+        <div class="carousel">
 
+          <button class="carousel__button carousel__button--left is-hidden">
+            <img src="/images/site/chevron_left.svg" alt="left carousel button">
+          </button>
+
+          <div class="carousel__track-container">
+            <ul class="carousel__track">
+
+              <li class="carousel__slide current-slide">
+                <a href="/calendar/Fall_2023/special-events#catalyst">
+                  <img class="carousel__image" src="/images/2023fall/catalyst-2024.png" alt="Catalyst (2024) still">
+                </a>
+                <div clas="description">
+                  <a href="/calendar/Fall_2023/special-events#catalyst">
+                    <p class="event-title fittext">
+                      Catalyst (2024)
+                    </p>
+                  </a>
+                  <p class="capsule fittext">Dave Steck &middot; 42m &middot; 10/25 4:00PM</p>
+                </div>
+              </li>
+
+              <li class="carousel__slide">
+                <a href="/calendar/Fall_2023/special-events#exorcist">
+                  <img class="carousel__image" src="/images/2023fall/the-exorcist-1973.jpg" alt="The Exorcist (1973) still">
+                </a>
+                <div clas="description">
+                  <a href="/calendar/Fall_2023/special-events#exorcist">
+                    <p class="event-title fittext">
+                      The Exorcist (1973)
+                    </p>
+                  </a>
+                  <p class="capsule fittext">William Friedkin &middot; 122m &middot; 10/31 9:30PM</p>
+                </div>
+              </li>
+
+              <li class="carousel__slide">
+                <a href="/calendar/Fall_2023/wednesday#ice-storm">
+                  <img class="carousel__image" src="/images/2023fall/the-ice-storm-1997.jpg" alt="The Ice Storm (1997) still">
+                </a>
+                <div clas="description">
+                  <a href="/calendar/Fall_2023/special-events#ice-storm">
+                    <p class="event-title fittext">
+                      The Ice Storm (1997)
+                    </p>
+                  </a>
+                  <p class="capsule fittext">Ang Lee &middot; 112m &middot; 10/25 7:00PM &middot 10/28 4:00PM</p>
+                </div>
+              </li>
+
+            </ul>
+          </div>
+
+          <button class="carousel__button carousel__button--right">
+            <img src="/images/site/chevron_right.svg" alt="right carousel button">
+          </button>
+
+          <div class="carousel__nav">
+            <button class="carousel__indicator current-slide"></button>
+            <button class="carousel__indicator"></button>
+            <button class="carousel__indicator"></button>
+          </div>
+        </div>
+        <br><br><br><br><br>
+
+      </div>
+-->
       <div class="screenings-list">
 
         <div class="text-section">
           <h1>This Week: </h1>
           <h3><i>$7 tickets, theater opens 30 minutes before the screening.</i></h3> 
           <h3><i>We are Cash Only at the moment, we apologize for the inconvenience.</i></h3> 
+          <br>
+          <h3>One of our 35mm projectors is down.</h3>
+          <h3>Monday’s film will be played on one projector with pauses in between each reel.</h3>
+          <h3>Wednesday’s film (which also plays Saturday) may have to be digital.</h3> 
+          <h3>We will keep you updated @docfilmschicago on Twitter and Instagram.</h3>
+          <h3>We are trying to solve this issue as soon as possible and are very sorry for the inconvenience.</h3>
+          </h3>
         </div>
 
         <div id="fugitive" class="anchor screening">
@@ -129,7 +209,7 @@
     <?php include "./includes/footer.html" ?>
 
 
-    <script src="/js/carousel_new.js"></script>
+    <script src="/js/carousel.js"></script>
     <script src="/js/fit-carousel-slide.js"></script>
     <script src="/js/resize-menu.js"></script>
     
