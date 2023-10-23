@@ -498,14 +498,6 @@ main {
     left: 0;
   }
 
-  .slider figure img {
-    max-width: 100vw;
-    height: 45vw;
-    position: absolute;
-    top: 0;
-    left: 0;
-  }
-
   .slider figcaption {
     color: black;
     padding: 1px;
