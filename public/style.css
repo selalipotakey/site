@@ -485,6 +485,7 @@ main {
 .mySlides {
     display: block;
     justify-content: center;
+    text-align: center;
     width: 90%;
     margin-left: auto;
     margin-right: auto;
