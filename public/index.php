@@ -14,8 +14,6 @@
     <main>
 
       <?php $version='1.2'; include "./includes/dropdown.html";?>
-      <?php $version='1.2'; include "./includes/carousel.html";?>
-      <!--
       <div class="information">
       <h1>
           Upcoming Screenings:
@@ -87,7 +85,6 @@
         <br><br><br><br><br>
 
       </div>
--->
       <div class="screenings-list">
 
         <div class="text-section">
@@ -208,7 +205,7 @@
     <?php include "./includes/footer.html" ?>
 
 
-    <script src="/js/carousel_new.js"></script>
+    <script src="/js/carousel.js"></script>
     <script src="/js/fit-carousel-slide.js"></script>
     <script src="/js/resize-menu.js"></script>
     

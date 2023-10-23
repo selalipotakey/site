@@ -375,7 +375,6 @@ main {
 }
 
 /* for the home page */
-/*
  .carousel {
     position: relative;
     height: 32rem;
@@ -406,11 +405,10 @@ main {
     position: relative;
     overflow: clip visible;
 }
-/* .carousel__track-overflow-container {
+.carousel__track-overflow-container {
     height: 100%;
     overflow-x: hidden;
-} */
-/*
+} 
 .carousel__track {
     padding: 0;
     margin: 0;
@@ -477,6 +475,7 @@ main {
 }
 
 /* new carousel */
+/*
 .mySlides {
     display: block;
     justify-content: center;
@@ -487,6 +486,7 @@ main {
 }
 .mySlides img {vertical-align: middle;}
 /* Slideshow container */
+/*
 .slideshow-container {
     max-width: 100%;
     position: relative;
@@ -494,6 +494,7 @@ main {
   }
   
   /* Caption text */
+  /*
   .text {
     color: #f2f2f2;
     font-size: 15px;
@@ -505,6 +506,7 @@ main {
   }
   
   /* The dots/bullets/indicators */
+  /*
   .dot {
     cursor: pointer;
     height: 15px;
@@ -522,6 +524,7 @@ main {
   }
   
   /* On smaller screens, decrease text size */
+  /*
   @media only screen and (max-width: 300px) {
     .text {font-size: 11px}
   }
@@ -797,8 +800,6 @@ iframe {
         font-size: 2.5rem;
     }
 
-    /*
-
     .carousel {
         height: var(--carousel-desktop-height);
     }
@@ -837,14 +838,11 @@ iframe {
     */
 }
 
-/*
-
 @media (min-width: 1500px) {
     .carousel__image {
         min-width: 55rem;
     }
 }
-*/
 
 
 
