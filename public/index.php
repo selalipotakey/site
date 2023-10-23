@@ -14,7 +14,7 @@
     <main>
 
       <?php $version='1.2'; include "./includes/dropdown.html";?>
-      <div class="information" style="width: 90%;">
+      <div class="information" style="width: 80%;">
         <h1>
           Upcoming Screenings:
         </h1>
