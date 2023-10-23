@@ -86,7 +86,6 @@
           </div>
         </div>
 -->
-      <br><br>
 
       </div>
       <div class="screenings-list">
