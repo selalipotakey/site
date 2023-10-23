@@ -208,7 +208,7 @@
     <?php include "./includes/footer.html" ?>
 
 
-    <script src="/js/carousel.js"></script>
+    <script src="/js/carousel_new.js"></script>
     <script src="/js/fit-carousel-slide.js"></script>
     <script src="/js/resize-menu.js"></script>
     
