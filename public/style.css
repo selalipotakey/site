@@ -484,11 +484,14 @@ main {
 /* new carousel */
 .mySlides {
     display: block;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
 }
 .mySlides img {vertical-align: middle;}
 /* Slideshow container */
 .slideshow-container {
-    width: 90%;
+    max-width: 100%;
     position: relative;
     margin: auto;
   }
