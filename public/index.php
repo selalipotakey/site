@@ -82,7 +82,7 @@
         <br><br><br><br><br>
 
       </div>
-      <div class="screenings-list">
+      <div class="screenings-list" style="width: 65%;">
 
         <div class="text-section">
           <h1>This Week: </h1>
