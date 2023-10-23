@@ -482,11 +482,13 @@ main {
 }
 
 /* new carousel */
-.mySlides {display: none}
+.mySlides {
+    display: block;
+}
 .mySlides img {vertical-align: middle;}
 /* Slideshow container */
 .slideshow-container {
-    max-width: 1000px;
+    width: 90%;
     position: relative;
     margin: auto;
   }
