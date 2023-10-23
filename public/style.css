@@ -491,6 +491,8 @@ img {vertical-align: middle;}
   height: 46vw;
   position: relative;
   margin: auto;
+  left: 10vw;
+  right: 10vw;
 }
 
 /* Caption text */
