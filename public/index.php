@@ -109,8 +109,8 @@
 
         <div id="manila" class="anchor screening">
           <a href="calendar/Fall_2023/sunday#manila">
-            <h2>Manila in the Claws of Life (1975)</h2>
-            <img src="/images/2023fall/manila-in-the-claws-of-life-1975.jpg" alt="Manila in the Claws of Life (1975) still">
+            <h2>Manila in the Claws of Light (1975)</h2>
+            <img src="/images/2023fall/manila-in-the-claws-of-light-1975.jpg" alt="Manila in the Claws of Light (1975) still">
           </a>
           <h3>Lino Brocka &middot; 125m &middot; DCP</h3>
           <p>Directed by a titan of Filipino cinema, Lino Brocka, <i>Manila</i> confronts urban strife with melodramatic flair as provincial Julio (Bembol Roco) makes his way into Manila in search of his missing love Ligaya (Hilda Koronel). A recounting of one man’s attempt to fight against the gargantua of city life and a record of 70s Manila, Brocka’s epic is a masterclass in the characterization of urbanity’s ability to suffocate those who enter its darkness.</p>
