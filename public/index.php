@@ -15,79 +15,7 @@
 
       <?php $version='1.2'; include "./includes/dropdown.html";?>
       <?php $version='1.2'; include "./includes/carousel.html";?>
-      
-      <div class="information">
-        <!--
-      <h1>
-          Upcoming Screenings:
-        </h1>
-        <div class="carousel">
 
-          <button class="carousel__button carousel__button--left is-hidden">
-            <img src="/images/site/chevron_left.svg" alt="left carousel button">
-          </button>
-
-          <div class="carousel__track-container">
-            <ul class="carousel__track">
-
-              <li class="carousel__slide current-slide">
-                <a href="/calendar/Fall_2023/special-events#catalyst">
-                  <img class="carousel__image" src="/images/2023fall/catalyst-2023.jpg" alt="Sabotage (1936) still">
-                </a>
-                <div clas="description">
-                  <a href="/calendar/Fall_2023/monday#sabotage">
-                    <p class="event-title fittext">
-                      Sabotage (1936)
-                    </p>
-                  </a>
-                  <p class="capsule fittext">This loose adaptation of Joseph Conrad’s <i>The Secret Agent</i> is one of Hitchcock’s darkest films. Sylvia Sidney stars as a woman who is horrified to discover that her husband is a terrorist agent. <i>Sabotage</i> was not a box office hit and Hitch himself later felt that its famous “boy with the bomb” sequence was a mistake. However, its stature has grown over the years, and critics such as Pauline Kael have hailed it as the masterpiece of his British period.</p>
-                </div>
-              </li>
-
-              <li class="carousel__slide">
-                <a href="/calendar/Fall_2023/wednesday#lust-caution">
-                  <img class="carousel__image" src="/images/2023fall/lust-caution-2007.jpg" alt="Lust, Caution (2007) still">
-                </a>
-                <div clas="description">
-                  <a href="/calendar/Fall_2023/wednesday#lust-caution">
-                    <p class="event-title fittext">
-                      Lust, Caution (2007)
-                    </p>
-                  </a>
-                  <p class="capsule fittext">This erotic espionage thriller won Ang Lee his second Golden Lion at the Venice Film Festival. Tang Wei stars as Wong Chia Chi, a young university student who joins a resistance against the Japanese puppet government in Shanghai. She is tasked with seducing and killing Mr. Yee (Tony Leung), a high-ranking official, but as the assassination plot advances, Chia Chi’s loyalty to the resistance—and her feelings for Mr. Yee—become increasingly complicated.</p>
-                </div>
-              </li>
-
-              <li class="carousel__slide">
-                <a href="/calendar/Fall_2023/special-events#swimming-pool">
-                  <img class="carousel__image" src="/images/2023fall/swimming-pool-2003.jpg" alt="Swimming Pool (2003) still">
-                </a>
-                <div clas="description">
-                  <a href="/calendar/Fall_2023/specia-events#swimming-pool">
-                    <p class="event-title fittext">
-                      Swimming Pool (2003)
-                    </p>
-                  </a>
-                  <p class="capsule fittext">20 years ago, a couple had their first date at Doc Films. The movie was Ozon’s <i>Swimming Pool</i> … Now here we are, hopefully with a romantic prospect by our side. Because there's no better date-night activity than watching this sizzling, slow-burn erotic thriller starring Charlotte Rampling as a writer whose holiday takes a turn when an unexpected guest shows up. Here’s to Meredith and Alex — may we all find true love at the movies, especially at Doc!</p>
-                </div>
-              </li>
-
-            </ul>
-          </div>
-
-          <button class="carousel__button carousel__button--right">
-            <img src="/images/site/chevron_right.svg" alt="right carousel button">
-          </button>
-
-          <div class="carousel__nav">
-            <button class="carousel__indicator current-slide"></button>
-            <button class="carousel__indicator"></button>
-            <button class="carousel__indicator"></button>
-          </div>
-        </div>
--->
-
-      </div>
       <div class="screenings-list">
 
         <div class="text-section">
@@ -151,7 +79,7 @@
         <div id="ganja" class="anchor screening">
           <a href="/calendar/Fall_2023/thursday-2#ganja">
             <h2> Ganja & Hess (1973)</h2>
-            <img src="/images/2023fall/ganja-&-hess-1973.jpg" alt="Ganja & Hess (1973) still">
+            <img src="/images/2023fall/ganja-and-hess-1973.jpg" alt="Ganja & Hess (1973) still">
           </a>
           <h3>Bill Gunn &middot; 112m &middot; DCP</h3>
           <p>An anthropologist stabbed with an ancient dagger by his assistant turns into a vampire. When the assistant’s wife comes looking for her husband, she finds out the anthropologist's secret and falls in love. Tasked with creating a ‘Black vampire film,’ Bill Gunn created one of the most unique pieces of horror (and art) with beautiful, experimental cinematography, structure, and a distinct atmosphere birthed partly from its low budget. Not to be missed.</p>
