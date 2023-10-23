@@ -485,7 +485,12 @@ main {
 * {box-sizing: border-box}
 body {font-family: Verdana, sans-serif; margin:0}
 .mySlides {display: none}
-img {vertical-align: middle;}
+img {
+    vertical-align: middle;
+    position: absolute;
+    left: 10vw;
+    right: 10vw;
+}
 /* Slideshow container */
 .slideshow-container {
     max-width: 1000px;
