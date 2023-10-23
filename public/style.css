@@ -755,7 +755,7 @@ iframe {
     }
 
     .screenings-list, .information {
-        width: 75%;
+        width: 55%;
     }
 
     .series-tile {
@@ -796,6 +796,8 @@ iframe {
         font-size: 2.5rem;
     }
 
+    /*
+
     .carousel {
         height: var(--carousel-desktop-height);
     }
@@ -831,13 +833,17 @@ iframe {
         width: 100%;
         height: calc(var(--carousel-desktop-height) - var(--event-title-desktop-height) - .5rem);
     }
+    */
 }
+
+/*
 
 @media (min-width: 1500px) {
     .carousel__image {
         min-width: 55rem;
     }
 }
+*/
 
 
 
