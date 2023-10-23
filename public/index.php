@@ -10,6 +10,7 @@
   <body>
     
     <?php $version='1.2'; include "./includes/header.html";?>
+    <?php $version='1.2'; include "./includes/carousel.html";?>
   
     <main>
 
@@ -29,8 +30,8 @@
             <ul class="carousel__track">
 
               <li class="carousel__slide current-slide">
-                <a href="/calendar/Fall_2023/monday#sabotage">
-                  <img class="carousel__image" src="/images/2023fall/sabotage-1936.jpg" alt="Sabotage (1936) still">
+                <a href="/calendar/Fall_2023/special-events#catalyst">
+                  <img class="carousel__image" src="/images/2023fall/catalyst-2023.jpg" alt="Sabotage (1936) still">
                 </a>
                 <div clas="description">
                   <a href="/calendar/Fall_2023/monday#sabotage">
