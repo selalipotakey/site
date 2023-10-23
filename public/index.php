@@ -17,6 +17,7 @@
       <?php $version='1.2'; include "./includes/dropdown.html";?>
       
       <div class="information">
+        <!--
       <h1>
           Upcoming Screenings:
         </h1>
@@ -84,7 +85,8 @@
             <button class="carousel__indicator"></button>
           </div>
         </div>
-        <br><br><br><br><br>
+-->
+      <br><br>
 
       </div>
       <div class="screenings-list">
