@@ -484,6 +484,7 @@ main {
 /* new carousel */
 .mySlides {
     display: block;
+    justify-content: center;
     width: 90%;
     margin-left: auto;
     margin-right: auto;
