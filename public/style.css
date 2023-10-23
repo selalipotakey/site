@@ -516,7 +516,7 @@ img {vertical-align: middle;}
 }
 
 .active, .dot:hover {
-  background-color: #717171;
+  background-color: black;
 }
 
 /* On smaller screens, decrease text size */
