@@ -489,7 +489,7 @@ main {
   }
   
   .slider img {
-    width: 100vw;
+    max-width: 100vw;
     height: 40vw;
     position: absolute;
     top: 0;
@@ -522,39 +522,6 @@ main {
   .active,
   .dot:hover {
     background-color: #717171;
-  }
-
-  .flex-container a {
-    display: flex;
-    flex-direction: row;
-  }
-
-  .wrap {
-    display: flex;
-    border-radius: 20px;
-    overflow: hidden;
-    max-width: 750px;
-    position: relative;
-    left: 44vw
-  }
-
-  .side {
-    -ms-flex: 10%;
-    flex: 10%;
-    padding: 10px;
-    margin-right: 10px;
-    text-align: right;
-    background: black;
-    color: white;
-  }
-
-  .main {
-    -ms-flex: 90%;
-    flex: 90%;
-    padding: 10px;
-    text-align: left;
-    background: black;
-    color: white;
   }
 
 /* for the about page splash */
