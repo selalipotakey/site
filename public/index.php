@@ -15,7 +15,7 @@
 
       <?php $version='1.2'; include "./includes/dropdown.html";?>
       <div class="information">
-      <h1>
+        <h1>
           Upcoming Screenings:
         </h1>
         <div class="carousel">
@@ -34,10 +34,9 @@
                 <div clas="description">
                   <a href="/calendar/Fall_2023/special-events#catalyst">
                     <p class="event-title fittext">
-                      Catalyst (2024)
+                      Catalyst (2024) &middot; Dave Steck &middot; 42m &middot; 10/25 4:00PM
                     </p>
                   </a>
-                  <p class="capsule fittext">Dave Steck &middot; 42m &middot; 10/25 4:00PM</p>
                 </div>
               </li>
 
@@ -48,10 +47,9 @@
                 <div clas="description">
                   <a href="/calendar/Fall_2023/special-events#exorcist">
                     <p class="event-title fittext">
-                      The Exorcist (1973)
+                      The Exorcist (1973) &middot; William Friedkin &middot; 122m &middot; 10/31 9:30PM
                     </p>
                   </a>
-                  <p class="capsule fittext">William Friedkin &middot; 122m &middot; 10/31 9:30PM</p>
                 </div>
               </li>
 
@@ -62,10 +60,9 @@
                 <div clas="description">
                   <a href="/calendar/Fall_2023/special-events#ice-storm">
                     <p class="event-title fittext">
-                      The Ice Storm (1997)
+                      The Ice Storm (1997) &middot; Ang Lee &middot; 112m &middot; 10/25 7:00PM &middot 10/28 4:00PM
                     </p>
                   </a>
-                  <p class="capsule fittext">Ang Lee &middot; 112m &middot; 10/25 7:00PM &middot 10/28 4:00PM</p>
                 </div>
               </li>
 
