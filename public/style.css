@@ -6,11 +6,6 @@
     font-family: Helvetica, Arial, sans-serif;
 }
 
-/* bootstrap stuff */
-.bootstrap-styles {
-    @import (less) url("/carousel_style.css");
-}
-
 section {
     background: #f4f4f4;
     padding: 50px 0;
