@@ -14,7 +14,9 @@
     <main>
 
       <?php $version='1.2'; include "./includes/dropdown.html";?>
-      <?php $version='1.2'; include "./includes/carousel.html";?>
+      <div class="information">
+        <?php $version='1.2'; include "./includes/carousel.html";?>
+      </div>
       <!--
       <div class="information">
       <h1>
