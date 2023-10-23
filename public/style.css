@@ -502,6 +502,7 @@ img {vertical-align: middle;}
   padding: 8px 12px;
   position: absolute;
   bottom: 8px;
+  right: 10vw;
   width: 100%;
   text-align: right;
 }
