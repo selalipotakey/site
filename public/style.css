@@ -489,7 +489,7 @@ main {
   }
   
   .slider img {
-    width: 10vw;
+    width: 100vw;
     height: 40vw;
     position: absolute;
     top: 0;
