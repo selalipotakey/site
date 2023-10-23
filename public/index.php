@@ -31,8 +31,8 @@
                 <a href="/calendar/Fall_2023/special-events#catalyst">
                   <img class="carousel__image" src="/images/2023fall/catalyst-2024.png" alt="Catalyst (2024) still">
                   <div class="top-right">
-                    <p style="color: white;">
-                      <h2>Catalyst (2024) &middot; Dave Steck &middot; 42m &middot; 10/25 4:00PM</h2>
+                    <p>
+                      <h2 style="color: white">Catalyst (2024) &middot; Dave Steck &middot; 42m &middot; 10/25 4:00PM</h2>
                     </p>
                   </div>
                 </a>
