@@ -835,7 +835,6 @@ iframe {
         width: 100%;
         height: calc(var(--carousel-desktop-height) - var(--event-title-desktop-height) - .5rem);
     }
-    */
 }
 
 @media (min-width: 1500px) {
@@ -855,4 +854,3 @@ iframe {
     }
     
 }
-
