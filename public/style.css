@@ -486,8 +486,8 @@ main {
     width: 100vw;
     height: 45vw;
     position: relative;
-    left: 12vw;
-    right: 12vw;
+    left: 10vw;
+    right: 10vw;
   }
   
   .slider img {
