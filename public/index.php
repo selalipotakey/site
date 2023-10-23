@@ -30,7 +30,13 @@
               <li class="carousel__slide current-slide">
                 <a href="/calendar/Fall_2023/special-events#catalyst">
                   <img class="carousel__image" src="/images/2023fall/catalyst-2024.png" alt="Catalyst (2024) still">
+                  <div class="top-left">
+                    <p class="event-title fittext">
+                      Catalyst (2024) &middot; Dave Steck &middot; 42m &middot; 10/25 4:00PM
+                    </p>
+                  </div>
                 </a>
+                <!--
                 <div clas="description">
                   <a href="/calendar/Fall_2023/special-events#catalyst">
                     <p class="event-title fittext">
@@ -38,6 +44,7 @@
                     </p>
                   </a>
                 </div>
+-->
               </li>
 
               <li class="carousel__slide">
