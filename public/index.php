@@ -31,9 +31,7 @@
                 <a href="/calendar/Fall_2023/special-events#catalyst">
                   <img class="carousel__image" src="/images/2023fall/catalyst-2024.png" alt="Catalyst (2024) still">
                   <div class="top-right">
-                    <p>
-                      <h2 style="color: white">Catalyst (2024) &middot; Dave Steck &middot; 42m &middot; 10/25 4:00PM</h2>
-                    </p>
+                    <h2 style="color: white;">Catalyst (2024) &middot; Dave Steck &middot; 42m &middot; 10/25 4:00PM</h2>
                   </div>
                 </a>
                 <!--
@@ -50,27 +48,19 @@
               <li class="carousel__slide">
                 <a href="/calendar/Fall_2023/special-events#exorcist">
                   <img class="carousel__image" src="/images/2023fall/the-exorcist-1973.jpg" alt="The Exorcist (1973) still">
+                  <div class="top-right">
+                      <h2 style="color: white;">The Exorcist (1973) &middot; William Friedkin &middot; 122m &middot; 10/31 9:30PM</h2>
+                  </div>
                 </a>
-                <div clas="description">
-                  <a href="/calendar/Fall_2023/special-events#exorcist">
-                    <p class="event-title fittext">
-                      The Exorcist (1973) &middot; William Friedkin &middot; 122m &middot; 10/31 9:30PM
-                    </p>
-                  </a>
-                </div>
               </li>
 
               <li class="carousel__slide">
                 <a href="/calendar/Fall_2023/wednesday#ice-storm">
                   <img class="carousel__image" src="/images/2023fall/the-ice-storm-1997.jpg" alt="The Ice Storm (1997) still">
+                  <div class="top-right">
+                      <h2 style="color: white;">The Ice Storm (1997) &middot; Ang Lee &middot; 112m &middot; 10/25 7:00PM &middot 10/28 4:00PM</h2>
+                    </div>
                 </a>
-                <div clas="description">
-                  <a href="/calendar/Fall_2023/special-events#ice-storm">
-                    <p class="event-title fittext">
-                      The Ice Storm (1997) &middot; Ang Lee &middot; 112m &middot; 10/25 7:00PM &middot 10/28 4:00PM
-                    </p>
-                  </a>
-                </div>
               </li>
 
             </ul>

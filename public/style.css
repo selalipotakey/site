@@ -428,7 +428,7 @@ main {
 }
 .carousel__image {
     width: 100%;
-    height: 24rem;
+    height: 34rem;
     object-fit: cover;
 }
 .carousel__slide .description {
