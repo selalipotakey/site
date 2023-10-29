@@ -70,7 +70,7 @@
           <h3>Robert Wiene &middot; 78m &middot; DCP</h3>
           <p><i>Free admission to UChicago students or anyone with a Docfilms pass.</i></p>
           <p>Rockefeller Memorial Chapel presents The Cabinet of Dr. Caligari (1920) as their annual Halloween silent film screening with musical score on the chapel's E.M. Skinner organ. $8 in advance, $10 at the door.</p>
-          <h3><u><a href="https://www.google.com/url?q=https://tickets.uchicago.edu/Online/default.asp?doWork::WScontent::loadArticle%3DLoad%26BOparam::WScontent::loadArticle::article_id%3D4F9D6D11-692F-4729-A711-AD0F302CC536&sa=D&source=calendar&ust=1698368812456224&usg=AOvVaw0mfWo7w2X6P7GPIYmFTQAv" target="__blank"></a></u> Sunday, October 28th</h3>
+          <h3><u><a href="https://www.google.com/url?q=https://tickets.uchicago.edu/Online/default.asp?doWork::WScontent::loadArticle%3DLoad%26BOparam::WScontent::loadArticle::article_id%3D4F9D6D11-692F-4729-A711-AD0F302CC536&sa=D&source=calendar&ust=1698368812456224&usg=AOvVaw0mfWo7w2X6P7GPIYmFTQAv" target="__blank"></a>7:30PM</u> Sunday, October 28th</h3>
         </div>
 
         <div class="screening">
