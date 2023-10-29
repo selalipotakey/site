@@ -28,7 +28,7 @@
             <ul class="carousel__track">
 
               <li class="carousel__slide current-slide">
-                <a href="/calendar/Fall_2023/special-events#catalyst">
+                <a href="/calendar/Fall_2023/special-events#caligari">
                   <img class="carousel__image" src="/images/2023fall/caligari-1920.jpg" alt="The Cabinet of Dr. Caligari (1920) still">
                   <div class="top-right">
                     <h2 style="color: white; font-size: 2vw;">The Cabinet of Dr. Caligari (1920) &middot; Robert Wiene &middot; 78m &middot; 10/28 7:30PM</h2>
