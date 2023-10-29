@@ -63,16 +63,16 @@
           <p>An independent documentary film about how Duro “Shame Love Tempo” Wicks fell in love with Hip Hop and helped give it a home on the Chicago music scene of the early 1990's. It examines what made Hip Hop blow up in Chicago so much later than in other cities, how a tiny 100 watt college station became Chicago’s Hip Hop radio powerhouse, why it was so difficult for a young Black entrepreneur to get a party started, and a time when social, political and economic conditions ultimately proved to make Duro’s dream unsustainable, even though it was more successful than anyone ever imagined it could be.</p>
           <h3><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=74CBB65B-6CBB-4CCF-87DE-AB961CC30770" target="_blank">4:00PM</a></u> Wednesday, October 25th</h3>
         </div>
-<!--
+
         <div id="caligari" class="anchor screening">
-          <h2>Dr. Caligari ()</h2>
-          <img src="images/2023fall/caligari-.jpg" alt="Dr. Caligari () still">
-          <h3>&middot; &middot;</h3>
-          <p><i></i></p>
-          <p></p>
-          <h3><u><a href="" target="__blank"></a></u></h3>
+          <h2>The Cabinet of Dr. Caligari (1920)</h2>
+          <img src="images/2023fall/caligari-1920.jpg" alt="The Cabinet of Dr. Caligari (1920) still">
+          <h3>Robert Wiene &middot; 78m &middot; DCP</h3>
+          <p><i>Free admission to UChicago students or anyone with a Docfilms pass.</i></p>
+          <p>Rockefeller Memorial Chapel presents The Cabinet of Dr. Caligari (1920) as their annual Halloween silent film screening with musical score on the chapel's E.M. Skinner organ. $8 in advance, $10 at the door.</p>
+          <h3><u><a href="https://www.google.com/url?q=https://tickets.uchicago.edu/Online/default.asp?doWork::WScontent::loadArticle%3DLoad%26BOparam::WScontent::loadArticle::article_id%3D4F9D6D11-692F-4729-A711-AD0F302CC536&sa=D&source=calendar&ust=1698368812456224&usg=AOvVaw0mfWo7w2X6P7GPIYmFTQAv" target="__blank"></a></u> Sunday, October 28th</h3>
         </div>
--->
+        
         <div class="screening">
           <h2>The Exorcist (1973)</h2>
           <img src="/images/2023fall/the-exorcist-1973.jpg" alt="The Exorcist (1973) still">

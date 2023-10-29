@@ -29,20 +29,11 @@
 
               <li class="carousel__slide current-slide">
                 <a href="/calendar/Fall_2023/special-events#catalyst">
-                  <img class="carousel__image" src="/images/2023fall/catalyst-2024.png" alt="Catalyst (2024) still">
+                  <img class="carousel__image" src="/images/2023fall/caligari-1920.png" alt="The Cabinet of Dr. Caligari (1920) still">
                   <div class="top-right">
-                    <h2 style="color: white; font-size: 2vw;">Catalyst (2024) &middot; Dave Steck &middot; 42m &middot; 10/25 4:00PM</h2>
+                    <h2 style="color: white; font-size: 2vw;">The Cabinet of Dr. Caligari (1920) &middot; Robert Wiene &middot; 78m &middot; 10/28 7:30PM</h2>
                   </div>
                 </a>
-                <!--
-                <div clas="description">
-                  <a href="/calendar/Fall_2023/special-events#catalyst">
-                    <p class="event-title fittext">
-                      Catalyst (2024) &middot; Dave Steck &middot; 42m &middot; 10/25 4:00PM
-                    </p>
-                  </a>
-                </div>
--->
               </li>
 
               <li class="carousel__slide">
@@ -136,14 +127,14 @@
           <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=65DD554C-37CC-4BB9-A78F-42DBEBCA0423" target="_blank">4:00PM</a></u> Saturday, October 28th</h3>
         </div>
 
-        <div id="the-beat" class="anchor screening">
-          <a href="calendar/Fall_2023/thursday-1#the-beat">
-            <h2>When the Beat Drops (2018)</h2>
-            <img src="/images/2023fall/when-the-beat-drops-2018.jpg" alt="When the Beat Drops (2018) still">
+        <div id="irreversible" class="anchor screening">
+          <a href="calendar/Fall_2023/thursday-1#irreversible">
+            <h2>Irréversible (2002)</h2>
+            <img src="/images/2023fall/irreversible-2002.jpg" alt="Irréversible (2002) still">
           </a>
-          <h3>Jamal Sims &middot; 85m &middot; Digital</h3>
-          <p>We all need an emotional boost after last week's pick. The one documentary to make it into this series, <i>When the Beat Drops</i> highlights the work of the Black and queer artists at the forefront of Atlanta’s bucking scene. Directed by choreographer Jamal Sims in a film only a dancer could make, <i>When the Beat Drops</i> is a propulsive showcase of contemporary underground dance and a powerful examination of the profound sacrifices artists make for their craft.</p>
-          <h3><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=FF237121-2045-4AC6-BC4C-DDB3C4791EE2" target="_blank">7:00PM</a></u> Thursday, November 2nd</h3>
+          <h3>Gaspar Noé &middot; 97m &middot; DCP</h3>
+          <p>Inverting the rape-revenge genre, <i>Irréversible</i> combines dizzying camerawork and a stomach-churning score by Daft Punk’s Thomas Bangalter. Infamously unwatchable, it dwells on the most base forms of hatred and disgust and makes us reckon with humanity’s id in the face of modernity. Noé’s tapestry of two men (Vincent Cassel, Albert Dupontel) avenging their lover (Monica Bellucci) is canonized and shunned for its onslaught of cruelty towards the viewer.</p>
+          <h3><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=329D6497-32FA-4425-8500-406CCCE090CD" target="_blank">7:00PM</a></u> Thursday, October 26th</h3>
         </div>
 
         <div id="ganja" class="anchor screening">
@@ -185,6 +176,17 @@
           <h3>Lino Brocka &middot; 125m &middot; DCP</h3>
           <p>Directed by a titan of Filipino cinema, Lino Brocka, <i>Manila</i> confronts urban strife with melodramatic flair as provincial Julio (Bembol Roco) makes his way into Manila in search of his missing love Ligaya (Hilda Koronel). A recounting of one man’s attempt to fight against the gargantua of city life and a record of 70s Manila, Brocka’s epic is a masterclass in the characterization of urbanity’s ability to suffocate those who enter its darkness.</p>
           <h3>6:30PM Sunday, October 29th</h3>
+        </div>
+
+        <div id="caligari" class="anchor screening">
+          <a href="calendar/Fall_2023/special-events#caligari">
+            <h2>The Cabinet of Dr. Caligari (1920)</h2>
+            <img src="/images/2023fall/caligari_1920.jpg" alt="The Cabinet of Dr. Caligari (1920) still">
+          </a>
+          <h3>Robert Wiene &middot; 78m &middot; DCP</h3>
+          <p><i>Free admission to UChicago students or anyone with a Docfilms pass.</i></p>
+          <p>Rockefeller Memorial Chapel presents The Cabinet of Dr. Caligari (1920) as their annual Halloween silent film screening with musical score on the chapel's E.M. Skinner organ. $8 in advance, $10 at the door.</p>
+          <h3><u><a href="https://www.google.com/url?q=https://tickets.uchicago.edu/Online/default.asp?doWork::WScontent::loadArticle%3DLoad%26BOparam::WScontent::loadArticle::article_id%3D4F9D6D11-692F-4729-A711-AD0F302CC536&sa=D&source=calendar&ust=1698368812456224&usg=AOvVaw0mfWo7w2X6P7GPIYmFTQAv" target="__blank"></a></u> Sunday, October 28th</h3>
         </div>
 
       </div>
