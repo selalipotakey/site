@@ -181,7 +181,7 @@
         <div id="caligari" class="anchor screening">
           <a href="calendar/Fall_2023/special-events#caligari">
             <h2>The Cabinet of Dr. Caligari (1920)</h2>
-            <img src="/images/2023fall/caligari_1920.jpg" alt="The Cabinet of Dr. Caligari (1920) still">
+            <img src="/images/2023fall/caligari-1920.jpg" alt="The Cabinet of Dr. Caligari (1920) still">
           </a>
           <h3>Robert Wiene &middot; 78m &middot; DCP</h3>
           <p><i>Free admission to UChicago students or anyone with a Docfilms pass.</i></p>
