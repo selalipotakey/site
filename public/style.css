@@ -348,7 +348,7 @@ main {
 .information .page-title {
     font-size: 3.5rem;
     font-weight: 600;
-    font-family: "neue_haas_grotesk_display75Bd", Helvetica, Arial, sans-serif;
+    font-family: "neue_haas_grotesk_display75Bd", "nimbus_sans_cond_lblack", Helvetica, Arial, sans-serif;
 }
 .information img {
     width: 100%;
@@ -559,7 +559,7 @@ main {
     max-width: 50rem;
     line-height: 1.2;
     text-align: right;
-    font-family: "neue_haas_grotesk_display75Bd", Helvetica, Arial, sans-serif;
+    font-family: "neue_haas_grotesk_display75Bd", "nimbus_sans_cond_lblack", Helvetica, Arial, sans-serif;
 }
 
 /* for calendar page  */
