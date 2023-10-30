@@ -320,7 +320,7 @@ main {
     font-size: 2.8rem;
 }
 .screening h2 {
-    font-family: "neue_haas_grotesk_display75Bd", Helvetica, Arial, sans-serif;
+    font-family: "nimbus_sans_cond_lblack", Helvetica, Arial, sans-serif;
     font-size: 3.6rem;
 }
 .screening img {
@@ -675,6 +675,14 @@ iframe {
 @font-face {
     font-family: Khand-Medium;
     src: url('/fonts/Khand-OTF/Khand-Medium.otf') format('opentype');
+}
+@font-face {
+    font-family: 'nimbus_sans_cond_lblack';
+    src: url('nimbus-black-webfont.woff2') format('woff2'),
+         url('nimbus-black-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
 }
 @font-face {
     font-family: 'neue_haas_grotesk_display75Bd';
