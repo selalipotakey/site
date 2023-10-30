@@ -320,7 +320,7 @@ main {
     font-size: 2.8rem;
 }
 .screening h2 {
-    font-family: "Khand-Medium", Helvetica, Arial, sans-serif;
+    font-family: "neue_haas_grotesk_display75Bd", Helvetica, Arial, sans-serif;
     font-size: 3.6rem;
 }
 .screening img {
@@ -674,11 +674,15 @@ iframe {
 }
 @font-face {
     font-family: Khand-Medium;
-    /*src: url('/fonts/Khand-OTF/Khand-Medium.otf') format('opentype');*/
+    src: url('/fonts/Khand-OTF/Khand-Medium.otf') format('opentype');
+}
+@font-face {
+    font-family: 'neue_haas_grotesk_display75Bd';
     src: url('neuehaas-grotesk-bold-webfont.woff2') format('woff2'),
          url('neuehaas-grotesk-bold-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
+
 }
 
 
