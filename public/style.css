@@ -23,7 +23,7 @@ h1 {
     font-size: 3rem;
     padding-bottom: .5rem;
     /*font-family: "GeneralSans-Semibold", Helvetica, Arial, sans-serif;*/
-    font-family: "neuehaas-grotesk-bold";
+    font-family: "neuehaas-grotesk-bold", Helvetica, Arial, sans-serif;
 }
 h2 {
     padding-top: .5rem;
@@ -685,7 +685,7 @@ iframe {
 }
 @font-face {
     font-family: neuehaas-grotesk-bold;
-    src: url('/fonts/neuehaas-grotesk-OTF/neuehaas-grotesk-bold.otf') format('opentype');
+    src: url('/fonts/neuehaas-grotesk-OTF/neuehaas-grotesk-bold-italic.otf') format('opentype');
 }
 
 
