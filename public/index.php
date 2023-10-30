@@ -102,8 +102,8 @@
           </a>
           <h3>Greta Gerwig &middot; 114m &middot; DCP</h3>
           <p><i>In the beginning, there was Barbie</i>. And then, there were <i>Barbillion</i>! It felt like a party — and we're bringing this party to Doc. Join us on your rollerblades, boats, rocket ships, and bicycles to celebrate a film about individualism, cognitive dissonance, and Kens discovering the patriarchy. Plus, Gerwig cites Demy, Tati, Kubrick, Gene Kelly musicals, and more as filmic influences. Come see what <i>that's</i> all about. The dress code is hot pink.</p>
-          <h3><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=036BB2C5-D25B-4B3C-A245-8CCF49ECC7EF" target="_blank">7:00PM</a></u> Saturday, November 4th &middot; 
-          <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=4EC12E1F-4DE9-43AF-BE08-AA8B7EAB4923" target="_blank">4:00PM</a></u> Saturday, November 4th</h3>
+          <h3><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=036BB2C5-D25B-4B3C-A245-8CCF49ECC7EF" target="_blank">4:00PM</a></u> Saturday, November 4th &middot; 
+          <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=4EC12E1F-4DE9-43AF-BE08-AA8B7EAB4923" target="_blank">7:00PM</a></u> Saturday, November 4th</h3>
         </div>
 
         <div id="battle of chile" class="anchor screening">
