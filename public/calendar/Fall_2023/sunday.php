@@ -66,11 +66,10 @@
           <h3>6:30PM Sunday, October 29th</h3>
         </div>
         
-        <div class="screening">
+        <div id="battle of chile" class="anchor screening">
           <h2>The Battle of Chile (1978)</h2>
           <img src="/images/2023fall/the-battle-of-chile-1978.jpg" alt="The Battle of Chile (1978) still">
-          <h3>Patricio Guzmán &middot; 262m &middot; DCP</h3>
-          
+          <h3>Patricio Guzmán &middot; 262m &middot; DCP</h3>         
           <p><i>There will be an intermission.</i></p><p>Described by Pauline Kael as a testament to what Marxism in film could produce, this epic documentary spans the years leading up to and following the 1973 coup in Chile led by Augusto Pinochet and backed by the CIA (and distinguished alumni of UChicago). A massive undertaking for the filmmakers, and to some degree the audience, <i>The Battle of Chile</i> reveals the open wound created by right-wing authoritarianism and the dashed hopes of a nation’s social democracy.</p>
           <h3>2:00PM Sunday, November 5th</h3>
         </div>

@@ -57,11 +57,10 @@
           <h3><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=CDC099D2-EE9A-4D7C-911B-6BDB70402279" target="_blank">7:00PM</a></u> Monday, October 23rd</h3>
         </div>
         
-        <div class="screening">
+        <div id="heat" class="anchor screening">
           <h2>Heat Lightning (1934)</h2>
           <img src="/images/2023fall/heat-lightning-1934.jpg" alt="Heat Lightning (1934) still">
           <h3>Mervyn LeRoy &middot; 63m &middot; 35mm</h3>
-          
           <p><i>Preserved by the Library of Congress.</i></p><p>In this protofeminist protonoir, Olga (Aline MacMahon) and her sister (Ann Dvorak) run a gas station in the middle of the Mojave desert. When a shady character from Olga’s past shows up, the sisters’ hard-won independence is threatened. Packed with drama, lust, and sweaty longing, and featuring arresting cinematography, a powerful performance by Method pioneer MacMahon, and a shocking ending, this is a pre-code gem you won’t want to miss.</p>
           <h3><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=D30D3AB2-FFDF-4AEB-B94A-A1600BA45E25" target="_blank">7:00PM</a></u> Monday, October 30th</h3>
         </div>

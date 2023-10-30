@@ -58,7 +58,7 @@
           <h3><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=329D6497-32FA-4425-8500-406CCCE090CD" target="_blank">7:00PM</a></u> Thursday, October 26th</h3>
         </div>
         
-        <div id="the-beat" class="anchor screening">
+        <div id="beat" class="anchor screening">
           <h2>When the Beat Drops (2018)</h2>
           <img src="/images/2023fall/when-the-beat-drops-2018.jpg" alt="When the Beat Drops (2018) still">
           <h3>Jamal Sims &middot; 85m &middot; Digital</h3>

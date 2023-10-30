@@ -67,7 +67,7 @@
           <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=65DD554C-37CC-4BB9-A78F-42DBEBCA0423" target="_blank">4:00PM</a></u> Saturday, October 28th</h3>
         </div>
         
-        <div id="lust-caution" class="screening">
+        <div id="lust-caution" class="anchor screening">
           <h2>Lust, Caution (2007)</h2>
           <img src="/images/2023fall/lust-caution-2007.jpg" alt="Lust, Caution (2007) still">
           <h3>Ang Lee &middot; 158m &middot; 35mm</h3>

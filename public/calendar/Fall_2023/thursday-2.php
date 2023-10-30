@@ -65,7 +65,7 @@
           <h3><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=D6C3C9A1-1251-4C0C-A2E7-7E7425274754" target="_blank">9:30PM</a></u> Thursday, October 26th</h3>
         </div>
         
-        <div class="screening">
+        <div id="womans torment" class="anchor screening">
           <h2>A Woman's Torment (1977)</h2>
           <img src="/images/2023fall/a-womans-torment-1977.jpg" alt="A Woman's Torment (1977) still">
           <h3>Roberta Findlay &middot; 84m &middot; DCP</h3>

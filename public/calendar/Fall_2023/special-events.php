@@ -73,7 +73,7 @@
           <h3><u><a href="https://www.google.com/url?q=https://tickets.uchicago.edu/Online/default.asp?doWork::WScontent::loadArticle%3DLoad%26BOparam::WScontent::loadArticle::article_id%3D4F9D6D11-692F-4729-A711-AD0F302CC536&sa=D&source=calendar&ust=1698368812456224&usg=AOvVaw0mfWo7w2X6P7GPIYmFTQAv" target="__blank"></a>7:00PM</u> Sunday, October 29th</h3>
         </div>
 
-        <div class="screening">
+        <div id="exorcist" class="anchor screening">
           <h2>The Exorcist (1973)</h2>
           <img src="/images/2023fall/the-exorcist-1973.jpg" alt="The Exorcist (1973) still">
           <h3>William Friedkin &middot; 122m &middot; DCP</h3>

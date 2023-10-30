@@ -67,7 +67,7 @@
           <h3><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=5511B7BA-AD7D-4290-B654-AA055AE314EB" target="_blank">7:00PM</a></u> Friday, October 27th</h3>
         </div>
         
-        <div class="screening">
+        <div id="chikamatsu" class="anchor screening">
           <h2>A Story from Chikamatsu (1954)</h2>
           <img src="/images/2023fall/a-story-from-chikamatsu-1954.jpg" alt="A Story from Chikamatsu (1954) still">
           <h3>Kenji Mizoguchi &middot; 102m &middot; DCP</h3>

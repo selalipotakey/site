@@ -55,7 +55,7 @@
           <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=DFA6729B-2CD8-40B9-AC91-9205C5E482EB" target="_blank">3:00PM</a></u>  Sunday, October 29th</h3>
         </div>
 
-        <div class="screening">
+        <div id="barbie" class="anchor screening">
           <h2>Barbie (2023)</h2>
           <img src="/images/2023fall/barbie-2023.jpg" alt="Barbie (2023) still">
           <h3>Greta Gerwig &middot; 114m &middot; DCP</h3>

@@ -66,12 +66,12 @@
           <h3><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=A6FA7653-3CB7-4A11-A375-EF4E86D66714" target="_blank">7:00PM</a></u> Tuesday, October 24th</h3>
         </div>
         
-        <div class="screening">
+        <div id="buck" class="anchor screening">
           <h2>Buck and the Preacher (1972)</h2>
           <img src="/images/2023fall/buck-and-the-preacher-1972.jpg" alt="Buck and the Preacher (1972) still">
           <h3>Sidney Poitier &middot; 102m &middot; 35mm</h3>
           <p>Sidney Poitier stars in <i>Buck and the Preacher</i>, his directorial debut. Poitier’s protagonist strikes a fragile balance in the Reconstruction-era Southwest, seeking settlement for Black Americans by negotiating with indigenous tribes, all while avoiding white bounty hunters. The sudden entrance of a grifting man of the cloth (Harry Belafonte) threatens to throw Buck’s entire operation into chaos.</p>
-          <h3><u><a href="" target="_blank">7:00PM</a></u> Tuesday, October 31st</h2>
+          <h3>7:00PM Tuesday, October 31st</h2>
         </div>
         
         <div class="screening">
