@@ -27,7 +27,7 @@
 
       <div class="splash">
         <img style="padding-bottom: .5rem;" src="/images/about/projecting-who-framed-roger.jpg" alt="projecting WHO FRAMED ROGER RABBIT">
-        <div class="splash-title" style="font-family: 'neue_haas_grotesk_display75Bd';">
+        <div class="splash-title">
           "Hard-core beyond words and lay comprehension, the society is populated by 19-year olds who have already seen every film ever made."
         </div>
       </div>
