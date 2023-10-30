@@ -295,7 +295,7 @@ main {
 .screenings-title {
     font-size: 4.5rem;
     font-weight: 700;
-    font-family: 'neue_haas_grotesk_display75Bd', Helvetica, Arial, sans-serif;
+    font-family: "neue_haas_grotesk_display75Bd", Helvetica, Arial, sans-serif;
     padding-bottom: 2rem;
 }
 
@@ -707,7 +707,7 @@ iframe {
     .navbar-ul a {
         color: #000000;
         text-decoration: none;
-        font-family: "neue_haas_grotesk_display75Bd", Helvetica, Arial, sans-serif;
+        font-family: "GeneralSans-Semibold", Helvetica, Arial, sans-serif;
     }
     .navbar-ul a:hover {
         color: #b4b4b4;
