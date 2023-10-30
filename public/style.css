@@ -3,7 +3,7 @@
     margin: 0;               /* sets the space around any element to 0 */
     padding: 0;              /* sets the space between content inside an element and the element's border to 0 */
     box-sizing: border-box;     /* makes arranging css boxes easier. makes it so width/height include content AND padding+border */
-    font-family: "neuehaas-grotesk-bold", Helvetica, Arial, sans-serif;
+    font-family: Helvetica, Arial, sans-serif;
 }
 
 section {
@@ -22,8 +22,7 @@ section {
 h1 {
     font-size: 3rem;
     padding-bottom: .5rem;
-    /*font-family: "GeneralSans-Semibold", Helvetica, Arial, sans-serif;*/
-    font-family: "neuehaas-grotesk-bold", Helvetica, Arial, sans-serif;
+    font-family: "GeneralSans-Semibold", Helvetica, Arial, sans-serif;
 }
 h2 {
     padding-top: .5rem;
@@ -236,8 +235,7 @@ header .menu-btn:checked ~ .menu-icon .nav-icon:after {
     color: inherit;
     text-decoration: none;
     font-size: min(3.5rem, 3.2vh);
-    /*font-family: "GeneralSans-Semibold", Helvetica, Arial, sans-serif;*/
-    font-family: "neuehaas-grotesk-bold", Helvetica, Arial, sans-serif;
+    font-family: "GeneralSans-Semibold", Helvetica, Arial, sans-serif;
 }
 
 .overlay ul.menu li a:hover {
@@ -297,8 +295,7 @@ main {
 .screenings-title {
     font-size: 4.5rem;
     font-weight: 700;
-    /*font-family: 'GeneralSans-Semibold', Helvetica, Arial, sans-serif;*/
-    font-family: "neuehaas-grotesk-bold", Helvetica, Arial, sans-serif;
+    font-family: 'GeneralSans-Semibold', Helvetica, Arial, sans-serif;
     padding-bottom: 2rem;
 }
 
@@ -351,8 +348,7 @@ main {
 .information .page-title {
     font-size: 3.5rem;
     font-weight: 600;
-    /*font-family: "GeneralSans-Semibold", Helvetica, Arial, sans-serif;*/
-    font-family: "neuehaas-grotesk-bold", Helvetica, Arial, sans-serif;
+    font-family: "GeneralSans-Semibold", Helvetica, Arial, sans-serif;
 }
 .information img {
     width: 100%;
@@ -442,8 +438,7 @@ main {
     display: block;
 }
 .carousel__slide p.event-title {
-    /*font-family: "GeneralSans-Semibold", Helvetica, Arial, sans-serif;*/
-    font-family: "neuehaas-grotesk-bold", Helvetica, Arial, sans-serif;
+    font-family: "GeneralSans-Semibold", Helvetica, Arial, sans-serif;
     font-size: 2rem;
     height: 100%;
     width: 100%;
@@ -564,8 +559,7 @@ main {
     max-width: 50rem;
     line-height: 1.2;
     text-align: right;
-    /*font-family: "GeneralSans-Semibold", Helvetica, Arial, sans-serif;*/
-    font-family: "neuehaas-grotesk-bold", Helvetica, Arial, sans-serif;
+    font-family: "GeneralSans-Semibold", Helvetica, Arial, sans-serif;
 }
 
 /* for calendar page  */
@@ -608,8 +602,7 @@ iframe {
 }
 .series-tile .series-text p {
     line-height: 1.1;
-    /*font-family: "GeneralSans-Semibold", Helvetica, Arial, sans-serif;*/
-    font-family: "neuehaas-grotesk-bold", Helvetica, Arial, sans-serif;
+    font-family: "GeneralSans-Semibold", Helvetica, Arial, sans-serif;
 }
 .series-tile .series-text p.day {
     font-size: 3.0rem; 
@@ -681,11 +674,8 @@ iframe {
 }
 @font-face {
     font-family: Khand-Medium;
-    src: url('/fonts/Khand-OTF/Khand-Medium.otf') format('opentype');
-}
-@font-face {
-    font-family: neuehaas-grotesk-bold;
-    src: url('/fonts/neuehaas-grotesk-OTF/neuehaas-grotesk-bold-italic.otf') format('opentype');
+    /*src: url('/fonts/Khand-OTF/Khand-Medium.otf') format('opentype');*/
+    src: url('/fonts/neuehaas-grotesk-OTF/neuehaas-grotesk-bold.otf') format('opentype');
 }
 
 
@@ -702,8 +692,7 @@ iframe {
     .navbar-ul a {
         color: #000000;
         text-decoration: none;
-        /*font-family: "GeneralSans-Semibold", Helvetica, Arial, sans-serif;*/
-        font-family: "neuehaas-grotesk-bold", Helvetica, Arial, sans-serif;
+        font-family: "GeneralSans-Semibold", Helvetica, Arial, sans-serif;
     }
     .navbar-ul a:hover {
         color: #b4b4b4;
@@ -848,8 +837,7 @@ iframe {
     .carousel__slide p.capsule {
         font-size: 1.5rem;
         padding: .25rem;
-        /*font-family: Helvetica, Arial, sans-serif;*/
-        font-family: "neuehaas-grotesk-bold", Helvetica, Arial, sans-serif;
+        font-family: Helvetica, Arial, sans-serif;
         display: unset;
         visibility: hidden;
         width: 100%;
