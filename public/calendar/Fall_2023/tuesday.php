@@ -75,7 +75,7 @@
           <h3>7:00PM Tuesday, October 31st</h2>
         </div>
         
-        <div class="screening">
+        <div id="miracle" class="anchor screening">
           <h2>The Miracle Woman (1931)</h2>
           <img src="/images/2023fall/the-miracle-woman-1931.jpg" alt="The Miracle Woman (1931) still">
           <h3>Frank Capra &middot; 90m &middot; 35mm</h3>

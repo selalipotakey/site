@@ -66,7 +66,7 @@
           <h3><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=FF237121-2045-4AC6-BC4C-DDB3C4791EE2" target="_blank">7:00PM</a></u> Thursday, November 2nd</h3>
         </div>
         
-        <div class="screening">
+        <div id="strange" class="anchor screening">
           <h2>Strange Days (1995)</h2>
           <img src="/images/2023fall/strange-days-1995.jpg" alt="Strange Days (1995) still">
           <h3>Kathryn Bigelow &middot; 145m &middot; 35mm</h3>

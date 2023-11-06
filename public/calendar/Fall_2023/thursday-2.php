@@ -73,7 +73,7 @@
           <h3><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=18C1DA64-F425-4204-9CBA-886768C9C476" target="_blank">9:30PM</a></u> Thursday, November 2nd</h3>
         </div>
         
-        <div class="screening">
+        <div id="sins" class="anchor screening">
           <h2>Seeds (of Sin) (1968)</h2>
           <img src="/images/2023fall/seeds-of-sin-1968.jpg" alt="Seeds (of Sin) (1968) still">
           <h3>Andy Milligan &middot; 84m &middot; Digital</h3>

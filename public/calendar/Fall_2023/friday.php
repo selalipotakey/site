@@ -75,7 +75,7 @@
           <h3><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=EDDC181D-85E5-4AB5-9C0C-B945D187FEDE" target="_blank">7:00PM</a></u> Friday, November 3rd</h3>
         </div>
         
-        <div class="screening">
+        <div id="gun-crazy" class="screening">
           <h2>Gun Crazy (1950)</h2>
           <img src="/images/2023fall/gun-crazy-1950.jpg" alt="Gun Crazy (1950) still">
           <h3>Joseph H. Lewis &middot; 87m &middot; 35mm</h3>

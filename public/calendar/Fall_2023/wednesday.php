@@ -75,7 +75,7 @@
           <h3><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=E1DB2F38-04CD-4566-A5DC-8030F510308F" target="_blank">7:00PM</a></u> Wednesday, November 1st</h3>
         </div>
         
-        <div class="screening">
+        <div id="pushing" class="anchor screening">
           <h2>Pushing Hands (1991)</h2>
           <img src="/images/2023fall/pushing-hands-1991.jpg" alt="Pushing Hands (1991) still">
           <h3>Ang Lee &middot; 105m &middot; DCP</h3>

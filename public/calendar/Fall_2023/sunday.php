@@ -74,7 +74,7 @@
           <h3>2:00PM Sunday, November 5th</h3>
         </div>
         
-        <div class="screening">
+        <div id="sambizanga" class="anchor screening">
           <h2>Sambizanga (1972)</h2>
           <img src="/images/2023fall/sambizanga-1972.jpg" alt="Sambizanga (1972) still">
           <h3>Sarah Maldoror &middot; 97m &middot; DCP</h3>
