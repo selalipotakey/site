@@ -81,7 +81,7 @@
           <h3><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=CFED8C44-F5EA-4267-9738-480720F1480D" target="_blank">9:30PM</a></u> Thursday, November 9th</h3>
         </div>
         
-        <div class="screening">
+        <div id="bad-girls" class="anchor screening">
           <h2>Bad Girls Go to Hell (1965)</h2>
           <img src="/images/2023fall/bad-girls-go-to-hell-1965.jpg" alt="Bad Girls Go to Hell (1965) still">
           <h3>Doris Wishman &middot; 65m &middot; DCP</h3>
