@@ -22,7 +22,6 @@
       <div class="text-section">
           <h1>This Week: </h1>
           <h3><i>$7 tickets, theater opens 30 minutes before the screening.</i></h3> 
-          <h3><i>We are Cash Only at the moment.</i></h3> 
           </h3>
         </div>
 
