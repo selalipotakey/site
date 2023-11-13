@@ -461,7 +461,7 @@ main {
 
 .carousel__indicator {
     /*border: 2.25px solid #000000;*/
-    border: 2.25px solid white;
+    border: 2.25px rgb(161, 0, 0);
     border-radius: 50%;
     width: 15px;
     height: 15px;
@@ -470,7 +470,7 @@ main {
 }
 .carousel__indicator.current-slide {
     /*background-color: rgba(0,0,0,1);*/
-    background-color: rgb(139, 0, 0);
+    background-color: white;
 } 
 
 .is-hidden {
