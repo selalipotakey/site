@@ -48,7 +48,7 @@
         <div id="the-devil" class="anchor screening">
           <a href="/calendar/Fall_2023/wednesday#the-devil">
             <h2>Ride With the Devil (1999)</h2>
-            <img src="/images/2023fall/the-devil-1999.jpg" alt="Ride With the Devil (1999) still">
+            <img src="/images/2023fall/ride-with-the-devil-1999.jpg" alt="Ride With the Devil (1999) still">
           </a>
           <h3>Ang Lee &middot; 138m &middot; Digital</h3>
           <p>Ang Lee’s (non-typical) take on the Western! Set during the American Civil War, it follows friends Jake Roedel (Tobey Maguire) and Jack Bull Chiles (Skeet Ulrich) who join the Irregulars, a guerilla warfare unit fighting for the Confederacy. Notable for its exploration of unconventional narratives, an intimate, character-driven story, and Frederick Elmes’ beautiful cinematography,<i>Ride with the Devil</i>is one of Lee’s most interesting films.</p>
@@ -57,8 +57,8 @@
 
         <div id="millenium" class="anchor screening">
           <a href="calendar/Fall_2023/thursday-1#millenium">
-            <h2>Millenium Mambo (2001)</h2>
-            <img src="/images/2023fall/millenium-mambo-2001.jpg" alt="Millenium Mambo (2001) still">
+            <h2>Millennium Mambo (2001)</h2>
+            <img src="/images/2023fall/millennium-mambo-2001.jpg" alt="Millennium Mambo (2001) still">
           </a>
           <h3>Hou Hsiao-hsien &middot; 119m &middot; DCP</h3>
           <p>Weren’t satisfied by our last Y2K spectacular? Well, here’s <i>Millennium Mambo</i>, the more melancholy take on the new millennium and one of Hou Hsiao-Hsien’s finest works. In the spirit of films like Wong Kar-Wai’s <i>Love Trilogy</i>, <i>Millennium Mambo</i> captures the ennui of youth and lost time as it charts Vicky’s (Shu Qi) bygone time on the dance floor in a rapidly changing Taipei.</p>
@@ -78,8 +78,8 @@
 
         <div id="porter" class="anchor screening">
           <a href="/calendar/Fall_2023/friday#porter">
-            <h2>The Night Porter (1975)</h2>
-            <img src="/images/2023fall/the-night-porter-1975.jpg" alt="The Night Porter (1975) still">
+            <h2>The Night Porter (1974)</h2>
+            <img src="/images/2023fall/the-night-porter-1974.jpg" alt="The Night Porter (1974) still">
           </a>
           <h3>Liliana Cavani &middot; 118m &middot; Digital</h3>
           <p>On a trip to Vienna with her husband, Lucia, a Holocaust survivor, encounters Max—a former SS officer, and her former torturer and lover. Reunited, the two recreate their sadomasochistic relationship; however, Max’s former SS comrades start to stalk them. Unsettling and controversial, <i>The Night Porter</i> intertwines the grief of the victim and the guilt and shame of the offender into an unflinching tale about remembering the atrocities of the Holocaust.</p>
