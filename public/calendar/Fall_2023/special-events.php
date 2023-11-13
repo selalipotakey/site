@@ -81,7 +81,7 @@
           <h3><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=8D8E654A-0D44-4856-8859-97147FB19725" target="_blank">9:30PM</a></u> Tuesday, October 31st</h3>
         </div>
         
-        <div class="screening">
+        <div id="bad-black" class="screening">
           <h2>Bad Black (2016)</h2>
           <img src="/images/2023fall/bad-black-2016.jpg" alt="Bad Black (2016) still">
           <h3>Nabwana Isaac Godfrey Geoffrey &middot; 68m &middot; DCP</h3>

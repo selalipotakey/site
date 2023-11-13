@@ -75,7 +75,7 @@
           <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=2711D647-88AC-48FE-9FFA-3CE946B49E69" target="_blank">3:00PM</a></u> Sunday, November 12th</h3>
         </div>
         
-        <div class="screening">
+        <div id="millenium" class="screening">
           <h2>Millennium Mambo (2001)</h2>
           <img src="/images/2023fall/millennium-mambo-2001.jpg" alt="Millennium Mambo (2001) still">
           <h3>Hou Hsiao-hsien &middot; 119m &middot; DCP</h3>

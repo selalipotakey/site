@@ -25,76 +25,86 @@
           </h3>
         </div>
 
-        <div id="sabotage" class="anchor screening">
-          <a href="calendar/Fall_2023/monday#sabotage">
-            <h2>Sabotage (1936)</h2>
-            <img src="/images/2023fall/sabotage-1936.jpg" alt="Sabotage (1936) still">
+        <div id="live-once" class="anchor screening">
+          <a href="calendar/Fall_2023/monday#live-once">
+            <h2>You Only Live Once (1937)</h2>
+            <img src="/images/2023fall/you-only-live-once-1937.jpg" alt="You Only Live Once (1937) still">
           </a>
-          <h3>Alfred Hitchcock &middot; 76m &middot; 35mm</h3>
-          <p>This loose adaptation of Joseph Conrad’s <i>The Secret Agent</i> is one of Hitchcock’s darkest films. Sylvia Sidney stars as a woman who is horrified to discover that her husband is a terrorist agent. <i>Sabotage</i> was not a box office hit and Hitch himself later felt that its famous “boy with the bomb” sequence was a mistake. However, its stature has grown over the years, and critics such as Pauline Kael have hailed it as the masterpiece of his British period.</p>
-          <h3>Monday, November 6th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=CEB1B7C5-0099-475B-A269-C6CA3DEB27E3" target="_blank">7:00PM</a></u></h3>
+          <h3>Fritz Lang &middot; 86m &middot; DCP</h3>
+          <p>Reformed ex-convict Eddie Taylor (Henry Fonda) can’t catch a break; when he’s framed for murder, he goes on the lam with his lawyer’s sympathetic secretary (Sylvia Sidney). Fritz Lang’s haunting, socially conscious melodrama has been called his best American film. Critic Dave Kehr noted that Lang’s style here had a huge influence on film noir: “it’s always night, usually raining, and the camera hovers over the characters like the heavy hand of fate.”</p>
+          <h3>Monday, November 13th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=94E3169A-2FED-4927-9B02-EAA50E1CF3E9" target="_blank">7:00PM</a></u></h3>
         </div>
 
-        <div id="miracle" class="anchor screening">
-          <a href="/calendar/Fall_2023/tuesday#miracle">
-            <h2>The Miracle Woman (1931)</h2>
-            <img src="/images/2023fall/the-miracle-woman-1931.jpg" alt="The Miracle Woman (1931) still">
+        <div id="the-iguana" class="anchor screening">
+          <a href="/calendar/Fall_2023/tuesday#the-iguana">
+            <h2>The Night of the Iguana (1964)</h2>
+            <img src="/images/2023fall/the-night-of-the-iguana-1964.jpg" alt="The Night of the Iguana (1964) still">
           </a>
-          <h3>Frank Capra &middot; 90m &middot; 35mm</h3>
-          <p>One of many collaborations between director Frank Capra and leading lady Barbara Stanwyck, <i>The Miracle Woman</i> follows Florence Fallon, a preacher’s daughter who becomes disillusioned with religion and stages phony miracles for a paying audience. Inspired by real-life evangelist Aimee Semple McPherson, Sister Fallon is torn between her act and a chance at love.</p>
-          <h3>Tuesday, November 7th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=025E45AA-A86E-4799-AC7A-F7A637BD5096" target="_blank">7:00PM</a></u></h3>
+          <h3>John Huston &middot; 125m &middot; DCP</h3>
+          <p>Adapted from the play by Tennessee Williams, John Huston’s <i>The Night of the Iguana</i> follows the social and psychological decline of T. Lawrence Shannon (Richard Burton), a defrocked minister who now drives a tour bus in Puerto Vallarta. Shannon attempts to strand a bus of Baptist school teachers at a remote motel, where he sorts out his life with the help of two women (Ava Gardner and Deborah Kerr).</p>
+          <h3>Tuesday, November 14th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=DEDFB205-2516-494B-BB6D-1148B4ACE3BC" target="_blank">7:00PM</a></u></h3>
         </div>
         
-        <div id="pushing" class="anchor screening">
-          <a href="/calendar/Fall_2023/wednesday#lust-caution">
-            <h2>Pushing Hands (1991)</h2>
-            <img src="/images/2023fall/pushing-hands-1991.jpg" alt="Pushing Hands (1991) still">
+        <div id="the-devil" class="anchor screening">
+          <a href="/calendar/Fall_2023/wednesday#the-devil">
+            <h2>Ride With the Devil (1999)</h2>
+            <img src="/images/2023fall/the-devil-1999.jpg" alt="Ride With the Devil (1999) still">
           </a>
-          <h3>Ang Lee &middot; 105m &middot; DCP</h3>
-          <p>More than 30 years later, Ang Lee’s feature debut remains a testament to his skill as a director. The first in his "Father Knows Best" trilogy, <i>Pushing Hands</i> is centered on Mr. Chu—a Tai Chi master—who moves from Beijing to New York to stay with his son’s family. It's a warm and touching film, shaped by themes like clashing cultures and generational differences, which continue to appear in Lee’s later works.</p>
-          <h3>Wednesday, November 8th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=EEDCF4A7-986D-4A2A-9EFF-0D48EDA812B0" target="_blank">7:00PM</a></u></h3>
+          <h3>Ang Lee &middot; 138m &middot; Digital</h3>
+          <p>Ang Lee’s (non-typical) take on the Western! Set during the American Civil War, it follows friends Jake Roedel (Tobey Maguire) and Jack Bull Chiles (Skeet Ulrich) who join the Irregulars, a guerilla warfare unit fighting for the Confederacy. Notable for its exploration of unconventional narratives, an intimate, character-driven story, and Frederick Elmes’ beautiful cinematography,<i>Ride with the Devil</i>is one of Lee’s most interesting films.</p>
+          <h3>Wednesday, November 15th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=72E64D67-E486-4039-AE7B-370F5EBBC2B6" target="_blank">7:00PM</a></u></h3>
         </div>
 
-        <div id="strange" class="anchor screening">
-          <a href="calendar/Fall_2023/thursday-1#strange">
-            <h2>Strange Days (1995)</h2>
-            <img src="/images/2023fall/strange-days-1995.jpg" alt="Strange Days (1995) still">
+        <div id="millenium" class="anchor screening">
+          <a href="calendar/Fall_2023/thursday-1#millenium">
+            <h2>Millenium Mambo (2001)</h2>
+            <img src="/images/2023fall/millenium-mambo-2001.jpg" alt="Millenium Mambo (2001) still">
           </a>
-          <h3>Kathryn Bigelow &middot; 145m &middot; 35mm</h3>
-          <p>A Y2K cyberpunk thriller with Ralph Fiennes and Angela Bassett, directed by Kathryn Bigelow, based on a James Cameron story, with music by PJ Harvey– <i>Strange Days</i> must have been a smash hit! As it turns out, audiences were unprepared for the scathing commentary on Clinton-era racism and misogyny, and the uncanny predictions on technology. Seen as a hidden gem of ‘90s sci-fi maximalism, <i>Strange Days</i> has earned a reevaluation as a socially conscious, forward-thinking take on the near-future dystopia.</p>
-          <h3>Thursday, November 9th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=B38B8D99-2534-4D40-9CFA-D07676EE3091" target="_blank">7:00PM</a></u> &middot; 
-          Sunday, November 12th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=2711D647-88AC-48FE-9FFA-3CE946B49E69" target="_blank">3:00PM</a></u></h3>
+          <h3>Hou Hsiao-hsien &middot; 119m &middot; DCP</h3>
+          <p>Weren’t satisfied by our last Y2K spectacular? Well, here’s <i>Millennium Mambo</i>, the more melancholy take on the new millennium and one of Hou Hsiao-Hsien’s finest works. In the spirit of films like Wong Kar-Wai’s <i>Love Trilogy</i>, <i>Millennium Mambo</i> captures the ennui of youth and lost time as it charts Vicky’s (Shu Qi) bygone time on the dance floor in a rapidly changing Taipei.</p>
+          <h3>Thursday, November 16th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=5A3BA927-6A51-4F23-B5CE-B5FE62DF2BE2" target="_blank">7:00PM</a></u> &middot; 
+              Saturday, November 18th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=6901A86E-298A-4342-951F-3BB583F010D5" target="_blank">4:00PM</a></u></h3>
         </div>
 
-        <div id="seeds" class="anchor screening">
-          <a href="/calendar/Fall_2023/thursday-2#seeds">
-            <h2>Seeds of Sin (1968)</h2>
-            <img src="/images/2023fall/seeds-of-sin-1968.jpg" alt="Seeds of Sin (1968) still">
+        <div id="bad-girls" class="anchor screening">
+          <a href="/calendar/Fall_2023/thursday-2#bad-girls">
+            <h2>Bad Girls Go to Hell (1965)</h2>
+            <img src="/images/2023fall/bad-girls-go-to-hell-1965.jpg" alt="Bad Girls Go to Hell (1965) still">
           </a>
-          <h3>Andy Milligan &middot; 84m &middot; Digital</h3>
-          <p>A family of shitty kids and a miserable-ass mother get together for Christmas dinner. Drama ensues as secrets are revealed and soon a killer starts murdering the family members in gruesome ways. To some, this movie is just perverse and full of bad taste, reeking of a 42nd Street crowd's appetite, but beneath it there is a claustrophobic vision that may be of interest to enjoyers of such visceral experiences.</p>
-          <h3>Thursday, November 9th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=CFED8C44-F5EA-4267-9738-480720F1480D" target="_blank">9:30PM</a></u></h3>
+          <h3>Doris Wishman &middot; 65m &middot; DCP</h3>
+          <p>Doris Wishman’s 1965 sexploitation film pushes the genre into something much more horrifying (and perhaps honest). A woman kills the person who sexually assaulted her and goes on the run in New York City, but the city proves to be a layer of hell as she is abused again and again. With a unique editing style and a jazz score, Wishman creates an interesting, almost surreal atmosphere. Definitely a heavy watch.</p>
+          <h3>Thursday, November 16th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=27754B5B-B0D3-430B-9527-94A342FDD9AC" target="_blank">9:30PM</a></u></h3>
         </div>
 
-        <div id="gun-crazy" class="anchor screening">
-          <a href="/calendar/Fall_2023/friday#gun-crazy">
-            <h2>Gun Crazy (1950)</h2>
-            <img src="/images/2023fall/gun-crazy-1950.jpg" alt="Gun Crazy (1950) still">
+        <div id="porter" class="anchor screening">
+          <a href="/calendar/Fall_2023/friday#porter">
+            <h2>The Night Porter (1975)</h2>
+            <img src="/images/2023fall/the-night-porter-1975.jpg" alt="The Night Porter (1975) still">
           </a>
-          <h3>Joseph H. Lewis &middot; 87m &middot; 35mm</h3>
-          <p>Bart Tare, an ex-army man with a lifelong fixation on guns, meets Annie Starr, a sharpshooting carnival worker. The two strike up a hot-blooded romance centered around their shared fascination with firearms. When they find themselves broke and unemployed, Annie suggests they embark on a crime spree. An audacious and exhilarating film noir, <i>Gun Crazy</i> is a precursor to every lovers-on-the-run story that followed, including the ones of the French New Wave.</p>
-          <h3>Friday, November 10th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=427FF70E-BEBB-4DE7-A10A-126992B99299" target="_blank">7:00PM</a></u> &middot; 
-          Saturday, November 11th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=C347C578-EAF3-4A1F-B959-68D2C6BBBD1D" target="_blank">7:00PM</a></u></h3>
+          <h3>Liliana Cavani &middot; 118m &middot; Digital</h3>
+          <p>On a trip to Vienna with her husband, Lucia, a Holocaust survivor, encounters Max—a former SS officer, and her former torturer and lover. Reunited, the two recreate their sadomasochistic relationship; however, Max’s former SS comrades start to stalk them. Unsettling and controversial, <i>The Night Porter</i> intertwines the grief of the victim and the guilt and shame of the offender into an unflinching tale about remembering the atrocities of the Holocaust.</p>
+          <h3>Friday, November 17th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=1A3D184E-4353-469C-88E0-46BB3A04464C" target="_blank">7:00PM</a></u></h3>
         </div>
 
-        <div id="sambizanga" class="anchor screening">
-          <a href="calendar/Fall_2023/sunday#sambizanga">
-            <h2>Sambizanga (1972)</h2>
-            <img src="/images/2023fall/sambizanga-1972.jpg" alt="Sambizanga (1972) still">
+        <div id="bad-black" class="anchor screening">
+          <a href="/calendar/Fall_2023/special-events#bad-black">
+            <h2>Bad Black (2016)</h2>
+            <img src="/images/2023fall/bad-black-2016.jpg" alt="Bad Black (2016) still">
           </a>
-          <h3>Sarah Maldoror &middot; 97m &middot; DCP</h3>
-          <p>Made near the end of the Angolan War of Independence, <i>Sambizanga</i> is a rallying cry against Portuguese colonialism. A period piece set in the early days of the thirteen-year conflict, Maria (Elisa Andrade) searches for her husband, who has been imprisoned for his dissidence against the regime. Creating a moving portrait of countless Angolan freedom fighters, director Sarah Maldoror casts a particular gaze towards the role of women in anti-colonial struggle.</p>
-          <h3>6:30PM Sunday, November 12th</h3>
+        <h3>Nabwana Isaac Godfrey Geoffrey &middot; 68m &middot; DCP</h3>
+          <p>From the Ugandan slum studio Wakaliwood of cult <i>Who Killed Captain Alex?</i> fame comes this gonzo action-comedy. After Bad Black (Nalwanga Gloria), the biggest mafiosa in Uganda’s capital city, steals from an American doctor, he must team up with Kung fu kid Wesley Snipes (Rolean Kasule) to take back his family heirloom. Bear witness to the dizzying action and witty script born of a self-taught MacGyver director and a whopping $65 budget.</p>
+          <h3>Saturday, November 18th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=BEE7C099-FFDA-43BA-9DA8-D79A70BDF56F" target="_blank">7:00PM</a></u> &middot; 
+              Sunday, November 19th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=03DDB219-41B8-4253-80A0-03F9DC907EB8" target="_blank">3:00PM</a></u></h3>
+        </div>
+
+        <div id="nightmare" class="anchor screening">
+          <a href="calendar/Fall_2023/sunday#nightmare">
+            <h2>Perfurmed Nightmare (1977)</h2>
+            <img src="/images/2023fall/perfumed-nightmare-1977.jpg" alt="Perfumed Nightmare (1977) still">
+          </a>
+          <h3>Kidlat Tahimik &middot; 93m &middot; Digital</h3>        
+          <p><i>Introduced by Professor Ian Bryce Jones, Cinema and Media Studies.</i></p><p>A staple of South-East Asian Third Cinema, <i>Perfumed Nightmare</i> recounts the comic escapades of a jeepney driver intent on travelling to space. Quickly disillusioned by the toil of Western Europe, Kidlat (the main character and the director Kidlat Tahimik) transforms the film into a highly inventive satire of modern life and the supposed first world.</p>
+          <h3>6:30PM Sunday, November 19th</h3>
         </div>
 
       </div>

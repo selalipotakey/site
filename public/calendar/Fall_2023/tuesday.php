@@ -83,7 +83,7 @@
           <h3><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=025E45AA-A86E-4799-AC7A-F7A637BD5096" target="_blank">7:00PM</a></u> Tuesday, November 7th</h3>
         </div>
         
-        <div class="screening">
+        <div id="the-iguana" class="screening">
           <h2>The Night of the Iguana (1964)</h2>
           <img src="/images/2023fall/the-night-of-the-iguana-1964.jpg" alt="The Night of the Iguana (1964) still">
           <h3>John Huston &middot; 125m &middot; DCP</h3>

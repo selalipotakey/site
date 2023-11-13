@@ -73,7 +73,7 @@
           <h3><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=CEB1B7C5-0099-475B-A269-C6CA3DEB27E3" target="_blank">7:00PM</a></u> Monday, November 6th</h3>
         </div>
         
-        <div class="screening">
+        <div id="live-once" class="screening">
           <h2>You Only Live Once (1937)</h2>
           <img src="/images/2023fall/you-only-live-once-1937.jpg" alt="You Only Live Once (1937) still">
           <h3>Fritz Lang &middot; 86m &middot; DCP</h3>

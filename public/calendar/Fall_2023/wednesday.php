@@ -83,7 +83,7 @@
           <h3><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=EEDCF4A7-986D-4A2A-9EFF-0D48EDA812B0" target="_blank">7:00PM</a></u> Wednesday, November 8th</h3>
         </div>
         
-        <div class="screening">
+        <div id="the-devil" class="screening">
           <h2>Ride with the Devil (1999)</h2>
           <img src="/images/2023fall/ride-with-the-devil-1999.jpg" alt="Ride with the Devil (1999) still">
           <h3>Ang Lee &middot; 138m &middot; Digital</h3>

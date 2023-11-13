@@ -82,11 +82,10 @@
           <h3>6:30PM Sunday, November 12th</h3>
         </div>
         
-        <div class="screening">
+        <div id="nightmare" class="screening">
           <h2>Perfumed Nightmare (1977)</h2>
           <img src="/images/2023fall/perfumed-nightmare-1977.jpg" alt="Perfumed Nightmare (1977) still">
-          <h3>Kidlat Tahimik &middot; 93m &middot; Digital</h3>
-          
+          <h3>Kidlat Tahimik &middot; 93m &middot; Digital</h3>        
           <p><i>Introduced by Professor Ian Bryce Jones, Cinema and Media Studies.</i></p><p>A staple of South-East Asian Third Cinema, <i>Perfumed Nightmare</i> recounts the comic escapades of a jeepney driver intent on travelling to space. Quickly disillusioned by the toil of Western Europe, Kidlat (the main character and the director Kidlat Tahimik) transforms the film into a highly inventive satire of modern life and the supposed first world.</p>
           <h3>6:30PM Sunday, November 19th</h3>
         </div>
