@@ -465,7 +465,7 @@ main {
     border-radius: 50%;
     width: 15px;
     height: 15px;
-    background-color: transparent;
+    background-color: white;
     margin: 0 12px;
 }
 .carousel__indicator.current-slide {
