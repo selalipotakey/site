@@ -398,6 +398,7 @@ main {
 }
 .carousel__button img {
     width: 6rem;
+    border: 2.25px solid white;
 }
 
 .carousel__track-container {
@@ -459,7 +460,8 @@ main {
 }
 
 .carousel__indicator {
-    border: 2.25px solid #000000;
+    /*border: 2.25px solid #000000;*/
+    border: 2.25px solid white;
     border-radius: 50%;
     width: 15px;
     height: 15px;
@@ -467,7 +469,8 @@ main {
     margin: 0 12px;
 }
 .carousel__indicator.current-slide {
-    background-color: rgba(0,0,0,1);
+    /*background-color: rgba(0,0,0,1);*/
+    background-color: rgb(139, 0, 0);
 } 
 
 .is-hidden {
