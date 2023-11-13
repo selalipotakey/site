@@ -14,7 +14,75 @@
     <main>
 
       <?php $version='1.2'; include "./includes/dropdown.html";?>
-      <?php $version='1.2'; include "./includes/carousel.html";?>
+
+      <div class="information" style="width: 80%;">
+        <h1>
+          Upcoming Screenings:
+        </h1>
+        <div class="carousel">
+
+          <button class="carousel__button carousel__button--left is-hidden">
+            <img src="/images/site/chevron_left.svg" alt="left carousel button">
+          </button>
+
+          <div class="carousel__track-container">
+            <ul class="carousel__track">
+
+              <li class="carousel__slide">
+                <a href="/calendar/Fall_2023/special-events#strange">
+                  <img class="carousel__image" src="/images/2023fall/bad-black-2016.jpg" alt="Bad Black (2016) still">
+                </a>
+                <div class="description">
+                  <a href="/calendar/Fall_2023/special-events#bad-black">
+                    <p class="event-title fittext">
+                      <b>Bad Black (2016) &middot; Nabwana Isaac Godfrey Geoffrey &middot; 68m &middot; 11/18 7:00PM &middot; 11/19 3:00PM</b>
+                    </p>
+                  </a>
+                </div>
+              </li>
+
+              <li class="carousel__slide">
+                <a href="/calendar/Fall_2023/thursday-2#bad-girls">
+                  <img class="carousel__image" src="/images/2023fall/bad-girls-go-to-hell-1965.jpg" alt="Bad Girls Go to Hell (1965) still">
+                </a>
+                <div class="description">
+                  <a href="/calendar/Fall_2023/thursday-2#bad-girls">
+                    <p class="event-title fittext">
+                      <b>Bad Girls Go to Hell (1965) &middot; Doris Wishman &middot; 65m &middot; 11/16 9:30PM</b>
+                    </p>
+                  </a>
+                </div>
+              </li>
+
+              <li class="carousel__slide">
+                <a href="/calendar/Fall_2023/special-events#mothra">
+                  <img class="carousel__image" src="/images/2023fall/mothra-vs-godzilla-1964.jpg" alt="Mothra Vs. Godzilla // Ghidora, The Three-Headed Monster (1964) Ishiro Honda still">
+                </a>
+                <div class="description">
+                  <a href="/calendar/Fall_2023/thursday-1#strange">
+                    <p class="event-title fittext">
+                      <b>Mothra Vs. Godzilla // Ghidora, The Three-Headed Monster (1964) Ishiro Honda &middot; 89m // 93m &middot; 12/2 2:00PM</b>
+                    </p>
+                  </a>
+                </div>
+              </li>
+
+            </ul>
+          </div>
+
+          <button class="carousel__button carousel__button--right">
+            <img src="/images/site/chevron_right.svg" alt="right carousel button">
+          </button>
+
+          <div class="carousel__nav">
+            <button class="carousel__indicator current-slide"></button>
+            <button class="carousel__indicator"></button>
+            <button class="carousel__indicator"></button>
+          </div>
+        </div>
+        <br><br><br><br><br>
+
+      </div>
       
       <div class="screenings-list" style="width: 65%;">
 
