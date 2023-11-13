@@ -90,7 +90,7 @@
           <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=03DDB219-41B8-4253-80A0-03F9DC907EB8" target="_blank">3:00PM</a></u> Sunday, November 19th</h3>
         </div>
         
-        <div class="screening">
+        <div id="mothra" class="screening">
           <h2>Mothra Vs. Godzilla // Ghidora, The Three-Headed Monster (1964)</h2>
           <img src="/images/2023fall/mothra-vs-godzilla-1964.jpg" alt="Mothra Vs. Godzilla (1964) // Ghidora, The Three-Headed Monster (1964) still">
           <h3>Ishiro Honda &middot; 89m // 93m &middot; DCP</h3>
