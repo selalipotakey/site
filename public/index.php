@@ -103,7 +103,7 @@
           </a>
           <h3>Nora de Izcue &middot; 85m &middot; DCP</h3>
           <p>When the sociologist Miguel arrives in rural Peru, he quickly becomes entranced by the folkloric traditions of the land, as well as Nexy, a mysterious local haunted by her past. What follows is a hallucinatory dream of a film as Nexy disappears and Miguel attempts to use the psychedelic to learn about his lost companion. A visually arresting debut and the first Peruvian feature directed by a woman, this tropical romance exudes an energy entirely its own.</p>
-          <h3>6:30PM Sunday, December 3rd</h3>
+          <h3>Sunday, December 3rd 6:30PM</h3>
         </div>
 
       </div>
