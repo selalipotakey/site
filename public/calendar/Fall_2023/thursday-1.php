@@ -84,7 +84,7 @@
           <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=6901A86E-298A-4342-951F-3BB583F010D5" target="_blank">4:00PM</a></u> Saturday, November 18th</h3>
         </div>
          
-        <div class="screening">
+        <div id="ema" class="screening">
           <h2>Ema (2019)</h2>
           <img src="/images/2023fall/ema-2019.jpg" alt="Ema (2019) still">
           <h3>Pablo Larraín &middot; 107m &middot; DCP</h3>

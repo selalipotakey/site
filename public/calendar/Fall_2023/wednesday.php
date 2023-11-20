@@ -91,7 +91,7 @@
           <h3><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=72E64D67-E486-4039-AE7B-370F5EBBC2B6" target="_blank">7:00PM</a></u> Wednesday, November 15th</h3>
         </div>
          
-        <div class="screening">
+        <div id="hulk" class="screening">
           <h2>Hulk (2003)</h2>
           <img src="/images/2023fall/hulk-2003.jpg" alt="Hulk (2003) still">
           <h3>Ang Lee &middot; 138m &middot; 35mm</h3>

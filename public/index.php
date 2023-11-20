@@ -22,89 +22,88 @@
       <div class="text-section">
           <h1>This Week: </h1>
           <h3><i>$7 tickets, theater opens 30 minutes before the screening.</i></h3> 
-          </h3>
+          <h3>We are closed for this week but will be back on Monday, November 27th!</h3>
         </div>
 
-        <div id="live-once" class="anchor screening">
-          <a href="calendar/Fall_2023/monday#live-once">
-            <h2>You Only Live Once (1937)</h2>
-            <img src="/images/2023fall/you-only-live-once-1937.jpg" alt="You Only Live Once (1937) still">
+        <div id="piccadilly" class="anchor screening">
+          <a href="calendar/Fall_2023/monday#piccadilly">
+            <h2>Piccadilly (1929)</h2>
+            <img src="/images/2023fall/piccadilly-1929.jpg" alt="Piccadilly (1929) still">
           </a>
-          <h3>Fritz Lang &middot; 86m &middot; DCP</h3>
-          <p>Reformed ex-convict Eddie Taylor (Henry Fonda) can’t catch a break; when he’s framed for murder, he goes on the lam with his lawyer’s sympathetic secretary (Sylvia Sidney). Fritz Lang’s haunting, socially conscious melodrama has been called his best American film. Critic Dave Kehr noted that Lang’s style here had a huge influence on film noir: “it’s always night, usually raining, and the camera hovers over the characters like the heavy hand of fate.”</p>
-          <h3>Monday, November 13th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=94E3169A-2FED-4927-9B02-EAA50E1CF3E9" target="_blank">7:00PM</a></u></h3>
+          <h3>E.A. Dupont &middot; 109m &middot; 35mm</h3>
+          <p>Though she began her career in Hollywood, the groundbreaking Chinese-American actress Anna May Wong found her greatest roles abroad. In <i>Piccadilly</i>, she gives a mesmerizing performance as a dancer whose involvement in an interracial romance becomes her undoing. Made in England and helmed by German expressionist master E.A. Dupont, Piccadilly boasts dazzling camera work, spectacular sets and costumes, and a pervasive atmosphere of erotic doom.</p>
+          <h3>Monday, November 27th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=3CCF08BE-350E-4645-8CCB-F059C7F422F6" target="_blank">7:00PM</a></u></h3>
         </div>
 
-        <div id="the-iguana" class="anchor screening">
-          <a href="/calendar/Fall_2023/tuesday#the-iguana">
-            <h2>The Night of the Iguana (1964)</h2>
-            <img src="/images/2023fall/the-night-of-the-iguana-1964.jpg" alt="The Night of the Iguana (1964) still">
+        <div id="apostle" class="anchor screening">
+          <a href="/calendar/Fall_2023/tuesday#apostle">
+            <h2>The Apostle (1997)</h2>
+            <img src="/images/2023fall/the-apostle-1997.jpg" alt="The Apostle (1997) still">
           </a>
-          <h3>John Huston &middot; 125m &middot; DCP</h3>
-          <p>Adapted from the play by Tennessee Williams, John Huston’s <i>The Night of the Iguana</i> follows the social and psychological decline of T. Lawrence Shannon (Richard Burton), a defrocked minister who now drives a tour bus in Puerto Vallarta. Shannon attempts to strand a bus of Baptist school teachers at a remote motel, where he sorts out his life with the help of two women (Ava Gardner and Deborah Kerr).</p>
-          <h3>Tuesday, November 14th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=DEDFB205-2516-494B-BB6D-1148B4ACE3BC" target="_blank">7:00PM</a></u></h3>
+          <h3>Robert Duvall &middot; 134m &middot; DCP</h3>
+          <p>Robert Duvall wrote, directed, financed, and starred in <i>The Apostle</i>, a humanistic portrait of a Pentecostal preacher named Sonny who goes on the run after killing his wife’s lover. Re-christening himself, Sonny lands in a small Louisiana town and begins preaching on a local radio station. Without cynicism, <i>The Apostle</i> captures the rhythm, artistry, and humanity of charismatic preaching.</p>
+          <h3>Tuesday, November 28th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=A81A10C4-BE7D-4C31-A29F-3ADBBDF465E5" target="_blank">7:00PM</a></u></h3>
         </div>
         
-        <div id="the-devil" class="anchor screening">
-          <a href="/calendar/Fall_2023/wednesday#the-devil">
-            <h2>Ride With the Devil (1999)</h2>
-            <img src="/images/2023fall/ride-with-the-devil-1999.jpg" alt="Ride With the Devil (1999) still">
+        <div id="hulk" class="anchor screening">
+          <a href="/calendar/Fall_2023/wednesday#hulk">
+            <h2>Hulk (2003)</h2>
+            <img src="/images/2023fall/hulk-2003.jpg" alt="Hulk (2003) still">
           </a>
-          <h3>Ang Lee &middot; 138m &middot; Digital</h3>
-          <p>Ang Lee’s (non-typical) take on the Western! Set during the American Civil War, it follows friends Jake Roedel (Tobey Maguire) and Jack Bull Chiles (Skeet Ulrich) who join the Irregulars, a guerilla warfare unit fighting for the Confederacy. Notable for its exploration of unconventional narratives, an intimate, character-driven story, and Frederick Elmes’ beautiful cinematography,<i>Ride with the Devil</i>is one of Lee’s most interesting films.</p>
-          <h3>Wednesday, November 15th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=72E64D67-E486-4039-AE7B-370F5EBBC2B6" target="_blank">7:00PM</a></u></h3>
+          <h3>Ang Lee &middot; 138m &middot; 35mm</h3>
+          <p>Visually ambitious and incredibly dynamic, <i>Hulk</i> is unlike any other superhero film, bursting with bold creativity and technical innovation. It explores the origins of Hulk—the green-skinned monster that Dr. Bruce Banner transforms into after an experiment gone wrong—and is noteworthy for its portrayal of the character’s emotional aspects. Ang Lee’s <i>Hulk</i> is a must-see for those wanting both thrilling action and a nuanced depiction of Bruce Banner.</p>
+          <h3>Wednesday, November 29th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=E130A604-6B91-48EF-BA65-B4FAC10E34EC" target="_blank">7:00PM</a></u></h3>
         </div>
 
-        <div id="millenium" class="anchor screening">
-          <a href="calendar/Fall_2023/thursday-1#millenium">
-            <h2>Millennium Mambo (2001)</h2>
-            <img src="/images/2023fall/millennium-mambo-2001.jpg" alt="Millennium Mambo (2001) still">
+        <div id="ema" class="anchor screening">
+          <a href="calendar/Fall_2023/thursday-1#ema">
+            <h2>Ema (2019)</h2>
+            <img src="/images/2023fall/ema-2019.jpg" alt="Ema (2019) still">
           </a>
-          <h3>Hou Hsiao-hsien &middot; 119m &middot; DCP</h3>
-          <p>Weren’t satisfied by our last Y2K spectacular? Well, here’s <i>Millennium Mambo</i>, the more melancholy take on the new millennium and one of Hou Hsiao-Hsien’s finest works. In the spirit of films like Wong Kar-Wai’s <i>Love Trilogy</i>, <i>Millennium Mambo</i> captures the ennui of youth and lost time as it charts Vicky’s (Shu Qi) bygone time on the dance floor in a rapidly changing Taipei.</p>
-          <h3>Thursday, November 16th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=5A3BA927-6A51-4F23-B5CE-B5FE62DF2BE2" target="_blank">7:00PM</a></u> &middot; 
-              Saturday, November 18th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=6901A86E-298A-4342-951F-3BB583F010D5" target="_blank">4:00PM</a></u></h3>
+          <h3>Pablo Larraín &middot; 107m &middot; DCP</h3>
+          <p>We all need a little more experimental reggaetón in our lives. <i>Ema</i> captures the raw emotion of a bitter divorce and filters it through electrifying dance performances and an unhealthy dose of pyromania. Surreal and excruciatingly accurate, Pablo Larraín’s visually sumptuous return to Chilean cinema is led by the dynamism of Gael García Bernal and Mariana Di Girolamo—accompanied by an equally expressive score by fellow countryman Nicolás Jaar.</p>
+          <h3>Thursday, November 30th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=1781787A-1679-4372-B4F8-1A44EC05595B" target="_blank">7:00PM</a></u></h3>
         </div>
 
-        <div id="bad-girls" class="anchor screening">
-          <a href="/calendar/Fall_2023/thursday-2#bad-girls">
-            <h2>Bad Girls Go to Hell (1965)</h2>
-            <img src="/images/2023fall/bad-girls-go-to-hell-1965.jpg" alt="Bad Girls Go to Hell (1965) still">
+        <div id="combat" class="anchor screening">
+          <a href="/calendar/Fall_2023/thursday-2#combat">
+            <h2>Combat Shock (1984)</h2>
+            <img src="/images/2023fall/combat-shock-1984.jpg" alt="Combat Shock (1984) still">
           </a>
-          <h3>Doris Wishman &middot; 65m &middot; DCP</h3>
-          <p>Doris Wishman’s 1965 sexploitation film pushes the genre into something much more horrifying (and perhaps honest). A woman kills the person who sexually assaulted her and goes on the run in New York City, but the city proves to be a layer of hell as she is abused again and again. With a unique editing style and a jazz score, Wishman creates an interesting, almost surreal atmosphere. Definitely a heavy watch.</p>
-          <h3>Thursday, November 16th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=27754B5B-B0D3-430B-9527-94A342FDD9AC" target="_blank">9:30PM</a></u></h3>
+          <h3>Buddy Giovinazzo &middot; 91m &middot; DCP</h3>
+          <p>One of the most nihilistic anti-war movies to exist. A Vietnam vet returns home to New York, where his inability to get a job, grimy lifestyle, and lasting PTSD plunge him further and further into losing grip on his sanity until the shocking end. Everything in this movie feels bleak and like the world is crumbling. <i>Combat Shock</i> marks the beginning of Buddy Giovinazzo’s career as a director and stars his brother Rick in the leading role.</p>
+          <h3>Thursday, November 30th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=6D5E03D1-6A3B-4B26-A729-9B873208280B" target="_blank">9:30PM</a></u></h3>
         </div>
 
-        <div id="porter" class="anchor screening">
-          <a href="/calendar/Fall_2023/friday#porter">
-            <h2>The Night Porter (1974)</h2>
-            <img src="/images/2023fall/the-night-porter-1974.jpg" alt="The Night Porter (1974) still">
+        <div id="written" class="anchor screening">
+          <a href="/calendar/Fall_2023/friday#written">
+            <h2>Written on the Wind (1956)</h2>
+            <img src="/images/2023fall/written-on-the-wind-1956.jpg" alt="Written on the Wind (1956) still">
           </a>
-          <h3>Liliana Cavani &middot; 118m &middot; Digital</h3>
-          <p>On a trip to Vienna with her husband, Lucia, a Holocaust survivor, encounters Max—a former SS officer, and her former torturer and lover. Reunited, the two recreate their sadomasochistic relationship; however, Max’s former SS comrades start to stalk them. Unsettling and controversial, <i>The Night Porter</i> intertwines the grief of the victim and the guilt and shame of the offender into an unflinching tale about remembering the atrocities of the Holocaust.</p>
-          <h3>Friday, November 17th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=1A3D184E-4353-469C-88E0-46BB3A04464C" target="_blank">7:00PM</a></u></h3>
+          <h3>Douglas Sirk &middot; 99m &middot; DCP</h3>
+          <p>In this operatic tragedy, Mitch, a geologist, begins working for his best friend’s debased Texas oil family. However, when he falls in love with his friend’s unsatisfied wife, Lucy (Lauren Bacall), their affair unleashes a torrent of psychosexual angst, jealousy, and a murder accusation by the family’s debaucherous daughter Marylee. In this feverish melodrama, Douglass Sirk crafts some of his most florid technicolor visuals and most scathing critiques of American culture.</p>
+          <h3>Friday, December 1st <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=75FAD14F-68DA-4738-AF6A-CCAEA66E4861" target="_blank">7:00PM</a></u></h3>
         </div>
 
-        <div id="bad-black" class="anchor screening">
-          <a href="/calendar/Fall_2023/special-events#bad-black">
-            <h2>Bad Black (2016)</h2>
-            <img src="/images/2023fall/bad-black-2016.jpg" alt="Bad Black (2016) still">
+        <div id="full-metal" class="anchor screening">
+          <a href="/calendar/Fall_2023/special-events#full-metal">
+            <h2>Full Metal Jacket (1987)</h2>
+            <img src="/images/2023fall/full-metal-jacket-1987.jpg" alt="Full Metal Jacket (1987) still">
           </a>
-        <h3>Nabwana Isaac Godfrey Geoffrey &middot; 68m &middot; DCP</h3>
-          <p>From the Ugandan slum studio Wakaliwood of cult <i>Who Killed Captain Alex?</i> fame comes this gonzo action-comedy. After Bad Black (Nalwanga Gloria), the biggest mafiosa in Uganda’s capital city, steals from an American doctor, he must team up with Kung fu kid Wesley Snipes (Rolean Kasule) to take back his family heirloom. Bear witness to the dizzying action and witty script born of a self-taught MacGyver director and a whopping $65 budget.</p>
-          <h3>Saturday, November 18th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=BEE7C099-FFDA-43BA-9DA8-D79A70BDF56F" target="_blank">7:00PM</a></u> &middot; 
-              Sunday, November 19th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=03DDB219-41B8-4253-80A0-03F9DC907EB8" target="_blank">3:00PM</a></u></h3>
+          <h3>Stanley Kubrick &middot; 116m &middot; 35mm</h3>
+          <p>Based on a 1979 novel, Stanley Kubrick's <i>Full Metal Jacket</i> follows two privates as they struggle through rigorous military training, each earning a pejorative nickname from their hard-as-nails drill sergeant: 'Joker'  (Matthew Modine) and 'Pyle' (Vincent D'Onofrio). When Joker graduates to a journalist and is sent into the thick of the battlefield, he finds himself ensconced within the Battle of Hué, facing danger, loss, and moral dilemmas.</p>
+          <h3>Saturday, December 2nd <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=57F01004-C4A6-42EF-9899-1585A3F1E52A" target="_blank">7:00PM</a></u> &middot; 
+              Sunday, December 3rd <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=DC770C90-8025-4916-984F-7317F2D986F9" target="_blank">3:00PM</a></u></h3>
         </div>
 
-        <div id="nightmare" class="anchor screening">
-          <a href="calendar/Fall_2023/sunday#nightmare">
-            <h2>Perfurmed Nightmare (1977)</h2>
-            <img src="/images/2023fall/perfumed-nightmare-1977.jpg" alt="Perfumed Nightmare (1977) still">
+        <div id="ayahuasca" class="anchor screening">
+          <a href="calendar/Fall_2023/sunday#ayahuasca">
+            <h2>The Wind of Ayahuasca (1982)</h2>
+            <img src="/images/2023fall/the-wind-of-ayahuasca-1982.jpg" alt="The Wind of Ayahuasca (1982) still">
           </a>
-          <h3>Kidlat Tahimik &middot; 93m &middot; Digital</h3>        
-          <p><i>Introduced by Professor Ian Bryce Jones, Cinema and Media Studies.</i></p><p>A staple of South-East Asian Third Cinema, <i>Perfumed Nightmare</i> recounts the comic escapades of a jeepney driver intent on travelling to space. Quickly disillusioned by the toil of Western Europe, Kidlat (the main character and the director Kidlat Tahimik) transforms the film into a highly inventive satire of modern life and the supposed first world.</p>
-          <h3>6:30PM Sunday, November 19th</h3>
+          <h3>Nora de Izcue &middot; 85m &middot; DCP</h3>
+          <p>When the sociologist Miguel arrives in rural Peru, he quickly becomes entranced by the folkloric traditions of the land, as well as Nexy, a mysterious local haunted by her past. What follows is a hallucinatory dream of a film as Nexy disappears and Miguel attempts to use the psychedelic to learn about his lost companion. A visually arresting debut and the first Peruvian feature directed by a woman, this tropical romance exudes an energy entirely its own.</p>
+          <h3>6:30PM Sunday, December 3rd</h3>
         </div>
 
       </div>

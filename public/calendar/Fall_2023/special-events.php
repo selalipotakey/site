@@ -99,7 +99,7 @@
           <h3><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=ED1D63B3-F035-45C4-823E-84DD759C1E2C" target="_blank">2:00PM</a></u> Saturday, December 2nd</h3>
         </div>
         
-        <div class="screening">
+        <div id="full-metal" class="screening">
           <h2>Full Metal Jacket (1987)</h2>
           <img src="/images/2023fall/full-metal-jacket-1987.jpg" alt="Full Metal Jacket (1987) still">
           <h3>Stanley Kubrick &middot; 116m &middot; 35mm</h3>

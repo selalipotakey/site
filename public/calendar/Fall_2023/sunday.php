@@ -90,7 +90,7 @@
           <h3>6:30PM Sunday, November 19th</h3>
         </div>
         
-        <div class="screening">
+        <div id="ayahuasca" class="screening">
           <h2>The Wind of Ayahuasca (1982)</h2>
           <img src="/images/2023fall/the-wind-of-ayahuasca-1982.jpg" alt="The Wind of Ayahuasca (1982) still">
           <h3>Nora de Izcue &middot; 85m &middot; DCP</h3>

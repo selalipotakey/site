@@ -89,7 +89,7 @@
           <h3><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=27754B5B-B0D3-430B-9527-94A342FDD9AC" target="_blank">9:30PM</a></u> Thursday, November 16th</h3>
         </div>
         
-        <div class="screening">
+        <div id="combat" class="screening">
           <h2>Combat Shock (1984)</h2>
           <img src="/images/2023fall/combat-shock-1984.jpg" alt="Combat Shock (1984) still">
           <h3>Buddy Giovinazzo &middot; 91m &middot; DCP</h3>

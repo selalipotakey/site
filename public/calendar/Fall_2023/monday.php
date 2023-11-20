@@ -81,7 +81,7 @@
           <h3><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=94E3169A-2FED-4927-9B02-EAA50E1CF3E9" target="_blank">7:00PM</a></u> Monday, November 13th</h3>
         </div>
         
-        <div class="screening">
+        <div id="piccadilly" class="screening">
           <h2>Piccadilly (1929)</h2>
           <img src="/images/2023fall/piccadilly-1929.jpg" alt="Piccadilly (1929) still">
           <h3>E.A. Dupont &middot; 109m &middot; 35mm</h3>

@@ -91,7 +91,7 @@
           <h3><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=DEDFB205-2516-494B-BB6D-1148B4ACE3BC" target="_blank">7:00PM</a></u> Tuesday, November 14th</h3>
         </div>
         
-        <div class="screening">
+        <div id="apostle" class="screening">
           <h2>The Apostle (1997)</h2>
           <img src="/images/2023fall/the-apostle-1997.jpg" alt="The Apostle (1997) still">
           <h3>Robert Duvall &middot; 134m &middot; DCP</h3>

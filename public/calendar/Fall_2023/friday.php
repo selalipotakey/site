@@ -92,7 +92,7 @@
           <h3><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=1A3D184E-4353-469C-88E0-46BB3A04464C" target="_blank">7:00PM</a></u> Friday, November 17th</h3>
         </div>
         
-        <div class="screening">
+        <div id="written" class="screening">
           <h2>Written on the Wind (1956)</h2>
           <img src="/images/2023fall/written-on-the-wind-1956.jpg" alt="Written on the Wind (1956) still">
           <h3>Douglas Sirk &middot; 99m &middot; DCP</h3>
