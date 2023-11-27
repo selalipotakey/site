@@ -85,6 +85,16 @@
           <h3>Friday, December 1st <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=75FAD14F-68DA-4738-AF6A-CCAEA66E4861" target="_blank">7:00PM</a></u></h3>
         </div>
 
+        <div id="mothra" class="anchor screening">
+          <a href="/calendar/Fall_2023/special-events#mothra">
+            <h2>Mothra Vs. Godzilla // Ghidora, The Three-Headed Monster (1964)</h2>
+            <img src="/images/2023fall/mothra-vs-godzilla-1964.jpg" alt="Mothra Vs. Godzilla (1964) // Ghidora, The Three-Headed Monster (1964) still">
+          </a>
+          <h3>Ishiro Honda &middot; 89m // 93m &middot; DCP</h3>
+          <p><i>Sponsored by The Brothers Valauskas. A companion feature to the exhibit Bibliosaurus! Exclusively at Special Collections in the Regenstein Library, opening January 2, 2024, through April 26.</i></p><p><i>Mothra</i> is a fantastical showcase of the Showa Era's flashy battes and goofy but impressive practical effects. It's also a critique of corporate Japan and the envrionmental toll of nuclear testing. Plus, <i>Ghidora</i> smashes in with an all-star Kaiju cast, as Rodan, Mothra, and Godzilla team up against the titular titan. With aliens, assassins, and political intrigue, <i>Ghidora</i> (and <i>Mothra!</i>) make for a one-of-a-kind experience to see on the big screen.</p>
+          <h3>Saturday, December 2nd <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=ED1D63B3-F035-45C4-823E-84DD759C1E2C" target="_blank">2:00PM</a></u></h3>
+        </div>
+
         <div id="full-metal" class="anchor screening">
           <a href="/calendar/Fall_2023/special-events#full-metal">
             <h2>Full Metal Jacket (1987)</h2>
