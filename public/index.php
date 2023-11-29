@@ -22,7 +22,6 @@
       <div class="text-section">
           <h1>This Week: </h1>
           <h3><i>$7 tickets, theater opens 30 minutes before the screening.</i></h3> 
-          <h3>We are closed for this week but will be back on Monday, November 27th!</h3>
         </div>
 
         <div id="piccadilly" class="anchor screening">
