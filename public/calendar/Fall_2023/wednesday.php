@@ -82,14 +82,6 @@
           <p>More than 30 years later, Ang Lee’s feature debut remains a testament to his skill as a director. The first in his "Father Knows Best" trilogy, <i>Pushing Hands</i> is centered on Mr. Chu—a Tai Chi master—who moves from Beijing to New York to stay with his son’s family. It's a warm and touching film, shaped by themes like clashing cultures and generational differences, which continue to appear in Lee’s later works.</p>
           <h3><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=EEDCF4A7-986D-4A2A-9EFF-0D48EDA812B0" target="_blank">7:00PM</a></u> Wednesday, November 8th</h3>
         </div>
-        
-        <div id="the-devil" class="screening">
-          <h2>Ride with the Devil (1999)</h2>
-          <img src="/images/2023fall/ride-with-the-devil-1999.jpg" alt="Ride with the Devil (1999) still">
-          <h3>Ang Lee &middot; 138m &middot; Digital</h3>
-          <p>Ang Lee’s (non-typical) take on the Western! Set during the American Civil War, it follows friends Jake Roedel (Tobey Maguire) and Jack Bull Chiles (Skeet Ulrich) who join the Irregulars, a guerilla warfare unit fighting for the Confederacy. Notable for its exploration of unconventional narratives, an intimate, character-driven story, and Frederick Elmes’ beautiful cinematography,<i>Ride with the Devil</i>is one of Lee’s most interesting films.</p>
-          <h3><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=72E64D67-E486-4039-AE7B-370F5EBBC2B6" target="_blank">7:00PM</a></u> Wednesday, November 15th</h3>
-        </div>
          
         <div id="hulk" class="screening">
           <h2>Hulk (2003)</h2>
@@ -97,6 +89,14 @@
           <h3>Ang Lee &middot; 138m &middot; 35mm</h3>
           <p>Visually ambitious and incredibly dynamic, <i>Hulk</i> is unlike any other superhero film, bursting with bold creativity and technical innovation. It explores the origins of Hulk—the green-skinned monster that Dr. Bruce Banner transforms into after an experiment gone wrong—and is noteworthy for its portrayal of the character’s emotional aspects. Ang Lee’s <i>Hulk</i> is a must-see for those wanting both thrilling action and a nuanced depiction of Bruce Banner.</p>
           <h3><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=E130A604-6B91-48EF-BA65-B4FAC10E34EC" target="_blank">7:00PM</a></u> Wednesday, November 29th</h3>
+        </div>
+
+        <div id="the-devil" class="screening">
+          <h2>Ride with the Devil (1999)</h2>
+          <img src="/images/2023fall/ride-with-the-devil-1999.jpg" alt="Ride with the Devil (1999) still">
+          <h3>Ang Lee &middot; 138m &middot; Digital</h3>
+          <p>Ang Lee’s (non-typical) take on the Western! Set during the American Civil War, it follows friends Jake Roedel (Tobey Maguire) and Jack Bull Chiles (Skeet Ulrich) who join the Irregulars, a guerilla warfare unit fighting for the Confederacy. Notable for its exploration of unconventional narratives, an intimate, character-driven story, and Frederick Elmes’ beautiful cinematography,<i>Ride with the Devil</i>is one of Lee’s most interesting films.</p>
+          <h3><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=72E64D67-E486-4039-AE7B-370F5EBBC2B6" target="_blank">11:00AM</a></u> Saturday, December 2nd</h3>
         </div>
         
       </div>

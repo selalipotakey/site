@@ -21,7 +21,9 @@
       <br>
       <div class="text-section">
           <h1>This Week: </h1>
-          <h3><i>$7 tickets, theater opens 30 minutes before the screening.</i></h3> 
+          <h3><i>$7 tickets, theater opens 30 minutes before the screening.</i></h3>
+          <h3>Ang Lee's <i>Ride With the Devil</i> (1999) has been rescheduled for Saturday, December 2nd at 11:00AM.<h3>
+          <h3>We apologize for any inconvenience.</h3>
         </div>
 
         <div id="piccadilly" class="anchor screening">
@@ -82,6 +84,16 @@
           <h3>Douglas Sirk &middot; 99m &middot; DCP</h3>
           <p>In this operatic tragedy, Mitch, a geologist, begins working for his best friend’s debased Texas oil family. However, when he falls in love with his friend’s unsatisfied wife, Lucy (Lauren Bacall), their affair unleashes a torrent of psychosexual angst, jealousy, and a murder accusation by the family’s debaucherous daughter Marylee. In this feverish melodrama, Douglass Sirk crafts some of his most florid technicolor visuals and most scathing critiques of American culture.</p>
           <h3>Friday, December 1st <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=75FAD14F-68DA-4738-AF6A-CCAEA66E4861" target="_blank">7:00PM</a></u></h3>
+        </div>
+
+        <div id="devil" class="anchor screening">
+          <a href="/calendar/Fall_2023/wednesday#devil">
+            <h2>Ride With the Devil (1999)</h2>
+            <img src="/images/2023fall/ride-with-the-devil-1999.jpg" alt="Ride With the Devil (1999) still">
+          </a>
+          <h3>Ang Lee &middot; 138m &middot; Digital</h3>
+          <p>Ang Lee’s (non-typical) take on the Western! Set during the American Civil War, it follows friends Jake Roedel (Tobey Maguire) and Jack Bull Chiles (Skeet Ulrich) who join the Irregulars, a guerilla warfare unit fighting for the Confederacy. Notable for its exploration of unconventional narratives, an intimate, character-driven story, and Frederick Elmes’ beautiful cinematography,<i>Ride with the Devil</i>is one of Lee’s most interesting films.</p>
+          <h3>Saturday, December 2nd <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=72E64D67-E486-4039-AE7B-370F5EBBC2B6" target="_blank">11:00AM</a></u></h3>
         </div>
 
         <div id="mothra" class="anchor screening">
