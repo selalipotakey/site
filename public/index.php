@@ -24,6 +24,7 @@
           <h3><i>$7 tickets, theater opens 30 minutes before the screening.</i></h3>
           <h3>Doc Films will be back next quarter!<h3>
         </div>
+      </div>
 <!--
         <div id="piccadilly" class="anchor screening">
           <a href="calendar/Fall_2023/monday#piccadilly">
@@ -125,14 +126,14 @@
           <p>When the sociologist Miguel arrives in rural Peru, he quickly becomes entranced by the folkloric traditions of the land, as well as Nexy, a mysterious local haunted by her past. What follows is a hallucinatory dream of a film as Nexy disappears and Miguel attempts to use the psychedelic to learn about his lost companion. A visually arresting debut and the first Peruvian feature directed by a woman, this tropical romance exudes an energy entirely its own.</p>
           <h3>Sunday, December 3rd 6:30PM</h3>
         </div>
--->
+
       </div>
 
     <h1 style="text-align: center; margin-bottom: 1vw;">Doc Films Fall 2023 Calendar</h1>
     <img src="images/2023fall/Autumn Calendar Pictures/FULLcal.jpg" style="max-width: 95vw; margin: auto; margin-bottom: 2vw; display: block;"></img>
     <img src="images/2023fall/Autumn Calendar Pictures/FULLseries.jpg" style="max-width: 95vw; margin: auto; display: block;"></img>
     <h2 style="text-align: center; font-size: 1.5rem; margin-top: 1vw; margin-bottom: 1vw;">Designed by Eli Harrell</h2>
-        
+-->      
     </main>
     
     <?php include "./includes/footer.html" ?>
