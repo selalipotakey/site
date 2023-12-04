@@ -22,10 +22,9 @@
       <div class="text-section">
           <h1>This Week: </h1>
           <h3><i>$7 tickets, theater opens 30 minutes before the screening.</i></h3>
-          <h3>Ang Lee's <i>Ride With the Devil</i> (1999) has been rescheduled for Saturday, December 2nd at 11:00AM.<h3>
-          <h3>We apologize for any inconvenience.</h3>
+          <h3>Doc Films will be backnext quarter!<h3>
         </div>
-
+<!--
         <div id="piccadilly" class="anchor screening">
           <a href="calendar/Fall_2023/monday#piccadilly">
             <h2>Piccadilly (1929)</h2>
@@ -128,7 +127,7 @@
         </div>
 
       </div>
-
+-->
     <h1 style="text-align: center; margin-bottom: 1vw;">Doc Films Fall 2023 Calendar</h1>
     <img src="images/2023fall/Autumn Calendar Pictures/FULLcal.jpg" style="max-width: 95vw; margin: auto; margin-bottom: 2vw; display: block;"></img>
     <img src="images/2023fall/Autumn Calendar Pictures/FULLseries.jpg" style="max-width: 95vw; margin: auto; display: block;"></img>
