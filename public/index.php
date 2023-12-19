@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Home</title>
-    <link rel="stylesheet" type="text/css" href="/style.css?ver=1.2">
+    <link rel="stylesheet" type="text/css" href="/carousel_style.css?ver=1.2">
   </head>
 
   <body>
@@ -14,7 +14,7 @@
     <main>
 
       <?php $version='1.2'; include "./includes/dropdown.html";?>
-      <?php $version='1.2'; include "./includes/carousel.html";?>
+      <?php $version='1.2'; include "./includes/carousel-1.html";?>
       
       <div class="screenings-list" style="width: 65%;">
 
@@ -139,7 +139,7 @@
     <?php include "./includes/footer.html" ?>
 
 
-    <script src="/js/carousel.js"></script>
+    <script src="/js/carousel_hypo.js"></script>
     <script src="/js/fit-carousel-slide.js"></script>
     <script src="/js/resize-menu.js"></script>
     

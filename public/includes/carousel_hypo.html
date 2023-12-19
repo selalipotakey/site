@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Home</title>
+    <link rel="stylesheet" type="text/css" href="carousel_hypo_style.css">
+  </head>
+
+  <body>
+    <div class="carousel">
+        <button class="carousel__button carousel__button--left is-hidden">
+            <img src="images/carousel_button_left.png" alt="">
+        </button>
+        <div class="carousel__track-container">
+            <ul class="carousel__track">
+                <li class="carousel__slide-container current-slide">
+                    <div class="carousel__slide">
+                        <div class="tag">1 blah blah blah 1</div>
+                        <img class="carousel__image" src="images/tricot.jpg" alt="some movie">
+                    </div>
+                </li>
+                <li class="carousel__slide-container">
+                    <div class="carousel__slide">
+                        <div class="tag">2 blah blah blah 2</div>
+                        <img class="carousel__image" src="images/tricot.jpg" alt="some movie">
+                    </div>
+                </li>
+                <li class="carousel__slide-container">
+                    <div class="carousel__slide">
+                        <div class="tag">3 blah blah blah 3</div>
+                        <img class="carousel__image" src="images/tricot.jpg" alt="some movie">
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <button class="carousel__button carousel__button--right">
+            <img src="images/carousel_button_right.png" alt="">
+        </button>
+        <div class="carousel__nav">
+            <button class="carousel__indicator current-slide"></button>
+            <button class="carousel__indicator"></button>
+            <button class="carousel__indicator"></button>
+        </div>
+    </div>
+    <script src="carousel_hypo.js"></script>
+    
+  </body>
+</html>

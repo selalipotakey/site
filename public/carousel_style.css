@@ -1,174 +1,818 @@
+/* general stuff */
+* {
+    margin: 0;               /* sets the space around any element to 0 */
+    padding: 0;              /* sets the space between content inside an element and the element's border to 0 */
+    box-sizing: border-box;     /* makes arranging css boxes easier. makes it so width/height include content AND padding+border */
+    font-family: Helvetica, Arial, sans-serif;
+}
+
 section {
     background: #f4f4f4;
     padding: 50px 0;
 }
-.container {
-    max-width: 1044px;
-    margin: 0 auto;
-    padding: 0 20px;
+
+:root {
+    --header-height: 9rem;
+    --footer-height: 8.5rem;
+    --overlay-footer-height: 6.5rem;
+    --carousel-desktop-height: 36rem;
+    --event-title-desktop-height: 10rem;
 }
-.carousel {
-    display: block;
-    text-align: left;
-    position: relative;
-    margin-bottom: 22px;
+
+h1 {
+    font-size: 3rem;
+    padding-bottom: .5rem;
+    font-family: "neue_haas_grotesk_display75Bd", Helvetica, Arial, sans-serif;
 }
-.carousel > input {
-    clip: rect(1px, 1px, 1px, 1px);
-    clip-path: inset(50%);
-    height: 1px;
-    width: 1px;
-    margin: -1px;
-    overflow: hidden;
-    padding: 0;
-    position: absolute;
+h2 {
+    padding-top: .5rem;
+    font-size: 2.7rem;
 }
-.carousel > input:nth-of-type(6):checked ~ .carousel__slides .carousel__slide:first-of-type {
-    margin-left: -500%;
+h3 {
+    font-size: 2rem;
 }
-.carousel > input:nth-of-type(5):checked ~ .carousel__slides .carousel__slide:first-of-type {
-    margin-left: -400%;
+p {
+    line-height: 1.5;
+    font-size: 1.8rem;
 }
-.carousel > input:nth-of-type(4):checked ~ .carousel__slides .carousel__slide:first-of-type {
-    margin-left: -300%;
+
+a {
+    color: #000000;
+    text-decoration: none;
 }
-.carousel > input:nth-of-type(3):checked ~ .carousel__slides .carousel__slide:first-of-type {
-    margin-left: -200%;
+a:hover {
+    color: #b4b4b4;
 }
-.carousel > input:nth-of-type(2):checked ~ .carousel__slides .carousel__slide:first-of-type {
-    margin-left: -100%;
+
+.anchor {
+    scroll-margin-top: var(--header-height);
 }
-.carousel > input:nth-of-type(1):checked ~ .carousel__slides .carousel__slide:first-of-type {
-    margin-left: 0%;
-}
-.carousel > input:nth-of-type(1):checked ~ .carousel__thumbnails li:nth-of-type(1) {
-    box-shadow: 0px 0px 0px 5px rgba(0, 0, 255, 0.5);
-}
-.carousel > input:nth-of-type(2):checked ~ .carousel__thumbnails li:nth-of-type(2) {
-    box-shadow: 0px 0px 0px 5px rgba(0, 0, 255, 0.5);
-}
-.carousel > input:nth-of-type(3):checked ~ .carousel__thumbnails li:nth-of-type(3) {
-    box-shadow: 0px 0px 0px 5px rgba(0, 0, 255, 0.5);
-}
-.carousel > input:nth-of-type(4):checked ~ .carousel__thumbnails li:nth-of-type(4) {
-    box-shadow: 0px 0px 0px 5px rgba(0, 0, 255, 0.5);
-}
-.carousel > input:nth-of-type(5):checked ~ .carousel__thumbnails li:nth-of-type(5) {
-    box-shadow: 0px 0px 0px 5px rgba(0, 0, 255, 0.5);
-}
-.carousel > input:nth-of-type(6):checked ~ .carousel__thumbnails li:nth-of-type(6) {
-    box-shadow: 0px 0px 0px 5px rgba(0, 0, 255, 0.5);
-}
-.carousel__slides {
-    position: relative;
-    z-index: 1;
-    padding: 0;
-    margin: 0;
-    overflow: hidden;
-    white-space: nowrap;
-    box-sizing: border-box;
-    display: flex;
-}
-.carousel__slide {
-    position: relative;
-    display: block;
-    flex: 1 0 100%;
-    width: 100%;
-    height: 100%;
-    overflow: hidden;
-    transition: all 300ms ease-out;
-    vertical-align: top;
-    box-sizing: border-box;
-    white-space: normal;
-}
-.carousel__slide figure {
-    display: flex;
-    margin: 0;
-}
-.carousel__slide div {
-    position: relative;
-    width: 100%;
-}
-.carousel__slide div:before {
-    display: block;
-    content: "";
-    width: 100%;
-    padding-top: 66.6666666667%;
-}
-.carousel__slide div > img {
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    width: 100%;
-    height: 100%;
-}
-.carousel__slide img {
-    display: block;
-    flex: 1 1 auto;
-    object-fit: cover;
-}
-.carousel__slide figcaption {
-    align-self: flex-end;
-    padding: 20px 20px 0 20px;
-    flex: 0 0 auto;
-    width: 25%;
-    min-width: 150px;
-}
-.carousel__slide .credit {
-    margin-top: 1rem;
-    color: rgba(0, 0, 0, 0.5);
-    display: block;
-}
-.carousel__slide.scrollable {
+
+
+html {
+    min-height: 100vh;
+    font-size: 62.5%;
     overflow-y: scroll;
-}
-.carousel__thumbnails {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-    display: flex;
-    margin: 0 -10px;
-}
-.carousel__slides + .carousel__thumbnails {
-    margin-top: 20px;
-}
-.carousel__thumbnails li {
-    flex: 1 1 auto;
-    max-width: calc((100% / 6) - 20px);
-    margin: 0 10px;
-    transition: all 300ms ease-in-out;
-}
-.carousel__thumbnails label {
-    display: block;
+}   
+
+body {
     position: relative;
+    min-height: 100vh;
 }
-.carousel__thumbnails label:before {
-    display: block;
-    content: "";
-    width: 100%;
-    padding-top: 100%;
-}
-.carousel__thumbnails label > img {
-    position: absolute;
+
+/* for nav bar */
+header {
+    display: flex;
+    position: fixed;
     top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
+    height: var(--header-height);
+    padding-top: .75rem;
+    padding-bottom: .75rem;
     width: 100%;
-    height: 100%;
+    background-color: white;
+    color: #000000;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 10;
 }
-.carousel__thumbnails label:hover, .carousel__thumbnails label:focus {
+
+header:before {
+    /* code for partial borders */
+    content: '';
+    border-bottom: .3rem solid #000000;
+    position: absolute;
+    left: 3rem;
+    right: 3rem;
+    bottom: 0;
+  }
+
+.logo-link {
+    display: flex;
+    align-items: center;
+    /* height: 100%; */
+    height: min(100%, 20vw);
+    text-decoration: none;
+    color: #000000;
+}
+
+.logo {
+    margin-left: 1rem;
+    margin-right: 1rem;
+    height: 80%;
+}
+
+/* .logo-text {
+    display: inline-block;
+    font-size: 5rem;
+    font-family: 'Knewave', Helvetica, Arial, sans-serif
+} */
+
+.navbar-ul {
+    display: none;
+}
+
+
+
+/* for the actual menu button */
+header .hamburger {
+    display: flex;
+    align-items: center;
+}
+
+header .menu-btn {
+    display: none;
+}
+
+header .menu-icon {
+    position: relative;
+    margin-right: 1rem;
+    padding: 2rem 1rem;
     cursor: pointer;
 }
-.carousel__thumbnails label:hover img, .carousel__thumbnails label:focus img {
-    box-shadow: 0px 0px 0px 1px rgba(0, 0, 0, 0.25);
-    transition: all 300ms ease-in-out;
+
+header .menu-icon .nav-icon {
+    background: #000000;
+    display: block;
+    height: .3rem;
+    width: 3.1rem;
+    position: relative;
+    transition: background .2s ease-out;
 }
-.carousel__thumbnails img {
+
+header .menu-icon .nav-icon:before,
+header .menu-icon .nav-icon:after {
+    background: #000000;
+    content: "";
+    display: block;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    transition: all .2s ease-out;
+    top: 1rem;
+}
+
+header .menu-icon .nav-icon:after {
+    top: -1rem;
+}
+
+header .menu-btn:checked ~ .menu-icon .nav-icon {
+    background: transparent;
+}
+
+header .menu-btn:checked ~ .menu-icon .nav-icon:before {
+    transform: rotate(45deg);
+    top: 0;
+}
+
+header .menu-btn:checked ~ .menu-icon .nav-icon:after {
+    transform: rotate(-45deg);
+    top: 0;
+}
+
+
+
+/* for the overlay menu when menu button clicked */
+.overlay {
+    position: relative;
+    display: flex;
+    width: 100%;
+    position: fixed;
+    z-index: 1;
+    right: 0;
+    top: var(--header-height);
+    bottom: 0;
+    background-color: white;
+    color: #000000;
+    visibility: hidden;
+    opacity: 0;
+    transition: all .15s ease-out 0s;
+}
+
+.overlay-main {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    top: 0;
+    bottom: var(--overlay-footer-height);
+    width: 100%;
+    overflow: hidden;
+}
+
+.overlay-main .trim {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: min(13rem, 15vh);
+    width: 100%;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.reverse-img {
+    transform: scaleX(-1);
+    top: 0;
+}
+
+.overlay-main img.trim-element {
+    height: 100%;
+}
+
+.overlay ul.menu {
+    list-style-type: none;
+    padding-top: 1.5rem;
+    height: 100vh;
+    display: block;
+    text-align: center;
+    overflow: none;
+}
+
+.overlay ul.menu li {
+    height: 1rem;
+}
+
+.overlay ul.menu li a {
+    color: inherit;
+    text-decoration: none;
+    font-size: min(3.5rem, 3.2vh);
+    font-family: "GeneralSans-Semibold", Helvetica, Arial, sans-serif;
+}
+
+.overlay ul.menu li a:hover {
+    color: #b4b4b4;
+}
+
+.overlay footer {
+    display: flex;
+    flex-direction: row;
+    padding: 0 8rem 0 8rem;
+    justify-content: space-around;
+    align-items: center;
+    position: fixed;
+    right: 0;
+    width: inherit;
+    bottom: 0;
+    height: var(--overlay-footer-height);
+}
+.overlay footer:before {
+    content: '';
+    border-top: .3rem solid #000000;
+    position: absolute;
+    left: 3rem;
+    right: 3rem;
+    top: 0;
+}
+.overlay footer a {
+    height: 55%;
+    color: #000000;
+    text-decoration: none;
+}
+.overlay footer a img {
+    height: 100%;
+}
+
+
+/* for the main body of a page */
+main {
+    position: relative;
     display: block;
     width: 100%;
+    padding-top: var(--header-height);
+    padding-bottom: var(--footer-height);
+}
+
+/* for screening carousel */
+
+/* for contents on a series page */
+.screenings-list {
+    padding-top: 2rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 55%;
+}
+
+.screenings-title {
+    font-size: 4.5rem;
+    font-weight: 700;
+    font-family: "neue_haas_grotesk_display75Bd", Helvetica, Arial, sans-serif;
+    padding-bottom: 2rem;
+}
+
+.screenings-intro {
+    padding-top: 2rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    padding-bottom: 4rem;
+}
+.screenings-intro p {
+    font-size: 1.8rem;
+}
+
+.screening {
+    display: block;
+    width: 100%;
+    padding-bottom: 4rem;
+}
+.screening h1 {
+    font-size: 2.8rem;
+}
+.screening h2 {
+    font-family: "Khand-Medium", Helvetica, Arial, sans-serif;
+    font-size: 3.6rem;
+}
+.screening img {
+    width: 100%;
+}
+.screenings-list .text-section {
+    padding-bottom: 1.5rem;
+}
+.screenings-list .text-section p {
+    padding-bottom: 1.5rem;
+}
+.screenings-list .text-section h3 {
+    padding-bottom: 1.5rem;
+}
+
+/* for non-screening pages */
+.information {
+    padding-top: 1.5rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    text-align: left;
+}
+.information .page-title {
+    font-size: 3.5rem;
+    font-weight: 600;
+    font-family: "neue_haas_grotesk_display75Bd", "nimbus_sans_cond_lblack", Helvetica, Arial, sans-serif;
+}
+.information img {
+    width: 100%;
+}
+.information ol {
+    display: block;
+    list-style-type: decimal;
+    font-size: 1.8rem;
+}
+.information ul.prices {
+    max-width: 65rem;
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin: 0 2rem 0 2rem;
+}
+.information .small-note {
+    font-size: 1.5rem;
+}
+.information .board {
+    text-align: center;
+}
+
+/* for the carousel */
+.carousel {
+    position: relative;
+    height: 600px;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.carousel__image {
     height: 100%;
+    width: 100%;
     object-fit: cover;
+}
+
+.carousel__track {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    position: relative;
+    height: 100%;
+    transition: transform 250ms ease-in;
+}
+
+.carousel__track-container {
+    background: lightgreen;
+    height: 100%;
+    position: relative;
+    overflow: hidden;
+}
+
+.carousel__slide-container {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+.carousel__slide {
+    border: 1px solid #DDDDDD;
+    width: 100%;
+    height: 100%;
+    position: relative;
+ }
+
+ .tag {
+    float: left;
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+    z-index: 1000;
+    background-color: black;
+    padding: 5px;
+    color: #FFFFFF;
+    font-weight: bold;
+ }
+
+ .carousel__button {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background: transparent;
+    border: 0;
+    cursor: pointer;
+ }
+
+ .carousel__button--left {
+    left: -30px;
+ }
+
+ .carousel__button--right {
+    right: -30px;
+ }
+
+ .carousel__button img {
+    width: 12px;
+ }
+
+ .carousel__nav {
+    display: flex;
+    justify-content: center;
+    padding: 10px 0;
+ }
+
+ .carousel__indicator {
+    border: 0;
+    border-radius: 50%;
+    width: 15px;
+    height: 15px;
+    background: rgba(0,0,0,.3);
+    margin: 0 12px;
+    cursor: pointer;
+ }
+
+ .carousel__indicator.current-slide {
+    background: rgba(0,0,0,.75);
+ }
+
+ .is-hidden {
+    display: none;
+ }
+
+/* for the about page splash */
+.splash {
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+    top: 0;
+    height: 50%;
+    width: 100%;
+    padding: 2rem 1.5rem 2rem 1.5rem;
+    color: #ffffff;
+    background-color: #000000;
+    justify-content: space-around;
+    align-items: flex-end;
+}
+.splash img {
+    max-width: 100%;
+    max-height: 40rem;
+}
+.splash-title {
+    font-size: min(3rem, 7vw);
+    max-width: 50rem;
+    line-height: 1.2;
+    text-align: right;
+    font-family: "neue_haas_grotesk_display75Bd", "nimbus_sans_cond_lblack", Helvetica, Arial, sans-serif;
+}
+
+/* for calendar page  */
+.responsiveCal {
+    position: relative; padding-bottom: 75%; height: 0; overflow: hidden;
+}
+     
+.responsiveCal iframe {
+position: absolute; top:0; left: 0; width: 100%; height: 100%;
+}
+
+@media all and (min-width: 768px) {
+    .deskContent {display:block;}
+    .phoneContent {display:none;}
+}
+
+@media all and (max-width: 767px) {
+    .deskContent {display:none;}
+    .phoneContent {display:block;}
+}
+
+iframe {
+    width: 100%;
+    min-height: 500px;
+}
+.series-list {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding-top: 1rem;
+}
+.series-tile {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding-bottom: 2.5rem;
+}
+.series-tile img {
+    width: 100%;
+}
+.series-tile .series-text p {
+    line-height: 1.1;
+    font-family: "neue_haas_grotesk_display75Bd", Helvetica, Arial, sans-serif;
+}
+.series-tile .series-text p.day {
+    font-size: 3.0rem; 
+}
+.series-tile .series-text p.title {
+    font-size: 2.0rem;
+}
+.series-tile .series-text p.programmer {
+    font-size: 1.5rem;
+}
+
+
+
+/* for main footer */
+.footer {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    bottom: 0;
+    background-color: #ffffff;
+    height: var(--footer-height);
+    padding: 0 0 .5rem 0;
+
+}
+.footer:before {
+    /* code for partial borders */
+    content: '';
+    border-top: .3rem solid #000000;
+    position: absolute;
+    left: 3rem;
+    right: 3rem;
+    margin-top: 0;
+}
+.footer p {
+    margin: 0;
+    font-size: min(1.5rem, 5vw)
+}
+.footer .socials {
+    display: flex;
+    height: min(2.5rem, 10vw);
+    justify-content: space-between;
+    align-items: center;
+}
+.footer a {
+    height: 100%;
+    color: #000000;
+    text-decoration: none;
+}
+.footer a:hover {
+    color: #b4b4b4;
+}
+.footer .socials a img {
+    margin: 0 1rem 0 1rem;
+    height: 100%;
+}
+#contact {
+    scroll-margin-top: var(--header-height);
+}
+
+
+
+
+@font-face {
+    font-family: GeneralSans-Semibold;
+    src: url('/fonts/GeneralSans-OTF/GeneralSans-Semibold.otf') format('opentype');
+}
+@font-face {
+    font-family: Khand-Medium;
+    src: url('/fonts/Khand-OTF/Khand-Medium.otf') format('opentype');
+}
+@font-face {
+    font-family: 'nimbus_sans_cond_lblack';
+    src: url('nimbus-black-webfont.woff2') format('woff2'),
+         url('nimbus-black-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'neue_haas_grotesk_display75Bd';
+    src: url('neuehaas-grotesk-bold-webfont.woff2') format('woff2'),
+         url('neuehaas-grotesk-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@media (min-width: 650px) {
+    .navbar-ul {
+        display: flex;
+        list-style-type: none;
+        font-size: 2.5rem;
+    }
+    .navbar-ul li {
+        margin-left: 1rem;
+        margin-right: 1rem;
+    }
+    .navbar-ul a {
+        color: #000000;
+        text-decoration: none;
+        font-family: "GeneralSans-Semibold", Helvetica, Arial, sans-serif;
+    }
+    .navbar-ul a:hover {
+        color: #b4b4b4;
+    }
+
+    .overlay {
+        top: var(--header-height);
+        height: calc(var(--header-height) * .7);
+    }
+    .overlay ul.menu li a {
+        font-size: 2.5rem;
+    }
+    .overlay:before {
+        content: '';
+        border-bottom: .3rem solid #000000;
+        position: absolute;
+        left: 3rem;
+        right: 3rem;
+        bottom: 0;
+    }
+    .overlay-main {
+        height: 100%;
+        flex-direction: row;
+        padding-right: 6.3rem;
+    }
+    .overlay-main .trim {
+        display: none;
+    }
+    .overlay-main ul.menu {
+        min-height: 40vh;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-between;
+        list-style-type: none;
+
+        padding-top: 0;
+        height: calc((var(--header-height) * .7)*.6);
+        text-align: inherit;
+        overflow: visible;
+
+        min-height: unset;
+        width: 100%;
+        flex-direction: row-reverse;
+        justify-content: unset;
+        align-items: center;
+    }
+    .overlay-main ul li {
+        height: auto;
+        margin-top: .6rem;
+        margin-bottom: .6rem;
+        
+        margin: 0 1rem 0 1rem;
+    }
+    .overlay ul.menu li.desktop {
+        display: none;
+    }
+    .overlay footer, .overlay footer:before {
+        display: none;
+    }
+    
+}
+
+@media (min-width: 850px) {
+    .splash {
+        flex-direction: row;
+        flex-wrap: unset;
+    }
+    .splash-title {
+        margin-left: 1rem;
+        font-size: min(3.5vw, 3.5rem);
+    }
+
+    .screenings-list, .information {
+        width: 55%;
+    }
+
+    .series-tile {
+        gap: 2rem;
+        flex-direction: row;
+        align-items: center;
+        padding-bottom: 1.5rem;
+    }
+    .series-tile img {
+        max-height: 24rem;
+        width: unset;
+    }
+    .series-tile .series-text p.day {
+        font-size: 3.75rem; 
+    }
+    .series-tile .series-text p.title {
+        font-size: 2.75rem;
+    }
+    .series-tile .series-text p.programmer {
+        font-size: 2rem;
+    }
+    .series-list .reverse {
+        flex-direction: row-reverse;
+    }
+    .series-list .reverse .series-text {
+        text-align: right;
+    }
+}
+
+@media (min-width: 1200px) {
+    .series-tile .series-text p.day {
+        font-size: 4.5rem; 
+    }
+    .series-tile .series-text p.title {
+        font-size: 3.75rem;
+    }
+    .series-tile .series-text p.programmer {
+        font-size: 2.5rem;
+    }
+
+    .carousel {
+        height: var(--carousel-desktop-height);
+    }
+    .carousel__button--left {
+        left: -6rem;
+    }
+    .carousel__button--right {
+        right: -6rem;
+    }
+    .carousel__slide {
+        flex-direction: row;
+    }
+    .carousel__image {
+        height: 100%;
+        min-width: 40rem;
+    }
+    .carousel__slide .description {
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+    }
+    .carousel__slide p.event-title {
+        font-size: 2rem;
+        height: var(--event-title-desktop-height);
+        width: 100%;
+    }
+    .carousel__slide p.capsule {
+        font-size: 1.5rem;
+        padding: .25rem;
+        font-family: Helvetica, Arial, sans-serif;
+        display: unset;
+        visibility: hidden;
+        width: 100%;
+        height: calc(var(--carousel-desktop-height) - var(--event-title-desktop-height) - .5rem);
+    }
+}
+
+@media (min-width: 1500px) {
+    .carousel__image {
+        min-width: 55rem;
+    }
+}
+
+
+
+@media (max-height: 500px) {
+    .overlay-main {
+        justify-content: space-around;
+    }
+    .overlay-main .trim {
+        display: none;
+    }
+    
 }
