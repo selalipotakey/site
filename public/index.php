@@ -139,7 +139,7 @@
     <?php include "./includes/footer.html" ?>
 
 
-    <script src="/js/carousel_hypo.js"></script>
+    <script src="/includes/carousel_hypo.js"></script>
     <script src="/js/fit-carousel-slide.js"></script>
     <script src="/js/resize-menu.js"></script>
     
