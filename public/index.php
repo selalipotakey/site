@@ -18,14 +18,13 @@
       
       <div class="screenings-list" style="width: 65%;">
 
-      <div class="text-section">
+        <div class="text-section">
           <h1 style="display: flex; justify-content: center;">This Week</h1>
           <hr class="solid">
           <br>
           <h3><i>$7 tickets, theater opens 30 minutes before the screening.</i></h3>
           <h3>Doc Films will be back next quarter!<h3>
         </div>
-      </div>
 
         <div id="piccadilly" class="anchor screening">
           <a href="calendar/Fall_2023/monday#piccadilly">
@@ -36,6 +35,8 @@
           <p>Though she began her career in Hollywood, the groundbreaking Chinese-American actress Anna May Wong found her greatest roles abroad. In <i>Piccadilly</i>, she gives a mesmerizing performance as a dancer whose involvement in an interracial romance becomes her undoing. Made in England and helmed by German expressionist master E.A. Dupont, Piccadilly boasts dazzling camera work, spectacular sets and costumes, and a pervasive atmosphere of erotic doom.</p>
           <h3>Monday, November 27th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=3CCF08BE-350E-4645-8CCB-F059C7F422F6" target="_blank">7:00PM</a></u></h3>
         </div>
+        
+      </div>
 <!--
         <div id="apostle" class="anchor screening">
           <a href="/calendar/Fall_2023/tuesday#apostle">
