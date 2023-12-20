@@ -377,7 +377,7 @@ main {
 /* for the carousel */
 .carousel {
     position: relative;
-    height: 600px;
+    height: 60%;
     width: 85%;
     margin: 0 auto;
 }
