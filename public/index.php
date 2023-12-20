@@ -20,7 +20,7 @@
 
       <br>
       <div class="text-section">
-          <h1 style="justify-content: center;">This Week: </h1>
+          <h1 style="display: flex; justify-content: center;">This Week</h1>
           <hr class="solid">
           <h3><i>$7 tickets, theater opens 30 minutes before the screening.</i></h3>
           <h3>Doc Films will be back next quarter!<h3>
