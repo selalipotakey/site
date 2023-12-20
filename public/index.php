@@ -16,7 +16,7 @@
       <?php $version='1.2'; include "./includes/dropdown.html";?>
       <?php $version='1.2'; include "./includes/carousel-1.html";?>
       
-      <div class="screenings-list" style="width: 75%;">
+      <div class="screenings-list" style="width: 65%;">
 
       <div class="text-section">
           <h1 style="display: flex; justify-content: center;">This Week</h1>
