@@ -459,8 +459,8 @@ main {
  .carousel__indicator {
     border: 0;
     border-radius: 50%;
-    width: 2vw;
-    height: 2vw;
+    width: 1vw;
+    height: 1vw;
     background: rgba(255, 255, 255, 0.3);
     margin: 0 12px;
     cursor: pointer;
