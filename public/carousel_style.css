@@ -439,21 +439,21 @@ main {
  }
 
  .carousel__button--left {
-    left: -30px;
+    left: -3vw;
  }
 
  .carousel__button--right {
-    right: -30px;
+    right: -3vw;
  }
 
  .carousel__button img {
-    width: 12px;
+    width: 1vw;
  }
 
  .carousel__nav {
     display: flex;
     justify-content: center;
-    padding: 10px 2px;
+    padding: 1vw .2vw;
  }
 
  .carousel__indicator {
