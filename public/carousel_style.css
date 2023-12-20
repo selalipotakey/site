@@ -454,7 +454,6 @@ main {
     display: flex;
     justify-content: center;
     padding: 10px 2px;
-    background-color: black;
  }
 
  .carousel__indicator {
