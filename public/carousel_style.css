@@ -462,7 +462,7 @@ main {
     width: 1vw;
     height: 1vw;
     background: rgba(255, 255, 255, 0.3);
-    margin: 0 12px;
+    margin: 0 1vw;
     cursor: pointer;
  }
 
