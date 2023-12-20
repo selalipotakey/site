@@ -15,13 +15,14 @@
 
       <?php $version='1.2'; include "./includes/dropdown.html";?>
       <?php $version='1.2'; include "./includes/carousel-1.html";?>
+
+      <h1 style="display: flex; justify-content: center;">This Week</h1>
+      <hr class="solid">
       
       <div class="screenings-list" style="width: 65%;">
 
       <br>
       <div class="text-section">
-          <h1 style="display: flex; justify-content: center;">This Week</h1>
-          <hr class="solid">
           <h3><i>$7 tickets, theater opens 30 minutes before the screening.</i></h3>
           <h3>Doc Films will be back next quarter!<h3>
         </div>
