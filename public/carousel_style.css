@@ -474,6 +474,11 @@ main {
     display: none;
  }
 
+/* dividing line */
+hr.solid {
+    border-top: 3px solid black;
+}
+
 /* for the about page splash */
 .splash {
     display: flex;
