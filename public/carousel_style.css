@@ -427,7 +427,7 @@ main {
     padding: .5vw;
     color: #FFFFFF;
     font-weight: bold;
-    font-size: 20vw;
+    font-size: 150%;
  }
 
  .carousel__button {
