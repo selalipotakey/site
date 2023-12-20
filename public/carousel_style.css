@@ -380,6 +380,8 @@ main {
     height: 60vw;
     width: 85%;
     margin: 0 auto;
+    background-color: black; 
+    padding: 3vw 0 3vw 0;
 }
 
 .carousel__image {
@@ -424,7 +426,7 @@ main {
     bottom: 0px;
     z-index: 1000;
     background-color: black;
-    padding: 5px;
+    padding: .5vw;
     color: #FFFFFF;
     font-weight: bold;
  }
