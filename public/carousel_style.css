@@ -377,7 +377,7 @@ main {
 /* for the carousel */
 .carousel {
     position: relative;
-    height: 60vw;
+    height: 700px;
     width: 85%;
     margin: 0 auto;
 }
@@ -427,7 +427,6 @@ main {
     padding: .5vw;
     color: #FFFFFF;
     font-weight: bold;
-    font-size: 150%;
  }
 
  .carousel__button {
