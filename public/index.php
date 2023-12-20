@@ -14,7 +14,7 @@
     <main>
 
       <?php $version='1.2'; include "./includes/dropdown.html";?>
-      <div style="background-color: black; margin: 5vw;">
+      <div style="background-color: black; padding: 5vw;">
         <?php $version='1.2'; include "./includes/carousel-1.html";?>
       </div>
       
