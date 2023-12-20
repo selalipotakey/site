@@ -14,7 +14,9 @@
     <main>
 
       <?php $version='1.2'; include "./includes/dropdown.html";?>
-      <?php $version='1.2'; include "./includes/carousel-1.html";?>
+      <div style="background-color: black;">
+        <?php $version='1.2'; include "./includes/carousel-1.html";?>
+      </div>
       
       <div class="screenings-list" style="width: 65%;">
 
