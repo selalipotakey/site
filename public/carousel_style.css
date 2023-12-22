@@ -302,7 +302,7 @@ main {
 }
 
 .card-img {
-    height: 30vw;
+    height: 25vw;
     width: auto;
     object-fit: cover;
 }
