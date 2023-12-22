@@ -283,10 +283,14 @@ main {
 
 /* for home screening page */
 .home-list {
-    max-width: 95%;
-    display: flex;
+    width: 95%;
+    display: block;
     margin: 0 auto;
     padding-top: 2vw;
+}
+
+.cards {
+    display: flex;
 }
 
 .card {
