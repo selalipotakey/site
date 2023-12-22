@@ -27,10 +27,10 @@
         </div>
       </div>
 -->
+      <h1 style="display: flex; justify-content: center;">This Week @ Doc</h1>
+      <hr class="solid" style="width: 95%;">
+
       <div class="home-list">
-        <h1 style="display: flex; justify-content: center;">This Week @ Doc</h1>
-        <hr class="solid">
-        
         <div id="card">
           <a href="calendar/Fall_2023/monday#piccadilly">
             <h2>Piccadilly (1929)</h2>
