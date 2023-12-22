@@ -301,8 +301,8 @@ main {
 }
 
 .card > img {
-    width: 30vw;
-    height: auto;
+    height: 20vw;
+    width: auto;
     object-fit: cover;
 }
 
