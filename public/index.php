@@ -15,7 +15,7 @@
 
       <?php $version='1.2'; include "./includes/dropdown.html";?>
       <?php $version='1.2'; include "./includes/carousel-1.html";?>
-      
+<!--      
       <div class="screenings-list" style="width: 65%;">
 
         <div class="text-section">
@@ -25,6 +25,11 @@
           <h3><i>$7 tickets, theater opens 30 minutes before the screening.</i></h3>
           <h3>Doc Films will be back next quarter!<h3>
         </div>
+      </div>
+-->
+      <div class="home-list">
+        <h1 style="justify-content: center;">This Week @ Doc</h1>
+        <hr class="solid">
       </div>
 <!--
         <div id="piccadilly" class="anchor screening">

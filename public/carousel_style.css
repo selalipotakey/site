@@ -281,7 +281,13 @@ main {
     padding-bottom: var(--footer-height);
 }
 
-/* for screening carousel */
+/* for home screening page */
+.home-list {
+    width: 90%;
+    display: block;
+    margin: 0 auto;
+    padding-top: 2vw;
+}
 
 /* for contents on a series page */
 .screenings-list {
