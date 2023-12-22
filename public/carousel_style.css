@@ -291,6 +291,7 @@ main {
 
 .cards {
     display: flex;
+    flex-direction: row;
 }
 
 .card {
@@ -301,7 +302,7 @@ main {
 }
 
 .card-img {
-    height: 20vw;
+    height: 30vw;
     width: auto;
     object-fit: cover;
 }
