@@ -283,7 +283,7 @@ main {
 
 /* for home screening page */
 .home-list {
-    width: 95%;
+    max-width: 95%;
     display: flex;
     margin: 0 auto;
     padding-top: 2vw;
