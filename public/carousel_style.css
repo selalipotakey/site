@@ -295,7 +295,7 @@ main {
     margin: 0 auto;
     justify-content: center;
     column-gap: 2vw;
-    margin: 2vw 2vw 0 0;
+    margin: 2vw 0 2vw 0;
 }
 
 .card {
