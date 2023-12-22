@@ -28,7 +28,7 @@
       </div>
 -->
       <div class="home-list">
-        <h1 style="justify-content: center; margin: 0 auto;">This Week @ Doc</h1>
+        <h1 style="display: flex; justify-content: center;">This Week @ Doc</h1>
         <hr class="solid">
       </div>
 <!--
