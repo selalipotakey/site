@@ -292,9 +292,11 @@ main {
 .cards {
     display: flex;
     flex-direction: row;
+    margin: 0 auto;
 }
 
 .card {
+    padding: 2vw;
     background-color: black;
     border-radius: .5vw;
     box-shadow: 0 .25vw .25vw rgba(0,0,0,rgba(0, 0, 0, .15));
