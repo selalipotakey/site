@@ -301,6 +301,8 @@ main {
 }
 
 .card img {
+    width: 30vw;
+    height: auto;
     object-fit: cover;
 }
 
