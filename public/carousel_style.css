@@ -312,6 +312,7 @@ main {
     width: auto;
     object-fit: cover;
     border-radius: .5vw;
+    justify-content: center;
 }
 
 /* for contents on a series page */
