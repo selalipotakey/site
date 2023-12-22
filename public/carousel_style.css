@@ -294,6 +294,7 @@ main {
     flex-direction: row;
     margin: 0 auto;
     justify-content: center;
+    column-gap: 2vw;
 }
 
 .card {
