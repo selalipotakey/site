@@ -30,12 +30,12 @@
       <div class="home-list">
         <h1 style="display: flex; justify-content: center;">This Week @ Doc</h1>
         <hr class="solid">
-        
+
         <div class="cards">
           <div id="card">
             <a href="calendar/Fall_2023/monday#piccadilly">
               <h2>Piccadilly (1929)</h2>
-              <img src="/images/2023fall/piccadilly-1929.jpg" alt="Piccadilly (1929) still">
+              <img class="card-img" src="/images/2023fall/piccadilly-1929.jpg" alt="Piccadilly (1929) still">
             </a>
             <h3>E.A. Dupont &middot; 109m &middot; 35mm</h3>
             <p>Though she began her career in Hollywood, the groundbreaking Chinese-American actress Anna May Wong found her greatest roles abroad. In <i>Piccadilly</i>, she gives a mesmerizing performance as a dancer whose involvement in an interracial romance becomes her undoing. Made in England and helmed by German expressionist master E.A. Dupont, Piccadilly boasts dazzling camera work, spectacular sets and costumes, and a pervasive atmosphere of erotic doom.</p>
@@ -44,7 +44,7 @@
           <div id="card">
             <a href="calendar/Fall_2023/monday#piccadilly">
               <h2>Piccadilly (1929)</h2>
-              <img src="/images/2023fall/piccadilly-1929.jpg" alt="Piccadilly (1929) still">
+              <img class="card-img" src="/images/2023fall/piccadilly-1929.jpg" alt="Piccadilly (1929) still">
             </a>
             <h3>E.A. Dupont &middot; 109m &middot; 35mm</h3>
             <p>Though she began her career in Hollywood, the groundbreaking Chinese-American actress Anna May Wong found her greatest roles abroad. In <i>Piccadilly</i>, she gives a mesmerizing performance as a dancer whose involvement in an interracial romance becomes her undoing. Made in England and helmed by German expressionist master E.A. Dupont, Piccadilly boasts dazzling camera work, spectacular sets and costumes, and a pervasive atmosphere of erotic doom.</p>
@@ -53,7 +53,7 @@
           <div id="card">
             <a href="calendar/Fall_2023/monday#piccadilly">
               <h2>Piccadilly (1929)</h2>
-              <img src="/images/2023fall/piccadilly-1929.jpg" alt="Piccadilly (1929) still">
+              <img class="card-img" src="/images/2023fall/piccadilly-1929.jpg" alt="Piccadilly (1929) still">
             </a>
             <h3>E.A. Dupont &middot; 109m &middot; 35mm</h3>
             <p>Though she began her career in Hollywood, the groundbreaking Chinese-American actress Anna May Wong found her greatest roles abroad. In <i>Piccadilly</i>, she gives a mesmerizing performance as a dancer whose involvement in an interracial romance becomes her undoing. Made in England and helmed by German expressionist master E.A. Dupont, Piccadilly boasts dazzling camera work, spectacular sets and costumes, and a pervasive atmosphere of erotic doom.</p>
