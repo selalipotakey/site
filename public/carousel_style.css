@@ -322,6 +322,7 @@ main {
 .card-img {
     display: flex;
     height: 24vw;
+    min-height: 12vw;
     width: auto;
     object-fit: cover;
     border-radius: .5vw;
