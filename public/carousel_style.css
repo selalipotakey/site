@@ -305,6 +305,7 @@ main {
     background-color: white;
     border-radius: .5vw;
     max-width: 100vw;
+    min-width: 30vw;
 }
 
 .card-h2 {
@@ -322,7 +323,6 @@ main {
 .card-img {
     display: flex;
     height: 24vw;
-    min-height: 12vw;
     width: auto;
     object-fit: cover;
     border-radius: .5vw;
