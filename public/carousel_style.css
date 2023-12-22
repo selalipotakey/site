@@ -308,6 +308,7 @@ main {
 }
 
 .card-img {
+    display: block;
     height: 24vw;
     width: auto;
     object-fit: cover;
