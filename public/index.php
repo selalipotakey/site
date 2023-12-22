@@ -56,6 +56,14 @@
             <h3 style="display: flex; justify-content: center;">Monday, November 27th</h3>
             <h3 style="display: flex; justify-content: center;"><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=3CCF08BE-350E-4645-8CCB-F059C7F422F6" target="_blank">7:00PM</a></u></h3>
           </div>
+          <div id="card">
+            <a href="calendar/Fall_2023/monday#piccadilly">
+              <img class="card-img" src="/images/2023fall/piccadilly-1929.jpg" alt="Piccadilly (1929) still">
+            </a>
+            <h2 style="display: flex; justify-content: center;">Piccadilly (1929)</h2>
+            <h3 style="display: flex; justify-content: center;">Monday, November 27th</h3>
+            <h3 style="display: flex; justify-content: center;"><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=3CCF08BE-350E-4645-8CCB-F059C7F422F6" target="_blank">7:00PM</a></u></h3>
+          </div>
         </div>
       </div>
 <!--
