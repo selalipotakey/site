@@ -34,30 +34,27 @@
         <div class="cards">
           <div id="card">
             <a href="calendar/Fall_2023/monday#piccadilly">
-              <h2>Piccadilly (1929)</h2>
               <img class="card-img" src="/images/2023fall/piccadilly-1929.jpg" alt="Piccadilly (1929) still">
             </a>
-            <h3>E.A. Dupont &middot; 109m &middot; 35mm</h3>
-            <p>Though she began her career in Hollywood, the groundbreaking Chinese-American actress Anna May Wong found her greatest roles abroad. In <i>Piccadilly</i>, she gives a mesmerizing performance as a dancer whose involvement in an interracial romance becomes her undoing. Made in England and helmed by German expressionist master E.A. Dupont, Piccadilly boasts dazzling camera work, spectacular sets and costumes, and a pervasive atmosphere of erotic doom.</p>
-            <h3>Monday, November 27th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=3CCF08BE-350E-4645-8CCB-F059C7F422F6" target="_blank">7:00PM</a></u></h3>
+            <h2>Piccadilly (1929)</h2>
+            <h3>Monday, November 27th</h3>
+            <h3><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=3CCF08BE-350E-4645-8CCB-F059C7F422F6" target="_blank">7:00PM</a></u></h3>
           </div>
           <div id="card">
             <a href="calendar/Fall_2023/monday#piccadilly">
-              <h2>Piccadilly (1929)</h2>
               <img class="card-img" src="/images/2023fall/piccadilly-1929.jpg" alt="Piccadilly (1929) still">
             </a>
-            <h3>E.A. Dupont &middot; 109m &middot; 35mm</h3>
-            <p>Though she began her career in Hollywood, the groundbreaking Chinese-American actress Anna May Wong found her greatest roles abroad. In <i>Piccadilly</i>, she gives a mesmerizing performance as a dancer whose involvement in an interracial romance becomes her undoing. Made in England and helmed by German expressionist master E.A. Dupont, Piccadilly boasts dazzling camera work, spectacular sets and costumes, and a pervasive atmosphere of erotic doom.</p>
-            <h3>Monday, November 27th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=3CCF08BE-350E-4645-8CCB-F059C7F422F6" target="_blank">7:00PM</a></u></h3>
+            <h2>Piccadilly (1929)</h2>
+            <h3>Monday, November 27th</h3>
+            <h3><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=3CCF08BE-350E-4645-8CCB-F059C7F422F6" target="_blank">7:00PM</a></u></h3>
           </div>
           <div id="card">
             <a href="calendar/Fall_2023/monday#piccadilly">
-              <h2>Piccadilly (1929)</h2>
               <img class="card-img" src="/images/2023fall/piccadilly-1929.jpg" alt="Piccadilly (1929) still">
             </a>
-            <h3>E.A. Dupont &middot; 109m &middot; 35mm</h3>
-            <p>Though she began her career in Hollywood, the groundbreaking Chinese-American actress Anna May Wong found her greatest roles abroad. In <i>Piccadilly</i>, she gives a mesmerizing performance as a dancer whose involvement in an interracial romance becomes her undoing. Made in England and helmed by German expressionist master E.A. Dupont, Piccadilly boasts dazzling camera work, spectacular sets and costumes, and a pervasive atmosphere of erotic doom.</p>
-            <h3>Monday, November 27th <u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=3CCF08BE-350E-4645-8CCB-F059C7F422F6" target="_blank">7:00PM</a></u></h3>
+            <h2>Piccadilly (1929)</h2>
+            <h3>Monday, November 27th</h3>
+            <h3><u><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=3CCF08BE-350E-4645-8CCB-F059C7F422F6" target="_blank">7:00PM</a></u></h3>
           </div>
         </div>
       </div>
