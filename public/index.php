@@ -28,7 +28,7 @@
       </div>
 -->
       <h1 style="display: flex; justify-content: center;">This Week @ Doc</h1>
-      <hr class="solid" style="width: 95%; display: flex; justify-content: center;">
+      <hr class="solid" style="width: 95%; display: block; justify-content: center;">
 
       <div class="home-list">
         <div id="card">
