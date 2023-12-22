@@ -313,7 +313,7 @@ main {
     width: auto;
     object-fit: cover;
     border-radius: .5vw;
-    justify-content: center;
+    margin: 0 auto;
 }
 
 /* for contents on a series page */
