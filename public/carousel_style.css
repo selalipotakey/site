@@ -326,7 +326,7 @@ main {
     min-width: 30vw;
     object-fit: cover;
     border-radius: .5vw;
-    border: 1vw solid rgb(181, 49, 49);
+    border: .3vw solid rgb(181, 49, 49);
     margin: 0 auto;
 }
 
