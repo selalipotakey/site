@@ -70,6 +70,9 @@
       <div style="background: url('/images/2024winter/Doc-gif.gif') no-repeat top center fixed; background-size: cover; display: block; margin: auto; width: 100vw; height: auto; object-fit: cover; object-position: bottom;">
         <h1 style="display: flex; justify-content: center; font-size: 10vw; color: white; margin: 0 auto 0 auto;">WINTER 2024</h2>
       </div>
+      <br>
+      <img src="images/2024winter/doc-cal-draft.pdf" style="max-width: 95vw; margin: auto; display: block;"></img>
+      <h2 style="text-align: center; font-size: 1.5rem; margin-top: 1vw; margin-bottom: 1vw;">Designed by Eli Harrell</h2>
 <!--
         <div id="piccadilly" class="anchor screening">
           <a href="calendar/Fall_2023/monday#piccadilly">
