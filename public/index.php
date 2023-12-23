@@ -15,8 +15,7 @@
 
       <?php $version='1.2'; include "./includes/dropdown.html";?>
       <div style="background: url('/images/2024winter/doc_gif_2.gif') no-repeat top center fixed; width: 99vw; height: 100%; bottom: 0; object-fit: cover;">
-        <span><h1 style="display: flex; justify-content: center; font-size: 20vw; color: white; margin: 0 auto 0 auto;">WINTER 2024</h1></span>
-        <img src="/images/2024winter/down.png" alt="" style="width: 4vw;">
+        <h1 style="display: flex; justify-content: center; font-size: 20vw; color: white; margin: 0 auto 0 auto;">WINTER 2024</h1>
       </div>
       <?php $version='1.2'; include "./includes/carousel-1.html";?>
 <!--      
