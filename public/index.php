@@ -67,7 +67,7 @@
         </div>
       </div>
 
-      <div style="background-image: url('/images/2024winter/Doc-gif.gif'); display: block; margin: auto; width: 95vw; height: auto; object-fit: cover; object-position: top;">
+      <div style="background-image: url('/images/2024winter/Doc-gif.gif'); display: block; margin: auto; width: 95vw; height: auto; object-fit: cover; object-position: center;">
         <h1 style="display: flex; justify-content: center; font-size: 10vw; color: white; margin: 0 auto 0 auto;">WINTER 2024</h2>
       </div>
 <!--
