@@ -29,7 +29,7 @@
 -->
       <br>
       <div style="background: url('/images/2024winter/Doc-gif.gif') no-repeat top center fixed; background-size: cover; display: block; margin: auto; width: 100vw; height: auto; object-fit: cover; object-position: bottom;">
-        <h2 style="display: flex; justify-content: center; font-size: 10vw; color: white; margin: 0 auto 0 auto;">&middot;this week @ doc&middot;</h2>
+        <h3 style="display: flex; justify-content: center; font-size: 10vw; color: white; margin: 0 auto 0 auto;">&middot; this week @ doc &middot;</h2>
       </div>
 
       <div class="home-list">
