@@ -14,7 +14,7 @@
     <main>
 
       <?php $version='1.2'; include "./includes/dropdown.html";?>
-      <div style="background: url('/images/2024winter/Doc-gif.gif') no-repeat top center fixed; max-width: 100vw; height: 100%; object-fit: cover;">
+      <div style="background: url('/images/2024winter/doc_gif_2.gif') no-repeat top center fixed; width: 100vw; height: 100vw; bottom: 0; object-fit: cover;">
         <h1 style="display: flex; justify-content: center; font-size: 20vw; color: white; margin: 0 auto 0 auto;">WINTER 2024</h2>
       </div>
       <?php $version='1.2'; include "./includes/carousel-1.html";?>
@@ -70,8 +70,8 @@
         </div>
       </div>
 
-      <div style="background: url('/images/2024winter/Doc-gif.gif') no-repeat top center fixed; background-size: cover; display: block; margin: auto; width: 98vw; height: auto; object-fit: cover; object-position: bottom;">
-        <h1 style="display: flex; justify-content: center; font-size: 10vw; color: white; margin: 0 auto 0 auto;">WINTER 2024</h2>
+      <div style="background: url('/images/2024winter/doc_gif_2.gif') no-repeat top center fixed; background-size: cover; display: block; margin: auto; width: 98vw; height: 100%; object-fit: cover;">
+        <h1 style="display: flex; justify-content: center; font-size: 10vw; color: white; margin: 0 auto 0 auto;">in theaters this quarter</h2>
       </div>
       <br>
       <img src="images/2024winter/doc-cal-draft.pdf" style="max-width: 95vw; margin: auto; display: block;"></img>
