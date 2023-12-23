@@ -66,7 +66,7 @@
           </div>
         </div>
       </div>
-      <img src="/images/2024winter/Doc-gif.gif" alt="" style="display: block; margin: auto; width: 95vw; height: 30vw; object-fit: cover;">
+      <img src="/images/2024winter/Doc-gif.gif" alt="" style="display: block; margin: auto; width: 95vw; height: 30vw; object-fit: cover; object-position: center;">
 <!--
         <div id="piccadilly" class="anchor screening">
           <a href="calendar/Fall_2023/monday#piccadilly">
