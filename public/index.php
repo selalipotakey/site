@@ -71,7 +71,7 @@
       </div>
 
       <div style="background: url('/images/2024winter/doc_gif_2.gif') no-repeat top center fixed; background-size: cover; display: block; margin: auto; width: 98vw; height: 100%; object-fit: cover;">
-        <h1 style="display: flex; justify-content: center; font-size: 10vw; color: white; margin: 0 auto 0 auto;">in theaters this quarter</h2>
+        <h1 style="display: flex; justify-content: center; font-size: 10vw; color: white; margin: 0 auto 0 auto;">our calendar</h2>
       </div>
       <br>
       <img src="images/2024winter/doc-cal-draft.pdf" style="max-width: 95vw; margin: auto; display: block;"></img>
