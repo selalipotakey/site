@@ -37,9 +37,9 @@
             <div class="series-text">
               <a href="/calendar/Fall_2023/monday">
                 <p class="day">Monday</p>
-                <p class="title">Proto-noir: The Roots of the Film Noir Movement</p>
+                <p class="title">A Brief Intro to George Sherman</p>
               </a>
-              <p class="programmer">Programmed by: Kathleen Geier</p>
+              <p class="programmer">Programmed by: Hunter Koch</p>
             </div>
           </div>
 
@@ -48,9 +48,9 @@
             <div class="series-text">
               <a href="/calendar/Fall_2023/tuesday">
                 <p class="day">Tuesday</p>
-                <p class="title">False Preachers</p>
+                <p class="title">Antropofagia: Reinventing Class and Race in Brazilian Cinema</p>
               </a>
-              <p class="programmer">Programmed by: Hannah Ozmun</p>
+              <p class="programmer">Gabriel Correa</p>
             </div>
           </div>
 
@@ -59,9 +59,9 @@
             <div class="series-text">
               <a href="/calendar/Fall_2023/wednesday">
               <p class="day">Wednesday</p>  
-              <p class="title">The Films of Ang Lee</p>
+              <p class="title">Conquistador of the Useless: The Films of Werner Herzog</p>
               </a>
-              <p class="programmer">Programmed by: Wei Lu</p>
+              <p class="programmer">Programmed by: Cameron Poe</p>
             </div>
           </div>
 
@@ -70,9 +70,9 @@
             <div class="series-text">
               <a href="/calendar/Fall_2023/thursday-1">
               <p class="day">Thursday I</p>  
-              <p class="title">In the Club: 90s Electronic Music and Beyond</p>
+              <p class="title">Mirroring</p>
               </a>
-              <p class="programmer">Programmed by: Addison Wood</p>
+              <p class="programmer">Programmed by: Isaiah Terry</p>
             </div>
           </div>
 
@@ -81,9 +81,9 @@
             <div class="series-text">
               <a href="/calendar/Fall_2023/thursday-2">
               <p class="day">Thursday II</p>  
-              <p class="title">Depths of the Grindhouse</p>
+              <p class="title">Computer Vision: Experiments in Digital Cinema</p>
               </a>
-              <p class="programmer">Programmed by: Max Newman and Brian McKendry</p>
+              <p class="programmer">Programmed by: Bret Hart</p>
             </div>
           </div>
 
@@ -92,9 +92,9 @@
             <div class="series-text">
               <a href="/calendar/Fall_2023/friday">
               <p class="day">Friday</p>  
-              <p class="title">Amour Fou</p>
+              <p class="title">Mommy Issues: Freudian Relationships in Film</p>
               </a>
-              <p class="programmer">Programmed by: Cyrus Westerlund</p>
+              <p class="programmer">Programmed by: Stephanie Chung</p>
             </div>
           </div>
 
@@ -102,8 +102,28 @@
             <a href="/calendar/Fall_2023/saturday"><img src="/images/2023fall/barbie-2023.jpg" alt="Barbie (2023) still"></a>
             <div class="series-text">
               <a href="/calendar/Fall_2023/saturday">
-              <p class="day">Saturday</p>  
-              <p class="title">New Releases & Miscellaneous Screenings</p>
+              <p class="day">Saturday I</p>  
+              <p class="title">Dinosaurs Plus! on Film</p>
+              </a>
+            </div>
+          </div>
+
+          <div class="series-tile">
+            <a href="/calendar/Fall_2023/saturday"><img src="/images/2023fall/barbie-2023.jpg" alt="Barbie (2023) still"></a>
+            <div class="series-text">
+              <a href="/calendar/Fall_2023/saturday">
+              <p class="day">Saturday II</p>  
+              <p class="title">New Releases</p>
+              </a>
+            </div>
+          </div>
+
+          <div class="series-tile reverse">
+            <a href="/calendar/Fall_2023/sunday"><img src="/images/2023fall/the-wind-of-ayahuasca-1982.jpg" alt="The Wind of Ayahuasca (1982) still"></a>
+            <div class="series-text">
+              <a href="/calendar/Fall_2023/sunday">
+              <p class="day">Sunday I</p>  
+              <p class="title">Special Events</p>
               </a>
             </div>
           </div>
@@ -112,78 +132,12 @@
             <a href="/calendar/Fall_2023/sunday"><img src="/images/2023fall/the-wind-of-ayahuasca-1982.jpg" alt="The Wind of Ayahuasca (1982) still"></a>
             <div class="series-text">
               <a href="/calendar/Fall_2023/sunday">
-              <p class="day">Sunday</p>  
-              <p class="title">Open Veins: Postcolonial Cinema of the Luso-Hispanic World</p>
+              <p class="day">Sunday II</p>  
+              <p class="title">Revising the Musical</p>
               </a>
-              <p class="programmer">Sponsored by the UChicago Forum For Free Inquiry and Expression.</p>
+              <p class="programmer">Programmed by: Honor Torrance and Cyrus Westerlund</p>
             </div>
           </div>
-
-          <div class="series-tile reverse">
-            <a href="/calendar/Fall_2023/special-events"><img src="/images/2023fall/la-la-land-2016.jpg" alt="La La Land (2016) still"></a>
-            <div class="series-text">
-              <a href="/calendar/Fall_2023/special-events">
-              <p class="title">SPECIAL EVENTS</p>
-              </a>
-            </div>
-          </div>
-
-<!--
-
-          <div class="series-tile reverse">
-            <a href="/calendar/thursday-1"><img src="/images/2023spring/series_stills/amores-perros-2000.jpg" alt="AMORES PERROS still"></a>
-            <div class="series-text">
-              <a href="/calendar/thursday-1">
-                <p class="day">Thursday I</p>
-                <p class="title">The Three Amigos of Cinema</p>
-              </a>
-              <p class="programmer">Programmed by: </p>
-            </div>
-          </div>
-
-          <div class="series-tile">
-            <a href="/calendar/thursday-2"><img src="/images/2023spring/series_stills/naked-lunch-1991.jpg" alt="NAKED LUNCH still"></a>
-            <div class="series-text">
-              <a href="/calendar/thursday-2">
-                <p class="day">Thursday II</p>
-                <p class="title">Skin Under Skin: A Retrospective of David Cronenberg</p>
-              </a>
-              <p class="programmer">Programmed by: Isaiah Terry</p>
-            </div>
-          </div>
-
-          <div class="series-tile reverse">
-            <a href="/calendar/friday"><img src="/images/2023spring/series_stills/2001-a-space-odyssey-1968.png" alt="2001 A SPACE ODYSSEY still"></a>
-            <div class="series-text">
-              <a href="/calendar/friday">
-                <p class="day">Friday</p>
-                <p class="title">Sight & Sound: The Greatest?</p>
-              </a>
-              <p class="programmer">Programmed by: Addison Wood</p>
-            </div>
-          </div>
-
-          <div class="series-tile">
-            <a href="/calendar/saturday"><img src="/images/2023spring/series_stills/tar-2022.jpeg" alt="TAR still"></a>
-            <div class="series-text">
-              <a href="/calendar/saturday">
-                <p class="day">Saturday</p>
-                <p class="title">Dóc: New Releases</p>
-              </a>
-            </div>
-          </div>
-
-          <div class="series-tile reverse">
-            <a href="/calendar/sunday"><img src="/images/2023spring/series_stills/la-pointe-courte-1955.jpeg" alt="LA POINTE COURTE still"></a>
-            <div class="series-text">
-              <a href="/calendar/sunday">
-                <p class="day">Sunday</p>
-                <p class="title">The Decisive Moment: Photographers Turned Filmmakers</p>
-              </a>
-              <p class="programmer">Programmed by: Ian Resnick</p>
-            </div>
-          </div>
--->
 
         </div>
 
