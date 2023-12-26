@@ -15,7 +15,7 @@
 
       <?php include $_SERVER['DOCUMENT_ROOT'] . "/includes/dropdown.html" ?>
 
-      <div style="background: url('/images/2024winter/series_imgs/cityofgod1-recolor2.png') no-repeat; margin: auto; height: auto; bottom: 0; object-fit: cover; color: white;">
+      <div style="background: url('/images/2024winter/series_imgs/cityofgod1-recolor2.jpg') no-repeat; margin: auto; height: auto; bottom: 0; object-fit: cover; color: white;">
           <div class="screenings-list">
             <div class="text-section" style="text-shadow: 2px 2px black;">
               <h1>TUESDAY - Antropofagia: Reinventing Class and Race in Brazilian Cinema</h1>

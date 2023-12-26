@@ -28,14 +28,6 @@
       </div>
 
       <div class="screenings-list">
-
-        <!--<div class="text-section">
-          <h1>THURSDAY 2 - Computer Vision: Experiments in Digital Cinema</h1>
-          <h3>Programmed by: Bret Hart</h3>
-          <p>The adoption of computational and digital technologies in the 90s and 2000s radically changed every aspect of filmmaking. This shift was just as significant as the introduction of sound or color, but the films made in this period have received far less historical attention. Instead, most of them have been reduced to the status of cinematic artifacts, lost in the stream of progress.</p>
-          <p>Rather than dismiss them as mere firsts or oddities, we can instead view these works as experiments that offer points of departure from contemporary practices, made before the use of digital tools became routinized, domesticated and efficient. With close watching, this series invites us to think about how conditions of production and histories of technology are profoundly intertwined with aesthetics. These films offer kernels of an alternate history of digital cinema that is untamed, inspired, and experimental… without a clean or linear adherence to the pursuit of graphical fidelity, realism or perfect computer vision.</p>
-          <p>COMPUTER VISION brings together an underseen set of films that enthusiastically document one of the major transition periods in film history. Here, filmmakers indulge in digital excess, brandishing new tools as formal expressions of the techno-optimism of the new millennium. In them, we can identify techno-aesthetic roads not taken as well as the origins of debates around VFX, labor, AI and image/sound quality that still echo today. Years after their release, we can begin to understand these films as avant-garde experiments rather than unrefined first steps into an uncharted technological frontier.</p>
-        </div>-->
         
         <div id="lawnmower" class="anchor screening">
           <h2>The Lawnmower Man (1992)</h2>
