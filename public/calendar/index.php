@@ -33,9 +33,9 @@
         <div class="series-list">
 
           <div class="series-tile reverse">
-            <a href="/calendar/Fall_2023/monday"><img src="/images/2023fall/m-1931.jpg" alt="M (1931) still"></a>
+            <a href="/calendar/Winter_2024/monday"><img src="/images/2024winter/m-1931.jpg" alt="M (1931) still"></a>
             <div class="series-text">
-              <a href="/calendar/Fall_2023/monday">
+              <a href="/calendar/Winter_2024/monday">
                 <p class="day">Monday</p>
                 <p class="title">A Brief Intro to George Sherman</p>
               </a>
@@ -44,9 +44,9 @@
           </div>
 
           <div class="series-tile">
-            <a href="/calendar/Fall_2023/tuesday"><img src="/images/2023fall/wise-blood-1979.jpg" alt="Wise Blood (1979) still"></a>
+            <a href="/calendar/Winter_2024/tuesday"><img src="/images/2024winter/wise-blood-1979.jpg" alt="Wise Blood (1979) still"></a>
             <div class="series-text">
-              <a href="/calendar/Fall_2023/tuesday">
+              <a href="/calendar/Winter_2024/tuesday">
                 <p class="day">Tuesday</p>
                 <p class="title">Antropofagia: Reinventing Class and Race in Brazilian Cinema</p>
               </a>
@@ -55,9 +55,9 @@
           </div>
 
           <div class="series-tile reverse">
-            <a href="/calendar/Fall_2023/wednesday"><img src="/images/2023fall/brokeback-mountain-2005.jpg" alt="Brokeback Mountain (2005) still"></a>
+            <a href="/calendar/Winter_2024/wednesday"><img src="/images/2024winter/brokeback-mountain-2005.jpg" alt="Brokeback Mountain (2005) still"></a>
             <div class="series-text">
-              <a href="/calendar/Fall_2023/wednesday">
+              <a href="/calendar/Winter_2024/wednesday">
               <p class="day">Wednesday</p>  
               <p class="title">Conquistador of the Useless: The Films of Werner Herzog</p>
               </a>
@@ -66,9 +66,9 @@
           </div>
 
           <div class="series-tile">
-            <a href="/calendar/Fall_2023/thursday-1"><img src="/images/2023fall/trainspotting-1996.jpg" alt="Trainspotting (1996) still"></a>
+            <a href="/calendar/Winter_2024/thursday-1"><img src="/images/2024winter/trainspotting-1996.jpg" alt="Trainspotting (1996) still"></a>
             <div class="series-text">
-              <a href="/calendar/Fall_2023/thursday-1">
+              <a href="/calendar/Winter_2024/thursday-1">
               <p class="day">Thursday I</p>  
               <p class="title">Mirroring</p>
               </a>
@@ -77,9 +77,9 @@
           </div>
 
           <div class="series-tile reverse">
-            <a href="/calendar/Fall_2023/thursday-2"><img src="/images/2023fall/combat-shock-1984.jpg" alt="Combat Shock (1984) still"></a>
+            <a href="/calendar/Winter_2024/thursday-2"><img src="/images/2024winter/combat-shock-1984.jpg" alt="Combat Shock (1984) still"></a>
             <div class="series-text">
-              <a href="/calendar/Fall_2023/thursday-2">
+              <a href="/calendar/Winter_2024/thursday-2">
               <p class="day">Thursday II</p>  
               <p class="title">Computer Vision: Experiments in Digital Cinema</p>
               </a>
@@ -88,9 +88,9 @@
           </div>
 
           <div class="series-tile">
-            <a href="/calendar/Fall_2023/friday"><img src="/images/2023fall/harold-and-maude-1971.jpg" alt="Harold and Maude (1971) still"></a>
+            <a href="/calendar/Winter_2024/friday"><img src="/images/2024winter/harold-and-maude-1971.jpg" alt="Harold and Maude (1971) still"></a>
             <div class="series-text">
-              <a href="/calendar/Fall_2023/friday">
+              <a href="/calendar/Winter_2024/friday">
               <p class="day">Friday</p>  
               <p class="title">Mommy Issues: Freudian Relationships in Film</p>
               </a>
@@ -99,9 +99,9 @@
           </div>
 
           <div class="series-tile reverse">
-            <a href="/calendar/Fall_2023/saturday"><img src="/images/2023fall/barbie-2023.jpg" alt="Barbie (2023) still"></a>
+            <a href="/calendar/Winter_2024/saturday"><img src="/images/2024winter/barbie-2023.jpg" alt="Barbie (2023) still"></a>
             <div class="series-text">
-              <a href="/calendar/Fall_2023/saturday">
+              <a href="/calendar/Winter_2024/saturday">
               <p class="day">Saturday I</p>  
               <p class="title">Dinosaurs Plus! on Film</p>
               </a>
@@ -109,9 +109,9 @@
           </div>
 
           <div class="series-tile">
-            <a href="/calendar/Fall_2023/saturday"><img src="/images/2023fall/barbie-2023.jpg" alt="Barbie (2023) still"></a>
+            <a href="/calendar/Winter_2024/saturday"><img src="/images/2024winter/barbie-2023.jpg" alt="Barbie (2023) still"></a>
             <div class="series-text">
-              <a href="/calendar/Fall_2023/saturday">
+              <a href="/calendar/Winter_2024/saturday">
               <p class="day">Saturday II</p>  
               <p class="title">New Releases</p>
               </a>
@@ -119,9 +119,9 @@
           </div>
 
           <div class="series-tile reverse">
-            <a href="/calendar/Fall_2023/sunday"><img src="/images/2023fall/the-wind-of-ayahuasca-1982.jpg" alt="The Wind of Ayahuasca (1982) still"></a>
+            <a href="/calendar/Winter_2024/sunday"><img src="/images/2024winter/the-wind-of-ayahuasca-1982.jpg" alt="The Wind of Ayahuasca (1982) still"></a>
             <div class="series-text">
-              <a href="/calendar/Fall_2023/sunday">
+              <a href="/calendar/Winter_2024/sunday">
               <p class="day">Sunday I</p>  
               <p class="title">Special Events</p>
               </a>
@@ -129,9 +129,9 @@
           </div>
 
           <div class="series-tile">
-            <a href="/calendar/Fall_2023/sunday"><img src="/images/2023fall/the-wind-of-ayahuasca-1982.jpg" alt="The Wind of Ayahuasca (1982) still"></a>
+            <a href="/calendar/Winter_2024/sunday"><img src="/images/2024winter/the-wind-of-ayahuasca-1982.jpg" alt="The Wind of Ayahuasca (1982) still"></a>
             <div class="series-text">
-              <a href="/calendar/Fall_2023/sunday">
+              <a href="/calendar/Winter_2024/sunday">
               <p class="day">Sunday II</p>  
               <p class="title">Revising the Musical</p>
               </a>
