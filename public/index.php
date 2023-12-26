@@ -105,12 +105,12 @@
         </div>
       </div>
 
-      <div style="background: url('/images/2024winter/doc_gif_2.gif') no-repeat top center fixed; background-size: cover; display: block; margin: auto; width: 98vw; height: 100%; object-fit: cover;">
+      <div style="background: url('/images/2024winter/home-page.GIF') no-repeat top center fixed; background-size: cover; display: block; margin: auto; width: 98vw; height: 100%; object-fit: cover;">
         <h1 style="display: flex; justify-content: center; font-size: 10vw; color: white; margin: 0 auto 0 auto;">our calendar</h2>
       </div>
       <br>
-      <img src="images/2024winter/cal-winter/cal15000.png" style="max-width: 95vw; margin: auto; display: block;"></img>
-      <img src="images/2024winter/cal-winter/cal25000.png" style="max-width: 95vw; margin: auto; display: block;"></img>
+      <img src="/images/2024winter/cal-winter/cal15000.png" style="max-width: 95vw; margin: auto; display: block;"></img>
+      <img src="/images/2024winter/cal-winter/cal25000.png" style="max-width: 95vw; margin: auto; display: block;"></img>
       <h2 style="text-align: center; font-size: 1.5rem; margin-top: 1vw; margin-bottom: 1vw;">Designed by Eli Harrell</h2>
   
     </main>
