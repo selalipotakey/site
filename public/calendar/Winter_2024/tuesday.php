@@ -62,7 +62,7 @@
         
         <div class="screening">
           <h2>Punch 9 for Harold Washington (2021)</h2>
-          <img src="/images/2024winter/punch-9-for-harold-washington-2021.png" alt="Punch 9 for Harold Washington (2021) still">
+          <img src="/images/2024winter/punch-9-for-harold-washington-2021.webp" alt="Punch 9 for Harold Washington (2021) still">
           <h3>Joe Winston &middot; 113m &middot; DCP</h3>          
           <p><i>Co-sponsored by the Harris School of Public Policy. Quarter passes cannot be used for this screening.</i></p><p>In 1983, Harold Washington was elected as Chicago's first Black mayor. Featuring interviews with Reverend Jesse Jackson, Vice Mayor Richard Mell, and others, this documentary provides a look at how Harold Washington took on an unlikely, difficult, and ultimately victorious campaign amidst a racist and corrupt landscape — and how his legacy during his time as mayor lives on today.</p>
           <h3>Tuesday, February 6th <a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=76D1AC59-7512-4D1A-BDE5-368514CD5965" target="_blank"><u>7:00PM</u></a></h3>

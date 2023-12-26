@@ -26,14 +26,14 @@
         <iframe id='agenda-calendar'src="https://calendar.google.com/calendar/embed?src=c_4fc3c45e628e887f98469415227560c128c1bb24156da8dadec5ea688afa0997%40group.calendar.google.com&ctz=America%2FChicago" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
         <!--<h3 style="padding: 1rem 0rem;"><i>Stylized Fall 2023 calendar <u><a href="https://drive.google.com/file/d/1CzuClOQONkkR2ofjLKJhpHiDRpd5o7Du/view?usp=sharing" target="_blank">here</a></u>-->
-        <br>
+        <br><br>
 
         <h1>Series this quarter:</h1>
 
         <div class="series-list">
 
           <div class="series-tile reverse">
-            <a href="/calendar/Winter_2024/monday"><img src="/images/2024winter/hell-bent-for-leather-1960.png" alt="Hell Bent for Leather (1960) still"></a>
+            <a href="/calendar/Winter_2024/monday"><img src="/images/2024winter/hell-bent-for-leather-1960.jpg" alt="Hell Bent for Leather (1960) still"></a>
             <div class="series-text">
               <a href="/calendar/Winter_2024/monday">
                 <p class="day">Monday</p>
@@ -99,7 +99,7 @@
           </div>
 
           <div class="series-tile reverse">
-            <a href="/calendar/Winter_2024/saturday"><img src="/images/2024winter/son-of-godzilla-1967.png" alt="Son of Godzilla (1967) still"></a>
+            <a href="/calendar/Winter_2024/saturday-1"><img src="/images/2024winter/son-of-godzilla-1967.png" alt="Son of Godzilla (1967) still"></a>
             <div class="series-text">
               <a href="/calendar/Winter_2024/saturday">
               <p class="day">Saturday I</p>  
@@ -109,7 +109,7 @@
           </div>
 
           <div class="series-tile">
-            <a href="/calendar/Winter_2024/saturday"><img src="/images/2024winter/asteroid-city-2023.webp" alt="Asteroid City (2023) still"></a>
+            <a href="/calendar/Winter_2024/saturday-2"><img src="/images/2024winter/asteroid-city-2023.webp" alt="Asteroid City (2023) still"></a>
             <div class="series-text">
               <a href="/calendar/Winter_2024/saturday">
               <p class="day">Saturday II</p>  
@@ -119,7 +119,7 @@
           </div>
 
           <div class="series-tile reverse">
-            <a href="/calendar/Winter_2024/sunday"><img src="/images/2024winter/eternal-sunshine-of-the-spotless-mind-2004.jpeg" alt="Eternal Sunshine of the Spotless Mind (2004) still"></a>
+            <a href="/calendar/Winter_2024/sunday-1"><img src="/images/2024winter/eternal-sunshine-of-the-spotless-mind-2004.jpeg" alt="Eternal Sunshine of the Spotless Mind (2004) still"></a>
             <div class="series-text">
               <a href="/calendar/Winter_2024/sunday">
               <p class="day">Sunday I</p>  
@@ -129,7 +129,7 @@
           </div>
 
           <div class="series-tile">
-            <a href="/calendar/Winter_2024/sunday"><img src="/images/2024winter/all-that-jazz-1979.png" alt="All That Jazz (1979) still"></a>
+            <a href="/calendar/Winter_2024/sunday-2"><img src="/images/2024winter/all-that-jazz-1979.png" alt="All That Jazz (1979) still"></a>
             <div class="series-text">
               <a href="/calendar/Winter_2024/sunday">
               <p class="day">Sunday II</p>  

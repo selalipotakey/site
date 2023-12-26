@@ -33,7 +33,7 @@
         
         <div class="screening">
           <h2>The Sleeping City (1950)</h2>
-          <img src="/images/2024winter/the-sleeping-city-1950.png" alt="The Sleeping City (1950) still">
+          <img src="/images/2024winter/the-sleeping-city-1950.jpg" alt="The Sleeping City (1950) still">
           <h3>George Sherman &middot; 86m &middot; 35mm</h3>
           <p>Another noir for Universal, <i>The Sleeping City</i> follows Richard Conte as an undercover detective searching for a cop-killer at New York’s Bellevue Hospital. Following contemporaneous trends in semidocumentary noir, <i>The Sleeping City</i> was filmed on-location at Bellevue. It thus serves as a document not just of filmmaking styles circa 1950, but also of New York and the Bellevue hospital from over seventy-years ago.</p>
           <h3>Monday, January 22nd <a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=C847412E-2297-4710-8C39-C01149BB7B04" target="_blank"><u>7:00PM</u></a></h3>
@@ -73,7 +73,7 @@
         
         <div class="screening">
           <h2>Hell Bent for Leather (1960)</h2>
-          <img src="/images/2024winter/hell-bent-for-leather-1960.png" alt="Hell Bent for Leather (1960) still">
+          <img src="/images/2024winter/hell-bent-for-leather-1960.jpg" alt="Hell Bent for Leather (1960) still">
           <h3>George Sherman &middot; 82m &middot; 35mm</h3>
           <p>Returning to Universal after a brief turn toward independent filmmaking, Sherman directs war-hero-turned-actor Audie Murphy as a horse trader who becomes confused for a notorious outlaw. Murphy is one of the most interesting actors in post-war Western pictures, and this rarely seen tale of mob mentality and injustice showcases the actor’s distinctiveness as well as Sherman’s no-frills artistry.</p>
           <h3>Monday, February 26th <a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=54298C8A-FA2C-4A38-8165-1E5CB1A21F91" target="_blank"><u>7:00PM</u></a></h3>
