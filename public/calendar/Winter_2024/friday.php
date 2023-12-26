@@ -15,7 +15,7 @@
  
       <?php include $_SERVER['DOCUMENT_ROOT'] . "/includes/dropdown.html" ?>
 
-      <div style="background: url('/images/2024winter/series_imgs/manchcand-recolor.jpeg') no-repeat top center fixed; margin: auto; height: 100vw; bottom: 0; object-fit: cover; color: white;">
+      <div style="background: url('/images/2024winter/series_imgs/manchcand-recolor.jpeg') no-repeat; margin: auto; height: auto; bottom: 0; object-fit: cover; color: white;">
           <div class="screenings-list">
             <div class="text-section" style="text-shadow: 2px 2px #FF0000;">
               <h1>FRIDAY - Mommy Issues: Freudian Relationships in Film</h1>

@@ -18,7 +18,7 @@
       <!-- Heading -->
       <div style="background: url('/images/2024winter/Doc-gif.gif') no-repeat top center fixed; margin: auto; height: 100vw; bottom: 0; object-fit: cover;">
         <h1 style="display: flex; font-size: 20vw; color: white; margin: 0 auto 0 auto;">WINTER 2024</h1>
-        <h3><i>$7 tickets + theater opens 30 minutes before the screening.</i></h3>
+        <h3 style="color: white;"><i>$7 tickets + theater opens 30 minutes before the screening.</i></h3>
       </div>
 
       <!-- Carousel -->
@@ -36,7 +36,8 @@
             <h2 class="card-h2">Aquirre, the Wrath of God (1972)</h2>
             <h3 class="card-h3">01/03 &middot; 01/05</h3>
             <h3 class="card-h3">
-              W <a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=26BD3039-8256-4F98-84B3-0A3FC1BA2330" target="_blank"><u>7:00OM</u></a> &middot; F <a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=57ACF242-C460-4BB8-B325-52BFD5DF3A8E" target="_blank"><u>9:30PM</u></a>
+              <a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=26BD3039-8256-4F98-84B3-0A3FC1BA2330" target="_blank"><u>7:00OM</u></a> // 
+              <a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=57ACF242-C460-4BB8-B325-52BFD5DF3A8E" target="_blank"><u>9:30PM</u></a>
             </h3>
           </div>
           <div id="card">
@@ -46,7 +47,7 @@
             <h2 class="card-h2">Prestige (2006)</h2>
             <h3 class="card-h3">01/04 &middot; 01/07</h3>
             <h3 class="card-h3">
-              Th <a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=4FF302CB-47B7-4037-8AFA-FD3DC6719704" target="_blank"><u>7:00PM</u></a> &middot; S
+              <a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=4FF302CB-47B7-4037-8AFA-FD3DC6719704" target="_blank"><u>7:00PM</u></a> // 
               4:00PM</h3>
           </div>
           <div id="card">
@@ -56,7 +57,7 @@
             <h2 class="card-h2">The Lawnmower Man (1992)</h2>
             <h3 class="card-h3">01/04</h3>
             <h3 class="card-h3">
-              Th <a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=82EA5F63-6263-4549-B99F-D0D37B71F75C" target="_blank"><u>9:30PM</u></a>
+              <a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=82EA5F63-6263-4549-B99F-D0D37B71F75C" target="_blank"><u>9:30PM</u></a>
             </h3>
           </div>
           <div id="card">
@@ -66,8 +67,8 @@
             <h2 class="card-h2">Psycho (1960)</h2>
             <h3 class="card-h3">01/05 &middot; 01/06</h3>
             <h3 class="card-h3">
-              F <a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=5E97468E-F075-4141-BF6E-28A28D5FAF8F" target="_blank"><u>7:00PM</u></a> &middot;
-              S <a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=D32E8C82-C932-401E-9E09-A682286A81A3" target="_blank"><u>4:00PM</u></a>
+              <a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=5E97468E-F075-4141-BF6E-28A28D5FAF8F" target="_blank"><u>7:00PM</u></a> //
+              <a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=D32E8C82-C932-401E-9E09-A682286A81A3" target="_blank"><u>4:00PM</u></a>
             </h3>
           </div>
           <div id="card">
@@ -77,7 +78,7 @@
             <h2 class="card-h2">The Giant Behemoth (1959)</h2>
             <h3 class="card-h3">01/06</h3>
             <h3 class="card-h3">
-              S <a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=A497DFB9-748F-41AA-9828-A3B08FFA12C9" target="_blank"><u>1:00PM</u></a>
+              <a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=A497DFB9-748F-41AA-9828-A3B08FFA12C9" target="_blank"><u>1:00PM</u></a>
             </h3>
           </div>
           <div id="card">
@@ -87,7 +88,7 @@
             <h2 class="card-h2">Asteroid City (2023)</h2>
             <h3 class="card-h3">01/06</h3>
             <h3 class="card-h3">
-              S <a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=08E48BB3-46BC-468C-B52B-2AC322431493" target="_blank"><u>7:00PM</u></a>            
+              <a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=08E48BB3-46BC-468C-B52B-2AC322431493" target="_blank"><u>7:00PM</u></a>            
             </h3>
           </div>
           <div id="card">
@@ -97,7 +98,7 @@
             <h2 class="card-h2">All That Jazz (1979)</h2>
             <h3 class="card-h3">01/07</h3>
             <h3 class="card-h3">
-              Su <a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=4E874FF1-2DAF-49EB-9A62-94B3AE9986A9" target="_blank"><u>7:00PM</u></a>            
+              <a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=4E874FF1-2DAF-49EB-9A62-94B3AE9986A9" target="_blank"><u>7:00PM</u></a>            
             </h3>
           </div>
 

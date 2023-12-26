@@ -15,7 +15,7 @@
 
       <?php include $_SERVER['DOCUMENT_ROOT'] . "/includes/dropdown.html" ?>
 
-      <div style="background: url('/images/2024winter/series_imgs/lawnmowerman-recolor4.png') no-repeat top center fixed; margin: auto; height: 100vw; bottom: 0; object-fit: cover; color: white;">
+      <div style="background: url('/images/2024winter/series_imgs/lawnmowerman-recolor4.png') no-repeat; margin: auto; height: auto; bottom: 0; object-fit: cover; color: white;">
           <div class="screenings-list">
             <div class="text-section" style="text-shadow: 2px 2px black;">
               <h1>THURSDAY 2 - Computer Vision: Experiments in Digital Cinema</h1>
