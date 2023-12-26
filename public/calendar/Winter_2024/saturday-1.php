@@ -18,7 +18,7 @@
       <div style="background: url('/images/2024winter/series_imgs/fantasia dvd-recolor.png') no-repeat; margin: auto; height: auto; bottom: 0; object-fit: cover; color: white;">
           <div class="screenings-list">
             <div class="text-section" style="text-shadow: 2px 2px black;">
-              <h1>Dinosaurs Plus! on Film</h1>
+              <h1>SATURDAY 1 - Dinosaurs Plus! on Film</h1>
               <p>Dinosaurs ruled the planet for some 140 million years up until the end of the Cretaceous period, some 66 million years ago...</p>
               <p>Yet they have hardly been forgotten. Dinosaurs have long fascinated the public, a fact that did</p>
               <p>not escape the attention of Hollywood. Even now, when dinosaurs and other creatures inspired by them (such as those seen in the Godzilla movies) are cast in the lead roles, large</p>
@@ -54,7 +54,7 @@
         
         <div class="screening">
           <h2>One Million Years B.C. (1966)</h2>
-          <img src="/images/2024winter/one-million-years-bc-1966.png" alt="One Million Years B.C. (1966) still">
+          <img src="/images/2024winter/one-million-years-b-c-1966.png" alt="One Million Years B.C. (1966) still">
           <h3>Don Chaffey &middot; 92m &middot; 35mm</h3>
           <p>A remake of the 1940 American film, Don Chaffey’s <i>One Million Years B.C.</i> is set in a prehistoric society where humans and dinosaurs coexist. Tumak, a chieftain’s son in exile, meets Loana, a member of the more advanced Shell tribe. Together, they must fight against man and dino alike. A must-see for Ray Harryhausen’s impressive stop-motion effects and leading lady Raquel Welch’s iconic image.</p>
           <h3>Saturday, January 20th <a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=AA27CCB9-0B37-489D-929F-D59E387FA39D" target="_blank"><u>4:00PM</u></a></h3>

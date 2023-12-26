@@ -64,6 +64,14 @@
         </div>
 
         <div class="screening">
+          <h2>Eternal Sunshine of the Spotless Mind (2004)</h2>
+          <img src="/images/2024winter/eternal-sunshine-of-the-spotless-mind-2004.jpeg" alt="Eternal Sunshine of the Spotless Mind (2004) still">
+          <h3>Michel Gondry &middot; 118m &middot; DCP</h3>
+          <p>To have loved and lost or never to have loved at all? This commentator's inclined to say the latter... but <i>Eternal Sunshine</i> says differently! Celebrate Valentine's Day with Joel (Jim Carrey) and Clementine (Kate Winslet), who break up and undergo a medical procedure to have each other removed from their memories. What follows is a hilarious yet poignant exploration of what it means to love (complete with a great song by Beck!).</p>
+          <h3>Wednesday, February 14th <a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=2C3FA1FE-3400-4C68-B377-102D9286E730" target="_blank"><u>9:30PM</u></a> &middot; Friday, February 17th <a href="" target="_blank"><u>4:00PM</u></a></h3>
+        </div>
+
+        <div class="screening">
           <h2>Oppenheimer (2023)</h2>
           <img src="/images/2024winter/oppenheimer-2023.png" alt="Oppenheimer (2023) still">
           <h3>Christopher Nolan &middot; 180m &middot; DCP</h3>
