@@ -83,7 +83,7 @@
           </div>
           <div id="card">
             <a href="calendar/Winter_2024/saturday-2#asteroid">
-              <img class="card-img" src="/images/2024winter/asteroid-city-2023.png" alt="Asteroid City (2023) still">
+              <img class="card-img" src="/images/2024winter/asteroid-city-2023.webp" alt="Asteroid City (2023) still">
             </a>
             <h2 class="card-h2">Asteroid City (2023)</h2>
             <h3 class="card-h3">01/06</h3>
