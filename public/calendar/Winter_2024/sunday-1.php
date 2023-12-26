@@ -22,7 +22,7 @@
           
         </div>
         
-        <div class="screening">
+        <div id="larceny" class="anchor screening">
           <h2>Larceny (1948)</h2>
           <img src="/images/2024winter/larceny-1948.png" alt="Larceny (1948) still">
           <h3>George Sherman &middot; 89m &middot; 35mm</h3>          

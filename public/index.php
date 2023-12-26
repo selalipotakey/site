@@ -106,7 +106,7 @@
       </div>
 
       <div style="background: url('/images/2024winter/Doc-gif.gif') no-repeat top center fixed; background-size: cover; display: block; margin: auto; width: 98vw; height: 100%; object-fit: cover;">
-        <h1 style="display: flex; justify-content: center; font-size: 10vw; color: white; margin: 0 auto 0 auto;">our calendar</h2>
+        <a href="calendar/index.php" alt="Calendar"><h1 style="display: flex; justify-content: center; font-size: 10vw; color: white; margin: 0 auto 0 auto;">our calendar</h2></a>
       </div>
       <br>
       <img src="/images/2024winter/cal-winter/cal15000.png" style="max-width: 95vw; margin: auto; display: block;"></img>

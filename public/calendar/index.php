@@ -33,7 +33,7 @@
         <div class="series-list">
 
           <div class="series-tile reverse">
-            <a href="/calendar/Winter_2024/monday"><img src="/images/2024winter/m-1931.jpg" alt="M (1931) still"></a>
+            <a href="/calendar/Winter_2024/monday"><img src="/images/2024winter/hell-bent-for-leather-1960.png" alt="Hell Bent for Leather (1960) still"></a>
             <div class="series-text">
               <a href="/calendar/Winter_2024/monday">
                 <p class="day">Monday</p>
@@ -44,7 +44,7 @@
           </div>
 
           <div class="series-tile">
-            <a href="/calendar/Winter_2024/tuesday"><img src="/images/2024winter/wise-blood-1979.jpg" alt="Wise Blood (1979) still"></a>
+            <a href="/calendar/Winter_2024/tuesday"><img src="/images/2024winter/city-of-god-2002.png" alt="City of God (2002) still"></a>
             <div class="series-text">
               <a href="/calendar/Winter_2024/tuesday">
                 <p class="day">Tuesday</p>
@@ -55,7 +55,7 @@
           </div>
 
           <div class="series-tile reverse">
-            <a href="/calendar/Winter_2024/wednesday"><img src="/images/2024winter/brokeback-mountain-2005.jpg" alt="Brokeback Mountain (2005) still"></a>
+            <a href="/calendar/Winter_2024/wednesday"><img src="/images/2024winter/aguirre-the-wrath-of-god-1972.png" alt="Aguirre, the Wrath of God (1972) still"></a>
             <div class="series-text">
               <a href="/calendar/Winter_2024/wednesday">
               <p class="day">Wednesday</p>  
@@ -66,7 +66,7 @@
           </div>
 
           <div class="series-tile">
-            <a href="/calendar/Winter_2024/thursday-1"><img src="/images/2024winter/trainspotting-1996.jpg" alt="Trainspotting (1996) still"></a>
+            <a href="/calendar/Winter_2024/thursday-1"><img src="/images/2024winter/possession-1981.png" alt="Possession (1981) still"></a>
             <div class="series-text">
               <a href="/calendar/Winter_2024/thursday-1">
               <p class="day">Thursday I</p>  
@@ -77,7 +77,7 @@
           </div>
 
           <div class="series-tile reverse">
-            <a href="/calendar/Winter_2024/thursday-2"><img src="/images/2024winter/combat-shock-1984.jpg" alt="Combat Shock (1984) still"></a>
+            <a href="/calendar/Winter_2024/thursday-2"><img src="/images/2024winter/party-girl-1995.png" alt="Party Girl (1995) still"></a>
             <div class="series-text">
               <a href="/calendar/Winter_2024/thursday-2">
               <p class="day">Thursday II</p>  
@@ -88,7 +88,7 @@
           </div>
 
           <div class="series-tile">
-            <a href="/calendar/Winter_2024/friday"><img src="/images/2024winter/harold-and-maude-1971.jpg" alt="Harold and Maude (1971) still"></a>
+            <a href="/calendar/Winter_2024/friday"><img src="/images/2024winter/the-piano-teacher-2001.png" alt="The Piano Teacher (2001) still"></a>
             <div class="series-text">
               <a href="/calendar/Winter_2024/friday">
               <p class="day">Friday</p>  
@@ -99,7 +99,7 @@
           </div>
 
           <div class="series-tile reverse">
-            <a href="/calendar/Winter_2024/saturday"><img src="/images/2024winter/barbie-2023.jpg" alt="Barbie (2023) still"></a>
+            <a href="/calendar/Winter_2024/saturday"><img src="/images/2024winter/son-of-godzilla-1967.png" alt="Son of Godzilla (1967) still"></a>
             <div class="series-text">
               <a href="/calendar/Winter_2024/saturday">
               <p class="day">Saturday I</p>  
@@ -109,7 +109,7 @@
           </div>
 
           <div class="series-tile">
-            <a href="/calendar/Winter_2024/saturday"><img src="/images/2024winter/barbie-2023.jpg" alt="Barbie (2023) still"></a>
+            <a href="/calendar/Winter_2024/saturday"><img src="/images/2024winter/asteroid-city-2023.webp" alt="Asteroid City (2023) still"></a>
             <div class="series-text">
               <a href="/calendar/Winter_2024/saturday">
               <p class="day">Saturday II</p>  
@@ -119,7 +119,7 @@
           </div>
 
           <div class="series-tile reverse">
-            <a href="/calendar/Winter_2024/sunday"><img src="/images/2024winter/the-wind-of-ayahuasca-1982.jpg" alt="The Wind of Ayahuasca (1982) still"></a>
+            <a href="/calendar/Winter_2024/sunday"><img src="/images/2024winter/eternal-sunshine-of-the-spotless-mind-2004.jpeg" alt="Eternal Sunshine of the Spotless Mind (2004) still"></a>
             <div class="series-text">
               <a href="/calendar/Winter_2024/sunday">
               <p class="day">Sunday I</p>  
@@ -129,7 +129,7 @@
           </div>
 
           <div class="series-tile">
-            <a href="/calendar/Winter_2024/sunday"><img src="/images/2024winter/the-wind-of-ayahuasca-1982.jpg" alt="The Wind of Ayahuasca (1982) still"></a>
+            <a href="/calendar/Winter_2024/sunday"><img src="/images/2024winter/all-that-jazz-1979.png" alt="All That Jazz (1979) still"></a>
             <div class="series-text">
               <a href="/calendar/Winter_2024/sunday">
               <p class="day">Sunday II</p>  
