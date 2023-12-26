@@ -101,7 +101,7 @@
           <div class="series-tile reverse">
             <a href="/calendar/Winter_2024/saturday-1"><img src="/images/2024winter/son-of-godzilla-1967.png" alt="Son of Godzilla (1967) still"></a>
             <div class="series-text">
-              <a href="/calendar/Winter_2024/saturday">
+              <a href="/calendar/Winter_2024/saturday-1">
               <p class="day">Saturday I</p>  
               <p class="title">Dinosaurs Plus! on Film</p>
               </a>
@@ -111,7 +111,7 @@
           <div class="series-tile">
             <a href="/calendar/Winter_2024/saturday-2"><img src="/images/2024winter/asteroid-city-2023.webp" alt="Asteroid City (2023) still"></a>
             <div class="series-text">
-              <a href="/calendar/Winter_2024/saturday">
+              <a href="/calendar/Winter_2024/saturday-2">
               <p class="day">Saturday II</p>  
               <p class="title">New Releases</p>
               </a>
@@ -121,7 +121,7 @@
           <div class="series-tile reverse">
             <a href="/calendar/Winter_2024/sunday-1"><img src="/images/2024winter/eternal-sunshine-of-the-spotless-mind-2004.jpeg" alt="Eternal Sunshine of the Spotless Mind (2004) still"></a>
             <div class="series-text">
-              <a href="/calendar/Winter_2024/sunday">
+              <a href="/calendar/Winter_2024/sunday-1">
               <p class="day">Sunday I</p>  
               <p class="title">Special Events</p>
               </a>
@@ -131,7 +131,7 @@
           <div class="series-tile">
             <a href="/calendar/Winter_2024/sunday-2"><img src="/images/2024winter/all-that-jazz-1979.png" alt="All That Jazz (1979) still"></a>
             <div class="series-text">
-              <a href="/calendar/Winter_2024/sunday">
+              <a href="/calendar/Winter_2024/sunday-2">
               <p class="day">Sunday II</p>  
               <p class="title">Revising the Musical</p>
               </a>
