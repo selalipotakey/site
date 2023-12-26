@@ -105,7 +105,7 @@
           <img src="/images/2024winter/the-valley-of-gwangi-1969.png" alt="The Valley of Gwangi (1969) still">
           <h3>Jim O'Connolly &middot; 96m &middot; Digital</h3>
           <p>You’ve heard of <i>Cowboys and Aliens</i>… now get ready for cowboys battling dinosaurs! Centered on the mysterious Forbidden Valley where prehistoric creatures roam free, the ferocious allosaurus known as Gwangi is captured and displayed in a rodeo. Naturally, catastrophic mayhem ensues. Originally thought up by Willis O’Brien, Ray Harryhausen continued the project, creating its stop-motion effects.</p>
-          <h2>Thursday, March 2nd <a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=1FD94061-C602-49DC-9722-790CC487C64E" target="_blank"><u>1:00PM</u></a></h3>
+          <h3>Thursday, March 2nd <a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=1FD94061-C602-49DC-9722-790CC487C64E" target="_blank"><u>1:00PM</u></a></h3>
         </div>
         
       </div>

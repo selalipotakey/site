@@ -15,12 +15,15 @@
 
       <?php include $_SERVER['DOCUMENT_ROOT'] . "/includes/dropdown.html" ?>
 
-      <div class="screenings-list">
+      <div style="background: url('/images/2024winter/series_imgs/eternalsunsine-recolor.jpg') no-repeat; margin: auto; height: auto; bottom: 0; object-fit: cover; color: white;">
+          <div class="screenings-list">
+            <div class="text-section" style="text-shadow: 2px 2px blue;">
+            <h1>SUNDAY 1 - Special Events</h1>
+            </div>
+          </div>
+      </div> 
 
-        <div class="text-section">
-          <h1>SUNDAY 1 - Special Events</h1>
-          
-        </div>
+      <div class="screenings-list">
         
         <div id="larceny" class="anchor screening">
           <h2>Larceny (1948)</h2>
@@ -49,7 +52,7 @@
 
         <div class="screening">
           <h2>O Brother Where Art Thou (2000)</h2>
-          <img src="/images/2024winter/o-brother-where-art-thou-2000.png" alt="O Brother Where Art Thou (2000) still">
+          <img src="/images/2024winter/o-brother-where-art-thou-2000.jpg" alt="O Brother Where Art Thou (2000) still">
           <h3>Joel Coen &middot; 107m &middot; DCP</h3>          
           <p><i>Screening sponsored by UChicago Folk Festival (Feb 9-10).</i></p><p>Loosely based on the <i>Odyssey</i> and set in rural 1930s Mississippi, the film follows escaped convicts Pete, Delmar, and Ulysses as they search for hidden treasure with a sheriff on their tail. This satirical Coen brothers film is shaped by a diegetic soundtrack of gospel, bluegrass, pre-war blues, and Southern folk music that was perhaps even more popular than the film, winning Album of the Year and selling over eight million copies.</p>
           <h3>Saturday, February 3rd <a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=FF3E64EE-1850-4D1C-80E4-6C963867F08E" target="_blank"><u>4:00PM</u></a></h3>
@@ -57,7 +60,7 @@
         
         <div class="screening">
           <h2>Mississippi Masala (1991)</h2>
-          <img src="/images/2024winter/mississippi-masala-1991.png" alt="Mississippi Masala (1991) still">
+          <img src="/images/2024winter/mississippi-masala-1991.jpeg" alt="Mississippi Masala (1991) still">
           <h3>Mira Nair &middot; 118m &middot; DCP</h3>          
           <p><i>Co-sponsored by South Asian Students Association (SASA)</i></p><p>Starring Denzel Washington and Sarita Choudhury, <i>Mississippi Masala</i> has proven to be a complex and groundbreaking work, even three decades later. Mina is an Indian woman whose family was expelled from Uganda during Idi Amin's reign and finds herself growing up in Mississippi, where she eventually falls in love with Demetrius. Director Nair, with cinematography from Ed Lachman, creates a passionate and thorny romantic drama intertwining issues of both race and love.</p>
           <h3>Sunday, February 4th <a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=787CCA38-CD3D-4B26-91A6-18157698058E" target="_blank"><u>4:00PM</u></a></h3>
@@ -73,7 +76,7 @@
 
         <div class="screening">
           <h2>Oppenheimer (2023)</h2>
-          <img src="/images/2024winter/oppenheimer-2023.png" alt="Oppenheimer (2023) still">
+          <img src="/images/2024winter/oppenheimer-2023.jpeg" alt="Oppenheimer (2023) still">
           <h3>Christopher Nolan &middot; 180m &middot; DCP</h3>
           <p><i>In collaboration with Society of Physics Students.</i></p><p>Now I am become Doc, the watcher of movies... Nolan's latest visual epic dives into the world of J. Robert Oppenheimer, from the enthralling inception of the Trinity Project to the morally tumultuous aftermath of his work. Cillian Murphy's tour-de-force performance accompanied by a stacked cast and grand score by Ludwig Göransson (along with some rather delightful moments with Albert Einstein!) make <i>Oppenheimer</i> a heartwrenching thriller.</p>
           <h3>Wednesday, February 28th <a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=F3C0DFE7-804E-42B6-AB4E-895437EBE141" target="_blank"><u>6:30PM</u></a></h3>

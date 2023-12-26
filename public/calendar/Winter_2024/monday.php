@@ -33,7 +33,7 @@
         
         <div class="screening">
           <h2>The Sleeping City (1950)</h2>
-          <img src="/images/2024winter/the-sleeping-city-1950.jpg" alt="The Sleeping City (1950) still">
+          <img src="/images/2024winter/the-sleeping-city-1950.jpeg" alt="The Sleeping City (1950) still">
           <h3>George Sherman &middot; 86m &middot; 35mm</h3>
           <p>Another noir for Universal, <i>The Sleeping City</i> follows Richard Conte as an undercover detective searching for a cop-killer at New York’s Bellevue Hospital. Following contemporaneous trends in semidocumentary noir, <i>The Sleeping City</i> was filmed on-location at Bellevue. It thus serves as a document not just of filmmaking styles circa 1950, but also of New York and the Bellevue hospital from over seventy-years ago.</p>
           <h3>Monday, January 22nd <a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=C847412E-2297-4710-8C39-C01149BB7B04" target="_blank"><u>7:00PM</u></a></h3>
