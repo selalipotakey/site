@@ -294,6 +294,7 @@ main {
     flex-direction: column;
     /**flex-wrap: wrap;**/
     justify-content: center;
+    padding-top: 2vw;
     column-gap: 2vw;
     row-gap: 2vw;
 }
