@@ -309,10 +309,12 @@ main {
 
 .card-h2 {
     font-size: 2vw;
+    float: none;
 }
 
 .card-h3 {
     font-size: 1.5vw;
+    float: none;
 }
 
 .card-img {
