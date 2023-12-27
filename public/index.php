@@ -33,7 +33,7 @@
             <a href="calendar/Winter_2024/wednesday#aguirre">
               <img class="card-img" src="/images/2024winter/aguirre-the-wrath-of-god-1972.png" alt="Aguirre, the Wrath of God (1972) still">
             </a>
-            <h2 class="card-h2">Aquirre, the Wrath of God (1972)</h2>
+            <h2 class="card-h2">Aguirre, the Wrath of God (1972)</h2>
             <h3 class="card-h3">Wed 01/03 &middot; Fri 01/05</h3>
             <h3 class="card-h3">
               <a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=26BD3039-8256-4F98-84B3-0A3FC1BA2330" target="_blank"><u>7:00PM</u></a>··

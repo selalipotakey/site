@@ -304,9 +304,14 @@ main {
 .card {
     padding: 2vw 2.5vw;
     background-color: white;
+}
+
+/**.card {
+    padding: 2vw 2.5vw;
+    background-color: white;
     border-radius: 0;
     max-width: 100vw;
-}
+}**/
 
 .card-h2 {
     font-size: 2.5vw;
