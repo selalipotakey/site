@@ -319,10 +319,11 @@ main {
 
 .card-img {
     display: flex;
-    height: 15vw;
+    height: 17vw;
     width: auto;
+    min-width: 20vw;
     object-fit: cover;
-    border-radius: 2vw;
+    border-radius: 1vw;
     /*border: .3vw solid rgb(181, 49, 49);*/
     margin: 0 auto;
 }
