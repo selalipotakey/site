@@ -682,7 +682,7 @@ iframe {
 }
 
 @media (min-width: 800px) {
-    .card {
+    .cards {
         flex-direction: column;
         /**flex: 100%;**/
     }
