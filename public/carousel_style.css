@@ -310,11 +310,13 @@ main {
 .card-h2 {
     font-size: 2vw;
     text-align: center;
+    padding: 1vw 0;
 }
 
 .card-h3 {
     font-size: 1.5vw;
     text-align: center;
+    padding: 1vw 0;
 }
 
 .card-img {
