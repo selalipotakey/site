@@ -686,6 +686,10 @@ iframe {
         flex-direction: column;
         /**flex: 100%;**/
     }
+    .card-img {
+        width: 70vw;
+        height: auto;
+    }
 }
 @media (min-width: 650px) {
     .navbar-ul {
