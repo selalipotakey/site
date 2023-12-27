@@ -292,7 +292,7 @@ main {
 .cards {
     display: flex;
     flex-direction: row;
-    flex-wrap: wrap;
+    /**flex-wrap: wrap;**/
     justify-content: center;
     padding: 2vw 0 2vw 0;
     column-gap: 2vw;
@@ -319,9 +319,10 @@ main {
 
 .card-img {
     display: flex;
-    height: 20vw;
+    height: 15vw;
     width: auto;
     object-fit: cover;
+    border-radius: 5vw;
     /*border: .3vw solid rgb(181, 49, 49);*/
     margin: 0 auto;
 }
