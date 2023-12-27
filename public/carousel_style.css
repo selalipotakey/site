@@ -323,7 +323,7 @@ main {
     width: auto;
     min-width: 20vw;
     object-fit: cover;
-    border-radius: 1vw;
+    border-radius: .5vw;
     /*border: .3vw solid rgb(181, 49, 49);*/
     margin: 0 auto;
 }
@@ -683,6 +683,7 @@ iframe {
 
 @media (min-width: 800px) {
     .card {
+        flex-direction: column;
         flex: 100%;
     }
 }
