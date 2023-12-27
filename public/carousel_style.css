@@ -421,7 +421,7 @@ main {
 /* for the carousel */
 .carousel {
     position: relative;
-    height: 40vw;
+    height: 60vw;
     width: 85%;
     margin: 0 auto;
 }
