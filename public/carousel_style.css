@@ -306,13 +306,13 @@ main {
 }
 
 .card-h2 {
-    font-size: 2.5vw;
+    font-size: 2vw;
     display: flex; 
     justify-content: center;
 }
 
 .card-h3 {
-    font-size: 1.75vw;
+    font-size: 1.5vw;
     display: flex; 
     justify-content: center;
 }
