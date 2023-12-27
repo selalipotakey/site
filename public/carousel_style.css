@@ -289,11 +289,16 @@ main {
     padding-top: 2vw;
 }
 
-.cards {
+/**.cards {
     display: flex;
     flex-direction: column;
     justify-content: center;
     column-gap: 2vw;
+}**/
+
+.cards {
+    display: flex;
+    flex-direction: column;
 }
 
 .card {
