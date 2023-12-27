@@ -299,7 +299,7 @@ main {
 }
 
 .card {
-    padding: 2vw 2.5vw;
+    padding: 2vw 2.5vw 2vw 2.5vw;
     background-color: white;
     max-width: 100vw;
 }
