@@ -690,6 +690,13 @@ iframe {
         width: 70vw;
         height: auto;
     }
+    .card-h2 {
+        font-size: 5vw;
+    }
+    
+    .card-h3 {
+        font-size: 3vw;
+    }
 }
 @media (min-width: 650px) {
     .navbar-ul {
