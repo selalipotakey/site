@@ -74,7 +74,8 @@
           <img src="/images/2024winter/sky-captain-and-the-world-of-tomorrow-2004.png" alt="Sky Captain and the World of Tomorrow (2004) still">
           <h3>Kerry Conran &middot; 106m &middot; 35mm</h3>
           <p>Starring Gwyneth Paltrow and Jude Law, this late 1930s-period homage to Golden Age comics and pulp mags was one of the first films made entirely on a ‘digital backlot’: live actors on all-CG bluescreened ‘sets’. Surreal and evocative of two-strip Technicolor, this production practice, now common in big-budget filmmaking, was a mind-warping experience for the actors and still looks like little else.</p>
-          <h3>Thursday, February 8th <a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=0D8914E9-F9E5-4824-BF0E-8EC3C7648036" target="_blank"><u>9:30PM</u></a> &middot; Saturday, February 11th <a href="" target="_blank"><u>4:00PM</u></a></h3>
+          <h3>Thursday, February 8th <a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=0D8914E9-F9E5-4824-BF0E-8EC3C7648036" target="_blank"><u>9:30PM</u></a> &middot; 
+              Saturday, February 11th <a href="" target="_blank"><u>4:00PM</u></a></h3>
         </div>
         
         <div class="screening">
@@ -91,7 +92,7 @@
           <h3>Daisy von Scherler Mayer &middot; 94m &middot; DCP</h3>
           <p><i>Party Girl</i> is a celebration of downtown Manhattan’s club scene in the mid-90s and just so happens to be the first major film to premiere online. Starring Parker Posey, the film stands as a shining example of pre-9/11 utopia, “just as fresh today as when it debuted on the WWW,” (The secret history of Party Girl, Dazed). At its Seattle premiere in 1995, Posey herself pressed play, streaming the film online to audiences around the world.</p>
           <h3>Thursday, February 22nd <a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=A9370FBE-B80B-4578-96CD-DBA428D53262" target="_blank"><u>9:30PM</u></a> &middot; 
-              Thursday, February 23rd <a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=537FF4AE-3E2F-4853-A632-CAAA3B929688" target="_blank"><u>9:30PM</u></a></h3>
+              Friday, February 23rd <a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=537FF4AE-3E2F-4853-A632-CAAA3B929688" target="_blank"><u>9:30PM</u></a></h3>
         </div>
         
       </div>

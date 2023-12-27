@@ -81,7 +81,8 @@
           <img src="/images/2024winter/mysterious-skin-2004.png" alt="Mysterious Skin (2004) still">
           <h3>Gregg Araki &middot; 105m &middot; DCP</h3>
           <p>…is devastating. The two central characters are different in almost every single way and yet none of that matters at the heart of it. Gregg Araki’s pivot away from the surreal queer teenage wastelands of his Teen Apocalypse Trilogy may appear surprising, but do not be tricked —<i>Mysterious Skin</i> is equally surreal and easily the most difficult, discomforting film to watch in his entire filmography.</p>
-          <h3>Thursday, February 15th <a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=C3E13260-1F4A-4CC6-B835-58CEFC967DD3" target="_blank"><u>7:00PM</u></a> &middot; Thursday, February 16th <a href="" target="_blank"><u>9:30PM</u></a></h3>
+          <h3>Thursday, February 15th <a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=C3E13260-1F4A-4CC6-B835-58CEFC967DD3" target="_blank"><u>7:00PM</u></a> &middot; 
+              Friday, February 16th 9:30PM</h3>
         </div>
         
         <div class="screening">
@@ -89,7 +90,8 @@
           <img src="/images/2024winter/the-double-life-of-veronique-1991.png" alt="The Double Life of Veronique (1991) still">
           <h3>Krzysztof Kieślowski &middot; 98m &middot; DCP</h3>
           <p>Chance and connection; one could say that all of Kieślowski’s films explore these two themes, and <i>Veronique</i> is no exception. There is no explanation for why Weronika and Veronique are doppelgängers but we don’t need one. Instead, Kieślowski explores how their two lives intersect and diverge constantly and, subsequently, explores the mystical connections we all have with one another.</p>
-          <h3>Thursday, February 22nd <a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=79BC4930-6EF3-4F30-B920-E928321AE51B" target="_blank"><u>7:00PM</u></a> &middot; Saturday, February 25th <a href="" target="_blank"><u>4:00PM</u></a></h3>
+          <h3>Thursday, February 22nd <a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=79BC4930-6EF3-4F30-B920-E928321AE51B" target="_blank"><u>7:00PM</u></a> &middot; 
+              Sunday, February 25th <a href="" target="_blank"><u>4:00PM</u></a></h3>
         </div>
         
       </div>

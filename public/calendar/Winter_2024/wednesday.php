@@ -73,7 +73,7 @@
         <div class="screening">
           <h2>Ballad of the Little Soldier (1984) // Lessons of Darkness (1992)</h2>
           <img src="/images/2024winter/ballad-of-the-little-soldier-1984.png" alt="Ballad of the Little Soldier (1984) // Lessons of Darkness (1992) still">
-          <h3>Werner Herzog // Werner Herzog &middot; 46m // 54m &middot; DCP</h3>
+          <h3>Werner Herzog &middot; 46m // 54m &middot; DCP</h3>
           <p>Herzog has a singular approach to talking about war, and in this double feature, he centers unconventional voices. <i>Ballad of the Little Soldier</i> meditates on the loss of innocence in Nicaraguan child soldiers fighting against the Sandinistas. <i>Lessons of Darkness</i> has as its main characters inanimate objects — from tools of torture to burning oil fields —, recontextualized to present Kuwait as a hellish, alien planet following the suffering of the Gulf War.</p>
           <h3>Wednesday, February 7th <a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=E635DE7B-F5BB-403A-B604-DF0B18D0BD02" target="_blank"><u>7:00PM</u></a></h3>
         </div>

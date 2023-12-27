@@ -71,7 +71,8 @@
           <img src="/images/2024winter/eternal-sunshine-of-the-spotless-mind-2004.jpeg" alt="Eternal Sunshine of the Spotless Mind (2004) still">
           <h3>Michel Gondry &middot; 118m &middot; DCP</h3>
           <p>To have loved and lost or never to have loved at all? This commentator's inclined to say the latter... but <i>Eternal Sunshine</i> says differently! Celebrate Valentine's Day with Joel (Jim Carrey) and Clementine (Kate Winslet), who break up and undergo a medical procedure to have each other removed from their memories. What follows is a hilarious yet poignant exploration of what it means to love (complete with a great song by Beck!).</p>
-          <h3>Wednesday, February 14th <a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=2C3FA1FE-3400-4C68-B377-102D9286E730" target="_blank"><u>9:30PM</u></a> &middot; Friday, February 17th <a href="" target="_blank"><u>4:00PM</u></a></h3>
+          <h3>Wednesday, February 14th <a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=2C3FA1FE-3400-4C68-B377-102D9286E730" target="_blank"><u>9:30PM</u></a> &middot; 
+              Friday, February 17th 4:00PM</h3>
         </div>
 
         <div class="screening">
@@ -80,14 +81,6 @@
           <h3>Christopher Nolan &middot; 180m &middot; DCP</h3>
           <p><i>In collaboration with Society of Physics Students.</i></p><p>Now I am become Doc, the watcher of movies... Nolan's latest visual epic dives into the world of J. Robert Oppenheimer, from the enthralling inception of the Trinity Project to the morally tumultuous aftermath of his work. Cillian Murphy's tour-de-force performance accompanied by a stacked cast and grand score by Ludwig Göransson (along with some rather delightful moments with Albert Einstein!) make <i>Oppenheimer</i> a heartwrenching thriller.</p>
           <h3>Wednesday, February 28th <a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=F3C0DFE7-804E-42B6-AB4E-895437EBE141" target="_blank"><u>6:30PM</u></a></h3>
-        </div>
-        
-        <div class="screening">
-          <h2>The Parent Trap (1998)</h2>
-          <img src="/images/2024winter/the-parent-trap-1998.png" alt="The Parent Trap (1998) still">
-          <h3>Nancy Meyers &middot; 128m &middot; DCP</h3>
-          <p>It’s the end of winter quarter and we’re all tired. We at Doc get that, which is why we are showing <i>The Parent Trap</i>. It’s fun, it’s sweet, and it stars Lindsay Lohan––what more do you need?</p>
-          <h3>Friday, March 1st <a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=874111C2-9975-4312-A152-08F81AFC0169" target="_blank"><u>9:30PM</u></a></h3>
         </div>
          
       </div>

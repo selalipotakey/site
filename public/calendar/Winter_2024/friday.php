@@ -42,7 +42,7 @@
           <img src="/images/2024winter/phantom-thread-2017.png" alt="Phantom Thread (2017) still">
           <h3>Paul Thomas Anderson &middot; 130m &middot; DCP</h3>
           <p>A movie about love and other obsessions. <i>Phantom Thread</i> centers the precarious romance of dressmaker Reynolds Woodcock (Daniel Day-Lewis) and his muse Alma (Vicky Krieps) as their relationship careens from giddy adoration to quarrels. Every frame is a painting in this velvety film. With stunning performances and a haunting, ethereal score by Jonny Greenwood, <i>Phantom Thread</i> takes us right into the political mess of love.</p>
-          <h3>Thursday, January 12th <a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=82DE7407-8465-467A-892D-64DC34CD3626" target="_blank"><u>7:00PM</u></a></h3>
+          <h3>Friday, January 12th <a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=82DE7407-8465-467A-892D-64DC34CD3626" target="_blank"><u>7:00PM</u></a></h3>
         </div>
         
         <div class="screening">
@@ -50,7 +50,7 @@
           <img src="/images/2024winter/back-to-the-future-1985.png" alt="Back to the Future (1985) still">
           <h3>Robert Zemeckis &middot; 116m &middot; DCP</h3>
           <p>Wait a minute, are you telling me you built a MOMMY ISSUES SERIES with a KID'S MOVIE? Yes! Marty McFly (Michael J. Fox) travels back to 1955 in a DeLorean time machine his friend Doc (Christopher Lloyd) built, and accidentally ends up stealing his dad's girl... who's his mother. McFly must play matchmaker to his own parents to set the future right, and has to find a way back home. A family movie classic that's definitely not to miss!</p>
-          <h3>Thursday, January 19th <a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=D9A516B1-2A0D-4153-83B8-FE2A4E77D3A9" target="_blank"><u>7:00PM</u></a></h3>
+          <h3>Friday, January 19th <a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=D9A516B1-2A0D-4153-83B8-FE2A4E77D3A9" target="_blank"><u>7:00PM</u></a></h3>
         </div>
         
         <div class="screening">
@@ -58,7 +58,7 @@
           <img src="/images/2024winter/the-manchurian-candidate-1962.png" alt="The Manchurian Candidate (1962) still">
           <h3>John Frankenheimer &middot; 126m &middot; DCP</h3>
           <p>Sgt. Shaw returns home from the Korean War and is praised by his mother for his "heroic" service, although in reality his men hate him for his cruel leadership. But the lies go deeper: Shaw had been captured by Communists and programmed as a sleeper agent, and had unknowingly been taking orders from Communists to kill. Described by Roger Ebert as "inventive and frisk," <i>The Manchurian Candidate</i> provides a window into the chaos of Cold War paranoia.</p>
-          <h3>Thursday, January 26th <a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=405B3838-3DE3-4B94-A4AF-FA0B67C06D63" target="_blank"><u>7:00PM</u></a></h3>
+          <h3>Friday, January 26th <a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=405B3838-3DE3-4B94-A4AF-FA0B67C06D63" target="_blank"><u>7:00PM</u></a></h3>
         </div>
         
         <div class="screening">
@@ -66,7 +66,7 @@
           <img src="/images/2024winter/incendies-2010.png" alt="Incendies (2010) still">
           <h3>Denis Villeneuve &middot; 131m &middot; 35mm</h3>
           <p>After the death of their mother Nawal, two twins are shocked to find in her will a mission for them: to deliver letters to their unknown brother and to their father, who they thought to be dead. The twins travel to their mother's home, and slowly uncover the pieces of her life to reveal something they'd never expect... Masterfully intertwining the past and the present, Denis Villeneuve's <i>Incendies</i> tells the story of civil war and sacrifice.</p>
-          <h3>Thursday, February 2nd <a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=5725B716-8E8A-4BA8-9E33-9EA64FD9EB35" target="_blank"><u>7:00PM</u></a></h3>
+          <h3>Friday, February 2nd <a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=5725B716-8E8A-4BA8-9E33-9EA64FD9EB35" target="_blank"><u>7:00PM</u></a></h3>
         </div>
         
         <div class="screening">
@@ -74,7 +74,7 @@
           <img src="/images/2024winter/oedipus-rex-1967.png" alt="Oedipus Rex (1967) still">
           <h3>Pier Paolo Pasolini &middot; 104m &middot; DCP</h3>
           <p>It can't be a Mommy Issues series without the Oedipal complex. Pasolini takes on <i>Oedipus Rex</i> and breathes a touch of modernity into the classic Greek tragedy. Incorporating motifs from cultures around the world, Pasolini tells an ahistorical yet universal story of fate and the guilt of innocence. Pasolini's first feature-length color film and supposedly a work of "autobiographical anxiety," <i>Oedipus Rex</i> is more than the original story.</p>
-          <h3>Thursday, February 9th <a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=19D0E0BA-3FE8-48D0-97D5-FFBED885AA49" target="_blank"><u>7:00PM</u></a></h3>
+          <h3>Friday, February 9th <a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=19D0E0BA-3FE8-48D0-97D5-FFBED885AA49" target="_blank"><u>7:00PM</u></a></h3>
         </div>
         
         <div class="screening">
@@ -82,7 +82,7 @@
           <img src="/images/2024winter/mommy-2014.png" alt="Mommy (2014) still">
           <h3>Xavier Dolan &middot; 139m &middot; DCP</h3>
           <p>After her unstable son Steve (Antoine Olivier Pilon) starts a fire, Die (Anne Dorval) brings him home from his mental institution. Their neighbor Kyla (Suzanne Clément) intercepts one of their violent confrontations, and the three begin to help eachother heal their internal wounds. But when Die finds a romantic interest, chaos breaks loose again. Shot in an unconventional 1:1 aspect ratio, <i>Mommy</i> is a sensitive look into family and the limits of love.</p>
-          <h3>Thursday, February 16th <a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=5988166E-4F0A-4CB3-B1A7-EF69A8FED749" target="_blank"><u>7:00PM</u></a></h3>
+          <h3>Friday, February 16th <a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=5988166E-4F0A-4CB3-B1A7-EF69A8FED749" target="_blank"><u>7:00PM</u></a></h3>
         </div>
         
         <div class="screening">
@@ -90,7 +90,15 @@
           <img src="/images/2024winter/only-god-forgives-2013.png" alt="Only God Forgives (2013) still">
           <h3>Nicolas Winding Refn &middot; 90m &middot; DCP</h3>
           <p>Drenched in rain and neon light, <i>Only God Forgives</i> is a whirlwind of beautifully shot depravity and mother-son dialogue unlike any other. The film follows Julian (Ryan Gosling), who, by order of his mother, must dive into the streets of Bangkok to avenge his brother's death. Described by Gosling as the strangest script he's ever read and featuring him at peak solemn hero with a cool 17 lines, <i>Only God Forgives</i> is an extravagant and daring watch.</p>
-          <h3>Thursday, February 23rd <a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=2332C3FD-E510-480C-A48B-51E0EC4346AA" target="_blank"><u>7:00PM</u></a></h3>
+          <h3>Friday, February 23rd <a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=2332C3FD-E510-480C-A48B-51E0EC4346AA" target="_blank"><u>7:00PM</u></a></h3>
+        </div>
+
+        <div class="screening">
+          <h2>The Parent Trap (1998)</h2>
+          <img src="/images/2024winter/the-parent-trap-1998.png" alt="The Parent Trap (1998) still">
+          <h3>Nancy Meyers &middot; 128m &middot; DCP</h3>
+          <p>It’s the end of winter quarter and we’re all tired. We at Doc get that, which is why we are showing <i>The Parent Trap</i>. It’s fun, it’s sweet, and it stars Lindsay Lohan––what more do you need?</p>
+          <h3>Friday, March 1st <a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=874111C2-9975-4312-A152-08F81AFC0169" target="_blank"><u>9:30PM</u></a></h3>
         </div>
         
         <div class="screening">
@@ -98,8 +106,8 @@
           <img src="/images/2024winter/the-piano-teacher-2001.png" alt="The Piano Teacher (2001) still">
           <h3>Michael Haneke &middot; 131m &middot; 35mm</h3>
           <p>Nothing like wrapping up a quarter with some Haneke! In this fan-favorite, piano teacher Erika (Isabelle Huppert) lives with her domineering, abusively controlling mother. When Erika meets aspiring piano student Walter (Benoît Magimel), her sexual repression and his cruelty drive their relationship into sadomasochism. The winner of the 2001 Cannes' Grand Prix, Best Actress, and Best Actor, <i>The Piano Teacher</i> is an explosive watch.</p>
-          <h3>Wednesday, March 1st <a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=899C9D61-F748-4AF1-A5A5-63713ED17229" target="_blank"><u>7:00PM</u></a> &middot; 
-              Friday, March 3rd <a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=6D31E127-D430-490B-BA08-D61BAE9555E7" target="_blank"><u>4:00PM</u></a></h3>
+          <h3>Friday, March 1st <a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=899C9D61-F748-4AF1-A5A5-63713ED17229" target="_blank"><u>7:00PM</u></a> &middot; 
+              Sunday, March 3rd <a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=6D31E127-D430-490B-BA08-D61BAE9555E7" target="_blank"><u>4:00PM</u></a></h3>
         </div>
         
       </div>

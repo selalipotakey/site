@@ -18,7 +18,7 @@
       <!-- Heading -->
       <div style="background: url('/images/2024winter/Doc-gif.gif') no-repeat top center fixed; margin: auto; height: 100vw; bottom: 0; object-fit: cover;">
         <h1 style="display: flex; font-size: 20vw; color: white; margin: 0 auto 0 auto;">WINTER 2024</h1>
-        <h3 style="color: white;"><i>$7 tickets + theater opens 30 minutes before the screening⭣</i></h3>
+        <h3 style="color: white;"><i>$7 tickets + theater opens 30 minutes before the screening.</i></h3>
       </div>
 
       <!-- Carousel -->

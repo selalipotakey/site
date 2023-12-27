@@ -22,8 +22,8 @@
         <!-- this is from when cameron (2022) was trying to make a completley locally hosted google calendar by copy-pasting google's code, does not work (yet) -->
         <!-- <iframe src="/calendar/custom_calendar.php?ver=2.0" style="border: 0; padding-bottom: 0rem;" frameborder="0" scrolling="no"></iframe> -->
 
-        <iframe id='month-calendar'src="https://calendar.google.com/calendar/embed?src=c_4fc3c45e628e887f98469415227560c128c1bb24156da8dadec5ea688afa0997%40group.calendar.google.com&ctz=America%2FChicago" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-        <iframe id='agenda-calendar'src="https://calendar.google.com/calendar/embed?src=c_4fc3c45e628e887f98469415227560c128c1bb24156da8dadec5ea688afa0997%40group.calendar.google.com&ctz=America%2FChicago" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+        <iframe id='month-calendar' src="https://calendar.google.com/calendar/embed?src=c_fa39927f52bb048b3430d89de031cf8d6de4122ab05aa1da8c0fab0ea30681b1%40group.calendar.google.com&ctz=America%2FChicago" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+        <iframe id='agenda-calendar'src="https://calendar.google.com/calendar/embed?src=c_fa39927f52bb048b3430d89de031cf8d6de4122ab05aa1da8c0fab0ea30681b1%40group.calendar.google.com&ctz=America%2FChicago" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
         <!--<h3 style="padding: 1rem 0rem;"><i>Stylized Fall 2023 calendar <u><a href="https://drive.google.com/file/d/1CzuClOQONkkR2ofjLKJhpHiDRpd5o7Du/view?usp=sharing" target="_blank">here</a></u>-->
         <br><br>
