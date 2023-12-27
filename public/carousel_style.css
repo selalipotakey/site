@@ -294,19 +294,9 @@ main {
     flex-direction: column;
     justify-content: center;
     column-gap: 2vw;
-}**/
-
-.cards {
-    display: flex;
-    flex-direction: column;
 }
 
 .card {
-    padding: 2vw 2.5vw;
-    background-color: white;
-}
-
-/**.card {
     padding: 2vw 2.5vw;
     background-color: white;
     border-radius: 0;
