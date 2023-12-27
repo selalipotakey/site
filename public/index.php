@@ -35,9 +35,8 @@
             </a>
             <h2 class="card-h2">Aguirre, the Wrath of God (1972)</h2>
             <h3 class="card-h3">Wed 01/03 &middot; Fri 01/05</h3>
-            <h3 class="card-h3">
-              <a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=26BD3039-8256-4F98-84B3-0A3FC1BA2330" target="_blank"><u>7:00PM</u></a> <br> 
-              <a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=57ACF242-C460-4BB8-B325-52BFD5DF3A8E" target="_blank"><u>9:30PM</u></a>
+            <h3 class="card-h3"><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=26BD3039-8256-4F98-84B3-0A3FC1BA2330" target="_blank"><u>7:00PM</u></a></h3> 
+            <h3 class="card-h3"><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=57ACF242-C460-4BB8-B325-52BFD5DF3A8E" target="_blank"><u>9:30PM</u></a>
             </h3>
           </div>
           <div id="card">
@@ -46,9 +45,8 @@
             </a>
             <h2 class="card-h2">Prestige (2006)</h2>
             <h3 class="card-h3">Thu 01/04 &middot; Sun 01/07</h3>
-            <h3 class="card-h3">
-              <a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=4FF302CB-47B7-4037-8AFA-FD3DC6719704" target="_blank"><u>7:00PM</u></a> <br> 
-              4:00PM</h3>
+            <h3 class="card-h3"><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=4FF302CB-47B7-4037-8AFA-FD3DC6719704" target="_blank"><u>7:00PM</u></a></h3>
+            <h3 class="card-h3">4:00PM</h3>
           </div>
           <div id="card">
             <a href="calendar/Winter_2024/thursday-2#lawnmower">
@@ -66,9 +64,8 @@
             </a>
             <h2 class="card-h2">Psycho (1960)</h2>
             <h3 class="card-h3">Fri 01/05 &middot; Sat 01/06</h3>
-            <h3 class="card-h3">
-              <a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=5E97468E-F075-4141-BF6E-28A28D5FAF8F" target="_blank"><u>7:00PM</u></a> <br> 
-              <a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=D32E8C82-C932-401E-9E09-A682286A81A3" target="_blank"><u>4:00PM</u></a>
+            <h3 class="card-h3"><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=5E97468E-F075-4141-BF6E-28A28D5FAF8F" target="_blank"><u>7:00PM</u></a></h3> 
+            <h3 class="card-h3"><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=D32E8C82-C932-401E-9E09-A682286A81A3" target="_blank"><u>4:00PM</u></a></h3>
             </h3>
           </div>
           <div id="card">
