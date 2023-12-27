@@ -683,7 +683,7 @@ iframe {
     .card {
         flex: 100%;
     }
-
+}
 @media (min-width: 650px) {
     .navbar-ul {
         display: flex;
