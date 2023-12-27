@@ -24,6 +24,7 @@
       <!-- Carousel -->
       <?php $version='1.2'; include "./includes/carousel-1.html";?>
 
+      <!-- Screenings -->
       <div class="home-list">
         <h1 style="display: flex; justify-content: center;">&middot; This Week @ Doc &middot;</h1>
         <hr class="solid">
