@@ -34,9 +34,8 @@
               <img class="card-img" src="/images/2024winter/aguirre-the-wrath-of-god-1972.png" alt="Aguirre, the Wrath of God (1972) still">
             </a>
             <h2 class="card-h2">Aguirre, the Wrath of God (1972)</h2>
-            <h3 class="card-h3">Wed 01/03 &middot; Fri 01/05</h3>
-            <h3 class="card-h3"><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=26BD3039-8256-4F98-84B3-0A3FC1BA2330" target="_blank"><u>7:00PM</u></a></h3> 
-            <h3 class="card-h3"><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=57ACF242-C460-4BB8-B325-52BFD5DF3A8E" target="_blank"><u>9:30PM</u></a>
+            <h3 class="card-h3">Wed 01/03 <a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=26BD3039-8256-4F98-84B3-0A3FC1BA2330" target="_blank"><u>7:00PM</u></a> &middot; 
+                                Fri 01/05 <a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=57ACF242-C460-4BB8-B325-52BFD5DF3A8E" target="_blank"><u>9:30PM</u></a></h3>
             </h3>
           </div>
           <div id="card">
@@ -44,28 +43,23 @@
               <img class="card-img" src="/images/2024winter/the-prestige-2006.png" alt="The Prestige (2006) still">
             </a>
             <h2 class="card-h2">Prestige (2006)</h2>
-            <h3 class="card-h3">Thu 01/04 &middot; Sun 01/07</h3>
-            <h3 class="card-h3"><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=4FF302CB-47B7-4037-8AFA-FD3DC6719704" target="_blank"><u>7:00PM</u></a></h3>
-            <h3 class="card-h3">4:00PM</h3>
+            <h3 class="card-h3">Thu 01/04 <a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=4FF302CB-47B7-4037-8AFA-FD3DC6719704" target="_blank"><u>7:00PM</u></a> &middot; 
+                                Sun 01/07 4:00PM</h3>
           </div>
           <div id="card">
             <a href="calendar/Winter_2024/thursday-2#lawnmower">
               <img class="card-img" src="/images/2024winter/the-lawnmower-man-1992.png" alt="The Lawnmower Man (1992) still">
             </a>
             <h2 class="card-h2">The Lawnmower Man (1992)</h2>
-            <h3 class="card-h3">Thu 01/04</h3>
-            <h3 class="card-h3">
-              <a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=82EA5F63-6263-4549-B99F-D0D37B71F75C" target="_blank"><u>9:30PM</u></a>
-            </h3>
+            <h3 class="card-h3">Thu 01/04 <a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=82EA5F63-6263-4549-B99F-D0D37B71F75C" target="_blank"><u>9:30PM</u></a></h3>
           </div>
           <div id="card">
             <a href="calendar/Winter_2024/friday#psycho">
               <img class="card-img" src="/images/2024winter/psycho-1960.png" alt="Psycho (1960) still">
             </a>
             <h2 class="card-h2">Psycho (1960)</h2>
-            <h3 class="card-h3">Fri 01/05 &middot; Sat 01/06</h3>
-            <h3 class="card-h3"><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=5E97468E-F075-4141-BF6E-28A28D5FAF8F" target="_blank"><u>7:00PM</u></a></h3> 
-            <h3 class="card-h3"><a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=D32E8C82-C932-401E-9E09-A682286A81A3" target="_blank"><u>4:00PM</u></a></h3>
+            <h3 class="card-h3">Fri 01/05 <a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=5E97468E-F075-4141-BF6E-28A28D5FAF8F" target="_blank"><u>7:00PM</u></a> &middot; 
+                                Sat 01/06 <a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=D32E8C82-C932-401E-9E09-A682286A81A3" target="_blank"><u>4:00PM</u></a></h3>
             </h3>
           </div>
           <div id="card">
@@ -73,30 +67,21 @@
               <img class="card-img" src="/images/2024winter/the-giant-behemoth-1959.png" alt="The Giant Behemoth (1959) still">
             </a>
             <h2 class="card-h2">The Giant Behemoth (1959)</h2>
-            <h3 class="card-h3">Sat 01/06</h3>
-            <h3 class="card-h3">
-              <a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=A497DFB9-748F-41AA-9828-A3B08FFA12C9" target="_blank"><u>1:00PM</u></a>
-            </h3>
+            <h3 class="card-h3">Sat 01/06 <a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=A497DFB9-748F-41AA-9828-A3B08FFA12C9" target="_blank"><u>1:00PM</u></a></h3>
           </div>
           <div id="card">
             <a href="calendar/Winter_2024/saturday-2#asteroid">
               <img class="card-img" src="/images/2024winter/asteroid-city-2023.webp" alt="Asteroid City (2023) still">
             </a>
             <h2 class="card-h2">Asteroid City (2023)</h2>
-            <h3 class="card-h3">Sat 01/06</h3>
-            <h3 class="card-h3">
-              <a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=08E48BB3-46BC-468C-B52B-2AC322431493" target="_blank"><u>7:00PM</u></a>            
-            </h3>
+            <h3 class="card-h3">Sat 01/06 <a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=08E48BB3-46BC-468C-B52B-2AC322431493" target="_blank"><u>7:00PM</u></a></h3>
           </div>
           <div id="card">
             <a href="calendar/Winter_2024/sunday-2#jazz">
               <img class="card-img" src="/images/2024winter/all-that-jazz-1979.png" alt="All That Jazz (1979) still">
             </a>
             <h2 class="card-h2">All That Jazz (1979)</h2>
-            <h3 class="card-h3">Sun 01/07</h3>
-            <h3 class="card-h3">
-              <a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=4E874FF1-2DAF-49EB-9A62-94B3AE9986A9" target="_blank"><u>7:00PM</u></a>            
-            </h3>
+            <h3 class="card-h3">Sun 01/07 <a href="https://tickets.uchicago.edu/Online/seatSelect.asp?createBO::WSmap=1&BOparam::WSmap::loadBestAvailable::performance_ids=4E874FF1-2DAF-49EB-9A62-94B3AE9986A9" target="_blank"><u>7:00PM</u></a></h3>
           </div>
 
         </div>
